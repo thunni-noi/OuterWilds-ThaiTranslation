@@ -75,26 +75,7 @@ namespace ThaiTranslation
         }
         
 
-
-
-        [HarmonyPrefix]
-        [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation.GetDefaultFontSpacing))]
-        public static bool TextTranslation_GetDefaultFontSpacing(ref float __result)
-        {
-            if (TextTranslation.s_theTable == null)
-            {
-                __result = 1;
-                return false;
-            }
-
-
-            //if (UsingCustomFont()) __result = LocalizationUtility.Instance.GetLanguage().DefaultFontSpacing;
-            // else __result = TextTranslation.s_theTable.m_defaultSpacing[(int)LocalizationUtility.LanguageToReplace];
-
-            //return false;
-            __result = 2;
-            return false;
-        }
+        
 
         [HarmonyPostfix]
         [HarmonyPatch(typeof(FontAndLanguageController), nameof(FontAndLanguageController.InitializeFont))]
@@ -117,24 +98,197 @@ namespace ThaiTranslation
         // Fix spacing on every text by changing in-game properties
         // Not ideal but i don't even know what i'm doing and it works so...
 
-        // Dialogue
-        [HarmonyPostfix]
-        [HarmonyPatch(typeof(DialogueBoxVer2), nameof(DialogueBoxVer2.SetVisible))]
-        public static void DialogueBoxV2_SetVisible(DialogueBoxVer2 __instance)
+        // Font Size Adjustment
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(UiSizeSetterText), nameof(UiSizeSetterText.DoResizeAction))]
+        public static bool UiSizeSetterText_DoResizeAction(UiSizeSetterText __instance, UITextSize textSizeSetting)
         {
-            GameObject dialogueTextObj = GameObject.Find("DialogueCanvas/MainAnchorPoint/DialogueRect/VerticalLayoutGroup/DialogueText");
-            if (dialogueTextObj != null)
+            UITextSize ui_textSize = textSizeSetting;
+            if (ui_textSize == UITextSize.AUTO)
             {
-                Text DialogueTextComp = dialogueTextObj.GetComponent<Text>();
-                if (DialogueTextComp != null)
+                if (PlayerData.IsUILargeTextSize())
                 {
-                    DialogueTextComp.lineSpacing = (float)1.2;
-                    //DialogueTextComp.transform.localScale = new Vector3(sizeModifier, sizeModifier, sizeModifier);
+                    ui_textSize = UITextSize.LARGE;
+                }
+                else
+                {
+                    ui_textSize = UITextSize.SMALL;
                 }
             }
+
+            if (ui_textSize == UITextSize.LARGE)
+            {
+                if (__instance._enableFontSizeChange) { __instance._targetText.fontSize = 70; }
+                if (__instance._enableLineSpacingChange) { __instance._targetText.lineSpacing = (float) 1.4; }
+            }
+            else
+            {
+                if (__instance._enableFontSizeChange) { __instance._targetText.fontSize = 60; }
+                if (__instance._enableLineSpacingChange) { __instance._targetText.lineSpacing = (float)1.2; }
+            }
+            return false;
         }
 
-        // Dialogue Choices
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(UiSizeSetterLangDependentText), nameof(UiSizeSetterLangDependentText.DoResizeAction))]
+        public static bool UiSizeLangDependentText_DoResizeAction(UiSizeSetterLangDependentText __instance, UITextSize textSizeSetting)
+        {
+            UITextSize ui_textSize = textSizeSetting;
+            if (ui_textSize == UITextSize.AUTO)
+            {
+                if (PlayerData.IsUILargeTextSize())
+                {
+                    ui_textSize = UITextSize.LARGE;
+                }
+                else
+                {
+                    ui_textSize = UITextSize.SMALL;
+                }
+            }
+
+            int fontSize;
+            float lineSpacing;
+            bool horizonOverflow;
+
+            if (ui_textSize == UITextSize.LARGE)
+            {
+                fontSize = 40;
+                lineSpacing = (float)1.4;
+                horizonOverflow = false;
+            }
+            else
+            {
+                fontSize = 36;
+                lineSpacing = (float)1.2;
+                horizonOverflow = false;
+            }
+
+            __instance._textField.fontSize = fontSize;
+            __instance._textField.lineSpacing = lineSpacing;
+            __instance._textField.horizontalOverflow = (horizonOverflow ? HorizontalWrapMode.Overflow : HorizontalWrapMode.Wrap);
+
+            return false;
+        }
+
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(UiSizeSetterDialogueOption), nameof(UiSizeSetterDialogueOption.DoResizeAction))]
+        public static bool UiSizeSetterDialogueOption_DoResizeAction(UiSizeSetterDialogueOption __instance, UITextSize textSizeSetting) 
+        {
+            UITextSize ui_textSize = textSizeSetting;
+            if (ui_textSize == UITextSize.AUTO)
+            {
+                if (PlayerData.IsUILargeTextSize())
+                {
+                    ui_textSize = UITextSize.LARGE;
+                }
+                else
+                {
+                    ui_textSize = UITextSize.SMALL;
+                }
+            }
+
+            int fontSize;
+            float lineSpacing;
+            float yPosMarker;
+
+            if (ui_textSize == UITextSize.LARGE)
+            {
+                fontSize = 38;
+                lineSpacing = (float) 1.4;
+                yPosMarker = 7;
+            } else
+            {
+                fontSize = 32;
+                lineSpacing = (float)1.2;
+                yPosMarker = 3;
+            }
+
+            __instance._textField.fontSize = fontSize; ;
+            __instance._textField.lineSpacing = lineSpacing;
+            Vector2 anchoredPos = __instance._optionSelectionMarkerTransform.anchoredPosition;
+            anchoredPos.y = yPosMarker;
+            __instance._optionSelectionMarkerTransform.anchoredPosition = anchoredPos;
+
+            return false;
+        }
+
+        // Adjust ship log text size
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(UiSizeSetterShipLogEntry), nameof(UiSizeSetterShipLogEntry.DoResizeAction))]
+        public static bool UISizeSetterShipLogEntry_DoResizeAction(UITextSize textSizeSetting, UiSizeSetterShipLogEntry __instance)
+        {
+
+            bool subEntry_flag = __instance._shipLogEntryListItem.IsSubEntry();
+
+            UITextSize ui_textSize = textSizeSetting;
+            if (ui_textSize == UITextSize.AUTO)
+            {
+                if (PlayerData.IsUILargeTextSize())
+                {
+                    ui_textSize = UITextSize.LARGE;
+                }
+                else
+                {
+                    ui_textSize = UITextSize.SMALL;
+                }
+            }
+
+            int fontSize;
+            float minHeight;
+
+            if (ui_textSize == UITextSize.LARGE)
+            {
+                fontSize = subEntry_flag ? 26 : 32;
+                minHeight = 26;
+            }
+            else
+            {
+                fontSize = subEntry_flag ? 20 : 26;
+                minHeight = 20;
+            }
+
+            __instance._textField.fontSize = fontSize;
+            __instance._listItemLayoutElement.minHeight = minHeight;
+
+            return false;
+        }
+
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(UiSizeSetterShipLogFact), nameof(UiSizeSetterShipLogFact.DoResizeAction))]
+        public static bool UISizeSetterShipLogFace_DoResizeAction(UiSizeSetterShipLogFact __instance, UITextSize textSizeSetting)
+        {
+            // placeholder
+            UITextSize ui_textSize = textSizeSetting;
+            if (ui_textSize == UITextSize.AUTO)
+            {
+                if (PlayerData.IsUILargeTextSize())
+                {
+                    ui_textSize = UITextSize.LARGE;
+                }
+                else
+                {
+                    ui_textSize = UITextSize.SMALL;
+                }
+            }
+
+            int fontSize;
+
+            if (ui_textSize == UITextSize.LARGE)
+            {
+                fontSize = 32;
+            }
+            else
+            {
+                fontSize = 26;
+            }
+
+            __instance._textField.fontSize = fontSize;
+            __instance._textField.lineSpacing = (float)1.2;
+            __instance._bulletPointTransform.anchoredPosition = __instance._bulletPointPositionDefault.normalVal;
+            return false;
+        }
+
+        // Dialogue Spacing
         [HarmonyPostfix]
         [HarmonyPatch(typeof(DialogueBoxVer2), nameof(DialogueBoxVer2.SetUpOptions))]
         public static void DialogueBOxVer2_SetUpOptions(DialogueBoxVer2 __instance)
@@ -142,40 +296,12 @@ namespace ThaiTranslation
             GameObject optionsLayoutObj = GameObject.Find("DialogueCanvas/MainAnchorPoint/DialogueRect/VerticalLayoutGroup/OptionsRoot");
             if (optionsLayoutObj != null)
             {
-                VerticalLayoutGroup optionsLayout = optionsLayoutObj.GetComponent<VerticalLayoutGroup>();
-                if (optionsLayout != null)
-                {
-                    optionsLayout.spacing = (float)5;
-                }
-
-                foreach (Transform optionChild in optionsLayoutObj.transform)
-                {
-                    if (optionChild.name == "OptionBoxTemplate(Clone)")
-                    {
-                        Text optionChildText = optionChild.GetComponent<Text>();
-                        if (optionChildText != null)
-                        {
-                           // optionChildText.fontSize = 32;
-                            optionChildText.lineSpacing = (float)1.5;
-                        }
-                    }
-                }
+                optionsLayoutObj.GetComponent<VerticalLayoutGroup>().spacing = (float)5;
             }
         }
 
-        // Button Prompt -- Honestly this is not necessay but let's keep it just in case
-        [HarmonyPostfix]
-        [HarmonyPatch(typeof(ScreenPromptList), nameof(ScreenPromptList.AddScreenPrompt))]
-        public static void ScreenPromptList_AddScreenPrompt(ScreenPromptList __instance, ScreenPromptElement __0)
-        {
-            Transform promptTxtObj = __0.transform.Find("Text");
-            if (promptTxtObj != null)
-            {
-                Text promptText = promptTxtObj.GetComponent<Text>();
-                promptText.fontSize = 12;
 
-            }
-        }
+
 
         // Fixing main menu character spacing
         [HarmonyPostfix]
@@ -394,97 +520,7 @@ namespace ThaiTranslation
             if(distanceReticle != null) { distanceReticle.GetComponent<Text>().fontSize = 48; }
         }
 
-        // Ship log minor text adjustment for better reading
-        [HarmonyPostfix]
-        [HarmonyPatch(typeof(ShipLogController), nameof(ShipLogController.LateInitialize))]
-        public static void ShipLogController_LateInitialize(ShipLogController __instance)
-        {
-            GameObject factListObj = GameObject.Find("Ship_Body/Module_Cabin/Systems_Cabin/ShipLogPivot/ShipLog/ShipLogPivot/ShipLogCanvas/DescriptionField/FactListMask/FactList");
-            if (factListObj != null)
-            {
-                VerticalLayoutGroup factLayout = factListObj.GetAddComponent<VerticalLayoutGroup>();
-                if (factLayout != null)
-                {
-                    factLayout.spacing = (float)15;
-                }
-                foreach (Transform fact in factListObj.transform)
-                {
-                    Text factText = fact.GetComponent<Text>();
-                    if (factText != null)
-                    {
-                        factText.fontSize = 25;
-                    }
-                }
-            }
-
-            //GameObject entryListObj = GameObject.Find("Ship_Body/Module_Cabin/Systems_Cabin/ShipLogPivot/ShipLog/ShipLogPivot/ShipLogCanvas/MapMode/EntryMenu/EntryListRoot/EntryList");
-            GameObject entryListObj = null;
-            if (entryListObj != null)
-            {
-                foreach (Transform entryChild in entryListObj.transform)
-                {
-                    Transform entry = entryChild.Find("AnimRoot/Name");
-
-                    if (entry != null)
-                    {
-                        Text entryText = entry.GetComponent<Text>();
-                        if (entryText != null)
-                        {
-                            entryText.fontSize = 20;
-                        }
-                    }
-                }
-            }
-
-        }
-
-        [HarmonyPrefix]
-        [HarmonyPatch(typeof(UiSizeSetterShipLogEntry), nameof(UiSizeSetterShipLogEntry.DoResizeAction))]
-        public static bool UISizeSetterShipLogEntry_DoResizeAction(UITextSize textSizeSetting, UiSizeSetterShipLogEntry __instance)
-        {
-
-            bool subEntry_flag = __instance._shipLogEntryListItem.IsSubEntry();
-
-            UITextSize ui_textSize = textSizeSetting;
-            if (ui_textSize == UITextSize.AUTO)
-            {
-                if (PlayerData.IsUILargeTextSize())
-                {
-                    ui_textSize = UITextSize.LARGE;
-                }
-                else
-                {
-                    ui_textSize = UITextSize.SMALL;
-                }
-            }
-
-            int fontSize;
-            float minHeight;
-
-            if (ui_textSize == UITextSize.LARGE)
-            {
-                fontSize = subEntry_flag ? 26 : 32;
-                minHeight = 26;
-            }
-            else
-            {
-                fontSize = subEntry_flag ? 20 : 26;
-                minHeight = 20;
-            }
-
-            __instance._textField.fontSize = fontSize;
-            __instance._listItemLayoutElement.minHeight = minHeight;
-
-            return false;
-        }
-
-        [HarmonyPrefix]
-        [HarmonyPatch(typeof(UiSizeSetterShipLogFact), nameof(UiSizeSetterShipLogFact.DoResizeAction))]
-        public static bool UISizeSetterShipLogFace_DoResizeAction(UiSizeSetterShipLogFact __instance, UITextSize textSizeSetting)
-        {
-            // placeholder
-            return true;
-        }
+        
 
         // Setting custom font for nomai translator
         [HarmonyPrefix]
