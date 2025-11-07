@@ -1,0 +1,6 @@
+Chert			เชิร์ต
+Esker			เอสเกอร์
+Feldspar		เฟลด์สปาร์
+Gabbro			แก็บโบร
+Riebeck			รีเบก
+Solanum			โซลานัม
