@@ -118,12 +118,12 @@ namespace ThaiTranslation
 
             if (ui_textSize == UITextSize.LARGE)
             {
-                if (__instance._enableFontSizeChange) { __instance._targetText.fontSize = 70; }
+                if (__instance._enableFontSizeChange) { __instance._targetText.fontSize = (int) (__instance._fontSizes.largeVal * 1.2); }
                 if (__instance._enableLineSpacingChange) { __instance._targetText.lineSpacing = (float) 1.4; }
             }
             else
             {
-                if (__instance._enableFontSizeChange) { __instance._targetText.fontSize = 60; }
+                if (__instance._enableFontSizeChange) { __instance._targetText.fontSize = (int) (__instance._fontSizes.normalVal * 1.2); }
                 if (__instance._enableLineSpacingChange) { __instance._targetText.lineSpacing = (float)1.2; }
             }
             return false;
@@ -520,22 +520,17 @@ namespace ThaiTranslation
             if(distanceReticle != null) { distanceReticle.GetComponent<Text>().fontSize = 48; }
         }
 
-        
-
         // Setting custom font for nomai translator
-        [HarmonyPrefix]
+        [HarmonyPostfix]
         [HarmonyPatch(typeof(NomaiTranslatorProp), nameof(NomaiTranslatorProp.InitializeFont))]
-        public static bool NomaiTranslatorProp_InitializeFont(NomaiTranslatorProp __instance)
+        public static void NomaiTranslatorProp_InitializeFont(NomaiTranslatorProp __instance)
         {
-            __instance._fontInUse = ThaiTranslation._chakraFont;
-            __instance._dynamicFontInUse = ThaiTranslation._chakraFont;
-            __instance._fontSpacingInUse = (float)1.1;
 
+            __instance._textField.lineSpacing = (float)1.2;
 
-            __instance._textField.font = __instance._fontInUse;
-            __instance._textField.lineSpacing = __instance._fontSpacingInUse;
-            return false;
         }
+
+
 
     }
 }

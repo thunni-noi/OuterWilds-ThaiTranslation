@@ -17,7 +17,6 @@ namespace ThaiTranslation
 
         public static Font _kmitlFont;      // main font
         public static Font _silpakornFont;    // static font
-        public static Font _chakraFont;     // nomai translator font
 
         private bool _needShipscreenFix = false;
 
@@ -86,10 +85,9 @@ namespace ThaiTranslation
             var ab = AssetBundle.LoadFromFile(ab_path);
 
             _kmitlFont = ab.LoadAsset<Font>("Assets/Fonts/KMITLGO.ttf");
-            _chakraFont = ab.LoadAsset<Font>("Assets/Fonts/ChakraPetch.ttf");
             _silpakornFont = ab.LoadAsset<Font>("Assets/Fonts/SILPAKORN_static.ttf");
 
-            foreach (Font fontName in new Font[] { _kmitlFont, _chakraFont, _silpakornFont })
+            foreach (Font fontName in new Font[] { _kmitlFont, _silpakornFont })
             {
                 if (fontName == null) { ModHelper.Console.WriteLine($"Cannot Load Font {nameof(fontName)}", MessageType.Error); }
             }

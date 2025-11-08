@@ -1,6 +1,77 @@
-Chert			เชิร์ต
-Esker			เอสเกอร์
-Feldspar		เฟลด์สปาร์
-Gabbro			แก็บโบร
-Riebeck			รีเบก
-Solanum			โซลานัม
+--- Travelers ---
+	Chert			เชิร์ต
+	Esker			เอสเกอร์
+	Feldspar		เฟลด์สปาร์
+	Gabbro			แก็บโบร
+	Riebeck			รีเบก
+	Solanum			โซลานัม		she/her
+	Prisoner		นักโทษ
+	Self			ตัวเอง
+
+--- Hearthian ฮาร์ทเที่ยน---
+	Arkose			อาร์โคส
+	Galena			กาเลนา
+	Gneiss			ไนส์
+	Hal				ฮาล
+	Hornfels		ฮอร์นเฟลส์
+	Marl			มาร์ล
+	Mica			ไมค่า
+	Moraine 		โมเรน
+	Porphy			พอร์ฟี
+	Rutile			รูไทล์
+	Slate			สเลธ
+	Spinel			สปิเนล
+	Tektite			เทคไทต์
+	Tephra			เทฟรา
+	Tuff			ทัฟ
+	Gossan			กอสสาน
+
+--- Nomai โนไม ---
+	Annona			อันโนนา		he/him
+	Avens			อเวนซ์		he/him
+	Bells			เบลส์			
+	Bromi			โบรมี
+	Bur				เบอ
+	Canna			แคนนา
+	Cassava			คัซซาวา		he/him
+	Clary			คลารี			she/her		Poke's younger sister (probably)
+	Clem			เคลมส์
+	Coleus			โคเลียส		he/him
+	Conoy			โคนอย		he/him
+	Cycad			ไซแคต		he/him
+	Daz				แดซ			he/him
+	Filix			ฟิลิกซ์		she/her
+	Hyssop			ฮิสซอป
+	Idaea			ไอเดีย		he/him
+	Ilex			ไอเล็กซ์
+	Kousa			คูซะ
+	Laevi			เลวิ
+	Lami			ลามิ
+	Mallow			มัลโลว
+	Melorae			เมโลเรย์		she/her
+	Mitis			ไมทิส
+	Neem			นีม			he/him
+	Oeno			โอเอโน่
+	Phlox			สฟล็อก		he/him
+	Plume			พลูม			he/him
+	Poke			โพเก้			she/her		Clary's older sister
+	Privet			พริเวต		she/her
+	Pye				ไพร์			she/her
+	Ramie			รามี่			she/her
+	Rhus			รัส
+	Root			รูท			he/him
+	Secca			เซคค่า
+	Spire			สไปร์
+	Taget			ทาเก็ต		he/him
+	Thatch			แธตช์
+	Yarrow			ยาร์โรว		he/him
+	
+--- Other ---
+Ash Twin Project		โปรเจกต์แอชทวิน
+Vessel					ยานเวซเซล
+Escape Pod				แคปซูลหนีภัยที่
+Probe Orbital Cannon	เครื่องยิงโพรบอวกาศ
+Gravity Cannon			เครื่องยิงโน้มถ่วง
+Black Hole Forge		โรงหลอมพลังหลุมดำ
+Anglerfish				แองเกลอร์ฟิช
+
