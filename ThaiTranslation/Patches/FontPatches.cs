@@ -118,12 +118,12 @@ namespace ThaiTranslation
 
             if (ui_textSize == UITextSize.LARGE)
             {
-                if (__instance._enableFontSizeChange) { __instance._targetText.fontSize = (int) (__instance._fontSizes.largeVal * 1.2); }
+                if (__instance._enableFontSizeChange) { __instance._targetText.fontSize = (int) (__instance._fontSizes.largeVal * ThaiTranslation._textSizeMutliplier_genText); }
                 if (__instance._enableLineSpacingChange) { __instance._targetText.lineSpacing = (float) 1.4; }
             }
             else
             {
-                if (__instance._enableFontSizeChange) { __instance._targetText.fontSize = (int) (__instance._fontSizes.normalVal * 1.2); }
+                if (__instance._enableFontSizeChange) { __instance._targetText.fontSize = (int) (__instance._fontSizes.normalVal * ThaiTranslation._textSizeMutliplier_genText); }
                 if (__instance._enableLineSpacingChange) { __instance._targetText.lineSpacing = (float)1.2; }
             }
             return false;
@@ -152,18 +152,18 @@ namespace ThaiTranslation
 
             if (ui_textSize == UITextSize.LARGE)
             {
-                fontSize = 40;
+                fontSize = __instance._entryFontSizeDefault.largeVal;
                 lineSpacing = (float)1.4;
                 horizonOverflow = false;
             }
             else
             {
-                fontSize = 36;
+                fontSize = __instance._entryFontSizeDefault.normalVal;
                 lineSpacing = (float)1.2;
                 horizonOverflow = false;
             }
 
-            __instance._textField.fontSize = fontSize;
+            __instance._textField.fontSize = (int)(fontSize * ThaiTranslation._textSizeMutliplier_uiLang);
             __instance._textField.lineSpacing = lineSpacing;
             __instance._textField.horizontalOverflow = (horizonOverflow ? HorizontalWrapMode.Overflow : HorizontalWrapMode.Wrap);
 
@@ -193,17 +193,17 @@ namespace ThaiTranslation
 
             if (ui_textSize == UITextSize.LARGE)
             {
-                fontSize = 38;
+                fontSize = __instance._entryFontSizeDefault.largeVal;
                 lineSpacing = (float) 1.4;
                 yPosMarker = 7;
             } else
             {
-                fontSize = 32;
+                fontSize = __instance._entryFontSizeDefault.normalVal;
                 lineSpacing = (float)1.2;
                 yPosMarker = 3;
             }
 
-            __instance._textField.fontSize = fontSize; ;
+            __instance._textField.fontSize = (int)(fontSize * ThaiTranslation._textSizeMultiplier_dialogue);
             __instance._textField.lineSpacing = lineSpacing;
             Vector2 anchoredPos = __instance._optionSelectionMarkerTransform.anchoredPosition;
             anchoredPos.y = yPosMarker;
@@ -238,26 +238,25 @@ namespace ThaiTranslation
 
             if (ui_textSize == UITextSize.LARGE)
             {
-                fontSize = subEntry_flag ? 26 : 32;
-                minHeight = 26;
+                fontSize = subEntry_flag ? __instance._subEntryFontSizeDefault.largeVal : __instance._entryFontSizeDefault.largeVal;
+                minHeight = __instance._minRootObjLayoutHeightDefault.largeVal;
             }
             else
             {
-                fontSize = subEntry_flag ? 20 : 26;
-                minHeight = 20;
+                fontSize = subEntry_flag ? __instance._subEntryFontSizeDefault.normalVal : __instance._entryFontSizeDefault.normalVal;
+                minHeight = __instance._minRootObjLayoutHeightDefault.normalVal;
             }
 
-            __instance._textField.fontSize = fontSize;
-            __instance._listItemLayoutElement.minHeight = minHeight;
+            __instance._textField.fontSize = (int)(fontSize * ThaiTranslation._textSizeMultiplier_shipEntry);
+            __instance._listItemLayoutElement.minHeight = (float)(minHeight * 1.2);
 
             return false;
         }
 
         [HarmonyPrefix]
         [HarmonyPatch(typeof(UiSizeSetterShipLogFact), nameof(UiSizeSetterShipLogFact.DoResizeAction))]
-        public static bool UISizeSetterShipLogFace_DoResizeAction(UiSizeSetterShipLogFact __instance, UITextSize textSizeSetting)
+        public static bool UISizeSetterShipLogFact_DoResizeAction(UiSizeSetterShipLogFact __instance, UITextSize textSizeSetting)
         {
-            // placeholder
             UITextSize ui_textSize = textSizeSetting;
             if (ui_textSize == UITextSize.AUTO)
             {
@@ -275,15 +274,15 @@ namespace ThaiTranslation
 
             if (ui_textSize == UITextSize.LARGE)
             {
-                fontSize = 32;
+                fontSize = __instance._fontSizeDefault.largeVal;
             }
             else
             {
-                fontSize = 26;
+                fontSize = __instance._fontSizeDefault.normalVal;
             }
 
-            __instance._textField.fontSize = fontSize;
-            __instance._textField.lineSpacing = (float)1.2;
+            __instance._textField.fontSize = (int)(fontSize * ThaiTranslation._textSizeMultiplier_shipFact);
+            __instance._textField.lineSpacing = 1.2f;
             __instance._bulletPointTransform.anchoredPosition = __instance._bulletPointPositionDefault.normalVal;
             return false;
         }
@@ -296,7 +295,7 @@ namespace ThaiTranslation
             GameObject optionsLayoutObj = GameObject.Find("DialogueCanvas/MainAnchorPoint/DialogueRect/VerticalLayoutGroup/OptionsRoot");
             if (optionsLayoutObj != null)
             {
-                optionsLayoutObj.GetComponent<VerticalLayoutGroup>().spacing = (float)5;
+                optionsLayoutObj.GetComponent<VerticalLayoutGroup>().spacing = 7.5f;
             }
         }
 
@@ -526,9 +525,46 @@ namespace ThaiTranslation
         public static void NomaiTranslatorProp_InitializeFont(NomaiTranslatorProp __instance)
         {
 
-            __instance._textField.lineSpacing = (float)1.2;
+            __instance._fontInUse = ThaiTranslation._chakraFont;
+            __instance._dynamicFontInUse = ThaiTranslation._chakraFont;
+            __instance._fontSpacingInUse = 1.2f;
+
+            //__instance._textField.lineSpacing = __instance._fontSpacingInUse;
+            //__instance._textField.font = ThaiTranslation._thaisans;
+
+          
+        }
+
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(NomaiTranslatorProp), nameof(NomaiTranslatorProp.DisplayTextNode))]
+        public static void NomaiTranslatorProp_DisplayTextNode(NomaiTranslatorProp __instance)
+        {
+            __instance._textField.fontSize = 82;
+        }
+
+        // text promt for stone ( In ENG it's xxx projection stone but in Thai it should be ฉายภาพ xxx ) 
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(SharedStone), nameof(SharedStone.GetDisplayName))]
+        public static bool SharedStone_GetDisplayName(SharedStone __instance, ref string __result)
+        {
+            __result = UITextLibrary.GetString(UITextType.ItemSharedStonePrompt) + "<color=orange>" + NomaiRemoteCameraPlatform.IDToPlanetString(__instance._connectedPlatform) + "</color> ";
+            return false;
+        }
+
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(ItemTool), nameof(ItemTool.UpdateState))]
+        public static void ItemTool_UpdateState(ItemTool.PromptState newState, string itemName, ItemTool __instance)
+        {
+            if (__instance._promptState == ItemTool.PromptState.CANNOT_HOLD_MORE)
+            {
+                __instance._messageOnlyPrompt.SetVisibility(true);
+                //__instance._messageOnlyPrompt.SetText(itemName + UITextLibrary.GetString(UITextType.ItemAlreadyHoldingPrompt));
+                __instance._messageOnlyPrompt.SetText("ไม่สามารถืออย่างอื่นได้เนื่องจากในมือมี " + itemName + " อยู่แล้ว"); // hard coded cuz idk what im doing
+            }
 
         }
+       
+       
 
 
 

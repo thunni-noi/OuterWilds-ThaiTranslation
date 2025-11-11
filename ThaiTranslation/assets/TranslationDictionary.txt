@@ -8,7 +8,7 @@
 	Prisoner		นักโทษ
 	Self			ตัวเอง
 
---- Hearthian ฮาร์ทเที่ยน---
+--- Hearthian ฮาร์เธียน---
 	Arkose			อาร์โคส
 	Galena			กาเลนา
 	Gneiss			ไนส์
@@ -24,7 +24,7 @@
 	Tektite			เทคไทต์
 	Tephra			เทฟรา
 	Tuff			ทัฟ
-	Gossan			กอสสาน
+	Gossan			กอสซาน
 
 --- Nomai โนไม ---
 	Annona			อันโนนา		he/him
@@ -34,7 +34,7 @@
 	Bur				เบอ
 	Canna			แคนนา
 	Cassava			คัซซาวา		he/him
-	Clary			คลารี			she/her		Poke's younger sister (probably)
+	Clary			คลารี			she/her		Poke's younger sister (probably), Yarrow's Girlfriend
 	Clem			เคลมส์
 	Coleus			โคเลียส		he/him
 	Conoy			โคนอย		he/him
@@ -52,19 +52,19 @@
 	Mitis			ไมทิส
 	Neem			นีม			he/him
 	Oeno			โอเอโน่
-	Phlox			สฟล็อก		he/him
+	Phlox			ฟล็อก		he/him
 	Plume			พลูม			he/him
 	Poke			โพเก้			she/her		Clary's older sister
 	Privet			พริเวต		she/her
 	Pye				ไพร์			she/her
-	Ramie			รามี่			she/her
+	Ramie			เรมี่			she/her
 	Rhus			รัส
 	Root			รูท			he/him
 	Secca			เซคค่า
 	Spire			สไปร์
 	Taget			ทาเก็ต		he/him
 	Thatch			แธตช์
-	Yarrow			ยาร์โรว		he/him
+	Yarrow			ยาร์โรว		he/him		Clary's boyfriend
 	
 --- Other ---
 Ash Twin Project		โปรเจกต์แอชทวิน
@@ -74,4 +74,8 @@ Probe Orbital Cannon	เครื่องยิงโพรบอวกาศ
 Gravity Cannon			เครื่องยิงโน้มถ่วง
 Black Hole Forge		โรงหลอมพลังหลุมดำ
 Anglerfish				แองเกลอร์ฟิช
+White hole station		สถานีหลุมขาว
+Tower of Quantum Knowledge 	หอคอยแห่งปัญญาควอนตัม
+Ghost Matter 			โกสต์แมทเทอร์
+Hatchling 				แฮชท์ลิง
 

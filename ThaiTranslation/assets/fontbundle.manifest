@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 331305198
+CRC: 567496855
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fb17f4ea47d9f5e0bcd39c220ea4fd46
+    Hash: b30e3bee74a01b5caa245e79a938e409
   TypeTreeHash:
     serializedVersion: 2
     Hash: cea17de082da1dfd38b5ed053fc34ca1
@@ -20,5 +20,6 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Fonts/SILPAKORN_static.ttf
+- Assets/Fonts/ChakraPetchLegacy.ttf
 - Assets/Fonts/KMITLGO.ttf
 Dependencies: []

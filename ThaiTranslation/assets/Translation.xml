@@ -527,7 +527,7 @@
 	</entry>
 	<entry>
 		<key>BELLS: Be welcomed in this place! Above you stands the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.</key>
-		<value>เบลส์: ยินดีต้อนรับเข้าสู่สถานที่แห่งนี้! ด้านบนของคุณคือ &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;</value>
+		<value>เบลส์: ยินดีต้อนรับเข้าสู่สถานที่แห่งนี้! ด้านบนของคุณคือ&lt;color=orange&gt;หอคอยแห่งปัญญาควอนตัม&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>BELLS: If you are making your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, ascend these stairs, and obtain the last of the knowledge you need for your journey.</key>
@@ -538,7 +538,7 @@
 			BELLS: Beneath your feet lies the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.
 		</key>
 		<value>
-			เบลส์: ด้านล่างของคุณคือ &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;
+			เบลส์: ด้านล่างของคุณคือ&lt;color=orange&gt;หอคอยแห่งปัญญาควอนตัม&lt;/color&gt;
 		</value>
 	</entry>
 	<entry>
@@ -831,7 +831,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: Yes, but your voices are faint. I fear we will lose communication entirely if you continue any deeper.</key>
-		<value>คลารี: ยังได้ยินอยู๋ แต่สัญญาณเบามาก ฉันกลัวว่าการติดต่อจะถูกตัดขาดถ้าพวกเธอยังลงไปลึกกว่านี้อีก</value>
+		<value>คลารี: ยังได้ยินอยู่ แต่สัญญาณเบามาก ฉันกลัวว่าการติดต่อจะถูกตัดขาดถ้าพวกเธอยังลงไปลึกกว่านี้อีก</value>
 	</entry>
 	<entry>
 		<key>POKE: Keep the &lt;color=orange&gt;shuttle&lt;/color&gt; warm for us, Clary. We’ll return the moment we identify the source of the energy readings!</key>
@@ -923,7 +923,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: Suppose one of us remained in the &lt;color=orange&gt;shuttle&lt;/color&gt; to keep it warm and continue monitoring the surface.</key>
-		<value>คลารี: ถ้างั้นเราอาจให้ใครสักคนในคอยเฝ้า&lt;color=orange&gt;กระสวย&lt;/color&gt;ทำให้กระสวยอุ่นอยู๋ตลอดและคอยตรวจสอบสภาพของพื้นผิวต่อไป</value>
+		<value>คลารี: ถ้างั้นเราอาจให้ใครสักคนในคอยเฝ้า&lt;color=orange&gt;กระสวย&lt;/color&gt;ทำให้กระสวยอุ่นอยู่ตลอดและคอยตรวจสอบสภาพของพื้นผิวต่อไป</value>
 	</entry>
 	<entry>
 		<key>PYE: This would be wise, I think, Clary. If you don’t mind waiting here with it, Poke and I can continue to investigate the surface.</key>
@@ -931,7 +931,7 @@
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Mining site 2b&lt;/color&gt;</key>
-		<value>&lt;color=orange&gt;ไซต์ขุดเจอะ 2b&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;ไซต์ขุดเจาะ 2b&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>ALIGNMENT 1: the &lt;color=lightblue&gt;sun&lt;/color&gt;</key>
@@ -1519,15 +1519,15 @@
 	</entry>
 	<entry>
 		<key>CLARY: Regarding the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;: Does each tower have to be perfectly aligned with the center of the astral body to which it’s tuned?</key>
-		<value>คลารี: เกี่ยวกับหอวาร์ปบน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;: หอคอยแต่ละหอจำเป็นต้องจัดเรียงให้ตรงกับจุดศูนย์กลางของกายทิพย์ของดาวดวงนั้นมั้ย?</value>
+		<value>คลารี: เกี่ยวกับหอวาร์ปบน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;: หอคอยแต่ละหอจำเป็นต้องจัดเรียงให้ตรงกับจุดศูนย์กลางของวัตถุดาราศาสตร์นั้นมั้ย?</value>
 	</entry>
 	<entry>
 		<key>CLARY: I enjoy precision as much as the next Nomai, but if, for example, a tower’s base were to shift even slightly, that tower might no longer align with its astral body.</key>
-		<value>คลารี: ฉันก็ชอบความแม่นยำเหมือนกับไนไมทั่วๆไปอยู่ แต่ว่า ยกตัวอย่างว่าฐานของหอวาร์ปมันขยับไปแม้แต่นิดเดียว มันก็อาจไม่ตรงกับกายทิพย์ของดาวแล้วก็ได้</value>
+		<value>คลารี: ฉันก็ชอบความแม่นยำเหมือนกับไนไมทั่วๆไปอยู่ แต่ว่า ยกตัวอย่างว่าฐานของหอวาร์ปมันขยับไปแม้แต่นิดเดียว มันก็อาจไม่ตรงกับวัตถุดาราศาสตร์นั้นๆแล้วก็ได้</value>
 	</entry>
 	<entry>
 		<key>POKE: We don’t need the alignment angle to be exact; it only needs to be within five degrees of the astral body’s center.</key>
-		<value>โพเก้: เราไม่จำเป็นที่จัดเรียงให้ตรงเป๊ะก็ได้ ขอแค่อยู่ในระยะห้าองศาของจุดศูนย์กลางกายทิพย์ก็ใช้ได้แล้ว</value>
+		<value>โพเก้: เราไม่จำเป็นที่จัดเรียงให้ตรงเป๊ะก็ได้ ขอแค่อยู่ในระยะห้าองศาของจุดศูนย์กลางวัตถุดาราศาสตร์ก็ใช้ได้แล้ว</value>
 	</entry>
 	<entry>
 		<key>POKE: Of note: This gives us a slightly longer warp window. I imagine this window will last roughly several seconds.</key>
@@ -1539,66 +1539,66 @@
 	</entry>
 	<entry>
 		<key>CLARY: More accurately, I enjoy precision as much as the next Nomai, provided the next Nomai is not Poke.</key>
-		<value>คลารี: ถ้าให้พูดถูกจริงๆก็คือ ฉันชอบความแม่นยำเหมือนโนไมทั่วๆไป ถ้าโนไมตัวนั้นไม่ใช่โพเก้ล่นะ</value>
+		<value>คลารี: ถ้าให้พูดถูกจริงๆก็คือ ฉันชอบความแม่นยำเหมือนโนไมทั่วๆไป ถ้าโนไมตัวนั้นไม่ใช่โพเก้ล่ะนะ</value>
 	</entry>
 	<entry>
 		<key>ROOT: Where am I taking this first black hole core? (And where am I taking the remaining cores once they’re ready?)</key>
-		<value>รูท: ฉันWhere am I taking this first black hole core? (And where am I taking the remaining cores once they’re ready?)</value>
+		<value>รูท: ฉันต้องเอาแกนหลุมดำอันแรกนี้ไปไว้ที่ไหน? (รวมถึงแกนอื่นๆตอนที่พวกมันเสร็จแล้วด้วย)</value>
 	</entry>
 	<entry>
 		<key>CLARY: All of the warp towers are being constructed on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, so the black hole cores will go there.</key>
-		<value>CLARY: All of the warp towers are being constructed on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, so the black hole cores will go there.</value>
+		<value>คลารี: พอวาร์ปทั้งหมดกำลังก่อสร้างบน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; เพราะงั้นแกนหลุนดำทั้งหมดก็จะไปอยู่ที่นั่นแหละ</value>
 	</entry>
 	<entry>
 		<key>POKE: The white hole cores are for the warp receivers. Each of the six receivers are being constructed at different locations, so those deliveries will be a greater pain in your cervical spine.</key>
-		<value>POKE: The white hole cores are for the warp receivers. Each of the six receivers are being constructed at different locations, so those deliveries will be a greater pain in your cervical spine.</value>
+		<value>โพเก้: แกนหลุมขาวเอาไว้ใช้สำหรับตัวรับวาร์ป ซึ่งตัวรับทั้งหกกำลังถูกก่อสร้างในสถานที่ที่แตกต่างกัน เพราะงั้นการขนส่งพวกนี้น่าจะทำให้พวกนายปวดกระดูกสันหลังขึ้นเยอะเลยล่ะ</value>
 	</entry>
 	<entry>
 		<key>ROOT: My gratitude! In that case: Poke, Clary, I’m leaving for delivery! I’ll send Yarrow your regards.</key>
-		<value>ROOT: My gratitude! In that case: Poke, Clary, I’m leaving for delivery! I’ll send Yarrow your regards.</value>
+		<value>รูท: ขอบคุณมาก! ถ้าอย่างงั้น โพเก้ คลารี งั้นฉันจะไปส่งของเดี๋ยวนี้ล่ะ! เดี๋ยวฉันฝากความคิดถึงไปหายาร์โรวให้</value>
 	</entry>
 	<entry>
 		<key>CLARY: Poke, I’ll return to the &lt;color=orange&gt;forge&lt;/color&gt; shortly; I’m going to catch up to Root and help him deliver the first core to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, just to make sure Yarrow receives it.</key>
-		<value>CLARY: Poke, I’ll return to the &lt;color=orange&gt;forge&lt;/color&gt; shortly; I’m going to catch up to Root and help him deliver the first core to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, just to make sure Yarrow receives it.</value>
+		<value>คลารี: โพเก้ เดี๋ยวฉันตามไปที่&lt;color=orange&gt;โรงหลอม&lt;/color&gt;ทีหลัง ฉันจะช่วยรูทไปส่งแกนอันแรกที่ &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; สักหน่อยเพื่อให้มั่นใจว่ายาร์โรวจะได้รับมัน</value>
 	</entry>
 	<entry>
 		<key>POKE: Of course you are.</key>
-		<value>POKE: Of course you are.</value>
+		<value>โพเก้: อ๋อ... แน่นอนล่ะ</value>
 	</entry>
 	<entry>
 		<key>POKE: The tower designs in the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; reveal each receiver's location. Ask Yarrow; he is familiar with them.</key>
-		<value>POKE: The tower designs in the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; reveal each receiver's location. Ask Yarrow; he is familiar with them.</value>
+		<value>โพเก้: ดีไซน์ของหอคอยใน&lt;color=orange&gt;แล็บ High Energy &lt;/color&gt; บน &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; จะบอกถึงที่อยู่ของตัวรับแต่ละอัน ลองถามยาร์โรวดู เขาคุ้นเคยกับมันดี</value>
 	</entry>
 	<entry>
 		<key>WARNING: Be cautious near the boarding area while the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is in operation.</key>
-		<value>WARNING: Be cautious near the boarding area while the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is in operation.</value>
+		<value>คำเตือน: โปรดระมัดระวังบริเวณใกล้ทางเข้าออกในขณะที่&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt;กำลังทำงานอยู่</value>
 	</entry>
 	<entry>
 		<key>POKE: Of note: Yarrow believes he spotted a flaw in the warp tower designs: namely, that one of the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will never activate, because its warp receiver will never align overhead.</key>
-		<value>POKE: Of note: Yarrow believes he spotted a flaw in the warp tower designs: namely, that one of the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will never activate, because its warp receiver will never align overhead.</value>
+		<value>โพเก้: โน๊ต: ยาร์โรวเชื่อว่าเขาเจอปัญหาในดีไซน์ของหอวาร์ป ให้พูดคือ หอวาร์ปอันนึงบน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; จะไม่มีวันทำงาน เพราะว่าตัวรับวาร์ปมันไม่มีทางอยู่ด้านบนหัวของหอคอยได้</value>
 	</entry>
 	<entry>
 		<key>POKE: Does your romantic interest think a warp tower’s alignment point is its &lt;i&gt;receiver&lt;/i&gt;? Does he not know that a warp tower always aligns with the center of its corresponding astral body?</key>
-		<value>POKE: Does your romantic interest think a warp tower’s alignment point is its &lt;i&gt;receiver&lt;/i&gt;? Does he not know that a warp tower always aligns with the center of its corresponding astral body?</value>
+		<value>โพเก้: คนที่เธอชอบนี่คิดว่าหอวาร์ปต้องเรียงให้ตรงกับ&lt;i&gt;เครื่องรับวาร์ป&lt;/i&gt;เท่านั้นหรือยังไง? เขาไม่รู้เหรอว่าหอวาร์ปแค่ต้องตรงกับศูนย์กลางของวัตถุดาราศาสตร์นั้นๆก็พอแล้ว?</value>
 	</entry>
 	<entry>
 		<key>CLARY: That isn’t an unreasonable belief, given the receiver &lt;i&gt;does&lt;/i&gt; have to be located on (or in close orbit around) the relevant astral body.</key>
-		<value>CLARY: That isn’t an unreasonable belief, given the receiver &lt;i&gt;does&lt;/i&gt; have to be located on (or in close orbit around) the relevant astral body.</value>
+		<value>คลารี: ก็ไม่ใช่ความเชื่อที่ไร้เหตุผลซะทีเดียว เพราะว่าเครื่องรับ&lt;i&gt;จำเป็นต้อง&lt;/i&gt;ตั้งอยู่บน (หรืออยู่ในวงโครจรใกล้) วัตถุดาราศาสตร์นั้นๆนะ</value>
 	</entry>
 	<entry>
 		<key>CLARY: I seem to recall that was &lt;i&gt;your&lt;/i&gt; understanding of warp technology, at first.</key>
-		<value>CLARY: I seem to recall that was &lt;i&gt;your&lt;/i&gt; understanding of warp technology, at first.</value>
+		<value>คลารี: ฉันเหมือนจะคุ้นๆว่านั่นคือแบบเดียวกับแบบที่&lt;i&gt;เธอ&lt;/i&gt;เข้าใจในตอนแรกเกี่ยวกับเทคโนโลยีการวาร์ปซะอีกนะ</value>
 	</entry>
 	<entry>
 		<key>CLARY: No, Yarrow understands the distinction. He likely doesn’t realize the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; are so close together they function as a single astral body, with a shared alignment point in between them.</key>
-		<value>CLARY: No, Yarrow understands the distinction. He likely doesn’t realize the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; are so close together they function as a single astral body, with a shared alignment point in between them.</value>
+		<value>คลารี: ไม่ๆ ยาร์โรวเข้าใจว่ามันต่างกัน เขาน่าจะไม่รู้เฉยๆว่า &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; อยู่ใกล้กันมากจนมีพวกมันถูกนับเป็นวัตถุดาราศาสตร์อันเดียวโดยมีจุดศูนย์กลางอยู่ระหว่างดาวน่ะ</value>
 	</entry>
 	<entry>
 		<key>
 			Exit to surface.
 		</key>
 		<value>
-			Exit to surface.
+			ทางออกสู่พื้นผิว
 		</value>
 	</entry>
 	<entry>
@@ -1606,43 +1606,43 @@
 			&lt;color=orange&gt;Black Hole Forge&lt;/color&gt;\\n(north 40m)
 		</key>
 		<value>
-			&lt;color=orange&gt;Black Hole Forge&lt;/color&gt;\\n(north 40m)
+			&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt;\\n(เหนือ 40m)
 		</value>
 	</entry>
 	<entry>
 		<key>PYE: The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; will be one of our biggest undertakings (metaphorically &lt;i&gt;and&lt;/i&gt; physically). To build it, we need a way to travel quickly between &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; and each location that holds crucial project materials.</key>
-		<value>PYE: The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; will be one of our biggest undertakings (metaphorically &lt;i&gt;and&lt;/i&gt; physically). To build it, we need a way to travel quickly between &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; and each location that holds crucial project materials.</value>
+		<value>ไพร์: &lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;นี่น่าจะเป็นโปรเจกต์ที่ใหญ่ที่สุดเท่าที่พวกเราเคยสร้างมาเลย (ทั้งในแบบเปรียบเปรย&lt;i&gt;และ&lt;/i&gt;ขนาดจริงๆ) ในการจะสร้างมันเราจำเป็นต้องมีวิธีการที่จะเดินทางได้อย่างรวดเร็วระหว่าง &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; และที่อื่นๆที่มีทรัพยากรที่เราต้องใช้</value>
 	</entry>
 	<entry>
 		<key>ROOT: What if we used warp towers (like the one we have on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;) to connect &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; directly to each critical location?</key>
-		<value>ROOT: What if we used warp towers (like the one we have on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;) to connect &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; directly to each critical location?</value>
+		<value>รูท: ถ้างั้นเราลองใช้หอวาร์ป (แบบเดียวกับที่เรามีใน&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;)เพื่อเชื่อมต่อ &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; กับที่อื่นๆโดยตรงเลยได้มั้ย?</value>
 	</entry>
 	<entry>
 		<key>CLARY: Poke, Root, and I can begin work on this immediately in the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; (this will keep us busy!).</key>
-		<value>CLARY: Poke, Root, and I can begin work on this immediately in the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; (this will keep us busy!).</value>
+		<value>คลารี: โพเก้ รูทกับฉันสามารถเริ่มงานนี้ได้ทันทีใน&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt; (นี่คงจะทำให้เรายุ่งพอสมควร!)</value>
 	</entry>
 	<entry>
 		<key>YARROW: Of note: Each tower on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will warp to a different planet.</key>
-		<value>YARROW: Of note: Each tower on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will warp to a different planet.</value>
+		<value>ยาร์โรว: โน๊ต: หอคอยแต่ละหอบน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; จะวาร์ปไปยังดาวที่แตกต่างกัน</value>
 	</entry>
 	<entry>
 		<key>PHLOX: We can design each tower to visually reflect its warp destination!</key>
-		<value>PHLOX: We can design each tower to visually reflect its warp destination!</value>
+		<value>ฟล็อก: เราดีไซน์หอคอยแต่ละหอให้บ่งบอกปลายทางของการวาร์ปได้นะ!</value>
 	</entry>
 	<entry>
 		<key>PHLOX: The &lt;color=orange&gt;Giant’s Deep tower&lt;/color&gt;, for instance, could resemble a cyclone. And we could model the &lt;color=orange&gt;Timber Hearth tower&lt;/color&gt; after a geyser mountain!</key>
-		<value>PHLOX: The &lt;color=orange&gt;Giant’s Deep tower&lt;/color&gt;, for instance, could resemble a cyclone. And we could model the &lt;color=orange&gt;Timber Hearth tower&lt;/color&gt; after a geyser mountain!</value>
+		<value>ฟล็อก: อย่างเช่นหอคอยของ &lt;color=orange&gt;Giant’s Deep &lt;/color&gt; อาจมีลักษณะคล้ายไซโคลน ส่วนหอคอยของ &lt;color=orange&gt;Timber Hearth tower&lt;/color&gt; เราก็อาจทำให้เหมือนภูเขาน้ำพุก็ได้!</value>
 	</entry>
 	<entry>
 		<key>YARROW: My gratitude to those who noted my imprecise language! Yes, the &lt;color=lightblue&gt;sun&lt;/color&gt; is not a planet. I believe this has been sufficiently clarified (kindly stop reminding me!).</key>
-		<value>YARROW: My gratitude to those who noted my imprecise language! Yes, the &lt;color=lightblue&gt;sun&lt;/color&gt; is not a planet. I believe this has been sufficiently clarified (kindly stop reminding me!).</value>
+		<value>ยาร์โรว: ขอบคุณใครก็ตามที่ทักท้วงเรื่องการใช้ภาษาที่กำกวมของฉัน! ใช่ &lt;color=lightblue&gt;ดวงอาทิตย์&lt;/color&gt;ไม่ใช่ดาวเคราะห์ ฉันเชื่อว่าเรื่องนี้ได้รับการชี้แจงมากเพียงพอแล้วนะ (หยุดทักมาบอกฉันได้แล้ว!)</value>
 	</entry>
 	<entry>
 		<key>
 			Retrieving previous launch data from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.
 		</key>
 		<value>
-			Retrieving previous launch data from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.
+			กำลังรับข้อมูลการปล่อยตัวรอบที่แล้วจาก &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;
 		</value>
 	</entry>
 	<entry>
@@ -1650,7 +1650,7 @@
 			Total number of probes launched: &lt;NbTimeloops&gt;
 		</key>
 		<value>
-			Total number of probes launched: &lt;NbTimeloops&gt;
+			จำนวนโพรบทั้งหมดที่ยิงออกไป: &lt;NbTimeloops&gt;
 		</value>
 	</entry>
 	<entry>
@@ -1658,932 +1658,932 @@
 			Deep space anomaly matching all known criteria for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; found by probe &lt;FirstLoop&gt;.
 		</key>
 		<value>
-			Deep space anomaly matching all known criteria for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; found by probe &lt;FirstLoop&gt;.
+			ตรวจพบสิ่งปกติในห้วงอวกาศที่ตรงกับเกณฑ์ทั้งหมดที่ทราบเกี่ยวกับ &lt;color=lightblue&gt;The Eye of the universe&lt;/color&gt; จากโพรบที่ &lt;FirstLoop&gt;
 		</value>
 	</entry>
 	<entry>
 		<key>CLARY: I have good news, Yarrow! The advanced warp core is ready to be installed in the central chamber of &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
-		<value>CLARY: I have good news, Yarrow! The advanced warp core is ready to be installed in the central chamber of &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</value>
+		<value>คลารี: ฉันมีข่าวดีล่ะยาร์โรว! แกนวาร์ปขั้นสูงพร้อมที่จะติดตั้งในห้องแกนกลางของ &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; แล้วล่ะ!</value>
 	</entry>
 	<entry>
 		<key>YARROW: I’m intrigued, love! Everyone here working on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is excited to see it (Pye is beside herself with joy!).</key>
-		<value>YARROW: I’m intrigued, love! Everyone here working on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is excited to see it (Pye is beside herself with joy!).</value>
+		<value>ยาร์โรว: ฉันดีใจมากเลยที่รัก! ทุกคนที่ช่วยทำงานใน&lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;นั้นตื่นเต้นมากที่จะได้เห็นมัน (ไพร์ดีใจจนเนื้อแทบเต้น!)</value>
 	</entry>
 	<entry>
 		<key>POKE: No, it isn’t!</key>
-		<value>POKE: No, it isn’t!</value>
+		<value>โพเก้: ไม่ มันยังไม่หร้อม!</value>
 	</entry>
 	<entry>
 		<key>YARROW: Is everything well at the &lt;color=orange&gt;forge&lt;/color&gt;?</key>
-		<value>YARROW: Is everything well at the &lt;color=orange&gt;forge&lt;/color&gt;?</value>
+		<value>ยาร์โรว: ทุกอย่างที่&lt;color=orange&gt;โรงหลอม&lt;/color&gt;ยังโอเคอยู่มั้ย?</value>
 	</entry>
 	<entry>
 		<key>CLARY: Don’t worry, love; Poke is only nervous. The core is extraordinary, and her design work is beautifully clever.</key>
-		<value>CLARY: Don’t worry, love; Poke is only nervous. The core is extraordinary, and her design work is beautifully clever.</value>
+		<value>คลารี: ไม่ต้องเป็นห่วงไปหรอกน่าที่รัก โพเก้แค่กังวลมากเกินไปหน่อย แกนที่เธอดีไซน์ขึ้นมาน่ะยอดเยี่ยมมาก และเธอก็ดีไซน์ออกมาได้อย่างสวยงามเลยล่ะ</value>
 	</entry>
 	<entry>
 		<key>POKE: The core’s durability could still be improved! I need more time!</key>
-		<value>POKE: The core’s durability could still be improved! I need more time!</value>
+		<value>โพเก้: ความทนทานของแกนนั้นยังดีขึ้นกว่านี้ได้อีก! ฉันขอเวลามากกว่านี้อีกหน่อยนึง!</value>
 	</entry>
 	<entry>
 		<key>CLARY: Ignore her, Yarrow. The core is finished. And if my sister tells you otherwise, then &lt;i&gt;she&lt;/i&gt; will be finished, as well.</key>
-		<value>CLARY: Ignore her, Yarrow. The core is finished. And if my sister tells you otherwise, then &lt;i&gt;she&lt;/i&gt; will be finished, as well.</value>
+		<value>คลารี: อย่าไปสนใจเธอเลย ยาร์โรว แกนนั้นน่ะเสร็จแล้ว และถ้าพี่สาวของฉันไม่ได้บอกแบบนั้น &lt;i&gt;เธอ&lt;/i&gt;นั่นเองแหละที่จะเป็นคนเสร็จแทน</value>
 	</entry>
 	<entry>
 		<key>YARROW: My gratitude for the latest shipment, Oeno! This ore should be the last we’ll need for the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>YARROW: My gratitude for the latest shipment, Oeno! This ore should be the last we’ll need for the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</value>
+		<value>ยาร์โรว: ขอบคุณสำหรับของที่ส่งมาล่อสุดนะโอเอโน่! แร่นี้น่าจะอย่างสุดท้ายที่เราต้องการสำหรับ&lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;แล้วล่ะ</value>
 	</entry>
 	<entry>
 		<key>YARROW: Once we’ve finished the shell that seals off the central chamber, we’ll check to ensure there are no longer any physical entrances. Ramie and I will be checking the interior and then the exterior for cracks (our final safety check).</key>
-		<value>YARROW: Once we’ve finished the shell that seals off the central chamber, we’ll check to ensure there are no longer any physical entrances. Ramie and I will be checking the interior and then the exterior for cracks (our final safety check).</value>
+		<value>ยาร์โรว: เมื่อเราสร้างเปลือกปิดผนึกห้องใจกลางเสร็จแล้ว เราต้องตรวจสอบให้ดีกว่ามันไม่มีทางเข้าออกอีกต่อไป เรมี่กับฉันจะตรวจสอบด้านในก่อนและค่อยไปตรวจสอบด้านนอก (นี่จะเป็นการตรวจสอบความปลอดภัยครั้งสุดท้ายของพวกเราแล้ว)</value>
 	</entry>
 	<entry>
 		<key>OENO: This is exciting news! Can I offer an extra set of eyes for this final check (specifically, mine)? If my work here is complete, I’d be delighted to help.</key>
-		<value>OENO: This is exciting news! Can I offer an extra set of eyes for this final check (specifically, mine)? If my work here is complete, I’d be delighted to help.</value>
+		<value>โอเอโน่: นี่มันน่าตื่นเต้นจัง! ให้ฉันหาคนไปช่วยตรวจสอบได้มั้ย? (ถ้าพูดให้พูดคือเองเองนี่แหละ) ถ้าฉันเสร็จงานตรงนี้แล้วฉันก็อยากจะไปช่วยอยู่นะ</value>
 	</entry>
 	<entry>
 		<key>YARROW: We’d be grateful if you would! The more eyes, the better, as the smallest flaw or opening in the shell that protects the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; could lead to disaster.</key>
-		<value>YARROW: We’d be grateful if you would! The more eyes, the better, as the smallest flaw or opening in the shell that protects the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; could lead to disaster.</value>
+		<value>ยาร์โรว: พวกเราจะดีใจมากถ้ามีคนมาช่วย! ยิ่งมีคนช่วยเยอะเท่าไหร่ยิ่งดี ข้อผิดพลาดเพียงเล็กน้อยหรือช่องว่างเพียงหน่อยเดียวบนเปลือกที่ป้องกัน&lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;ก็อาจทำให้เกิดหายนะได้</value>
 	</entry>
 	<entry>
 		<key>OENO: I’m still amazed by how much ore the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires!</key>
-		<value>OENO: I’m still amazed by how much ore the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires!</value>
+		<value>โอเอโน่: ฉันยังทึ่งกับปริมาณแร่ที่&lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;ต้องใช้อยู่เลย!</value>
 	</entry>
 	<entry>
 		<key>CYCAD: Isn’t this the ore for the remaining towers being built on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;? The completed towers I’ve seen are quite large!</key>
-		<value>CYCAD: Isn’t this the ore for the remaining towers being built on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;? The completed towers I’ve seen are quite large!</value>
+		<value>ไซแคต: ไม่ใช่ว่าแร่นี้เราจะเอาไปสำหรับหอคอยที่กำลังจะสร้างบน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; เหรอ? ฉันเห็นว่าหอคอยที่สร้างเสร็จแล้วค่อนข้างจะใหญ่อยู่เลยนะ!</value>
 	</entry>
 	<entry>
 		<key>OENO: No, the material for those towers is all being taken from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber inside &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;’s core.</key>
-		<value>OENO: No, the material for those towers is all being taken from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber inside &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;’s core.</value>
+		<value>โอเอโน่: ไม่นะ ทรัพยากรที่ใช้สำหรับหอคอยพวกนั้นเอามาจาก &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; ส่วนแร่พวกนี้จะถูกเอาไปสร้างเปลือกหุ้มที่หนามากที่จะเอาไว้ปิดผนึกห้องใจกลางของ &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>COLEUS: I’m relieved by our clan’s decision to use &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;’s ore only for constructing the shell. If, eventually, life on this planet were to evolve to the point of advanced metallurgy, I’m confident we won’t have destroyed their ability to create!</key>
-		<value>COLEUS: I’m relieved by our clan’s decision to use &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;’s ore only for constructing the shell. If, eventually, life on this planet were to evolve to the point of advanced metallurgy, I’m confident we won’t have destroyed their ability to create!</value>
+		<value>โคเลียส: ฉันโล่งใจจริงๆที่เผ่าเราเลือกที่จะใช้แร่จาก &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt; เฉพาะส่วนที่เราจะเอาไปทำเปลือกหุ้ม เพราะงั้นถ้าสิ่งมีชีวิตบนดาวนี้พัฒนาไปจนถึงขั้นที่พวกเขาเริ่มศึกษาถลุงโลหะขั้นสูง ฉันจะได้มั่นใจได้ว่าจะไม่ได้ทำลายศักยภาพและความคิดสร้างสรรค์ของพวกเขาในอนาคต!</value>
 	</entry>
 	<entry>
 		<key>CYCAD: If they're sealing off all entrances, I hope they've planned a-&lt;i&gt;core&lt;/i&gt;-dingly!</key>
-		<value>CYCAD: If they're sealing off all entrances, I hope they've planned a-&lt;i&gt;core&lt;/i&gt;-dingly!</value>
+		<value>ไซแคต: ถ้าพวกเขาวางแผนที่จะปิดทางเข้าทั้ง ฉันหวังว่าพวกเขาจะวาง&lt;i&gt;แกน&lt;/i&gt;มาดีแล้วล่ะ!</value>
 	</entry>
 	<entry>
 		<key>OENO: I thought you had forbidden your apprentice from making puns, Coleus.</key>
-		<value>OENO: I thought you had forbidden your apprentice from making puns, Coleus.</value>
+		<value>โอเอโน่: ฉันนึกว่านายห้ามศิษย์ของนายไม่ให้เล่นมุกพวกนี้แล้วนะ โคเลียส</value>
 	</entry>
 	<entry>
 		<key>COLEUS: How else would he improve?</key>
-		<value>COLEUS: How else would he improve?</value>
+		<value>โคเลียส: แล้วเขาจะพัฒนาได้ยังไงกันเล่า?</value>
 	</entry>
 	<entry>
 		<key>&lt;color=lightblue&gt;Ash Twin&lt;/color&gt; warp network status: All towers online.</key>
-		<value>&lt;color=lightblue&gt;Ash Twin&lt;/color&gt; warp network status: All towers online.</value>
+		<value>สถานะเครือข่ายวาร์ป &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;: หอคอยทั้งหมดออนไลน์</value>
 	</entry>
 	<entry>
 		<key>&lt;color=lightblue&gt;Ash Twin&lt;/color&gt; warp network status: &lt;color=orange&gt;Sun tower&lt;/color&gt; offline as of &lt;MinutesSinceRedGiant&gt; minutes &lt;SecondsSinceRedGiant&gt; seconds ago.\\nAll other towers online.</key>
-		<value>&lt;color=lightblue&gt;Ash Twin&lt;/color&gt; warp network status: &lt;color=orange&gt;Sun tower&lt;/color&gt; offline as of &lt;MinutesSinceRedGiant&gt; minutes &lt;SecondsSinceRedGiant&gt; seconds ago.\\nAll other towers online.</value>
+		<value>สถานะเครือข่ายวาร์ป &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;: &lt;color=orange&gt;หอคอยพระอาทิตย์&lt;/color&gt;ออฟไลน์ไปเมื่อ&lt;MinutesSinceRedGiant&gt; นาที &lt;SecondsSinceRedGiant&gt; วินาทีก่อนหน้า\\n หอคอยอื่นๆ ทั้งหมดออนไลน์</value>
 	</entry>
 	<entry>
 		<key>Sun tower offline as of &lt;MinutesSinceRedGiant&gt; minutes &lt;SecondsSinceRedGiant&gt; seconds ago.\\nAll other towers online.</key>
-		<value>Sun tower offline as of &lt;MinutesSinceRedGiant&gt; minutes &lt;SecondsSinceRedGiant&gt; seconds ago.\\nAll other towers online.</value>
+		<value>หอคอยพระอาทิตย์ออฟไลน์เมื่อ &lt;MinutesSinceRedGiant&gt; นาที &lt;SecondsSinceRedGiant&gt; วินาทีที่แล้ว\\nหอคอยอื่นๆ ทั้งหมดออนไลน์</value>
 	</entry>
 	<entry>
 		<key>POKE: Welcome to the &lt;color=orange&gt;White Hole Station&lt;/color&gt;! If you fell through the black hole by accident (don't worry, you aren’t the first), this warp tower can return you to &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-		<value>POKE: Welcome to the &lt;color=orange&gt;White Hole Station&lt;/color&gt;! If you fell through the black hole by accident (don't worry, you aren’t the first), this warp tower can return you to &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</value>
+		<value>โพเก้: ยินดีต้องรับสู่&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;! ถ้าเกิดคุณพลัดตกหลุมดำมาละก็ (ไม่ต้องห่วง คุณไม่ใช่คนแรกหรอก) หอวาร์ปนี้สามารถวาร์ปคุณกลับไปที่ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; ได้</value>
 	</entry>
 	<entry>
 		<key>POKE: Every warp tower is tuned to a specific astral body. A tower's warp can only be used during the brief window when the tower is aligned with its corresponding astral body (in this case, &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;).</key>
-		<value>POKE: Every warp tower is tuned to a specific astral body. A tower's warp can only be used during the brief window when the tower is aligned with its corresponding astral body (in this case, &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;).</value>
+		<value>โพเก้: หอวาร์ปทุกอันถูกปรับมาให้มองหาวัตถุดาราศาสตร์ที่เจาะจง แกนวาร์ปของหอคอยนี้จะใช้ได้แค่เฉพาะช่วงเวลาที่หอคอยนั้น\\nเรียงตัวตรงกับวัตถุดาราศาสตร์ของเป้าหมายที่มันหาอยู่เท่านั้น (ในกรณีนี้ก็เป็นของ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;)</value>
 	</entry>
 	<entry>
 		<key>You must be standing on the warp platform on the floor during this alignment to be warped.</key>
-		<value>You must be standing on the warp platform on the floor during this alignment to be warped.</value>
+		<value>คุณต้องยืนบนแท่นวาร์ปช่วงนั้นเพื่อที่จะวาร์ปไปยังเป้าหมาย</value>
 	</entry>
 	<entry>
 		<key>POKE: If you look up while the station is rotating, you can see the alignment happens when the astral body is directly overhead.</key>
-		<value>POKE: If you look up while the station is rotating, you can see the alignment happens when the astral body is directly overhead.</value>
+		<value>โพเก้: ถ้าคุณมองขึ้นตอนที่สถานีกำลังหมุนอยู่ละก็ คุณจะเห็นว่าการวาร์ปจะเกิดขึ้นเมื่อวัตถุดาราศาสตร์นั้นอยู่จัดเรียงด้านบนของหอคอยพอดี</value>
 	</entry>
 	<entry>
 		<key>Gabbro</key>
-		<value>Gabbro</value>
+		<value>แก็บโบร</value>
 	</entry>
 	<entry>
 		<key>MeetGabbro3FNice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?</key>
-		<value>Nice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?</value>
+		<value>เจ๋ง นายนี่เอง ดีใจมากที่เห็นนายมาถึงที่นี่ครบ 32 อยู่ การออกยานเดี่ยวครั้งแรกนี่มันสุดยอดเลยใช่มั้ยล่ะ?</value>
 	</entry>
 	<entry>
 		<key>MeetGabbro3FSo hey, don’t freak out or anything, but lately I keep, like, dying repeatedly. I dunno, it’s pretty weird.</key>
-		<value>So hey, don’t freak out or anything, but lately I keep, like, dying repeatedly. I dunno, it’s pretty weird.</value>
+		<value>เฮ้ อย่าตกใจหรือแตกตื่นอะไรไปนะ แต่ฉันรู้สึกเหมือนช่วงนี้ฉันตายซ้ำๆไม่หยุดเลย ไม่รู้สิ มันรู้สึกแปลกๆน่ะ</value>
 	</entry>
 	<entry>
 		<key>MeetGabbro3FWhat about you? Have you died lately, or is it just me?</key>
-		<value>What about you? Have you died lately, or is it just me?</value>
+		<value>แล้วนายล่ะ? นายเพิ่งตายไปเหมือนกัน หรือเป็นแค่ฉันคนเดียว?</value>
 	</entry>
 	<entry>
 		<key>GabbroMeetGabbro3FNo, it’s me, too. We’re in a time loop.</key>
-		<value>No, it’s me, too. We’re in a time loop.</value>
+		<value>ไม่ ฉันก็เหมือนกัน เราติดอยู่ในลูปเวลาน่ะ.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_2Time &lt;i&gt;has&lt;/i&gt; been behaving unusually lately. Yeah, a time loop makes sense. Cool.</key>
-		<value>Time &lt;i&gt;has&lt;/i&gt; been behaving unusually lately. Yeah, a time loop makes sense. Cool.</value>
+		<value>เวลาค่อนข้าง&lt;i&gt;จะ&lt;/i&gt;ทำงานแปลกๆขึ้นมาช่วงหลังๆนี้ ลูปเวลาก็ดูสมเหตุสมผลดี เจ๋ง</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro3F_2You’re taking this pretty well.</key>
-		<value>You’re taking this pretty well.</value>
+		<value>นายรับมือกับเรื่องนี้ได้ดีเลยแฮะ</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro3F_2What did you think it was?</key>
-		<value>What did you think it was?</value>
+		<value>นายคิดว่ามันคืออะไร?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_3Heh, right back at you.</key>
-		<value>Heh, right back at you.</value>
+		<value>ฮ่ะ นายก็เหมือนกัน</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_3Personally, I like new experiences, and I’ve never been in a time loop before. I mean, I don’t &lt;i&gt;think&lt;/i&gt; I’ve been in a time loop before this one.</key>
-		<value>Personally, I like new experiences, and I’ve never been in a time loop before. I mean, I don’t &lt;i&gt;think&lt;/i&gt; I’ve been in a time loop before this one.</value>
+		<value>สำหรับฉันนะ ฉันค่อนข้างจะชอบประสบการณ์ใหม่นี้เลยล่ะ ฉันไม่เคยติดอยู่ในลูปเวลามาก่อน แบบว่า ฉันไม่&lt;i&gt;คิดว่า&lt;/i&gt;ฉันเคยอยู่ในลูปเวลาก่อนล่ะนะ</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_4I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</key>
-		<value>I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</value>
+		<value>ฉันคิดว่ามันคงเป็นอะไรบางอย่างยุ่งเหยิงเกี่ยวกับเวลา แต่ฉันก็ไม่ได้คิดว่าเกิดอะไรขึ้นกับ&lt;i&gt;รูปร่าง&lt;/i&gt;ของเวลาน่ะ นายพอจะเข้าใจมั้ย? แต่ "ลูปเวลา" ก็ฟังดูเข้าดี เรียกมันล่า "ลูป" ไปก่อนละกัน</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_5It looks like you and I are the only ones who can tell that time’s gone all weird. I tried radioing Hornfels and asking if they’d died, too, but they thought I was being metaphorical.</key>
-		<value>It looks like you and I are the only ones who can tell that time’s gone all weird. I tried radioing Hornfels and asking if they’d died, too, but they thought I was being metaphorical.</value>
+		<value>เหมือนว่าจะมีแค่นายกับฉันที่รู้ว่าเวลามันมั่วตุ้มเป๊ะไปหมดแล้ว ฉันลองวิทยุไปถามฮอร์นเฟลส์ว่าเขาตายด้วยมั้ย เขาก็ดันนึกว่าฉันพูดเปรียบเปรยเล่นๆซะอีก</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_5Even if I tell Hornfels about the time loop, they never remember by the next one. They don’t realize anything’s different.</key>
-		<value>Even if I tell Hornfels about the time loop, they never remember by the next one. They don’t realize anything’s different.</value>
+		<value>ต่อให้ฉันบอกฮอร์นเฟลส์เรื่องลูปเวลาพวกนี้ พอลูปต่อไปพวกเขาก็ลืมหมดอยู่ดี พวกเขาไม่รู้เลยว่ามีอะไรแตกต่างออกไป</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_5And here’s another weird one for you - every time I die, all of my memories from that loop replay back to me. I’m pretty sure that’s related to this big stone Nomai statue I found on one of the other islands.</key>
-		<value>And here’s another weird one for you - every time I die, all of my memories from that loop replay back to me. I’m pretty sure that’s related to this big stone Nomai statue I found on one of the other islands.</value>
+		<value>มีอีกอย่างที่แปลกๆ เหมือนกัน - ทุกครั้งที่ฉันตาย ความทรงจำจากลูปนั้นจะเล่นซ้ำมาให้ฉันดู ฉันค่อนข้างมั่นใจว่ามันน่าจะเกี่ยวกับรูปปั้นโนไมหินอันใหญ่ๆที่ฉันเจอตรงเกาะอีกเกาะนึง.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_5I was looking at it, and the statue opened its eyes and started glowing. It replayed my memories like it’d seen them through my own eyes, just like what happens each time I die.</key>
-		<value>I was looking at it, and the statue opened its eyes and started glowing. It replayed my memories like it’d seen them through my own eyes, just like what happens each time I die.</value>
+		<value>ฉันกำลังมองมันอยู่ และจู่ๆรูปปั้นก็เปิดตาขึ้นมาแล้วก็ส่องแสง มันเล่นความทรงจำซ้ำให้ฉันดูอย่างกับฉันเห็นมันกับตาตัวเองเลย มันเป็นเหมือนกับที่ฉันเห็นทุกครั้งที่ฉันตายเลย</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro3F_5That happened to me with the statue at the museum.</key>
-		<value>That happened to me with the statue at the museum.</value>
+		<value>นั่นก็เกิดกับฉันเหมือนกันที่พิพิธภัณฑ์</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_6You too, huh? Then the Nomai statues must have something to do with why we’re the only ones aware of the time loop. So... no glowing statue, no time loop awareness?</key>
-		<value>You too, huh? Then the Nomai statues must have something to do with why we’re the only ones aware of the time loop. So... no glowing statue, no time loop awareness?</value>
+		<value>นายก็เหมือนกันสินะ หืม? ถ้างั้นรูปปั้นโนไมก็น่าจะเกี่ยวอะไรซักอย่างกับการที่มีแค่เราสองคนที่รู้เกี่ยวกับลูปเวลานี้ แบบก็นั้นก็แปลว่า ไม่จ้องรูปปั้นตาเรืองแสง ก็จะไม่รู้ตัวว่าอยู่ในลูปสินะ?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_6I think that’s going to be my leading theory, but if you find out anything new about the statues or the time loop, let me know, okay? I’ll be here.</key>
-		<value>I think that’s going to be my leading theory, but if you find out anything new about the statues or the time loop, let me know, okay? I’ll be here.</value>
+		<value>นั่นเป็นทฤษฎีหลักของฉัน แต่ถ้านายเจออะไรใหม่ๆเกี่ยวกับรูปปั้นหรือลูปเวลาก็มาบอกฉันด้วยละกัน ฉันจะอยู่ตรงนี้นี่แหละ</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_6Anyway, that’s what’s new with me. But hey, this is your first solo voyage! ...Kind of! Let’s talk about you, you know?</key>
-		<value>Anyway, that’s what’s new with me. But hey, this is your first solo voyage! ...Kind of! Let’s talk about you, you know?</value>
+		<value>ยังไงก็ตาม นั่นคือเรื่องใหม่ทั้งหมดที่ฉันพอจะรู้แล้วล่ะ แต่นี่คือการเดินทางครั้งแรกของนายนี่นา ...ครั้งแรกแหละ! มาคุยเรื่องนายดีกว่านะ?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_SecondaryHave you ever watched a cyclone for so long, it started to hypnotize you? I’m telling you, they’ll put you in a trance if you stare at ’em long enough.</key>
-		<value>Have you ever watched a cyclone for so long, it started to hypnotize you? I’m telling you, they’ll put you in a trance if you stare at ’em long enough.</value>
+		<value>นายเคยจ้องพายุไซโคลนนานจนมันเริ่มสะกดจิตนายมั้ย? ฉันจะบอกให้ พวกมันจะทำให้นายตกอยู่ในภวังค์ได้เลยถ้านายจ้องมันนานพอ</value>
 	</entry>
 	<entry>
 		<key>GabbroMenuHow’s space treating you?</key>
-		<value>How’s space treating you?</value>
+		<value>อวกาศเป็นยังไงบ้างสำหรับนายฮื้ม?</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbroMenuI found something!</key>
-		<value>I found something!</value>
+		<value>ฉันเจออะไรใหม่ด้วยล่ะ!</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbroMenuWhat are you doing out here?</key>
-		<value>What are you doing out here?</value>
+		<value>นายมาทำอะไรที่นี่เนี่ย?</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbroMenuWhere should I explore on Giant’s Deep?</key>
-		<value>Where should I explore on Giant’s Deep?</value>
+		<value>ฉันไปสำรวจที่ไหนบน Giant’s Deep ดี?</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbroMenuWhat’s up with this planet?</key>
-		<value>What’s up with this planet?</value>
+		<value>เกิดอะไรขึ้นบนดาวดวงนี้บ้างเนี่ย?</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbroMenuWhere’s your ship?</key>
-		<value>Where’s your ship?</value>
+		<value>ยานของนายอยู่ไหน?</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbroMenuI found your ship!</key>
-		<value>I found your ship!</value>
+		<value>ฉันเจอยานของนายด้วยล่ะ!</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbroMenuI saw your ship again.</key>
-		<value>I saw your ship again.</value>
+		<value>ฉันเจอยานของนายอีกแล้ว</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbroMenuSee you later.</key>
-		<value>See you later.</value>
+		<value>ไว้เจอกัน</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_3FWell, what are any of us doing here, really?</key>
-		<value>Well, what are any of us doing here, really?</value>
+		<value>แล้วจริงๆ เราทั้งสองมาทำอะไรกันที่นี่ล่ะ?</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_3F...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
-		<value>...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</value>
+		<value>...ล้อเล่นน่า ฉันออกมาสำรวจระบบสุริยะของเราเหมือนกับนายนั่นแหละ</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_3FBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
-		<value>But I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</value>
+		<value>บอกอะไรอย่าง อวกาศนี่ทำให้นายมีเวลาคิดอะไรเยอะจริงๆนะ มันเงียบและสงบดี</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_3FI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-		<value>I mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</value>
+		<value>ฉันหมายถึง ปกติมันก็เงียบสงบดีแหละ แต่บางครั้งพายุไซโคลนก็พัดมาแล้วก็พัดเกาะสวรรค์เล็กๆของฉันขึ้นจากน้ำ นั่นก็ไม่สงบเท่าไหร่</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3FHere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-		<value>Here’s something you might like — at the start of every time loop, I keep seeing a bright flash in the sky. Something must be happening up there in orbit around the planet.</value>
+		<value>แต่มีบางอย่างที่นายน่าจะชอบนะ - ตอนเริ่มของทุกลูป ฉันชอบเห็นแสงวาบบนท้องฟ้าตลอดเลย มันต้องมีอะไรซักอย่างเกิดขึ้นแถวๆวงโครจรดาวนี้แน่ๆ</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3FWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-		<value>What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</value>
+		<value>อะไรอีกบ้าง... อะไรอีก... นายเคยไปเกาะรูปปั้นมั้ย? นั่นคือชื่อที่ฉันเรียกเกาะนั้น เพราะว่ามันเป็น&lt;i&gt;เกาะ&lt;/i&gt;ที่ฉันเจอ&lt;i&gt;รูปปั้น&lt;/i&gt;โนไมที่ตาเรืองแสงที่นั่น &lt;Pause&gt; ...นายพอจะเก็ตใช่มั้ย?</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3FI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-		<value>I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</value>
+		<value>ฉันกำลังเดินเล่นแถวชายหาดบนเกาะรูปปั้นตอนที่เกิดเรื่องรูปปั้นเรืองแรงพวกนั้นเกิดขึ้นน่ะถ้านายอยากรู้ เป็นชายหาดที่ดีที่จะเกิดเรื่องแบบนั้นขึ้นอยู่ ฉันให้ 7 เต็ม 10 จากสเกลความสบายฉบับแก็บโบรเลย</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3FIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-		<value>If you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</value>
+		<value>ถ้านายอยากจะไปสำรวจเกาะรูปปั้นล่ะก็ มันคือเกาะสองเกาะที่มีซุ้มหินเชื่อมอยู่ตรงกลางน่ะ เอ่อ... เชื่อมกันส่วนมากนั่นแหละ เดี๋ยวนายก็เห็นเองแหละ</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3FHaha, I know, right?</key>
-		<value>Haha, I know, right?</value>
+		<value>ฮะฮ่า ใช่มั้ยล่ะ?</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3F...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-		<value>...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</value>
+		<value>...โอ้ นายหมายถึงแบบ ให้ฉันอธิบายเพิ่มเหรอ? ได้อยู่แล้ว Giant’s Deep น่ะใหญ่มาก พื้นผิวเป็นน้ำซะส่วนใหญ่ นายรู้เรื่องพวกนี้อยู่แล้ว</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3FThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>There’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</value>
+		<value>มันมีกระแสน้ำที่แรงมากอยู่ข้างล้างพื้นผิวของดาวที่จะกันไม่ให้อะไรก็ตามจมลงไปลึกกว่านั้น ฉันพูดจริงนะ ฉันพยายามทุกวิถีทางที่จะทะลุมันไป แต่ไม่มีอะไรได้ผลเลย</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3FAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>As for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</value>
+		<value>ส่วนเรื่องพื้นดิน ฉันนับได้ประมาณสี่เกาะรวมเกาะนี้ แล้วก็รวมเกาะที่มีรูปปั้นไนโมที่ฉันเจอบนชายหาดด้วย</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3FYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
-		<value>You’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</value>
+		<value>นายเห็นพายุไซโคลนแล้วใช่มั้ย? ใช่แหละ ค่อนข้างจะยากที่จะไม่เห็นมัน พวกมันจะพัดทุกอย่างที่ขวางหน้าขึ้นไป รวมถึงเกาะด้วย คำแนะนำเล็กๆ น้อยๆ จากฉันนะ - ถ้านายถูกพัดขึ้นไป พยายามเล็งลงในน้ำนะ โอกาสตายน้อยกว่า</value>
 	</entry>
 	<entry>
 		<key>GabbrosShipThat’s a good question.</key>
-		<value>That’s a good question.</value>
+		<value>นั่นเป็นคำถามที่ดีนะ</value>
 	</entry>
 	<entry>
 		<key>GabbrosShipIt’s definitely on this planet &lt;i&gt;some&lt;/i&gt;where. I mean, unless a cyclone came by and tossed it into space, I guess. Heh, that would be pretty nuts.</key>
-		<value>It’s definitely on this planet &lt;i&gt;some&lt;/i&gt;where. I mean, unless a cyclone came by and tossed it into space, I guess. Heh, that would be pretty nuts.</value>
+		<value>มันต้องอยู่บนดาวนี้&lt;i&gt;ที่ไหนสักที่&lt;/i&gt;นึงแหละ ยกเว้นแต่ว่าไซโคลนจะพัดยานของฉันขึ้นไปในอวกาศแล้วล่ะนะ ฮ่าๆ นั่นคงจะบ้าสุดๆ ไปเลย</value>
 	</entry>
 	<entry>
 		<key>GabbrosShipI hope it’s not lonely.</key>
-		<value>I hope it’s not lonely.</value>
+		<value>ฉันหวังว่ามันจะไม่เหงานะ</value>
 	</entry>
 	<entry>
 		<key>GabbrosShip2An excellent question. I haven’t seen it around lately.</key>
-		<value>An excellent question. I haven’t seen it around lately.</value>
+		<value>ถามได้ดีเยี่ยม ฉันไม่เห็นมันมาสักพักแล้วล่ะ</value>
 	</entry>
 	<entry>
 		<key>GabbrosShip2I hope it’s not lonely.</key>
-		<value>I hope it’s not lonely.</value>
+		<value>ฉันหวังว่ามันจะไม่เหงานะ</value>
 	</entry>
 	<entry>
 		<key>GabbrosShip3Oh, cool. So it’s floating in the ocean, huh?</key>
-		<value>Oh, cool. So it’s floating in the ocean, huh?</value>
+		<value>โอ้ว เจ๋ง แสดงว่ามันกำลังว่ายน้ำเล่นอยู่ในมหาสมุทสินะ?</value>
 	</entry>
 	<entry>
 		<key>GabbrosShip3Did it look like it was having a good time?</key>
-		<value>Did it look like it was having a good time?</value>
+		<value>มันดูเหมือนมันกำลังมีความสุขอยู่มั้ย?</value>
 	</entry>
 	<entry>
 		<key>GabbrosShip4I hope it’s having fun! Did you say hi for me?</key>
-		<value>I hope it’s having fun! Did you say hi for me?</value>
+		<value>ฉันหวังว่ามันจะสนุกกับการว่ายน้ำนะ! นายได้ทักทายมันให้ฉันมั้ย?</value>
 	</entry>
 	<entry>
 		<key>GoodbyeCool, cool. Take it easy out there.</key>
-		<value>Cool, cool. Take it easy out there.</value>
+		<value>เจ๋ง เจ๋ง ออกไปผจญภัยก็ระวังตัวด้วยล่ะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomethingMenuNice, nice. Whatcha got for me?</key>
-		<value>Nice, nice. Whatcha got for me?</value>
+		<value>ดีเลย ดีเลย ไหนมีอะไรใหม่มั่งล่ะ?</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomethingMenuI reached the inside of Statue Island.</key>
-		<value>I reached the inside of Statue Island.</value>
+		<value>ฉันเข้าไปถึงด้านในของเกาะรูปปั้นด้วย</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomethingMenuI found the source of the time loop.</key>
-		<value>I found the source of the time loop.</value>
+		<value>ฉันเจอที่มาของลูปเวลานี่แล้วนะ</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomethingMenuI found Nomai masks inside the Ash Twin Project.</key>
-		<value>I found Nomai masks inside the Ash Twin Project.</value>
+		<value>ฉันเจอหน้ากากโนไมอยู่ด้านในโปรเจกต์แอชทวินล่ะ</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomethingMenuI found what happened to the Orbital Probe Cannon.</key>
-		<value>I found what happened to the Orbital Probe Cannon.</value>
+		<value>ฉันรู้แล้วว่าเกิดอะไรขึ้นกับเครื่องยิงโพรบอวกาศ</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomethingMenuI found your quantum poem.</key>
-		<value>I found your quantum poem.</value>
+		<value>ฉันเจอบทกลอนควอนตัมของนายด้วย</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomethingMenuI found a photo of you inside the old radio tower.</key>
-		<value>I found a photo of you inside the old radio tower.</value>
+		<value>ฉันเห็นรูปของนายในหอวิทยุเก่าด้วยแหละ</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomethingMenuActually, nevermind.</key>
-		<value>Actually, nevermind.</value>
+		<value>ไม่มีอะไรแล้วล่ะ ช่างมันเถอะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1_3FSo the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</key>
-		<value>So the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</value>
+		<value>โนไมสร้างรูปปั้นพวกนี้มาเพื่อบันทึกความทรงจำงั้นเหรอ หืม? ...ฟังดูเหมือนเป็นสิ่งที่โนไมจะสร้างอยู่ ไม่แน่ใจว่าทำไม แต่ฟังดูเป็นแนวของพวกเขาดี</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1_3FDo you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</key>
-		<value>Do you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</value>
+		<value>นายคิดว่ารูปปั้นพวกนี้กำลังอัดความทรงจำของพวกเราเก็บไว้งั้นสินะ? เพราะฉันจำได้ว่าตัวนึงที่ชายหาดมองมาที่ฉันแปลกๆ นั่นต้องเป็นคู่หู-ทรงจำฉันแน่ๆเลย!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1bRight, right, the cavern inside Statue Island is where the memory-recording statues were made, I remember.</key>
-		<value>Right, right, the cavern inside Statue Island is where the memory-recording statues were made, I remember.</value>
+		<value>ใช่ ใช่แล้วแหละ ถ้ำในเกาะรูปปั้นคือที่ๆรูปปั้นบันทึกความทรงจำถูกสร้าง ฉันพอจะจำได้อยู่</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1bSo your memory statue is the one in the museum back in the crater, and mine’s the one I found on the beach. I kinda dig having my own personal memory-friend.</key>
-		<value>So your memory statue is the one in the museum back in the crater, and mine’s the one I found on the beach. I kinda dig having my own personal memory-friend.</value>
+		<value>แปลว่ารูปปั้นเก็บความทรงจำของนายอยู่ที่พิพิธภัณฑ์ที่หลุมนั่นสินะ ส่วนของฉันก็อยู่ที่ชายหาด ฉันค่อนข้างชอบการที่เรามีคู่หู-ทรงจำเป็นของตัวเองเหมือนกันแฮะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1bIf you come up with any hunches about what the Nomai wanted to record memories for, feel free to run them by me! You know where I’ll be.</key>
-		<value>If you come up with any hunches about what the Nomai wanted to record memories for, feel free to run them by me! You know where I’ll be.</value>
+		<value>ถ้านายพอจะรู้ว่าทำไมพวกไนโมถึงอยากจะบันทึกความทรงจำเก็บไว้ก็มาบอกฉันด้วยละกัน! ฉันจะอยู่ตรงนี้นี่แหละ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-		<value>Wait, whoa, really? The Nomai carved out the Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</value>
+		<value>เดี๋ยวนะ โว้ว จริงเหรอ? พวกโนไมขุด Ash Twin แล้วก็สร้างอุปกรณ์ลูปเวลาไว้ด้านใน? ...นี่มัน&lt;i&gt;สุดยอด&lt;/i&gt;เลยแฮะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-		<value>Now we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</value>
+		<value>เรารู้แล้วว่าอะไรเป็นตัวการทำให้เกิดลูปแล้ว... ถ้ามันเกิดจากอุปกรณ์ของไนโม แสดงว่ามันต้องถูกเปิดใช้งานอยู่สินะ? อืม...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FHey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-		<value>Hey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</value>
+		<value>เฮ้ นายคิดว่าจะเกิดอะไรขึ้นถ้านายปิดลูปเวลาไปเลย? แบบ ส่วนนึงของฉันก็คิดว่านายอาจไม่ควรปิดมัน เพราะด้วยเรื่องดวงอาทิตย์ระเบิดอะไรนั่นแล้วก็อย่างอื่นอีก</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FThen again, who wants to spend eternity being blown up by the sun?</key>
-		<value>Then again, who wants to spend eternity being blown up by the sun?</value>
+		<value>แต่ก็นั่นแหละ ใครจะอยากใช้ชีวิตตลอดกาลไปเพื่อตายเพราะดวงอาทิตย์ระเบิดซ้ำๆกันล่ะ?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3F...I dunno, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-		<value>...I dunno, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</value>
+		<value>...ไม่รู้สิ ฉันไม่ใช่ผู้เชี่ยวชาญเรื่องลูปเวลาด้วยสิ ฉันจะนั่งอยู่ตรงนี้และคิดเรื่องเปื่อยถึงความซับซ้อนของเวลาและอวกาศละกัน เผลอๆฉันอาจงีบด้วยสักหน่อยถ้าใจมันสั่งมา</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2bMy head’s still all full of scenarios for what would happen if you turned off the time loop. I’ll probably notice if you decide to mess with it, though, right? Seems like something I’d notice.</key>
-		<value>My head’s still all full of scenarios for what would happen if you turned off the time loop. I’ll probably notice if you decide to mess with it, though, right? Seems like something I’d notice.</value>
+		<value>ตอนนี้ในหัวของฉันคิดแต่ว่าถ้าปิดลูปเวลาแล้วจะเกิดอะไรขึ้น... แต่ถ้านายไปยุ่งกับมันจริงๆ ฉันก็น่าจะพอรู้ตัวอยู่นะ น่าจะเป็นสิ่งที่ฉันพอจะสังเกตอยู่แหละมั้ง</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2bThis is all pretty wild.</key>
-		<value>This is all pretty wild.</value>
+		<value>เรื่องพวกนี้มันสุดยอดทั้งหมดนั่นแหละ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3FYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-		<value>You’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</value>
+		<value>นายกำลังจะบอกว่ารูปปั้นพวกนี้สร้างขึ้นมาเพื่อที่จะส่งความทรงจำย้อนเวลากลับไปในอดีตเหรอ? ฟังขึ้นอยู่นะ จากการที่เรามีความทรงจำจากทุปลูปเวลาที่เราเคยผ่านมา</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3FWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
-		<value>Wait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</value>
+		<value>เดี๋ยวนะ นั่นก็หมายความว่ามีแค่ความทรงจำที่ถูกส่งกลับมา ใช่มั้ย? งั้น... จริงๆเรากำลังอยู่ในลูปเวลาหลายลูปรึเปล่า หรือไม่ใช่?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3FThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-		<value>That’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</value>
+		<value>ลึกซึ้งจัดเลยแฮะ... แบบว่า บางทีจิตสำนึกของเราอาจผ่านลูปเวลาทั้งหมดมา แต่ร่างกายเราไม่ เพราะตามหลักการแล้วลูปนั้นไม่เคยเกิดขึ้น</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3FMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-		<value>Meaning we’re receiving memories of things that will never happen to us. Cool, huh?</value>
+		<value>หมายความว่าเราได้ความทรงจำของสิ่งที่ไม่เคยเกิดขึ้นกับเรามา เจ๋งดีใช่มั้ยล่ะ?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3bRight, you told me earlier that the point of the statues is to send memories back in time. Which I guess makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-		<value>Right, you told me earlier that the point of the statues is to send memories back in time. Which I guess makes sense, considering we both have our memories of every loop we’ve gone through.</value>
+		<value>อ๋อใช่, นายบอกฉันมาก่อนหน้าที่ว่าจุดประสงค์ของรูปปั้นพวกนี้คือเพื่อส่งความทรงจำกลับไปในอดีต ซึ่งฉันก็คิดว่ามันสมเหตุสมผลดีจากการที่เรามีความทรงจำจากทุกลูปที่เราเจอมา</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3bI thought about it some more, and I think that means our minds have gone through all these loops, but we haven’t actually gone through them ourselves.</key>
-		<value>I thought about it some more, and I think that means our minds have gone through all these loops, but we haven’t actually gone through them ourselves.</value>
+		<value>พอฉันคิดดีๆแล้ว ฉันคิดว่านั่นหมายความว่าจิตของเราผ่านลูปเวลาทั้งหมดนั้นแต่ แต่เรายังไม่เคยลูปมาด้วยตัวเองจริงๆ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3bMeaning we’re receiving memories of things that technically will never happen to us. Cool, huh?</key>
-		<value>Meaning we’re receiving memories of things that technically will never happen to us. Cool, huh?</value>
+		<value>หมายความว่าเราได้ความทรงจำของสิ่งที่ไม่เคยเกิดขึ้นกับเรามา เจ๋งดีใช่มั้ยล่ะ?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_3FWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
-		<value>Whoa, that’s the cannon breaking apart at the start of each time loop? For real?</value>
+		<value>โว้ว แสงวาบๆพวกนั้นคือเครื่องยิงที่พังออกมาเป็นชิ้นๆ ตอนเริ่มลูปทุกลูปงั้นเหรอ? จริงเหรอเนี่ย?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_3FDid you figure out why?</key>
-		<value>Did you figure out why?</value>
+		<value>นายรู้หรือยังว่าทำไม?</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething4_3FToo much power.</key>
-		<value>Too much power.</value>
+		<value>พลังงานมากเกินไป</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething4_3FOverenthusiasm.</key>
-		<value>Overenthusiasm.</value>
+		<value>ความกระตือรือร้นที่มากเกินไป</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_3F...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-		<value>...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</value>
+		<value>...น่ากลัวอยู่นะที่ฟังดูเหมือนสิ่งที่สเลธหรือเฟลด์สปาร์จะทำอยู่เหมือนกัน ฉันค่อนข้างจะแปลกใจที่ไนโมก็สร้างบางอย่างที่พังได้ด้วยแฮะ!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_3FCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
-		<value>Come to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</value>
+		<value>พอคิดอีกที “พัง” ดูจะไม่ใช่คำที่เหมาะสมเท่าไหร่ ยังไงเครื่องยิงโพรบอวกาศมันก็ยิงออกไปสำเร็จทุกครั้งในตอนที่เริ่มลูปจริงๆแหละ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3FSo the cannon breaks apart right after it launches, huh. Explains what I’m seeing fall from the sky every loop.</key>
-		<value>So the cannon breaks apart right after it launches, huh. Explains what I’m seeing fall from the sky every loop.</value>
+		<value>งั้นเครื่องยิงนั่นก็แตกเป็นชิ้นๆทุกครั้งที่มันยิงสินะ อธิบายได้ว่าทำไมฉันถึงเห็นอะไรตกจากท้องฟ้าทุกลูปเลย</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3FI’m still surprised the Nomai built something that isn’t holding together, you know? Them being genius crafters and all.</key>
-		<value>I’m still surprised the Nomai built something that isn’t holding together, you know? Them being genius crafters and all.</value>
+		<value>ฉันยังแปลกใจอยู่เลยที่ว่าพวกโนไมสร้างอะไรของมาแล้วมันดันพัง พวกนั้นเป็นถึงช่างฝีมืออัจฉริยะเลยนะ นายพอจะเข้าใจฉันมั้ย?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3FOn the other hand, maybe we should be impressed they made something that could last until modern day in the first place. And it looks like the cannon is still firing successfully at the start of each time loop.</key>
-		<value>On the other hand, maybe we should be impressed they made something that could last until modern day in the first place. And it looks like the cannon is still firing successfully at the start of each time loop.</value>
+		<value>แต่ในอีกแง่ แค่ของที่พวกเขาสร้างมายังทนอยู่จนถึงยุคเราก็น่าทึ่งแล้วแหละ แถวเครื่องยิงนั่นดูเหมือนจะยิงสำเร็จทุกครั้งที่ลูปใหม่อีกตั้งหาก</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5_3FYeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</key>
-		<value>Yeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</value>
+		<value>ออใช่ อันที่อยู่ในป่า ฉันจำได้อยู่ว่าฉันเป็นคนแต่งเอง สนุกดีใช่มั้ยล่ะ? มันออกมาเป็นอาขยาน 24 บทที่ดีเลยนะถ้าให้ฉันพูดน่ะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5_3FWhen I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up and scares the daylights out of you.</key>
-		<value>When I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up and scares the daylights out of you.</value>
+		<value>ถ้าฉันเลิกสำรวจเมื่อใหร่ละก็น่ะ ฉันอยากจะไปสร้างงานศิลปะเชิงควอนตัม อาจจะเป็นรูปปั้นอะไรสักอย่างที่จู่ๆก็โผล่มาหลอกให้คนให้หัวใจวายไปเลยอะไรแบบนั้น</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6AgainYeah, you mentioned that before. Did I look busy in it? I hope I looked busy.</key>
-		<value>Yeah, you mentioned that before. Did I look busy in it? I hope I looked busy.</value>
+		<value>ออใช่ นายเคยบอกเรื่องนี้กับฉันอยู่ ในรูปฉันดูยุ่งมั้ย หวังว่าฉันจะดูยุ่งอยู่นะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6BaseNice. Did I look busy in it? I hope I looked busy.</key>
-		<value>Nice. Did I look busy in it? I hope I looked busy.</value>
+		<value>เจ๋ง ในรูปฉันดูยุ่งมั้ย หวังว่าฉันจะดูยุ่งอยู่นะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6Must have been from the time Hornfels sent me to check on the deep space satellite. They thought Ol’ Spacey might be malfunctioning, but I couldn’t find a single thing wrong with it.</key>
-		<value>Must have been from the time Hornfels sent me to check on the deep space satellite. They thought Ol’ Spacey might be malfunctioning, but I couldn’t find a single thing wrong with it.</value>
+		<value>น่าจะเป็นตอนที่ฮอร์นเฟลส์ส่งฉันไปตรวจสอบดาวเทียม Deep Space แน่เลย พวกเขานึกว่า "ปู่ Spacey" อาจทำงานผิดปกติน่ะ แต่ฉันก็ไม่เห็นจะเจออะไรผิดปกติสักอย่างเลยนะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6Which is probably how it got a shot of my beautiful be-helmeted face, come to think of it.</key>
-		<value>Which is probably how it got a shot of my beautiful be-helmeted face, come to think of it.</value>
+		<value>คิดดูอีกที นั่นก็น่าจะเป็นสาเหตุที่มันถ่ายรูปติดหน้าสวยๆ ของฉันที่ใส่หมวกอวกาศได้</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6I always thought it was kinda sweet that the best way to find Ol’ Spacey is to use a map that’s generated by the satellite itself, isn’t it? Like it’s inviting us to visit. Good ol’ deep space satellite, always making sure we know where we’re going.</key>
-		<value>I always thought it was kinda sweet that the best way to find Ol’ Spacey is to use a map that’s generated by the satellite itself, isn’t it? Like it’s inviting us to visit. Good ol’ deep space satellite, always making sure we know where we’re going.</value>
+		<value>ฉันคิดเสมอเลยว่ามันน่ารักดีนะที่วิธีในการหา "ปู่ Spacey" คือการที่ใช้แผนที่ที่มาจากดาวเทียมเอง ใช่มั้ยล่ะ? เหมือนปู่กำลังเชื้อเชิญให้เราไปเยี่ยมเลย ปู่ดาวเทียม Deep Space คอยดูและนำทางเราให้รู้ว่าจะไปที่ไหน</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething6Why’d Hornfels think it was broken?</key>
-		<value>Why’d Hornfels think it was broken?</value>
+		<value>ทำไมฮอร์นเฟลส์ถึงคิดว่ามันพังงั้นเหรอ?</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething6Um. “Ol’ Spacey”?</key>
-		<value>Um. “Ol’ Spacey”?</value>
+		<value>เอ่อ “ปู่ Spacey”?</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething6I have a map?!</key>
-		<value>I have a map?!</value>
+		<value>ฉันมีแผนที่ด้วยเหรอ?!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6aDunno. Hornfels probably told me why, but Hornfels tells me lots of things, and sometimes I tune out. Or pretend there’s signal interference and I can’t hear them.</key>
-		<value>Dunno. Hornfels probably told me why, but Hornfels tells me lots of things, and sometimes I tune out. Or pretend there’s signal interference and I can’t hear them.</value>
+		<value>ไม่รู้สิ ฮอร์นเฟลส์น่าจะบอกฉันแล้วแหละว่าทำไม แต่ฮอร์นเฟลส์บอกฉันหลายเรื่อง และบางทีฉันก็เปลี่ยนสัญญาณ หรือแกล้งทำเป็นว่ามีสัญญาณรบกวนแล้วไม่ได้ยินบ้างก็มี</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6aBest guess says the deep space satellite must have sent Timber Hearth some weird pictures, but like… what’s considered “weird” for a satellite, you know?</key>
-		<value>Best guess says the deep space satellite must have sent Timber Hearth some weird pictures, but like… what’s considered “weird” for a satellite, you know?</value>
+		<value>ที่น่าจะเป็นไปได้ที่สุดก็คือดาวเทียม Deep Space น่าจะส่งรูปอะไรแปลกๆกลับไปยัง Timber Hearth แต่แบบมันมีอะไรบ้างที่ถือว่า "แปลก" สำหรับดาวเทียมล่ะ นายพอจะเข้าใจมั้ย?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6aAnyway, if you ever want to visit Ol’ Spacey, fastest way is to jump into your ship and use your solar system map to lock on to the satellite, same as you would any astral body.</key>
-		<value>Anyway, if you ever want to visit Ol’ Spacey, fastest way is to jump into your ship and use your solar system map to lock on to the satellite, same as you would any astral body.</value>
+		<value>ยังไงก็เถอะ ถ้านายจะไปเยี่ยมปู่ Spacey หน่อยละก็ วิธีที่ไวที่สุดก็คือขึ้นยานของนายแล้วใช้แผนที่ล็อกเป้าหมายไปยังดาวเทียม เหมือนกับที่นายทำกับวัตถุอวกาศอื่นๆนั่นแหละ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6bI mean, the satellite’s not &lt;i&gt;super&lt;/i&gt; old, but it’s hardly brand-new. “Ol’” is more a term of affection. ...You’re being very literal-minded about this.</key>
-		<value>I mean, the satellite’s not &lt;i&gt;super&lt;/i&gt; old, but it’s hardly brand-new. “Ol’” is more a term of affection. ...You’re being very literal-minded about this.</value>
+		<value>ฉันหมายถึง ดาวเทียมนั่นก็ไม่ได้&lt;i&gt;เก่ากึ้ก&lt;/i&gt; แต่ว่าก็ไม่ได้ใหม่ล่ะนะ “ปู่” เป็นคำที่ใช้บอกความชอบซะมากกว่า ...นายคิดตรงความหมายเกินไปนะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6bOl’ Spacey likes visitors, you know! Fastest way to find it is to jump into your ship and use your solar system map to lock on to our faithful satellite friend, same as you would any astral body.</key>
-		<value>Ol’ Spacey likes visitors, you know! Fastest way to find it is to jump into your ship and use your solar system map to lock on to our faithful satellite friend, same as you would any astral body.</value>
+		<value>ปู่ Spacey น่ะชอบคนมาเยี่ยมนะนายรู้มั้ย! วิธีที่ไวที่สุดก็คือขึ้นยานของนายแล้วใช้แผนที่ล็อกเป้าหมายไปยังเพื่อนยากดาวเทียมของเรา เหมือนกับที่นายทำกับวัตถุอวกาศอื่นๆนั่นแหละ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6cYeah, um, the one that’s standard with all our spacesuits? The one you have with you at all times that opens with the press of a button? …That map?</key>
-		<value>Yeah, um, the one that’s standard with all our spacesuits? The one you have with you at all times that opens with the press of a button? …That map?</value>
+		<value>ใช่สิ อ่า อันที่ติดมากับชุดอวกาศของพวกเราทุกคนน่ะ? อันที่ติดตัวกับนายอยู่ตลอดเวลาและเปิดได้ทันทีในหนึ่งปุ่ม? …แผนที่อันนั้นน่ะ?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6cYou didn’t get conked on the head by a rock or a meteorite or something on your way here, did you? No shame in that. Happens to me all the time!</key>
-		<value>You didn’t get conked on the head by a rock or a meteorite or something on your way here, did you? No shame in that. Happens to me all the time!</value>
+		<value>นายไม่ได้หัวชนหินหรืออุกกาบาตระหว่างทางมาใช่มั้ยเนี่ย? ไม่ต้องอายไปหรอกนะ ฉันก็โดนบ่อยเหมือนกัน!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6cIn case you were hit especially hard, don’t forget that you can jump into your ship and use your solar system map to lock on to any astral body. It’s the easiest way to visit Ol’ Spacey, too.</key>
-		<value>In case you were hit especially hard, don’t forget that you can jump into your ship and use your solar system map to lock on to any astral body. It’s the easiest way to visit Ol’ Spacey, too.</value>
+		<value>ในกรณีที่หัวของนายชนกับอะไรสักอย่าง อย่าลืมว่านายสามารถใช้แผนที่ในยานเพื่อล็อกเป้าไปยังวัตถุอวกาศไหนก็ได้นะ แถมนั่นเป็นวิธีที่ง่ายที่สุดในการไปเยี่ยมปู่ Spacey ด้วย</value>
 	</entry>
 	<entry>
 		<key>FoundSomethingExitNo worries. Feel free to let me know when you do find something cool, though. You know where to find me.</key>
-		<value>No worries. Feel free to let me know when you do find something cool, though. You know where to find me.</value>
+		<value>ไม่เป็นไร ไว้นายเจออะไรเจ๋งๆน่าสนใจค่อยมาบอกฉันแล้วกัน นายรู้อยู่แล้วว่าจะไปหาฉันได้ที่ไหน</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_1I was hoping you’d be back - something &lt;i&gt;really&lt;/i&gt; weird is going on.</key>
-		<value>I was hoping you’d be back - something &lt;i&gt;really&lt;/i&gt; weird is going on.</value>
+		<value>ฉันกำลังแอบหวังอยู่เลยว่านายจะมา - อะไรซักอย่างที่แปลก&lt;i&gt;มากๆ&lt;/i&gt;กำลังเกิดขึ้น</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro3T_1Do you think we’re in a time loop?</key>
-		<value>Do you think we’re in a time loop?</value>
+		<value>นายคิดว่าเราอยู่ในลูปเวลามั้ย?</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro3T_1We’re definitely in a time loop.</key>
-		<value>We’re definitely in a time loop.</value>
+		<value>เราติดอยู่ในลูปเวลาแน่ๆล่ะ</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_2Yeah, a time loop makes the most sense, right? Or at least, it’s some kind of fidgety time business. Hard to say what’s happening to the shape of time, exactly, but let’s go with “loop” for now.</key>
-		<value>Yeah, a time loop makes the most sense, right? Or at least, it’s some kind of fidgety time business. Hard to say what’s happening to the shape of time, exactly, but let’s go with “loop” for now.</value>
+		<value>คงจะเป็นอย่างงั้นแหละ ลูปเวลาดูสมเหตุสมผลที่สุดใช่มั้ยล่ะ? หรืออย่างน้อยมันก็เป็นเรื่องเกี่ยวกับเวลาที่ยุ่งเหยิงสักอย่าง บอกได้ยากว่ากำลังเกิดอะไรขึ้นกับรูปร่างของเวลาแต่ "ลูป" ก็ฟังดูเข้าท่าดี</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_3Oh. Yeah, that makes sense. Cool.</key>
-		<value>Oh. Yeah, that makes sense. Cool.</value>
+		<value>โอ้ว โอเค นั่นฟังดูสมเหตุสมผลดี เจ๋ง</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro3T_3You’re taking this pretty well.</key>
-		<value>You’re taking this pretty well.</value>
+		<value>นายรับมือกับเรื่องนี้ได้ดีเลยแฮะ</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro3T_3What did you think it was?</key>
-		<value>What did you think it was?</value>
+		<value>นายคิดว่ามันคืออะไร?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_4Heh, right back at you. Personally, I like new experiences, and I’ve never been in a time loop before.</key>
-		<value>Heh, right back at you. Personally, I like new experiences, and I’ve never been in a time loop before.</value>
+		<value>ฮ่า นายก็เหมือนกันนั่นแหละ สำหรับฉันนะ ฉันค่อนข้างจะชอบประสบการณ์ใหม่นี้เลยล่ะ แถมฉันไม่เคยติดอยู่ในลูปเวลามาก่อนด้วยซ้ำ </value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_4Well. I don’t &lt;i&gt;think&lt;/i&gt; I’ve been in a time loop before this one, but then, it’s not like I can know that for sure.</key>
-		<value>Well. I don’t &lt;i&gt;think&lt;/i&gt; I’ve been in a time loop before this one, but then, it’s not like I can know that for sure.</value>
+		<value>อืม ฉันไม่&lt;i&gt;คิดว่า&lt;/i&gt;ฉันเคยติดอยู่ในลูปเวลามาก่อนหน้านี้ละนะ แต่ก็นั่นแหละ ฉันคงไม่สามารถรู้ได้แน่นอนหรอก</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_5I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</key>
-		<value>I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</value>
+		<value>ฉันคิดว่ามันคงเป็นอะไรบางอย่างยุ่งเหยิงเกี่ยวกับเวลา แต่ฉันก็ไม่ได้คิดว่าเกิดอะไรขึ้นกับ&lt;i&gt;รูปร่าง&lt;/i&gt;ของเวลาน่ะ นายพอจะเข้าใจมั้ย? แต่ "ลูปเวลา" ก็ฟังดูเข้าดี เรียกมันล่า "ลูป" ไปก่อนละกัน</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6So it looks like you and I are the only ones who know we’re in a time loop. And even if you tell them about it, no one remembers by the next loop. What’s with that?</key>
-		<value>So it looks like you and I are the only ones who know we’re in a time loop. And even if you tell them about it, no one remembers by the next loop. What’s with that?</value>
+		<value>ดูเหมือนว่าจะมีแค่นายกับฉันที่รู้ตัวว่าเราติดอยู่ในลูป และต่อให้เราบอกพวกเขา พอลูปหน้าพวกเขาก็ลืมหมดอยู่ดี มันคือยังไงกันแน่?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6Maybe it’s because we both made some seriously intense eye contact with a Nomai statue?</key>
-		<value>Maybe it’s because we both made some seriously intense eye contact with a Nomai statue?</value>
+		<value>บางทีอาจเป็นเพราะเราสองคนไปไปจ้องตาพวกรูปปั้นโนไมอย่างขมักเขม้นรึเปล่า?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6I’m seeing my memories replay each time I die, just like I did when the Nomai statue on the beach opened its eyes and looked at me. So maybe... no glowing statue, no time loop awareness?</key>
-		<value>I’m seeing my memories replay each time I die, just like I did when the Nomai statue on the beach opened its eyes and looked at me. So maybe... no glowing statue, no time loop awareness?</value>
+		<value>ฉันเห็นความทรงจำเล่นซ้ำมาทุกครั้งที่ฉันตาย เหมือนกับตอนที่รูปปั้นโนไมที่ชายหากเปิดตาของมันแล้วจ้องมาที่ฉันเลย แบบก็นั้นก็น่าจะแปลว่า ไม่จ้องรูปปั้นตาเรืองแสง ก็จะไม่รู้ตัวว่าอยู่ในลูปสินะ?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6I think that’s going to be my leading theory, but if you find out anything new about the statues or the time loop, let me know, okay? I’ll be here.</key>
-		<value>I think that’s going to be my leading theory, but if you find out anything new about the statues or the time loop, let me know, okay? I’ll be here.</value>
+		<value>นั่นเป็นทฤษฎีหลักของฉัน แต่ถ้านายเจออะไรใหม่ๆเกี่ยวกับรูปปั้นหรือลูปเวลาก็มาบอกฉันด้วยละกัน ฉันจะอยู่ตรงนี้นี่แหละ</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_SecondaryHey, my time buddy’s back!</key>
-		<value>Hey, my time buddy’s back!</value>
+		<value>เฮ้ คู่หูท่องเวลาของฉันกลับมาแล้ว!</value>
 	</entry>
 	<entry>
 		<key>GabbroMenuSo what’s new?</key>
-		<value>So what’s new?</value>
+		<value>มีอะไรใหม่บ้าง?</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_3TWell, what are any of us doing here, really?</key>
-		<value>Well, what are any of us doing here, really?</value>
+		<value>แล้วจริงๆ เราทั้งสองมาทำอะไรกันที่นี่ล่ะ?</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_3T...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
-		<value>...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</value>
+		<value>...ล้อเล่นน่า ฉันออกมาสำรวจระบบสุริยะของเราเหมือนกับนายนั่นแหละ</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_3TBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
-		<value>But I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</value>
+		<value>บอกอะไรอย่าง อวกาศนี่ทำให้นายมีเวลาคิดอะไรเยอะจริงๆนะ มันเงียบและสงบดี</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_3TI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-		<value>I mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</value>
+		<value>ฉันหมายถึง ปกติมันก็เงียบสงบดีแหละ แต่บางครั้งพายุไซโคลนก็พัดมาแล้วก็พัดเกาะสวรรค์เล็กๆของฉันขึ้นจากน้ำ นั่นก็ไม่สงบเท่าไหร่</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3THere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-		<value>Here’s something you might like — at the start of every time loop, I keep seeing a bright flash in the sky. Something must be happening up there in orbit around the planet.</value>
+		<value>แต่มีบางอย่างที่นายน่าจะชอบนะ - ตอนเริ่มของทุกลูป ฉันชอบเห็นแสงวาบบนท้องฟ้าตลอดเลย มันต้องมีอะไรซักอย่างเกิดขึ้นแถวๆวงโครจรดาวนี้แน่ๆ</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3TWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-		<value>What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</value>
+		<value>อะไรอีกบ้าง... อะไรอีก... นายเคยไปเกาะรูปปั้นมั้ย? นั่นคือชื่อที่ฉันเรียกเกาะนั้น เพราะว่ามันเป็น&lt;i&gt;เกาะ&lt;/i&gt;ที่ฉันเจอ&lt;i&gt;รูปปั้น&lt;/i&gt;โนไมที่ตาเรืองแสงที่นั่น &lt;Pause&gt; ...นายพอจะเก็ตใช่มั้ย?</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3TI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-		<value>I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</value>
+		<value>ฉันกำลังเดินเล่นแถวชายหาดบนเกาะรูปปั้นตอนที่เกิดเรื่องรูปปั้นเรืองแรงพวกนั้นเกิดขึ้นน่ะถ้านายอยากรู้ เป็นชายหาดที่ดีที่จะเกิดเรื่องแบบนั้นขึ้นอยู่ ฉันให้ 7 เต็ม 10 จากสเกลความสบายฉบับแก็บโบรเลย</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3TIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-		<value>If you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</value>
+		<value>ถ้านายอยากจะไปสำรวจเกาะรูปปั้นล่ะก็ มันคือเกาะสองเกาะที่มีซุ้มหินเชื่อมอยู่ตรงกลางน่ะ เอ่อ... เชื่อมกันส่วนมากนั่นแหละ เดี๋ยวนายก็เห็นเองแหละ</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3THaha, I know, right?</key>
-		<value>Haha, I know, right?</value>
+		<value>ฮะฮ่า ใช่มั้ยล่ะ?</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3T...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-		<value>...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</value>
+		<value>...โอ้ นายหมายถึงแบบ ให้ฉันอธิบายเพิ่มเหรอ? ได้อยู่แล้ว Giant’s Deep น่ะใหญ่มาก พื้นผิวเป็นน้ำซะส่วนใหญ่ นายรู้เรื่องพวกนี้อยู่แล้ว</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3TThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>There’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</value>
+		<value>มันมีกระแสน้ำที่แรงมากอยู่ข้างล้างพื้นผิวของดาวที่จะกันไม่ให้อะไรก็ตามจมลงไปลึกกว่านั้น ฉันพูดจริงนะ ฉันพยายามทุกวิถีทางที่จะทะลุมันไป แต่ไม่มีอะไรได้ผลเลย</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3TAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>As for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</value>
+		<value>ส่วนเรื่องพื้นดิน ฉันนับได้ประมาณสี่เกาะรวมเกาะนี้ แล้วก็รวมเกาะที่มีรูปปั้นไนโมที่ฉันเจอบนชายหาดด้วย</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3TYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</key>
-		<value>You’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</value>
+		<value>นายเห็นพายุไซโคลนแล้วใช่มั้ย? ใช่แหละ ค่อนข้างจะยากที่จะไม่เห็นมัน พวกมันจะพัดทุกอย่างที่ขวางหน้าขึ้นไป รวมถึงเกาะด้วย คำแนะนำเล็กๆ น้อยๆ จากฉันนะ - ถ้านายถูกพัดขึ้นไป พยายามเล็งลงในน้ำนะ โอกาสตายน้อยกว่า</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1_3TSo the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</key>
-		<value>So the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</value>
+		<value>โนไมสร้างรูปปั้นพวกนี้มาเพื่อบันทึกความทรงจำงั้นเหรอ หืม? ...ฟังดูเหมือนเป็นสิ่งที่โนไมจะสร้างอยู่ ไม่แน่ใจว่าทำไม แต่ฟังดูเป็นแนวของพวกเขาดี</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1_3TDo you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</key>
-		<value>Do you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</value>
+		<value>นายคิดว่ารูปปั้นพวกนี้กำลังอัดความทรงจำของพวกเราเก็บไว้งั้นสินะ? เพราะฉันจำได้ว่าตัวนึงที่ชายหาดมองมาที่ฉันแปลกๆ นั่นต้องเป็นคู่หู-ทรงจำฉันแน่ๆเลย!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3TWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-		<value>Wait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</value>
+		<value>เดี๋ยวนะ โว้ว จริงเหรอ? พวกโนไมขุด Ash Twin แล้วก็สร้างอุปกรณ์ลูปเวลาไว้ด้านใน? ...นี่มัน&lt;i&gt;สุดยอด&lt;/i&gt;เลยแฮะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3TNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-		<value>Now we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</value>
+		<value>เรารู้แล้วว่าอะไรเป็นตัวการทำให้เกิดลูปแล้ว... ถ้ามันเกิดจากอุปกรณ์ของไนโม แสดงว่ามันต้องถูกเปิดใช้งานอยู่สินะ? อืม...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3THey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-		<value>Hey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</value>
+		<value>เฮ้ นายคิดว่าจะเกิดอะไรขึ้นถ้านายปิดลูปเวลาไปเลย? แบบ ส่วนนึงของฉันก็คิดว่านายอาจไม่ควรปิดมัน เพราะด้วยเรื่องดวงอาทิตย์ระเบิดอะไรนั่นแล้วก็อย่างอื่นอีก</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3TThen again, who wants to spend eternity being blown up by the sun?</key>
-		<value>Then again, who wants to spend eternity being blown up by the sun?</value>
+		<value>แต่ก็นั่นแหละ ใครจะอยากใช้ชีวิตตลอดกาลไปเพื่อตายเพราะดวงอาทิตย์ระเบิดซ้ำๆกันล่ะ?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3T...I dunno, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-		<value>...I dunno, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</value>
+		<value>...ไม่รู้สิ ฉันไม่ใช่ผู้เชี่ยวชาญเรื่องลูปเวลาด้วยสิ ฉันจะนั่งอยู่ตรงนี้และคิดเรื่องเปื่อยถึงความซับซ้อนของเวลาและอวกาศละกัน เผลอๆฉันอาจงีบด้วยสักหน่อยถ้าใจมันสั่งมา</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-		<value>You’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</value>
+		<value>นายกำลังจะบอกว่ารูปปั้นพวกนี้สร้างขึ้นมาเพื่อที่จะส่งความทรงจำย้อนเวลากลับไปในอดีตเหรอ? ฟังขึ้นอยู่นะ จากการที่เรามีความทรงจำจากทุปลูปเวลาที่เราเคยผ่านมา</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
-		<value>Wait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</value>
+		<value>เดี๋ยวนะ นั่นก็หมายความว่ามีแค่ความทรงจำที่ถูกส่งกลับมา ใช่มั้ย? งั้น... จริงๆเรากำลังอยู่ในลูปเวลาหลายลูปรึเปล่า หรือไม่ใช่?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-		<value>That’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</value>
+		<value>ลึกซึ้งจัดเลยแฮะ... แบบว่า บางทีจิตสำนึกของเราอาจผ่านลูปเวลาทั้งหมดมา แต่ร่างกายเราไม่ เพราะตามหลักการแล้วลูปนั้นไม่เคยเกิดขึ้น</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-		<value>Meaning we’re receiving memories of things that will never happen to us. Cool, huh?</value>
+		<value>หมายความว่าเราได้ความทรงจำของสิ่งที่ไม่เคยเกิดขึ้นกับเรามา เจ๋งดีใช่มั้ยล่ะ?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_3TWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
-		<value>Whoa, that’s the cannon breaking apart at the start of each time loop? For real?</value>
+		<value>โว้ว แสงวาบๆพวกนั้นคือเครื่องยิงที่พังออกมาเป็นชิ้นๆ ตอนเริ่มลูปทุกลูปงั้นเหรอ? จริงเหรอเนี่ย?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_3TDid you figure out why?</key>
-		<value>Did you figure out why?</value>
+		<value>นายรู้หรือยังว่าทำไม?</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething4_3TToo much power.</key>
-		<value>Too much power.</value>
+		<value>พลังงานมากเกินไป</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething4_3TOverenthusiasm.</key>
-		<value>Overenthusiasm.</value>
+		<value>ความกระตือรือร้นที่มากเกินไป</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_3T...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-		<value>...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</value>
+		<value>..น่ากลัวอยู่นะที่ฟังดูเหมือนสิ่งที่สเลธหรือเฟลด์สปาร์จะทำอยู่เหมือนกัน ฉันค่อนข้างจะแปลกใจที่ไนโมก็สร้างบางอย่างที่พังได้ด้วยแฮะ!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_3TCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
-		<value>Come to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</value>
+		<value>พอคิดอีกที “พัง” ดูจะไม่ใช่คำที่เหมาะสมเท่าไหร่ ยังไงเครื่องยิงโพรบอวกาศมันก็ยิงออกไปสำเร็จทุกครั้งในตอนที่เริ่มลูปจริงๆแหละ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3TSo the cannon breaks apart right after it launches, huh. Explains what I’m seeing fall from the sky every loop.</key>
-		<value>So the cannon breaks apart right after it launches, huh. Explains what I’m seeing fall from the sky every loop.</value>
+		<value>งั้นเครื่องยิงนั่นก็แตกเป็นชิ้นๆทุกครั้งที่มันยิงสินะ อธิบายได้ว่าทำไมฉันถึงเห็นอะไรตกจากท้องฟ้าทุกลูปเลย</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3TI’m still surprised the Nomai built something that isn’t holding together, you know? Them being genius crafters and all.</key>
-		<value>I’m still surprised the Nomai built something that isn’t holding together, you know? Them being genius crafters and all.</value>
+		<value>ฉันยังแปลกใจอยู่เลยที่ว่าพวกโนไมสร้างอะไรของมาแล้วมันดันพัง พวกนั้นเป็นถึงช่างฝีมืออัจฉริยะเลยนะ นายพอจะเข้าใจฉันมั้ย?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3TOn the other hand, maybe we should be impressed they made something that could last until modern day in the first place. And it looks like the cannon is still firing successfully at the start of each time loop.</key>
-		<value>On the other hand, maybe we should be impressed they made something that could last until modern day in the first place. And it looks like the cannon is still firing successfully at the start of each time loop.</value>
+		<value>แต่ในอีกแง่ แค่ของที่พวกเขาสร้างมายังทนอยู่จนถึงยุคเราก็น่าทึ่งแล้วแหละ แถวเครื่องยิงนั่นดูเหมือนจะยิงสำเร็จทุกครั้งที่ลูปใหม่อีกตั้งหาก</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5_3TYeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</key>
-		<value>Yeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</value>
+		<value>ออใช่ อันที่อยู่ในป่า ฉันจำได้อยู่ว่าฉันเป็นคนแต่งเอง สนุกดีใช่มั้ยล่ะ? มันออกมาเป็นอาขยาน 24 บทที่ดีเลยนะถ้าให้ฉันพูดน่ะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5_3TWhen I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up and scares the daylights out of you.</key>
-		<value>When I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up and scares the daylights out of you.</value>
+		<value>ถ้าฉันเลิกสำรวจเมื่อใหร่ละก็น่ะ ฉันอยากจะไปสร้างงานศิลปะเชิงควอนตัม อาจจะเป็นรูปปั้นอะไรสักอย่างที่จู่ๆก็โผล่มาหลอกให้คนให้หัวใจวายไปเลยอะไรแบบนั้น</value>
 	</entry>
 	<entry>
 		<key>GabbroMainHey, time pal! Nice weather we’re having, huh? &lt;Pause/&gt;...Wait. Have I used that one before?</key>
-		<value>Hey, time pal! Nice weather we’re having, huh? &lt;Pause /&gt;...Wait. Have I used that one before?</value>
+		<value>ว่าไง คู่หูทะลุเวลาของฉัน! อากาศดีจังเลยเนอะ?&lt;Pause /&gt;...เดี๋ยวนะ ฉันเคยพูดอันนี้ไปรึยังนะ?</value>
 	</entry>
 	<entry>
 		<key>GabbroMainIf it isn’t my time buddy! How’s space treating you this loop?</key>
-		<value>If it isn’t my time buddy! How’s space treating you this loop?</value>
+		<value>จะเป็นใครกันล่ะถ้าไม่ใช่เพื่อนซี้ข้ามกาลเวลาของฉัน! อวกาศเป็นยังไงบ้างในลูปนี้ล่ะ?</value>
 	</entry>
 	<entry>
 		<key>GabbroMainHeyo, time buddy. It’s a good thing I never get bored of rain, huh?</key>
-		<value>Heyo, time buddy. It’s a good thing I never get bored of rain, huh?</value>
+		<value>ฮัลโล คู่หูข้ามกาลเวลา ดีนะที่ฉันยังไม่เริ่มที่จะเบื่อฝน ใช่มั้ยล่ะ?</value>
 	</entry>
 	<entry>
 		<key>GabbroMainYou know, I kind of wish I’d built a hammock here before we ended up in this time loop.</key>
-		<value>You know, I kind of wish I’d built a hammock here before we ended up in this time loop.</value>
+		<value>นายรู้อะไรมั้ย ฉันค่อนข้างจะหวังว่าฉันจะสร้างเปลญวนนี่ก่อนที่ฉันจะติดอยู่ในลูปเวลาเหมือนกันนะ</value>
 	</entry>
 	<entry>
 		<key>GabbroMainA few loops ago, a cyclone came by and tossed my little island into space. Dying like that was kind of unpleasant.</key>
-		<value>A few loops ago, a cyclone came by and tossed my little island into space. Dying like that was kind of unpleasant.</value>
+		<value>ไม่กี่ลูปที่แล้ว มีไซโคลนเข้ามาพัดเกาะของฉันขึ้นไปบนอวกาศล่ะ การตายแบบนั้นมันค่อนข้างจะไม่สบายเท่าไหร่</value>
 	</entry>
 	<entry>
 		<key>GabbroMain_SecondaryHello again. ...Again.</key>
-		<value>Hello again. ...Again.</value>
+		<value>สวัสดีอีกครั้งนะ ...อีกครั้ง</value>
 	</entry>
 	<entry>
 		<key>GabbroMenuWhat’s up?</key>
-		<value>What’s up?</value>
+		<value>มีอะไรงั้นเหรอ?</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbroMenuHow do you stay so calm in the face of repeated impending death?</key>
-		<value>How do you stay so calm in the face of repeated impending death?</value>
+		<value>ทำไมนายถึงใจเย็นได้ขนาดนี้ในเมื่อต้องเจอกับการตายที่ใกล้เข้ามาซ้ำๆเรื่อยๆล่ะ?</value>
 	</entry>
 	<entry>
 		<key>HowDoYouStayCalmDeep breaths... no, seriously, I meditate.</key>
-		<value>Deep breaths... no, seriously, I meditate.</value>
+		<value>หายใจเข้าลึกๆ... ไม่ๆ ฉันพูดจริง ฉันนั่งสมาธิน่ะ</value>
 	</entry>
 	<entry>
 		<key>MeditateMenuWant me to teach you? It'll be the next loop before you know it.</key>
-		<value>Want me to teach you? It'll be the next loop before you know it.</value>
+		<value>ให้ฉันสอนให้มั้ยล่ะ? ลูปต่อไปจะเกิดขึ้นก่อนที่นายจะรู้ตัวซะอีก</value>
 	</entry>
 	<entry>
 		<key>GabbroMeditateMenuSure, why not.</key>
-		<value>Sure, why not.</value>
+		<value>เอาสิ</value>
 	</entry>
 	<entry>
 		<key>GabbroMeditateMenuNah, I'm good.</key>
-		<value>Nah, I'm good.</value>
+		<value>เอ ไม่เป็นไรล่ะ</value>
 	</entry>
 	<entry>
 		<key>YesMeditateOk, close your eyes...</key>
-		<value>Ok, close your eyes...</value>
+		<value>โอเค หลับตาของนายลงนะ...</value>
 	</entry>
 	<entry>
 		<key>NoMeditateOk, let me know if you change your mind. Time flies when you're in a deep, meditative trance.</key>
-		<value>Ok, let me know if you change your mind. Time flies when you're in a deep, meditative trance.</value>
+		<value>โอเค นายเปลี่ยนใจเมื่อไหร่ก็กลับมาหาฉันล่ะ เวลาผ่านไปไวมากตอนนายอยู่ในภวังค์นะ</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_mergeWell, what are any of us doing here, really?</key>
-		<value>Well, what are any of us doing here, really?</value>
+		<value>แล้วจริงๆ เราทั้งสองมาทำอะไรกันที่นี่ล่ะ?</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_merge...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
-		<value>...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</value>
+		<value>..ล้อเล่นน่า ฉันออกมาสำรวจระบบสุริยะของเราเหมือนกับนายนั่นแหละ</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_mergeBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
-		<value>But I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</value>
+		<value>บอกอะไรอย่าง อวกาศนี่ทำให้นายมีเวลาคิดอะไรเยอะจริงๆนะ มันเงียบและสงบดี</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_mergeI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-		<value>I mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</value>
+		<value>ฉันหมายถึง ปกติมันก็เงียบสงบดีแหละ แต่บางครั้งพายุไซโคลนก็พัดมาแล้วก็พัดเกาะสวรรค์เล็กๆของฉันขึ้นจากน้ำ นั่นก็ไม่สงบเท่าไหร่</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_mergeHere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-		<value>Here’s something you might like — at the start of every time loop, I keep seeing a bright flash in the sky. Something must be happening up there in orbit around the planet.</value>
+		<value>แต่มีบางอย่างที่นายน่าจะชอบนะ - ตอนเริ่มของทุกลูป ฉันชอบเห็นแสงวาบบนท้องฟ้าตลอดเลย มันต้องมีอะไรซักอย่างเกิดขึ้นแถวๆวงโครจรดาวนี้แน่ๆ</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_mergeWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-		<value>What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</value>
+		<value>อะไรอีกบ้าง... อะไรอีก... นายเคยไปเกาะรูปปั้นมั้ย? นั่นคือชื่อที่ฉันเรียกเกาะนั้น เพราะว่ามันเป็น&lt;i&gt;เกาะ&lt;/i&gt;ที่ฉันเจอ&lt;i&gt;รูปปั้น&lt;/i&gt;โนไมที่ตาเรืองแสงที่นั่น &lt;Pause&gt; ...นายพอจะเก็ตใช่มั้ย?</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_mergeI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-		<value>I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</value>
+		<value>ฉันกำลังเดินเล่นแถวชายหาดบนเกาะรูปปั้นตอนที่เกิดเรื่องรูปปั้นเรืองแรงพวกนั้นเกิดขึ้นน่ะถ้านายอยากรู้ เป็นชายหาดที่ดีที่จะเกิดเรื่องแบบนั้นขึ้นอยู่ ฉันให้ 7 เต็ม 10 จากสเกลความสบายฉบับแก็บโบรเลย</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_mergeIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-		<value>If you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</value>
+		<value>ถ้านายอยากจะไปสำรวจเกาะรูปปั้นล่ะก็ มันคือเกาะสองเกาะที่มีซุ้มหินเชื่อมอยู่ตรงกลางน่ะ เอ่อ... เชื่อมกันส่วนมากนั่นแหละ เดี๋ยวนายก็เห็นเองแหละ</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_mergeHaha, I know, right?</key>
-		<value>Haha, I know, right?</value>
+		<value>ฮะฮ่า ใช่มั้ยล่ะ?</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_merge...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-		<value>...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</value>
+		<value>..โอ้ นายหมายถึงแบบ ให้ฉันอธิบายเพิ่มเหรอ? ได้อยู่แล้ว Giant’s Deep น่ะใหญ่มาก พื้นผิวเป็นน้ำซะส่วนใหญ่ นายรู้เรื่องพวกนี้อยู่แล้ว</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_mergeThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>There’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</value>
+		<value>มันมีกระแสน้ำที่แรงมากอยู่ข้างล้างพื้นผิวของดาวที่จะกันไม่ให้อะไรก็ตามจมลงไปลึกกว่านั้น ฉันพูดจริงนะ ฉันพยายามทุกวิถีทางที่จะทะลุมันไป แต่ไม่มีอะไรได้ผลเลย</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_mergeAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>As for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</value>
+		<value>ส่วนเรื่องพื้นดิน ฉันนับได้ประมาณสี่เกาะรวมเกาะนี้ แล้วก็รวมเกาะที่มีรูปปั้นไนโมที่ฉันเจอบนชายหาดด้วย</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_mergeYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
-		<value>You’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</value>
+		<value>นายเห็นพายุไซโคลนแล้วใช่มั้ย? ใช่แหละ ค่อนข้างจะยากที่จะไม่เห็นมัน พวกมันจะพัดทุกอย่างที่ขวางหน้าขึ้นไป รวมถึงเกาะด้วย คำแนะนำเล็กๆ น้อยๆ จากฉันนะ - ถ้านายถูกพัดขึ้นไป พยายามเล็งลงในน้ำนะ โอกาสตายน้อยกว่า</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1_mergeSo the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</key>
-		<value>So the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</value>
+		<value>โนไมสร้างรูปปั้นพวกนี้มาเพื่อบันทึกความทรงจำงั้นเหรอ หืม? ...ฟังดูเหมือนเป็นสิ่งที่โนไมจะสร้างอยู่ ไม่แน่ใจว่าทำไม แต่ฟังดูเป็นแนวของพวกเขาดี</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1_mergeDo you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</key>
-		<value>Do you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</value>
+		<value>นายคิดว่ารูปปั้นพวกนี้กำลังอัดความทรงจำของพวกเราเก็บไว้งั้นสินะ? เพราะฉันจำได้ว่าตัวนึงที่ชายหาดมองมาที่ฉันแปลกๆ นั่นต้องเป็นคู่หู-ทรงจำฉันแน่ๆเลย!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-		<value>Wait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</value>
+		<value>เดี๋ยวนะ โว้ว จริงเหรอ? พวกโนไมขุด Ash Twin แล้วก็สร้างอุปกรณ์ลูปเวลาไว้ด้านใน? ...นี่มัน&lt;i&gt;สุดยอด&lt;/i&gt;เลยแฮะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-		<value>Now we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</value>
+		<value>เรารู้แล้วว่าอะไรเป็นตัวการทำให้เกิดลูปแล้ว... ถ้ามันเกิดจากอุปกรณ์ของไนโม แสดงว่ามันต้องถูกเปิดใช้งานอยู่สินะ? อืม...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeHey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-		<value>Hey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</value>
+		<value>เฮ้ นายคิดว่าจะเกิดอะไรขึ้นถ้านายปิดลูปเวลาไปเลย? แบบ ส่วนนึงของฉันก็คิดว่านายอาจไม่ควรปิดมัน เพราะด้วยเรื่องดวงอาทิตย์ระเบิดอะไรนั่นแล้วก็อย่างอื่นอีก</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeThen again, who wants to spend eternity being blown up by the sun?</key>
-		<value>Then again, who wants to spend eternity being blown up by the sun?</value>
+		<value>แต่ก็นั่นแหละ ใครจะอยากใช้ชีวิตตลอดกาลไปเพื่อตายเพราะดวงอาทิตย์ระเบิดซ้ำๆกันล่ะ?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeWell, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-		<value>Well, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</value>
+		<value>เอาล่ะ ฉันไม่ใช่ผู้เชี่ยวชาญเรื่องลูปเวลาด้วยสิ เพราะงั้นฉันจะนั่งอยู่ตรงนี้และคิดเรื่องเปื่อยถึงความซับซ้อนของเวลาและอวกาศละกัน เผลอๆฉันอาจงีบด้วยสักหน่อยถ้าใจมันสั่งมา</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-		<value>You’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</value>
+		<value>นายกำลังจะบอกว่ารูปปั้นพวกนี้สร้างขึ้นมาเพื่อที่จะส่งความทรงจำย้อนเวลากลับไปในอดีตเหรอ? ฟังขึ้นอยู่นะ จากการที่เรามีความทรงจำจากทุปลูปเวลาที่เราเคยผ่านมา</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
-		<value>Wait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</value>
+		<value>เดี๋ยวนะ นั่นก็หมายความว่ามีแค่ความทรงจำที่ถูกส่งกลับมา ใช่มั้ย? งั้น... จริงๆเรากำลังอยู่ในลูปเวลาหลายลูปรึเปล่า หรือไม่ใช่?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-		<value>That’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</value>
+		<value>ลึกซึ้งจัดเลยแฮะ... แบบว่า บางทีจิตสำนึกของเราอาจผ่านลูปเวลาทั้งหมดมา แต่ร่างกายเราไม่ เพราะตามหลักการแล้วลูปนั้นไม่เคยเกิดขึ้น</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-		<value>Meaning we’re receiving memories of things that will never happen to us. Cool, huh?</value>
+		<value>หมายความว่าเราได้ความทรงจำของสิ่งที่ไม่เคยเกิดขึ้นกับเรามา เจ๋งดีใช่มั้ยล่ะ?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_mergeWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
-		<value>Whoa, that’s the cannon breaking apart at the start of each time loop? For real?</value>
+		<value>โว้ว แสงวาบๆพวกนั้นคือเครื่องยิงที่พังออกมาเป็นชิ้นๆ ตอนเริ่มลูปทุกลูปงั้นเหรอ? จริงเหรอเนี่ย?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_mergeDid you figure out why?</key>
-		<value>Did you figure out why?</value>
+		<value>นายรู้หรือยังว่าทำไม?</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething4_mergeToo much power.</key>
-		<value>Too much power.</value>
+		<value>พลังงานมากเกินไป</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething4_mergeOverenthusiasm.</key>
-		<value>Overenthusiasm.</value>
+		<value>ความกระตือรือร้นที่มากเกินไป</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_merge...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-		<value>...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</value>
+		<value>...น่ากลัวอยู่นะที่ฟังดูเหมือนสิ่งที่สเลธหรือเฟลด์สปาร์จะทำอยู่เหมือนกัน ฉันค่อนข้างจะแปลกใจที่ไนโมก็สร้างบางอย่างที่พังได้ด้วยแฮะ!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_mergeCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
-		<value>Come to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</value>
+		<value>พอคิดอีกที “พัง” ดูจะไม่ใช่คำที่เหมาะสมเท่าไหร่ ยังไงเครื่องยิงโพรบอวกาศมันก็ยิงออกไปสำเร็จทุกครั้งในตอนที่เริ่มลูปจริงๆแหละ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5_mergeOh yeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</key>
-		<value>Oh yeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</value>
+		<value>ออใช่ อันที่อยู่ในป่า ฉันจำได้อยู่ว่าฉันเป็นคนแต่งเอง สนุกดีใช่มั้ยล่ะ? มันออกมาเป็นอาขยาน 24 บทที่ดีเลยนะถ้าให้ฉันพูดน่ะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5_mergeWhen I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up while your back is turned and scares the daylights out of you.</key>
-		<value>When I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up while your back is turned and scares the daylights out of you.</value>
+		<value>ถ้าฉันเลิกสำรวจเมื่อใหร่ละก็น่ะ ฉันอยากจะไปสร้างงานศิลปะเชิงควอนตัม อาจจะเป็นรูปปั้นอะไรสักอย่างที่จู่ๆก็โผล่มาหลอกให้คนให้หัวใจวายไปเลยอะไรแบบนั้น</value>
 	</entry>
 	<entry>
 		<key>RECORDING</key>
-		<value>RECORDING</value>
+		<value>บันทึกเสียง</value>
 	</entry>
 	<entry>
 		<key>RecordingGabbro here, checking in on the deep space satellite per ground control's request to check out a possible equipment problem. See, Hornfels? I do too work!</key>
-		<value>Gabbro here, checking in on the deep space satellite per ground control's request to check out a possible equipment problem. See, Hornfels? I do too work!</value>
+		<value>นี่แก็บโบรนะ ฉันมาตรวจสอบสภาพของดาวเทียม Deep Space เพื่อตรวจสอบปัญหาอุปกรณ์ที่อาจเกิดขึ้นตามคำขอของศูนย์ควบคุมภาพพื้นดิน เห็นมั้ยล่ะ ฮอร์นเฟลส์ ฉันก็ทำงานเป็นเหมือนกันนะ!</value>
 	</entry>
 	<entry>
 		<key>RecordingYou know, I wouldn’t mind being a satellite. It's peaceful out here, among the distant stars and the soft, velvety darkness… Bet it's (yawn) awfully nice for naps, too...</key>
-		<value>You know, I wouldn’t mind being a satellite. It's peaceful out here, among the distant stars and the soft, velvety darkness… Bet it's (yawn) awfully nice for naps, too...</value>
+		<value>รู้อะไรมั้ย ฉันคิดว่าเป็นดาวเทียมก็ไม่ได้แย่นะ ที่นี่ก็เงียบสงบดี ท่านกลางดวงดาวอันไกลโพ้นและความมืดมุดที่นุ่มนวลรวกับกำมะหยี่... พนันได้เลยว่า(หาว)น่าจะเหมาะกับการงีบสุดๆ...</value>
 	</entry>
 	<entry>
 		<key>Recording...</key>
@@ -2591,163 +2591,163 @@
 	</entry>
 	<entry>
 		<key>RecordingOh, right. The lens.</key>
-		<value>Oh, right. The lens.</value>
+		<value>โอ้ ใช่ๆ เรื่องเลนส์</value>
 	</entry>
 	<entry>
 		<key>RecordingAlright, little satellite, let's see what the trouble is.</key>
-		<value>Alright, little satellite, let's see what the trouble is.</value>
+		<value>เอาล่ะ ดาวเทียมตัวจ้อย ไหนดูสิว่านายเป็นอะไร</value>
 	</entry>
 	<entry>
 		<key>Recording...Huh. Everything looks a-okay, ground control. No dust or scratches on the lens, and no evidence of sparking or violent explosions. Guess that rules out an equipment malfunction, after all.</key>
-		<value>...Huh. Everything looks a-okay, ground control. No dust or scratches on the lens, and no evidence of sparking or violent explosions. Guess that rules out an equipment malfunction, after all.</value>
+		<value>...หืม ทุกอย่างดูปกติดีนะ ศูนย์ควบคุมภาคพื้นดิน ไม่มีฝุ่นหรือรอยขีดข่วนอะไรบนเลนส์ ไม่มีร่องรอยของการเกิดประกายไฟหรืออะไรระเบิด สรุปว่าไม่ใช่ความผิดปกติของอุปกรณ์ละน่ะ</value>
 	</entry>
 	<entry>
 		<key>RecordingHear that, pal? You’re in great shape. Keep up the good work out here!</key>
-		<value>Hear that, pal? You’re in great shape. Keep up the good work out here!</value>
+		<value>ได้ยินมั้ยล่ะ พวก? นายสุขภาพดีสุดๆเลย ทำงานอย่างขยันขันแข็งต่อไปนะ!</value>
 	</entry>
 	<entry>
 		<key>SIGN</key>
-		<value>SIGN</value>
+		<value>ป้าย</value>
 	</entry>
 	<entry>
 		<key>SignCLOSED DUE TO FIRE DAMAGE</key>
-		<value>CLOSED DUE TO FIRE DAMAGE</value>
+		<value>ปิดเนื่องจากความเสียหายไฟไหม้</value>
 	</entry>
 	<entry>
 		<key>SignThe old radio tower, while an important landmark, is unfortunately closed thanks to the unsanctioned flight testing of an extremely powerful model rocket.</key>
-		<value>The old radio tower, while an important landmark, is unfortunately closed thanks to the unsanctioned flight testing of an extremely powerful model rocket.</value>
+		<value>หอวิทยุเก่า ถึงแม้จะเป็นสถานที่สำคัญ แต่โชคร้านที่ต้องปิดบริการเนื่องจากมีการทดลองบินที่ไม่ได้รับอนุญาตของจรวดจำลองที่ทรงพลังอย่างมาก</value>
 	</entry>
 	<entry>
 		<key>SignWhile we hope to repair the radio tower in the future, all construction efforts are currently focused on the planned museum expansion at the Observatory.</key>
-		<value>While we hope to repair the radio tower in the future, all construction efforts are currently focused on the planned museum expansion at the Observatory.</value>
+		<value>เราหวังว่าจะซ่อมแซมหอวิทยุได้ในอนาคต แต่ตอนนี้กำลังก่อสร้างทั้งหมดถูกเน้นไปยังการขยายพิพิธภัณฑ์ที่หอดูดาวเป็นหลัก</value>
 	</entry>
 	<entry>
 		<key>SignSincerest apologies, except to Slate and Mica,\\n\\nHornfels (museum curator)</key>
-		<value>Sincerest apologies, except to Slate and Mica,\\n\\nHornfels (museum curator)</value>
+		<value>ขออภัยอย่างสุดซึ้ง ยกเว้นสำหรับสเลธและไมค่า\\n\\nฮอร์นเฟลส์ (ภัณฑารักษ์ประจำพิพิธภัณฑ์)</value>
 	</entry>
 	<entry>
 		<key>SignThe radio tower here on Timber Hearth was built to receive transmissions from our deep space satellite, and to this day still houses the first-ever photos taken of the entire solar system.</key>
-		<value>The radio tower here on Timber Hearth was built to receive transmissions from our deep space satellite, and to this day still houses the first-ever photos taken of the entire solar system.</value>
+		<value>หอวิทยุนี้บน Timber Hearth ถูกสร้างมาเพื่อรับสัญญาณจากดาวเทียม Deep Space ของเรา และจนถึงวันนี้ยังเป็นที่เก็บรูปภาพแรกของเราที่ได้ถ่ายทั้งระบบสุริยะเอาไว้</value>
 	</entry>
 	<entry>
 		<key>SignThese photos were made possible by the deep space satellite’s unusual vertical orbit that carries it high above (and below) the plane of the solar system.</key>
-		<value>These photos were made possible by the deep space satellite’s unusual vertical orbit that carries it high above (and below) the plane of the solar system.</value>
+		<value>รูปพวกนี้เป็นไปได้ด้วยวงโครจรที่ไม่ปกติของดาวเทียม Deep Space ที่โครจรในแนวตั้งที่นำพามันไปด้านบน(และด้านใต้)ของระบบสุริยะของเรา</value>
 	</entry>
 	<entry>
 		<key>SignThanks to a recent upgrade, the deep space satellite is now responsible for generating the real-time solar system map used by our newest astronauts.</key>
-		<value>Thanks to a recent upgrade, the deep space satellite is now responsible for generating the real-time solar system map used by our newest astronauts.</value>
+		<value>ด้วยอัพเกรดล่าสุดของเรา ดาวเทียมนี้สามารถสร้างแผนที่ระบบสุริยะให้กับนักบินอวกาศคนล่าสุดของเราได้แบบเรียลไทม์</value>
 	</entry>
 	<entry>
 		<key>SignOur new expansion was made possible by the generous contributions of esteemed museum visitors like you. Thank you very much for your support!</key>
-		<value>Our new expansion was made possible by the generous contributions of esteemed museum visitors like you. Thank you very much for your support!</value>
+		<value>การขยายพิพิธภัณฑ์ของเราเป็นไปได้ด้วยการบริจาคอันเอื้อเฟื้อเผื่อแผ่จากผู้เยี่ยมชมพิพิธภัณฑ์ที่นับถือเช่นคุณ ขอบคุณมากสำหรับการสนับสนุนของคุณ!</value>
 	</entry>
 	<entry>
 		<key>SignFUTURE SITE OF OUR NEXT EXHIBIT!</key>
-		<value>FUTURE SITE OF OUR NEXT EXHIBIT!</value>
+		<value>สถานที่จัดแสดงถัดไปของเรา!</value>
 	</entry>
 	<entry>
 		<key>SignIf you’ve enjoyed your time with Outer Wilds, please consider supporting our planned museum expansion.</key>
-		<value>If you’ve enjoyed your time with Outer Wilds, please consider supporting our planned museum expansion.</value>
+		<value>หากคุณสนุกกับ Outer Wilds โปรดพิจารณาสนับสนุนการขยายพิพิธภัณฑ์ของเราที่เราได้วางแผนเอาไว้</value>
 	</entry>
 	<entry>
 		<key>SignOur quest to explore the furthest reaches of our solar system wouldn’t be possible without generous visitors like you! We thank you profusely for your support, and we hope to see you again soon.</key>
-		<value>Our quest to explore the furthest reaches of our solar system wouldn’t be possible without generous visitors like you! We thank you profusely for your support, and we hope to see you again soon.</value>
+		<value>ภารกิจของเราในการสำรวจให้ไกลสุดฟากระบบสุริยะของเราจะไม่มีทางเป็นไปได้หากปราศจากผู้มาเยี่ยมเยือนที่ใจกว้างเช่นคุณ! เราขอขอบคุณอย่างยิ่งสำหรับการสนับสนุน และหวังว่าจะได้พบคุณอีกในเร็วๆนี้</value>
 	</entry>
 	<entry>
 		<key>Slate</key>
-		<value>Slate</value>
+		<value>สเลธ</value>
 	</entry>
 	<entry>
 		<key>Scientist1AThere’s our pilot! Back from your pre-launch campout under the stars, I see.</key>
-		<value>There’s our pilot! Back from your pre-launch campout under the stars, I see.</value>
+		<value>นั่นไงนักบินของเรา! ตื่นจากการตั้งแคมป์ใต้แสงดาวในคืนก่อนออกยานแล้วสินะ</value>
 	</entry>
 	<entry>
 		<key>Scientist1ASo it’s Launch Day, eh? Seems like only yesterday you joined the space program, and suddenly here you are, leaving on your first solo voyage.</key>
-		<value>So it’s Launch Day, eh? Seems like only yesterday you joined the space program, and suddenly here you are, leaving on your first solo voyage.</value>
+		<value>นี่วันปล่อยยานแล้วสิ? รู้สึกเหมือนนายพึ่งเข้าร่วมโครงการอวกาศมาเมื่อวานนี่เอง แล้วจู่ๆ วันนี้นายก็จะออกเดินทางคนเดียวครั้งแรกแล้ว</value>
 	</entry>
 	<entry>
 		<key>Scientist1AWhat do you say - ready to get this beauty off the ground? It’s all fueled up and ready to go!</key>
-		<value>What do you say - ready to get this beauty off the ground? It’s all fueled up and ready to go!</value>
+		<value>ว่าไงล่ะ - พร้อมที่จะพาเธอขึ้นไปบนฟ้ารึยัง? เติมเชื้อเพลิงเต็มถึงแล้ว พร้อมออกตัวได้เลย!</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1AAll systems go!</key>
-		<value>All systems go!</value>
+		<value>ระบบทั้งหมดพร้อมใช้งานแล้ว!</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1AI’m ready if you are.</key>
-		<value>I’m ready if you are.</value>
+		<value>ฉันพร้อมถ้านายพร้อมนั่นแหละ</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1AYou’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</key>
-		<value>You’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</value>
+		<value>นาย&lt;i&gt;แน่ใจนะ&lt;/i&gt;ว่านายซ่อมเรโทรทรัสเตอร์แล้วน่ะ?</value>
 	</entry>
 	<entry>
 		<key>Scientist1BHey, you ready to get this thing off the ground? Ship’s all fueled and ready to go.</key>
-		<value>Hey, you ready to get this thing off the ground? Ship’s all fueled and ready to go.</value>
+		<value>เฮ้, นายพร้อมที่จะพาเธอขึ้นฟ้าหรือยัง? ยานของนายเติมเชื้อเพลิงเต็มถังแล้ว พร้อมออกตัวได้เลย</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1BDid... did I just... die?</key>
-		<value>Did... did I just... die?</value>
+		<value>ฉัน... ฉันเพิ่งจะ... ตายไปเหรอ?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1BAll systems go!</key>
-		<value>All systems go!</value>
+		<value>ระบบทั้งหมดพร้อมใช้งานแล้ว!</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1BI’m ready if you are.</key>
-		<value>I’m ready if you are.</value>
+		<value>ฉันพร้อมถ้านายพร้อมนั่นแหละ</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1BYou’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</key>
-		<value>You’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</value>
+		<value>นาย&lt;i&gt;แน่ใจนะ&lt;/i&gt;ว่านายซ่อมเรโทรทรัสเตอร์แล้วน่ะ?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer11Whoa, bad dream or something? You still look half asleep, but that’s a negative on being deceased.</key>
-		<value>Whoa, bad dream or something? You still look half asleep, but that’s a negative on being deceased.</value>
+		<value>โห นายฝันร้ายหรืออะไรแนวนั้นเหรอ นายดูเหมือนง่วงนอนอยู่หน่อยๆ แต่ไม่ใด้เหมือนคนตายนะ</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer11I know it’s tradition to sleep out under the stars the night before a launch, but if you ask me it makes you all a bit jumpy.</key>
-		<value>I know it’s tradition to sleep out under the stars the night before a launch, but if you ask me it makes you all a bit jumpy.</value>
+		<value>ฉันรู้ว่ามันเป็นประเพณีที่จะให้นักบินนอนใต้แสงดาวคืนก่อนออกบิน แต่ถ้าถามฉันนะ ฉันว่ามันทำให้นายตื่นเต้นไปหน่อย</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer12Glad you’re excited, but remember, if you wreck the ship I’m not building you a new one. I’m not made of lightweight reentry grade aluminum alloys, you know.</key>
-		<value>Glad you’re excited, but remember, if you wreck the ship I’m not building you a new one. I’m not made of lightweight reentry grade aluminum alloys, you know.</value>
+		<value>ฉันดีใจที่นายตื่นเต้นนะ แต่จำไว้ว่าถ้านายทำยานพังฉันไม่สร้างอันใหม่ให้นายหรอก ฉันไม่ได้สร้างจากอะลูมิเนียมอัลลอยด์เกรดน้ำหนักเบาสำหรับการกลับเข้าสู่ชั้นบรรยากาศนะ นายก็รู้</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer13Are you kidding? Of course I’m ready - it’s finally time to test the new landing hydraulics with a pilot instead of the autoflight system!</key>
-		<value>Are you kidding? Of course I’m ready - it’s finally time to test the new landing hydraulics with a pilot instead of the autoflight system!</value>
+		<value>นายล้อกันเล่นรึเปล่า? ฉันพร้อมแน่นอนอยู่แล้ว - ในที่สุดมันก็ถึงเวลาที่จะทดสอบระบบลงจอดไฮดรอลิกกับนักบินแทนที่จะเป็นระบบออโตไพลอทแล้ว!</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer13...Speaking of pilots, make sure you don’t crash the ship the first time you put it down, you hear?</key>
-		<value>...Speaking of pilots, make sure you don’t crash the ship the first time you put it down, you hear?</value>
+		<value>...พูดถึงตัวนักบิน นายลงจอดดีๆล่ะ อย่าทำยานพังตั้งแต่ครั้งแรกที่นายลงจอดนะ ได้ยินมั้ย?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer14That was only a problem one time. And then maybe a few times after that, but hey, no reason to dwell on the past, right?</key>
-		<value>That was only a problem one time. And then maybe a few times after that, but hey, no reason to dwell on the past, right?</value>
+		<value>มันเป็นปัญหาแค่รอบเดียวเอง แล้วก็อีกสองสามทีหลังจากนั้น แต่เฮ้ ไม่มีเหตุผลที่จะไปยึดติดกับอดีตมากใช่มั้ยล่ะ?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer15Anyway, you’ll need to get the &lt;color=orange&gt;launch codes from Hornfels at the observatory&lt;/color&gt; before you can lift off. Just bring those here once you’ve said your goodbyes or whatever.</key>
-		<value>Anyway, you’ll need to get the &lt;color=orange&gt;launch codes from Hornfels at the observatory&lt;/color&gt; before you can lift off. Just bring those here once you’ve said your goodbyes or whatever.</value>
+		<value>ยังไงก็ตาม นายต้องไปเอา&lt;color=orange&gt;รหัสปล่อยยานจากฮอร์นเฟลส์ที่หอดูดาว&lt;/color&gt;ก่อนที่นายจะออกตัวได้นะ แค่ไปเอามันกลับมาที่นี่หลังจากที่นายร่ำลาหรืออะไรก็ตามเสร็จ</value>
 	</entry>
 	<entry>
 		<key>Scientist2Not having second thoughts, are you?</key>
-		<value>Not having second thoughts, are you?</value>
+		<value>ไม่ได้จะเปลี่ยนใจใช่มั้ย?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist2Where are the launch codes again?</key>
-		<value>Where are the launch codes again?</value>
+		<value>รหัสปล่อยงานอยู่ที่ไหนนะ?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist2How’s the ship looking?</key>
-		<value>How’s the ship looking?</value>
+		<value>สภาพยานดูเป็นยังไงบ้าง?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist2How safe would you say this thing is?</key>
-		<value>How safe would you say this thing is?</value>
+		<value>นายคิดว่ายานนี่ปลอดภัยแค่ไหน?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist2What’s my mission once I’m in space?</key>
-		<value>What’s my mission once I’m in space?</value>
+		<value>หลังจากฉันออกไปยังอวกาศแล้วภารกิจของฉันคืออะไรเหรอ?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist2What else should I do before liftoff?</key>
@@ -2755,262 +2755,262 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer24Hey, you’re the pilot - you tell me. Aren’t you pilot-types all eager to get up there and explore for yourselves?</key>
-		<value>Hey, you’re the pilot - you tell me. Aren’t you pilot-types all eager to get up there and explore for yourselves?</value>
+		<value>เฮ้ นายเป็นนักบินนะ - นายต้องเป็นคนบอกฉันสิ ไม่ใช่ว่าพวกนักบินอย่างนายอยากจะบินออกไปสำรวจโลกข้างนอกด้วยตัวเองกันทั้งนั้นเหรอ?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer24Doesn’t matter if you go to the moon or Brittle Hollow or just the other side of Timber Hearth. It’s all the same to me. Get out there and have fun!</key>
-		<value>Doesn’t matter if you go to the moon or Brittle Hollow or just the other side of Timber Hearth. It’s all the same to me. Get out there and have fun!</value>
+		<value>ไม่สำคัญหรอกว่านายจะไปที่ดวงจันทร์หรือที่ Brittle Hollow หรือแค่อีกฝั่งของ Timber Hearth สำหรับฉันมันก็เหมือนกันทั้งหมดนั่นแหละ แค่ออกไปแล้วก็สนุกกับมันก็พอ!</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer24Just don’t hurt the ship, that’s all I ask.</key>
-		<value>Just don’t hurt the ship, that’s all I ask.</value>
+		<value>ขออย่างเดียวคืออย่าทำยานเสียหายนะ ฉันขอแค่นั้นแหละ</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer25If you have any goodbyes to say, better say ’em now. I think your friend Hal is in the observatory waiting to see you off.</key>
-		<value>If you have any goodbyes to say, better say ’em now. I think your friend Hal is in the observatory waiting to see you off.</value>
+		<value>ถ้ามีอะไรจะร่ำลา ก็รีบไปบอกตอนนี้ซะนะ ฉันว่าฮาลเพื่อนของนายน่าจะรอส่งนายอยู่ที่หอดูดาวนะ</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer25Oh, and Gossan says they have the zero-g chamber set up if you want a refresher on making ship repairs in space. Not saying you &lt;i&gt;have&lt;/i&gt; to, but uh, it’d help get Gossan off my back if you did.</key>
-		<value>Oh, and Gossan says they have the zero-g chamber set up if you want a refresher on making ship repairs in space. Not saying you &lt;i&gt;have&lt;/i&gt; to, but uh, it’d help get Gossan off my back if you did.</value>
+		<value>อ้อ แล้วก็กอสซานบอกว่าเขาเตรียมห้องไร้แรงโน้มถ่วงไว้แล้วนะ ถ้านายอยากทบทวนการซ่อมยานในอวกาศ ไม่ได้บังคับว่านาย&lt;i&gt;ต้อง&lt;/i&gt;ไป แต่...เอ่อ...ถ้าไปก็คงช่วยให้กอสซานเลิกบ่นกับฉันได้</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer21Hornfels has the launch codes. Should be up at the observatory, like usual. I’m starting to think they live there.</key>
-		<value>Hornfels has the launch codes. Should be up at the observatory, like usual. I’m starting to think they live there.</value>
+		<value>ฮอร์นเฟลส์มีรหัสปล่อยยานอยู่น่ะ เขาน่าจะอยู่ที่หอดูดาวเหมือนปกติละนะ ฉันเริ่มจะคิดแล้วว่าเขาอาศัยอยู่ในนั้นแล้ว</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer22Great! Hey, you might get a kick out of this - I’ve repurposed the spare oxygen tank to be used as an extra combustion chamber!</key>
-		<value>Great! Hey, you might get a kick out of this - I’ve repurposed the spare oxygen tank to be used as an extra combustion chamber!</value>
+		<value>เยี่ยมเลย! เฮ้ นายน่าจะชอบอันนี้นะ - ฉันเอาถังออกซิเจนสำรองมาให้นายใช้เป็นห้องเผาไหม้เพิ่มล่ะ!</value>
 	</entry>
 	<entry>
 		<key>SlateScientistAnswer22What does that do?</key>
-		<value>What does that do?</value>
+		<value>มันทำอะไรได้บ้างล่ะ?</value>
 	</entry>
 	<entry>
 		<key>SlateScientistAnswer22Is that... safe?</key>
-		<value>Is that... safe?</value>
+		<value>มันเอ่อ... ปลอดภัยใช่มั้ย?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer221Well, it’s all very conceptual, but basically, it’s like taking a regular second-stage booster and strapping a bigger rocket onto it. \\nIsn’t that &lt;i&gt;great&lt;/i&gt;?</key>
-		<value>Well, it’s all very conceptual, but basically, it’s like taking a regular second-stage booster and strapping a bigger rocket onto it. \\nIsn’t that &lt;i&gt;great&lt;/i&gt;?</value>
+		<value>ก็ มันเป็นมาจากทฤษฎีล้วนๆ แต่เอาง่ายๆก็คือเหมือนเอาบูสเตอร์จรวดขั้นสองมา แล้วก็เอาจรวดอันที่ใหญ่กว่าติดเข้าไปน่ะ \\nมันไม่&lt;i&gt;ดีออก&lt;/i&gt;เหรอ?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer222Probably!</key>
-		<value>Probably!</value>
+		<value>น่าจะละมั้ง!</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer23Oh, it’s a perfect ten. Unless you’re factoring in pilot error, in which case it’s about a four.\\nNo offense.</key>
-		<value>Oh, it’s a perfect ten. Unless you’re factoring in pilot error, in which case it’s about a four.\\nNo offense.</value>
+		<value>โอ้ มันสมบูรณ์แบบสิบเต็มสิบเลยล่ะ ยกเว้นแต่ว่าจะรวมข้อผิดพลาดของนักบินเข้าไปด้วยล่ะนะ ในกรณีนั้นก็คงจะเหลือประมาณสี่\\nไม่ได้ว่านายนะ</value>
 	</entry>
 	<entry>
 		<key>Scientist3Oh, hold up, you’re going to want to get the launch codes from the observatory first.</key>
-		<value>Oh, hold up, you’re going to want to get the launch codes from the observatory first.</value>
+		<value>เดี๋ยว เดี๋ยวก่อน นายต้องไปเอารหัสปล่อยยานจากหอดูดาวก่อนนะ</value>
 	</entry>
 	<entry>
 		<key>SlateScientist3I already got them from the observatory, remember?</key>
-		<value>I already got them from the observatory, remember?</value>
+		<value>ฉันไปเอามาจากหอดูดาวแล้วไง นายจำไม่ได้เหรอ?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist3How did I get back here? Didn’t I already lift off?</key>
-		<value>How did I get back here? Didn’t I already lift off?</value>
+		<value>ฉันกลับมาตรงนี้ได้ยังไง? ฉันไม่ได้ออกตัวไปแล้วเหรอ?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist3Wait, did I just &lt;i&gt;die&lt;/i&gt;, or...?</key>
-		<value>Wait, did I just &lt;i&gt;die&lt;/i&gt;, or...?</value>
+		<value>เดี๋ยวนะ ฉันพึ่งจะ&lt;i&gt;ตาย&lt;/i&gt;ไปเหรอ หรือว่า...?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer31Huh. Must be inhaling more fumes than I realized. That stuff is &lt;i&gt;potent&lt;/i&gt;.</key>
-		<value>Huh. Must be inhaling more fumes than I realized. That stuff is &lt;i&gt;potent&lt;/i&gt;.</value>
+		<value>ห้ะ ฉันคงจะสูดควันมากไปหน่อย กลิ่นพวกนี้มัน&lt;i&gt;แรง&lt;/i&gt;จริงๆ</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer31Well, if you’ve got the codes, I’m not gonna stop you. Good luck, and take care of that ship!</key>
-		<value>Well, if you’ve got the codes, I’m not gonna stop you. Good luck, and take care of that ship!</value>
+		<value>ถ้านายมีรหัสแล้วงั้นก็ ฉันก็จะไม่ห้ามนายหรอกนะ โชคดีล่ะ ดูแลยานดีๆด้วย!</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer32Trust me -- with the modifications I’ve made to those rockets? There’s no way I would have missed that.</key>
-		<value>Trust me -- with the modifications I’ve made to those rockets? There’s no way I would have missed that.</value>
+		<value>เชื่อฉันสิ -- ด้วยการปรับแต่งที่ฉันทำกับจรวดพวกนั้นนะ? ไม่มีทางที่ฉันจะพลาดการออกตัวไปได้เด็ดขาด</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer32I won’t ask how you got the launch codes, but since you have ’em, get a move on! I want to see whether the new cockpit stays attached during liftoff.</key>
-		<value>I won’t ask how you got the launch codes, but since you have ’em, get a move on! I want to see whether the new cockpit stays attached during liftoff.</value>
+		<value>ฉันจะไม่ถามหรอกนะว่านายได้รหัสปล่อยตัวมาได้ยังไง แต่ในเมื่อนายมีแล้ว ก็รีบไปได้แล้ว! ฉันอยากรู้ว่าห้องนักบินแบบใหม่มันยังจะติดอยู่กับยานตอนออกตัวรึเปล่า</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer33Uh, &lt;i&gt;no&lt;/i&gt;...? You have a bad dream or something?</key>
-		<value>Uh, &lt;i&gt;no&lt;/i&gt;...? You have a bad dream or something?</value>
+		<value>ห้ะ เอ่อ &lt;i&gt;ไม่นะ&lt;/i&gt;...? นายฝันร้ายหรืออะไรทำนองนั้นมารึไง?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer33I won’t ask how you got the codes, so hurry up and launch before Hornfels decides to ground you for medical reasons.  I want to see whether the new cockpit stays attached during liftoff.</key>
-		<value>I won’t ask how you got the codes, so hurry up and launch before Hornfels decides to ground you for medical reasons.  I want to see whether the new cockpit stays attached during liftoff.</value>
+		<value>ฉันจะไม่ถามหรอกนะว่านายได้รหัสปล่อยตัวมาได้ยังไง เพราะงั้นรีบออกบินก่อนที่ฮอร์นเฟลส์จะติดสินใจไม่ให้นายขึ้นบินเพราะเหตุผลทางการแพทย์ซะ ฉันอยากรู้ว่าห้องนักบินแบบใหม่มันยังจะติดอยู่กับยานตอนออกตัวรึเปล่า</value>
 	</entry>
 	<entry>
 		<key>Scientist4Looks like you’re ready for takeoff! The excitement of a launch is fun and all, but I can’t wait to get back to working on the new ship.\\nWe’re working on fixing the autopilot’s avoidance system for this one!</key>
-		<value>Looks like you’re ready for takeoff! The excitement of a launch is fun and all, but I can’t wait to get back to working on the new ship.\\nWe’re working on fixing the autopilot’s avoidance system for this one!</value>
+		<value>ดูเหมือนว่านายจะพร้อมออกตัวแล้วนะ! ความตื่นเต้นของการปล่อยยานมันก็สนุกดี แต่ฉันแทบจะรอไม่ไหวแล้วที่จะได้ไปเริ่มสร้างยานลำใหม่\\nเรากำลังพยายามปรับปรุงระบบหลบหลีกของออโตไพลอตสำหรับยานใหม่อยู่!</value>
 	</entry>
 	<entry>
 		<key>Scientist4...Uh, sorry.</key>
-		<value>...Uh, sorry.</value>
+		<value>...เอ่อ ขอโทษที</value>
 	</entry>
 	<entry>
 		<key>Scientist5There’s our pilot! Ready to get this beauty off the ground?</key>
-		<value>There’s our pilot! Ready to get this beauty off the ground?</value>
+		<value>นั่นไงนักบินของเรา! พร้อมจะพาเธอออกบินหรือยัง?</value>
 	</entry>
 	<entry>
 		<key>Scientist5Hey, what can I do you for?</key>
-		<value>Hey, what can I do you for?</value>
+		<value>ว่าไง มีอะไรให้ฉันช่วยมั้ย?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist5You know the ship is a death-trap, right?</key>
-		<value>You know the ship is a death-trap, right?</value>
+		<value>นายรู้ใช่มั้ยว่ายานนั่นมันคือกับดักมรณะน่ะ?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist5You’re lucky I’m in a time loop, because otherwise I’d be super dead.</key>
-		<value>You’re lucky I’m in a time loop, because otherwise I’d be super dead.</value>
+		<value>นายโชคดีนะที่ฉันติดอยู่ในลูปเวลา ไม่งั้นฉันคงจะตายไม่เหลือซากแล้ว</value>
 	</entry>
 	<entry>
 		<key>SlateScientist5The autopilot flew my ship directly into the sun!</key>
-		<value>The autopilot flew my ship directly into the sun!</value>
+		<value>ออโตไพลอตมันพุ่งพาฉันเข้าไปหาดวงอาทิตย์แบบจังๆเลย!</value>
 	</entry>
 	<entry>
 		<key>SlateScientist5I keep getting killed by ghost matter.</key>
-		<value>I keep getting killed by ghost matter.</value>
+		<value>ฉันตายเพราะโกสต์แมทเทอร์ไม่หยุดเลย</value>
 	</entry>
 	<entry>
 		<key>SlateScientist5The sun is going to go supernova, by the way.</key>
-		<value>The sun is going to go supernova, by the way.</value>
+		<value>อ้อ อีกเดี๋ยวดวงอาทิตย์ก็จะระเบิดเป็นซูเปอร์โนวาแล้วล่ะ</value>
 	</entry>
 	<entry>
 		<key>SlateScientist5Did you know it’s just an endless void outside our solar system?</key>
-		<value>Did you know it’s just an endless void outside our solar system?</value>
+		<value>นายรู้มั้ยว่านอกระบบสุริยะของเราเป็นแค่ความว่างเปล่าไร้ที่สิ้นสุดน่ะ</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer35Well yeah, it’s a death-trap, but a really &lt;i&gt;powerful&lt;/i&gt; death trap. What, you suddenly care about safety &lt;i&gt;now&lt;/i&gt;?</key>
-		<value>Well yeah, it’s a death-trap, but a really &lt;i&gt;powerful&lt;/i&gt; death trap. What, you suddenly care about safety &lt;i&gt;now&lt;/i&gt;?</value>
+		<value>ก็ใช่น่ะสิ มันเป็นกับดักมรณะ แต่เป็นกับดักมรณะที่&lt;i&gt;ทรงพลัง&lt;/i&gt;สุดๆไปเลย อะไรกัน จู่ๆนายก็มาสนใจเรื่องความปลอดภัย&lt;i&gt;ตอนนี้&lt;/i&gt;เนี่ยนะ?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer36And you’re lucky I don’t have you grounded for medical reasons, because I have no idea what you’re talking about.</key>
-		<value>And you’re lucky I don’t have you grounded for medical reasons, because I have no idea what you’re talking about.</value>
+		<value>และนายก็โชคดีที่ฉันยังไม่ห้ามนายขึ้นบินเพราะเหตุผลทางการแพทย์ เพราะฉันไม่รู้เลยว่านายกำลังพูดถึงอะไรอยู่</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer37Had an exciting dream, did you?</key>
-		<value>Had an exciting dream, did you?</value>
+		<value>เพิ่งฝันเรื่องที่น่าตื่นเต้นมาหรือไงหื้ม?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer37It’s not exactly &lt;i&gt;impossible&lt;/i&gt; for the autopilot to get you too close to the sun, but it’s not like it’ll try to take you there on purpose.</key>
-		<value>It’s not exactly &lt;i&gt;impossible&lt;/i&gt; for the autopilot to get you too close to the sun, but it’s not like it’ll try to take you there on purpose.</value>
+		<value>มันก็ไม่ใช่เรื่องที่&lt;i&gt;เป็นไปไม่ได้&lt;/i&gt;ที่ออโตไพลอตจะพานายเข้าไปใกล้ดวงอาทิตย์ แต่ก็ใช่ว่ามันตั้งใจจะพานายไปหาดวงอาทิตย์สักหน่อย</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer37Make sure the sun isn’t between you and your destination when you engage autopilot, and you’ll be fine.</key>
-		<value>Make sure the sun isn’t between you and your destination when you engage autopilot, and you’ll be fine.</value>
+		<value>ดูให้แน่ใจว่าดวงอาทิตย์ไม่ได้อยู่ระหว่างนายกับเป้าหมายตอนที่นายจะใช้ออโตไพลอต แล้วนายก็จะไม่เป็นอะไรแล้วล่ะ</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer38Use your scout to detect it, you dumb idiot! Did you think I made that just so you could take pretty little pictures of trees? It has multiple uses!</key>
-		<value>Not if you use your scout to detect it, you won’t, you dumb idiot! Did you think I made that just so you could take pretty little pictures of trees? It has multiple uses!</value>
+		<value>ใช้สเกาต์ของนายตรวจจับมันสิ ไอทึ่มเอ้ย! นายคิดว่าฉันสร้างมันมาให้นายถ่ายรูปเซลฟี่กับต้นไม้หรือไง? มันใช้ทำอย่างอื่นได้อีกตั้งหลายอย่าง!</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer38You &lt;i&gt;do&lt;/i&gt; know you can use it as a light source, right? Stars above, please tell me you knew that.</key>
-		<value>You &lt;i&gt;do&lt;/i&gt; know you can use it as a light source, right? Stars above, please tell me you knew that.</value>
+		<value>นาย&lt;i&gt;รู้&lt;/i&gt;ใช่มั้ยว่านายใช้วันเป็นแหล่งกำเนิดแสงได้น่ะ ใช่มั้ย? โอ้ดวงดาวทั้งหลายเอ๋ย บอกฉันทีว่านายรู้อยู่แล้ว</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer39Oh yeah, the observatory has an exhibit about that.</key>
-		<value>Oh yeah, the observatory has an exhibit about that.</value>
+		<value>อ๋อใช่ หอดูดาวมีเรื่องเกี่ยวกับมันอยู่นี่นา</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer39Between you and me, I glossed over some of the finer details. Astrophysics is really more Hornfels’s domain.</key>
-		<value>Between you and me, I glossed over some of the finer details. Astrophysics is really more Hornfels’s domain.</value>
+		<value>เก็บไว้ระหว่างนายกับฉันนะ ฉันค่อนข้างจะข้ามรายละเอียดปลีกย่อยไปเยอะเลย ดาราศาสตร์ฟิสิกส์เป็นเรื่องของฮอร์นเฟลส์มากกว่าจริงๆ</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer39Me, I’m here for the rocket science and the marshmallows.</key>
-		<value>Me, I’m here for the rocket science and the marshmallows.</value>
+		<value>ส่วนฉัน ฉันมาที่นี่เพื่อแค่วิทยาศาสตร์จรวดและมาร์ชเมลโลว์แค่นั้นแหละ</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer40Yeah, I’d stick to exploring our solar system, if I were you. As much as I hate to admit it, our ships aren’t deep-space-worthy.</key>
-		<value>Yeah, I’d stick to exploring our solar system, if I were you. As much as I hate to admit it, our ships aren’t deep-space-worthy.</value>
+		<value>เอ่อ ถ้าเป็นฉัน ฉันคงจะเลือกสำรวจแค่ระบบสุริยะของเรานี่แหละ ฉันไม่อยากจะยอมรับหรอกนะ แต่ยานของเราไม่เหมาะกับการเดินทางในห้วงอวกาศลึกๆเท่าไหร่</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_IntroHey, hold up a sec!</key>
-		<value>Hey, hold up a sec!</value>
+		<value>เฮ้ รอแป๊ปนึง!</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_IntroYeah yeah yeah, I already know about the launch codes.</key>
-		<value>Yeah yeah yeah, I already know about the launch codes.</value>
+		<value>เออๆๆๆ ฉันรู้เรื่องรหัสปล่อยยานแล้วน่า</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1What? No, I was going to tell you about using the ship log to set destination markers for locations you’ve visited before.</key>
-		<value>What? No, I was going to tell you about using the ship log to set destination markers for locations you’ve visited before.</value>
+		<value>ห้ะ? ไม่ ฉันกำลังจะบอกนายเกี่ยวกับการใช้บันทึกยานเพื่อตั้งมาร์คเกอร์สำหรับสถานที่ที่นายเคยไปมาแล้วต่างหาก</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1It’s a brilliant feature, if I say so myself. Dead useful. And the risk it poses of shorting out the fuel regulator and causing the ship to explode is so minimal that only Gossan would worry about it.</key>
-		<value>It’s a brilliant feature, if I say so myself. Dead useful. And the risk it poses of shorting out the fuel regulator and causing the ship to explode is so minimal that only Gossan would worry about it.</value>
+		<value>เป็นฟีเจอร์ที่เยี่ยมยอดเลยถ้าจะให้ฉันพูดล่ะนะ มีประโยชน์สุดๆ และความเสี่ยงที่จะทำให้ตัวควบคุมเชื้อเพลิงลัดวงจรจนยานระเบิดก็น้อยมากจนมีแค่กอสซานเท่านั้นแหละที่จะเป็นห่วงเกี่ยวกับเรื่องพวกนั้น.</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_1Wait, so how do I use it?</key>
-		<value>Wait, so how do I use it?</value>
+		<value>เดี๋ยวนะ แล้วฉันจะใช้มันยังไงล่ะ?</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_1Use the ship log to mark a location I want to revisit. Got it.</key>
-		<value>Use the ship log to mark a location I want to revisit. Got it.</value>
+		<value>ใช้บันทึกยานเพื่อปักหมุดสถานที่ที่ฉันอยากจะไป เข้าใจละ</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_1How minimal are we talking?</key>
-		<value>How minimal are we talking?</value>
+		<value>เรากำลังพูดถึงน้อยขนาดไหน?</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_1What about locations I haven’t visited before?</key>
-		<value>What about locations I haven’t visited before?</value>
+		<value>แล้วสถานที่ที่ฉันยังไม่เคยไปล่ะ?</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1aWhen you’re on your ship, open up its log to the location you want to mark. Anywhere’s fine, as long as you’ve been there at least once.</key>
-		<value>When you’re on your ship, open up its log to the location you want to mark. Anywhere’s fine, as long as you’ve been there at least once.</value>
+		<value>ตอนนายอยู่ในยาน เปิดบันทึกขึ้นมาไปที่สถานที่ที่นายต้องการจะปักหมุด ที่ไหนก็ได้ ขอแค่ที่ที่นายเคยไปมาอย่างน้อยสักครั้งก็พอแล้ว</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1aHop in the pilot seat, and the ship will throw up a destination marker on your display. It’s that easy.</key>
-		<value>Hop in the pilot seat, and the ship will throw up a destination marker on your display. It’s that easy.</value>
+		<value>เข้าไปนั่งในที่นั่งคนขับ แล้วยานจะโชว์มาร์คเกอร์ขึ้นมาให้นายเห็นบนจอ ง่ายขนาดนั้นแหละ</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1bMinimal! Stars above, you worry too much. If anything’s going to kill you, it’s the autopilot.</key>
-		<value>Minimal! Stars above, you worry too much. If anything’s going to kill you, it’s the autopilot.</value>
+		<value>น้อย! โอ้ดวงดาวข้างบนเอ้ย นายกังวลมากเกินไปแล้ว ถ้ามีอะไรจะฆ่านายได้ก็คงเป็นออโตไพลอตนั่นแหละ</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1cOh, sure, I’ll just magically have the system know all the possible locations you plan to discover throughout the entire solar system, shall I?</key>
-		<value>Oh, sure, I’ll just magically have the system know all the possible locations you plan to discover throughout the entire solar system, shall I?</value>
+		<value>อ๋อ ได้สิ เดี๋ยวฉันจะทำให้ระบบรู้ทุกตำแหน่งที่เป็นไปได้ที่นายจะเดินทางไปทั่วทั้งระบบสุริยะด้วยเวทมนตร์เลยดีมั้ยล่ะ?</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_2“Wow, Slate! How do you come up with these incredible ideas?” Oh, I do the best I can with what I’ve got. Really, you’re too kind.</key>
-		<value>“Wow, Slate! How do you come up with these incredible ideas?” Oh, I do the best I can with what I’ve got. Really, you’re too kind.</value>
+		<value>“ว้าว สเลธ นายคิดไอเดียสุดยอดพวกนี้ขึ้นมาได้ยังไงกันเนี่ย?” โอ้ ฉันก็ทำให้ดีที่สุดเท่าที่ฉันจะทำได้แหละ แหม นายนี่ใจดีเกินไปแล้วนะ</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_2Slate, you are a technological marvel.</key>
-		<value>Slate, you are a technological marvel.</value>
+		<value>สเลธ นายนี่มันอัจฉริยะทางเทคโนโลยีจริงๆ</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_2This was extraordinarily convenient timing. Thanks!</key>
-		<value>This was extraordinarily convenient timing. Thanks!</value>
+		<value>ช่างเป็นเวลาที่เหมาะเจาะจริงๆ ขอบคุณนะสเลธ!</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_2That’s not what my voice sounds like.</key>
-		<value>That’s not what my voice sounds like.</value>
+		<value>ฉันไม่ได้มีเสียงแบบนั้นสักหน่อย</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_2a...Whoa, say that again! Please? That sounds so good when it’s not sarcastic.</key>
-		<value>...Whoa, say that again! Please? That sounds so good when it’s not sarcastic.</value>
+		<value>...โว้ว พูดอีกรอบหน่อยสิ! นะ? มันฟังดูดีมากเลยเวลาที่ไม่ได้ประชดน่ะ</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_2bSure thing, hatchling!</key>
-		<value>Sure thing, hatchling!</value>
+		<value>ได้อยู่แล้ว แฮชท์ลิง!</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_2cEveryone’s a critic.</key>
-		<value>Everyone’s a critic.</value>
+		<value>สมัยนี้ใครๆก็วิจารณ์ได้ทั้งนั้นแหละ</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_3Anyway, I’ve got a fire to enjoy, and you’ve got launch codes to grab. Go wild with the marking feature while you're out there. Just, uh, try not to follow it so directly you fly into the sun, okay?</key>
-		<value>Anyway, I’ve got a fire to enjoy, and you’ve got launch codes to grab. Go wild with the marking feature while you're out there. Just, uh, try not to follow it so directly you fly into the sun, okay?</value>
+		<value>ยังไงก็ตาม ฉันมีกองไฟให้เพลิดเพลิน ส่วนนายก็มีรหัสปล่อยยานต้องไปเอา ใช้ฟีเจอร์ปักหมุดให้เต็มที่เลยนะตอนออกไปข้างนอกน่ะ แค่... เอ่อ... พยายามอย่าตามมันไปตรงๆจนพุ่งชนกับดวงอาทิตย์ล่ะ เข้าใจมั้ย?</value>
 	</entry>
 	<entry>
 		<key>
 			WARNING: Increased solar activity detected.
 		</key>
 		<value>
-			WARNING: Increased solar activity detected.
+			คำเตือน: ตรวจพบการเพิ่มขึ้นของระดับความร้อน
 		</value>
 	</entry>
 	<entry>
@@ -3018,7 +3018,7 @@
 			WARNING: Increased volcanic activity detected.
 		</key>
 		<value>
-			WARNING: Increased volcanic activity detected.
+			คำเตือน: ตรวจพบการเพิ่มขึ้นของภูเขาไฟปะทุ
 		</value>
 	</entry>
 	<entry>
@@ -3026,7 +3026,7 @@
 			VERDICT: Location is now inhospitable. Evacuation recommended.
 		</key>
 		<value>
-			VERDICT: Location is now inhospitable. Evacuation recommended.
+			ข้อสรุป: สถานที่นี้ไม่เหมาะแก่การอยู่อาศัยอีกต่อไป แนะนำให้อพยพ
 		</value>
 	</entry>
 	<entry>
@@ -3034,536 +3034,536 @@
 			ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe.
 		</key>
 		<value>
-			ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe.
+			ข้อผิดพลาก: ไม่สามารถระบุวงโครจรได้ ไม่มีสัญญาณใดๆที่ตรงกับเกณฑ์ของ Eye of the universe.
 		</value>
 	</entry>
 	<entry>
 		<key>Feldspar</key>
-		<value>Feldspar</value>
+		<value>เฟลด์สปาร์</value>
 	</entry>
 	<entry>
 		<key>Feldspar1Whoa!</key>
-		<value>Whoa!</value>
+		<value>โว้ว!</value>
 	</entry>
 	<entry>
 		<key>Feldspar1Where’d you come from? No one’s come here in... well, ever, actually. That makes you the second Hearthian to ever reach Dark Bramble — after me, of course. Well done!</key>
-		<value>Where’d you come from? No one’s come here in... well, ever, actually. That makes you the second Hearthian to ever reach Dark Bramble — after me, of course. Well done!</value>
+		<value>มาจากไหนกันเนี่ย? ไม่มีใครมาที่นี่ตั้งแต่... เอ่อ จริงๆก็ไม่เคยมีใครมาเลยต่างหาก แสดงว่านายจะฮาร์เธียนคนที่สองที่เคยมาเยือน Dark Bramble — แน่นอนว่าถัดจากฉัน ฮ่าๆ เก่งมาก!</value>
 	</entry>
 	<entry>
 		<key>Feldspar1...Say, it’s you! They made you an astronaut? And you haven’t blown yourself up yet, good for you!</key>
-		<value>...Say, it’s you! They made you an astronaut? And you haven’t blown yourself up yet, good for you!</value>
+		<value>นายจริงๆด้วย! พวกเขาแต่งตั้งให้นายเป็นนักบินแล้วงั้นสินะ? แถมยานของนายก็ยังไม่ระเบิดอีกด้วย เก่งไม่เบาแล้วหนิ!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar1Let me guess: anglerfish?</key>
-		<value>Let me guess: anglerfish?</value>
+		<value>ให้ฉันเดา: แองเกลอร์ฟิชใช่มะ?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar1Feldspar! You’re alive!</key>
-		<value>Feldspar! You’re alive!</value>
+		<value>เฟลด์สปาร์! นายยังมีชีวิตอยู่!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar1We all thought you were dead for sure.</key>
-		<value>We all thought you were dead for sure.</value>
+		<value>พวกเรานึกว่านายตายไปแล้วซะอีก</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar1Have you been here in Dark Bramble all this time?</key>
-		<value>Have you been here in Dark Bramble all this time?</value>
+		<value>นายอยู่ที่ Dark Bramble มาตลอดที่ผ่านมาเลยเหรอเนี่ย?</value>
 	</entry>
 	<entry>
 		<key>Feldspar2...You never were the brightest hatchling, were you.</key>
-		<value>...You never were the brightest hatchling, were you.</value>
+		<value>...นายก็ยังเป็นแฮชท์ลิงที่หัวไม่ค่อยไวเหมือนเดิมเลย </value>
 	</entry>
 	<entry>
 		<key>Feldspar2Yeah, that’s right, I’m alive. Been camping out here since my ship, uh, y’know. Crashed.&lt;Pause&gt; Violently.</key>
-		<value>Yeah, that’s right, I’m alive. Been camping out here since my ship, uh, y’know. Crashed.&lt;Pause&gt; Violently.</value>
+		<value>ใช่แล้ว ฉันยังอยู่ดีนั่นแหละ มาตั้งแคมป์อยู่ตรงนี้ตั้งแต่ตอนที่ยานของฉัน เอ่อ... ตกน่ะ&lt;Pause&gt; แรงด้วย</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar2Wait, what?</key>
-		<value>Wait, what?</value>
+		<value>เดี๋ยวนะ อะไรนะ?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar2You &lt;i&gt;crashed&lt;/i&gt;? But you’re the greatest pilot in Hearthian history!</key>
-		<value>You &lt;i&gt;crashed&lt;/i&gt;? But you’re the greatest pilot in Hearthian history!</value>
+		<value>ยานนาย&lt;i&gt;ตก&lt;/i&gt;เหรอ? แต่นายเป็นนักบินที่เก่งที่สุดในประวัติศาสตณืฮาร์เธียนเชียวนะ!!</value>
 	</entry>
 	<entry>
 		<key>Feldspar2aI haven’t lived in polite society for a while, so I’m just going to go ahead and assume that wasn’t sarcasm.</key>
-		<value>I haven’t lived in polite society for a while, so I’m just going to go ahead and assume that wasn’t sarcasm.</value>
+		<value>ฉันไม่ได้อยู่ในสังคมดีๆมานาน เพราะงั้นฉันจะถือว่านายไม่ได้ประชดประชันละกัน</value>
 	</entry>
 	<entry>
 		<key>Feldspar3What! Me, killed off by thorny, extradimensional plants that entirely violate the laws of space and time, and a couple of giant predatory fish with gaping maws and enormously sharp fangs? Not in this lifetime, little buddy.</key>
-		<value>What! Me, killed off by thorny, extradimensional plants that entirely violate the laws of space and time, and a couple of giant predatory fish with gaping maws and enormously sharp fangs? Not in this lifetime, little buddy.</value>
+		<value>ว่าไงนะ! ฉันเนี่ยนะจะตายเพราะพวกเถาวัลย์หลากมิติประหลาดที่ไม่สนกฎของฟิสิกส์และธรรมชาติ หรือเพราะโดนปลาที่มีปากใหญ่โตแถมฟันที่แหลมหยั่งกับมีดโกนอ่ะนะ? ไม่ใช่ในชาตินี้หรอก เจ้าหนู!</value>
 	</entry>
 	<entry>
 		<key>Feldspar3I set up camp here when my ship got stuck here in Dark Bramble. Been living off the land ever since.</key>
-		<value>I set up camp here when my ship got stuck here in Dark Bramble. Been living off the land ever since.</value>
+		<value>พอยานของฉันติดอยู่ใน Darb Bramble ฉันก็เลยตั้งแคมป์อยู่ตรงนี้ ตั้งแต่นั้นมาก็ใช้ชีวิตอยู่เรื่อยๆกับของที่พอหาได้แถวนี้แหละ</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar3So what exactly happened to your ship?</key>
-		<value>So what exactly happened to your ship?</value>
+		<value>แล้วเกิดอะไรขึ้นกับยานของนายกันแน่?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar3“Got stuck”? But aren’t you the greatest pilot in Hearthian history?</key>
-		<value>"Got stuck"? But aren’t you the greatest pilot in Hearthian history?</value>
+		<value>"ติดอยู่"? แต่นายเป็นถึงนักบินที่เก่งที่สุดในประวัติศาสตณืฮาร์เธียนเชียวนะ?</value>
 	</entry>
 	<entry>
 		<key>Feldspar4Depends on how long “all this time” is. I’ve been here a while, I guess. Ever since I crashed my ship into — that is, ever since my daring escape from the jaws of an anglerfish!</key>
-		<value>Depends on how long "all this time" is. I’ve been here a while, I guess. Ever since I crashed my ship into — that is, ever since my daring escape from the jaws of an anglerfish!</value>
+		<value>ขึ้นอยู่กับว่า "ตลอดที่ผ่านมา" นานขนาดไหน แต่ฉันก็อยู่ที่นี่มาสักพักใหญ่ๆแล้ว ตั้งแต่ตอนที่ยานของชนกับ - เอ่อ ตั้งที่ฉันหนีพ้นจากเงื้อมปากของแองเกลอร์ฟิชน่ะ!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar4Tell me more about your flying prowess!</key>
-		<value>Tell me more about your flying prowess!</value>
+		<value>เล่าเรื่องฝืมือการบินขั้นเซียนของนายให้ฉันฟังหน่อยสิ!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar4You crashed your ship, didn’t you.</key>
-		<value>You crashed your ship, didn’t you.</value>
+		<value>นายทำยานนายตกไปแล้วใช่มั้ยเนี่ย</value>
 	</entry>
 	<entry>
 		<key>Feldspar4aHaha, you flatter me!&lt;Pause&gt; ...I &lt;i&gt;like&lt;/i&gt; it!</key>
-		<value>Haha, you flatter me!&lt;Pause&gt; ...I &lt;i&gt;like&lt;/i&gt; it!</value>
+		<value>ฮะฮ่า นายก็ชมฉันเกินไป!&lt;Pause&gt; ...ฉัน&lt;i&gt;ชอบ&lt;/i&gt;จริงๆ!</value>
 	</entry>
 	<entry>
 		<key>Feldspar4b&lt;i&gt;Obviously&lt;/i&gt;, yes. No need to be rude.</key>
-		<value>&lt;i&gt;Obviously&lt;/i&gt;, yes. No need to be rude.</value>
+		<value>&lt;i&gt;อยู่แล้วสิ&lt;/i&gt; ไม่เห็นจะต้องพูดแรงขนาดนั้นเลย</value>
 	</entry>
 	<entry>
 		<key>Feldspar5...well, like I said, I crash. Blammo! On impact, my ship starts making noises like it’s coming apart from the inside, and I think, well, that ain’t great. Sure enough, I barely get out of there before the electrical systems start sparking like crazy.</key>
-		<value>...well, like I said, I crash. Blammo! On impact, my ship starts making noises like it’s coming apart from the inside, and I think, well, that ain’t great. Sure enough, I barely get out of there before the electrical systems start sparking like crazy.</value>
+		<value>เหมือนอย่างที่ฉันบอก ยานฉันตก บึ้ม! พอชนยานของฉันก็เริ่มทำเสียงแปลกๆมาจากด้านใน ฉันคิดว่านั่นมันไม่ปกติแน่ๆ ฉันแทบจะออกมาไม่ทันก่อนที่ระบบไฟฟ้าจะเริ่มช็อตไปทุกที่</value>
 	</entry>
 	<entry>
 		<key>Feldspar5It’s either move fast or die unpleasantly, so I had to put a little distance between me and my poor, fried ship.</key>
-		<value>It’s either move fast or die unpleasantly, so I had to put a little distance between me and my poor, fried ship.</value>
+		<value>ถ้าฉันไม่รีบทำอะไรสักอย่างหรือไม่ก็ตายหยังเขียด ฉันก็เลยรีบขยับออกมาห่างจากยานที่น่าสงสารของฉัน</value>
 	</entry>
 	<entry>
 		<key>Feldspar5I camped out near where I crashed at first. I found this skeleton later — great find, would’ve been stupid not to use it.</key>
-		<value>I camped out near where I crashed at first. I found this skeleton later — great find, would’ve been stupid not to use it.</value>
+		<value>ฉันตั้งแคมป์ใกล้ๆกับที่ฉันทำยานตกตอนแรก ฉันเจอโครงกระดูกนี่ทีหลัง - เจ๋งมาก ใครไม่ใช้ก็โง่แล้ว</value>
 	</entry>
 	<entry>
 		<key>Feldspar5So I moved my setup over here and planted my emergency tree seeds. Been here ever since!</key>
-		<value>So I moved my setup over here and planted my emergency tree seeds. Been here ever since!</value>
+		<value>ฉันก็เลยย้ายของของฉัน แล้วก็ปลูกต้นไม้จากเมล็ดฉุกเฉิน แล้วก็อยู่ตรงนี้ตั้งแต่นั้นเป็นต้นมา!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar5...Wow.</key>
-		<value>...Wow.</value>
+		<value>...ว้าว</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar5I can’t believe you didn’t die.</key>
-		<value>I can’t believe you didn’t die.</value>
+		<value>ฉันไม่อยากจะเชื้อเลยว่านายรอดออกมาได้</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar5I can’t believe you destroyed your ship.</key>
-		<value>I can’t believe you destroyed your ship.</value>
+		<value>ฉันไม่อยากจะเชื่อเลยว่านายจะทำยานพัง</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar5No wonder there are so many stories about you back home!</key>
-		<value>No wonder there are so many stories about you back home!</value>
+		<value>ไม่แปลกใจเลยว่าทำไมที่บ้านถึงมีแต่เรื่องเล่าเกี่ยวกับนายเต็มไปหมด!</value>
 	</entry>
 	<entry>
 		<key>Feldspar5aMy story goes like this. I’d just finished exploring the core of Giant’s Deep, and I wanted to try my hand at Dark Bramble, seeing as no one had ever been before.</key>
-		<value>My story goes like this. I’d just finished exploring the core of Giant’s Deep, and I wanted to try my hand at Dark Bramble, seeing as no one had ever been before.</value>
+		<value>เรื่องของฉันมันเป็นแบบนี้นะ ฉันเพิ่งจะสำรวจใจกลางของ Giant's Deep เสร็จ แล้วฉันก็อยากลองมือที่ Dark Bramble ซะหน่อย ด้วยความที่ว่าไม่เคยมีใครไปเยือนมาก่อน</value>
 	</entry>
 	<entry>
 		<key>Feldspar5aGetting around in Dark Bramble was easy, mind you. Once you’ve dodged one massive, interdimensional vine bristling with thorns, you’ve dodged ’em all.</key>
-		<value>Getting around in Dark Bramble was easy, mind you. Once you’ve dodged one massive, interdimensional vine bristling with thorns, you’ve dodged ’em all.</value>
+		<value>บอกเลยนะ การเดินทางใน Dark Bramble ไม่ยากเหรอ พอหลับเถาวัลย์ทะลุมิติได้สักอัน ที่เหลือนายก็หลบได้หมดแล้ว</value>
 	</entry>
 	<entry>
 		<key>Feldspar5aBut after a while, I run into this huge anglerfish — you’ve seen ’em? Big gnarly things, and this was the biggest one I’ve ever seen. I pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</key>
-		<value>But after a while, I run into this huge anglerfish — you’ve seen ’em? Big gnarly things, and this was the biggest one I’ve ever seen. I pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</value>
+		<value>แต่พอผ่านไปสักพัก ฉันดันไปเจอกับแองเกลอร์ฟิชไซส์มหึมา - นายเห็นพวกมันรึยัง ตัวใหญ่ๆ หน้าตาโหดๆหน่อย แล้วตัวนี้คือตัวที่ใหญ่สุดเท่าที่ฉันเคยเจอมาแล้ว  ฉันเล่นท่าเรื่อยๆ พยายามสลัดมันออก — ไม่ได้หวือหวาอะไร พอฉันกำลังเร่งความเร็วเต็มสปีดก็โดนเจ้าปลานั่นเฉี่ยวฉันจนไปชนกับเถาวัลย์ จากนั้นก็...</value>
 	</entry>
 	<entry>
 		<key>Feldspar5bOh, this is a good story. I’d just finished exploring the core of Giant’s Deep and needed a new challenge, and none of us had ever been inside Dark Bramble, so I think, hey, let’s give that a try.</key>
-		<value>Oh, this is a good story. I’d just finished exploring the core of Giant’s Deep and needed a new challenge, and none of us had ever been inside Dark Bramble, so I think, hey, let’s give that a try.</value>
+		<value>โอ้ เรื่องนี้สนุก ฉันเพิ่งจะสำรวจใจกลางของ Giant's Deep เสร็จและอยากจะหาความท้าทายอื่นเล่น ยังไม่มีใครเคยไปด้านใน Dark Bramble ฉันก็เลยคิดว่าจะไปลองดูหน่อย</value>
 	</entry>
 	<entry>
 		<key>Feldspar5bI’ve been cruising around for a while, dodging the odd massive, interdimensional vine bristling with thorns, when I run into this huge anglerfish, the biggest I’ve ever seen.</key>
-		<value>I’ve been cruising around for a while, dodging the odd massive, interdimensional vine bristling with thorns, when I run into this huge anglerfish, the biggest I’ve ever seen.</value>
+		<value>ฉันก็บินไปสักพัก หลบเถาวัลย์ยักษ์หลากมิติที่มีหนามเต็มลำตัวไปพลางๆ จนกระทั่งฉันไปเจอกับแองเกลอร์ฟิช ตัวใหญ่ที่สุดที่ฉันเคยเจอมา</value>
 	</entry>
 	<entry>
 		<key>Feldspar5bI pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</key>
-		<value>I pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</value>
+		<value>ฉันเล่นท่าเรื่อยๆ พยายามสลัดมันออก — ไม่ได้หวือหวาอะไร พอฉันกำลังเร่งความเร็วเต็มสปีดก็โดนเจ้าปลานั่นเฉี่ยวฉันจนไปชนกับเถาวัลย์ จากนั้นก็...</value>
 	</entry>
 	<entry>
 		<key>Feldspar5cHaha, you flatter me!&lt;Pause&gt; ...I &lt;i&gt;like&lt;/i&gt; it!</key>
-		<value>Haha, you flatter me!&lt;Pause&gt; ...I &lt;i&gt;like&lt;/i&gt; it!</value>
+		<value>ฮะฮ่า นายก็ชมฉันเกินไป!&lt;Pause&gt; ...ฉัน&lt;i&gt;ชอบ&lt;/i&gt;จริงๆ!</value>
 	</entry>
 	<entry>
 		<key>Feldspar5cI came to Dark Bramble for the excitement. I’d just finished exploring the core of Giant’s Deep and needed a new challenge, and none of us had ever gone farther than Dark Bramble’s ice fields, so I thought, hey, let’s give it a try.</key>
-		<value>I came to Dark Bramble for the excitement. I’d just finished exploring the core of Giant’s Deep and needed a new challenge, and none of us had ever gone farther than Dark Bramble’s ice fields, so I thought, hey, let’s give it a try.</value>
+		<value>ฉันมาที่ Dark Bramble เพื่อความตื่นเต้นใหม่ๆน่ะ ฉันเพิ่งจะสำรวจใจกลางของ Giant's Deep เสร็จและอยากจะหาความท้าทายอื่นเล่น ยังไม่มีใครสำรวจ Dark Bramble ไปลึกกว่าน้ำแข็งด้านนอก ฉันก็เลยคิดว่าจะไปลองดูหน่อย</value>
 	</entry>
 	<entry>
 		<key>Feldspar5cI’ve been cruising around for a while, dodging the odd massive, interdimensional vine bristling with thorns, when I run into this huge anglerfish, the biggest I’ve ever seen.</key>
-		<value>I’ve been cruising around for a while, dodging the odd massive, interdimensional vine bristling with thorns, when I run into this huge anglerfish, the biggest I’ve ever seen.</value>
+		<value>ฉันก็บินไปสักพัก หลบเถาวัลย์ยักษ์หลากมิติที่มีหนามเต็มลำตัวไปพลางๆ จนกระทั่งฉันไปเจอกับแองเกลอร์ฟิช ตัวใหญ่ที่สุดที่ฉันเคยเจอมา</value>
 	</entry>
 	<entry>
 		<key>Feldspar5cI pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</key>
-		<value>I pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</value>
+		<value>ฉันเล่นท่า ทำลีลานิดหน่อย พยายามสลัดมันออก — ไม่ได้หวือหวาอะไร พอฉันกำลังเร่งความเร็วเต็มสปีดก็โดนเจ้าปลานั่นเฉี่ยวฉันจนไปชนกับเถาวัลย์ จากนั้นก็...</value>
 	</entry>
 	<entry>
 		<key>Feldspar6aYeah, pretty much.</key>
-		<value>Yeah, pretty much.</value>
+		<value>ก็ ประมาณนั้นแหละ</value>
 	</entry>
 	<entry>
 		<key>Feldspar6bYou know, in the old days, I used to think the same thing every time I came back from a flight in one piece.</key>
-		<value>You know, in the old days, I used to think the same thing every time I came back from a flight in one piece.</value>
+		<value>นายรู้อะไรมั้ย แต่ก่อนฉันก็เคยคิดแบบเดียวกันทุกครั้งที่ฉันรอดจากการบินกลับมาได้</value>
 	</entry>
 	<entry>
 		<key>Feldspar6bThese days, I’m used to it.</key>
-		<value>These days, I’m used to it.</value>
+		<value>ตอนนี้ฉันชินแล้ว</value>
 	</entry>
 	<entry>
 		<key>Feldspar6cEasy for you to say. Your ship probably has all kinds of fancy modifications and upgrades, like “working retro boosters” and “non-flammable construction materials.”</key>
-		<value>Easy for you to say. Your ship probably has all kinds of fancy modifications and upgrades, like "working retro boosters" and "non-flammable construction materials."</value>
+		<value>นายพูดก็ง่ายสิ ยานของนายน่าจะมีการดัดแปลงและอัปเกรดสารพัดอย่าง "เรโทรทรัสเตอร์ที่ใช้ได้จริง" แล้วก็ "วัสดุที่ไม่ติดไฟ" ล่ะสิ</value>
 	</entry>
 	<entry>
 		<key>Feldspar6dHeh. You’re not half-bad yourself, making it here in one piece.</key>
-		<value>Heh. You’re not half-bad yourself, making it here in one piece.</value>
+		<value>ฮ่า นายก็ไม่ใช่ย่อยเหมือนกัน มาถึงตรงนี้ได้ครบสามสิบสองอยู่น่ะ</value>
 	</entry>
 	<entry>
 		<key>Feldspar7Anyway, that’s how it all went down, hatchling!</key>
-		<value>Anyway, that’s how it all went down, hatchling!</value>
+		<value>ยังไงก็เถอะ ประมาณนั้นแหละ แฮชท์ลิง!</value>
 	</entry>
 	<entry>
 		<key>Feldspar7Story’s over, but feel free to stay and enjoy the fire a while.</key>
-		<value>Story’s over, but feel free to stay and enjoy the fire a while.</value>
+		<value>นิทานจบแล้ว แต่ถ้าอยากนั่งสุมกองไฟต่อสักพักก็เชิญตามสบาย</value>
 	</entry>
 	<entry>
 		<key>Feldspar7Or don’t. Fire’s not going anywhere.</key>
-		<value>Or don’t. Fire’s not going anywhere.</value>
+		<value>หรือไม่ก็แล้วแต่ ไฟไม่หนีไปไหนหรอก</value>
 	</entry>
 	<entry>
 		<key>FeldsparSkipHeh, you got it in one. Kind of hard not to, once you’ve seen one of those fish up close and personal-like.</key>
-		<value>Heh, you got it in one. Kind of hard not to, once you’ve seen one of those fish up close and personal-like.</value>
+		<value>ฮ่า นายเดาถูกเผงเลย ก็ไม่น่าจะเดายากเท่าไหร่ ถ้านายเคยเห็นปลาพวกนั้นใกล้ๆกับตาตัวเองน่ะนะ</value>
 	</entry>
 	<entry>
 		<key>FeldsparSkipWell, take a load off and refill your oxygen tank, hatchling! There’s plenty of fire to go around.</key>
-		<value>Well, take a load off and refill your oxygen tank, hatchling! There’s plenty of fire to go around.</value>
+		<value>เอาล่ะ พักก่อนและเติมออกซิเจนซะเถอะ แฮชท์ลิง! มีไฟให้พอใช้สำหรับเราสองคนอยู่แล้ว</value>
 	</entry>
 	<entry>
 		<key>FeldsparPrimaryMenuAnything else you wanted?</key>
-		<value>Anything else you wanted?</value>
+		<value>นายอยากได้อะไรอีกมั้ย?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuI found something!</key>
-		<value>I found something!</value>
+		<value>ฉันเจออะไรบางอย่าง!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuWhere should I explore here?</key>
-		<value>Where should I explore here?</value>
+		<value>ที่นี่มีอะไรให้ฉันสำรวจบ้าง?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuYou reached the core of Giant’s Deep? How’d you do it?</key>
-		<value>You reached the core of Giant’s Deep? How’d you do it?</value>
+		<value>นายเข้าไปถึงใจกลางของ Giant's Deep แล้วเหรอ? นายเข้าไปได้ยังไง?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuWhere’s your ship?</key>
-		<value>Where’s your ship?</value>
+		<value>ยานของนายอยู่ไหน?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuWhat happened to this anglerfish?</key>
-		<value>What happened to this anglerfish?</value>
+		<value>เกิดอะไรขึ้นกับแองเกลอร์ฟิชตัวนี้งั้นเหรอ?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuShouldn’t I tell ground control to come get you?</key>
-		<value>Shouldn’t I tell ground control to come get you?</value>
+		<value>ให้ฉันบอกศูนย์ควบคุมภาคพื้นดินให้มารับนายมั้ย?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuNah, I’m good.</key>
-		<value>Nah, I’m good.</value>
+		<value>ไม่มีอะไรแล้วล่ะ</value>
 	</entry>
 	<entry>
 		<key>FeldsparSecondaryHey, hatchling, pull up a marshmallow stick!</key>
-		<value>Hey, hatchling, pull up a marshmallow stick!</value>
+		<value>เฮ้ แฮชท์ลิง มาย่างมาร์ชเมลโลว์กันเถอะ!</value>
 	</entry>
 	<entry>
 		<key>FeldsparSecondaryCome to hear tales of my heroic exploits, have you?</key>
-		<value>Come to hear tales of my heroic exploits, have you?</value>
+		<value>มาฟังเรื่องราววีรกรรมอันกล้าหาญของฉันงั้นเหรอ?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryI found something!</key>
-		<value>I found something!</value>
+		<value>ฉันเจออะไรบางอย่างด้วย!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryWhere should I explore here?</key>
-		<value>Where should I explore here?</value>
+		<value>ที่นี่มีอะไรให้ฉันสำรวจบ้าง?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryYou reached the core of Giant’s Deep? How’d you do it?</key>
-		<value>You reached the core of Giant’s Deep? How’d you do it?</value>
+		<value>นายเข้าไปถึงใจกลางของ Giant's Deep แล้วเหรอ? นายเข้าไปได้ยังไง?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryWhere’s your ship?</key>
-		<value>Where’s your ship?</value>
+		<value>ยานของนายอยู่ไหน?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryWhat happened to this anglerfish?</key>
-		<value>What happened to this anglerfish?</value>
+		<value>เกิดอะไรขึ้นกับแองเกลอร์ฟิชตัวนี้งั้นเหรอ?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryShouldn’t I tell ground control to come get you?</key>
-		<value>Shouldn’t I tell ground control to come get you?</value>
+		<value>ให้ฉันบอกศูนย์ควบคุมภาคพื้นดินให้มารับนายมั้ย?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryNah, I’m good.</key>
-		<value>Nah, I’m good.</value>
+		<value>ไม่มีอะไรแล้วล่ะ</value>
 	</entry>
 	<entry>
 		<key>FeldsparFishOh, the skeleton? It was like this when I got here.</key>
-		<value>Oh, the skeleton? It was like this when I got here.</value>
+		<value>อ๋อ โครงกระดูกนี่เหรอ? มันเป็นอย่างงี้ตั้งแต่ตอนที่ฉันมาถึงแล้วน่ะ</value>
 	</entry>
 	<entry>
 		<key>FeldsparFishAs near as I can tell, this anglerfish must have been chewing on the vine and eaten a seed, and then the seed grew and grew in the poor fish’s stomach until... this happened.</key>
-		<value>As near as I can tell, this anglerfish must have been chewing on the vine and eaten a seed, and then the seed grew and grew in the poor fish’s stomach until... this happened.</value>
+		<value>เท่าที่ฉันพอจะบอกได้ แองเกลอร์ฟิชตัวนี้น่าจะกลืนเมล็ดเข้าไป พอเมล็ดโตอยู่ด้านในท้องของเจ้านั่นเรื่อยๆก็... คงจะเป็นแบบนี้แหละ</value>
 	</entry>
 	<entry>
 		<key>FeldsparFishGross, huh?</key>
-		<value>Gross, huh?</value>
+		<value>น่าขยะแขยงใช่มั้ยล่ะ?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFishThis skeleton was a good find. Keeps the fish away. See, they’re territorial, so they mostly avoid each other. That’s why I set up camp here.</key>
-		<value>This skeleton was a good find. Keeps the fish away. See, they’re territorial, so they mostly avoid each other. That’s why I set up camp here.</value>
+		<value>โครงกระดูกนี่เป็นของดีเลยล่ะ มันไล่ปลาตัวอื่นออกไป พวกมันหวงอาณาเขตเลยหลีกเลี่ยงพวกเดียวกันเองน่ะ นั่นแหละคือเหตุผลที่ฉันมาตั้งแคมป์ที่นี่</value>
 	</entry>
 	<entry>
 		<key>FeldsparCoreGiant’s Deep’s core, huh? Ahhh, that was a wild one.</key>
-		<value>Giant’s Deep’s core, huh? Ahhh, that was a wild one.</value>
+		<value>ใจกลางของ Giant’s Deep’s  งั้นเหรอ? อาาา นั่นมันค่อนข้างจะบ้าน่ะ</value>
 	</entry>
 	<entry>
 		<key>FeldsparCoreBut since you’re asking, I gotta assume you haven’t made it down there yourself yet, right? If I tell you how, it kinda feels like cheating.</key>
-		<value>But since you’re asking, I gotta assume you haven’t made it down there yourself yet, right? If I tell you how, it kinda feels like cheating.</value>
+		<value>แต่ในเมื่อนายถาม แสดงว่านายยังไม่เคยลงไปเองใช่ไหมล่ะ? ถ้าฉันบอกนายก็เหมือนนายโกงน่ะสิ</value>
 	</entry>
 	<entry>
 		<key>FeldsparCoreHm...</key>
-		<value>Hm...</value>
+		<value>อืม...</value>
 	</entry>
 	<entry>
 		<key>FeldsparCore...On a &lt;i&gt;completely unrelated&lt;/i&gt; note, that sure was a big, hollow vine my ship crashed into.&lt;Pause=3&gt; Yep.</key>
-		<value>...On a &lt;i&gt;completely unrelated&lt;/i&gt; note, that sure was a big, hollow vine my ship crashed into.&lt;Pause=3&gt; Yep.</value>
+		<value>...พูดถึงเรื่องที่&lt;i&gt;ไม่เกี่ยวกันเลยซักนิด&lt;/i&gt;นะ เถาวัลย์ที่ฉันชนน่ะมันใหญ่กลวงจริงๆเลยนะ&lt;Pause=3&gt; ใช่ๆ</value>
 	</entry>
 	<entry>
 		<key>FeldsparCoreIf I were you, I’d go take a walk and see where it ends.</key>
-		<value>If I were you, I’d go take a walk and see where it ends.</value>
+		<value>ถ้าฉันเป็นนายนะ ฉันจะลองไปสำรวจดูว่ามันสิ้นสุดตรงไหน</value>
 	</entry>
 	<entry>
 		<key>FeldsparCoreYou’ll want to go to the tail end of this anglerfish skeleton here and look for a flickering light in the fog — that’ll be my old ship. Path starts there.</key>
-		<value>You’ll want to go to the tail end of this anglerfish skeleton here and look for a flickering light in the fog — that’ll be my old ship. Path starts there.</value>
+		<value>นายต้องไปที่ส่วนหางของโครงกระดูกแองเกลอร์ฟิชนี่แล้วลองมองหาไฟกะพริบในหมอกดู นั่นน่าจะเป็นยานเก่าของฉัน ทางเริ่มจากตรงนั้นแหละ</value>
 	</entry>
 	<entry>
 		<key>FeldsparGoodIf you change your mind, you know where to find me!</key>
-		<value>If you change your mind, you know where to find me!</value>
+		<value>ถ้านายเปลี่ยนใจละก็ นายรู้อยู่แล้วว่าฉันอยู่ไหนนะ!</value>
 	</entry>
 	<entry>
 		<key>FeldsparRescueWell... yeah, sure, whenever you have the time.</key>
-		<value>Well... yeah, sure, whenever you have the time.</value>
+		<value>อืม... ได้ เอาสิ นายว่างเมื่อไหร่ค่อยทำละกัน</value>
 	</entry>
 	<entry>
 		<key>FeldsparRescueFrankly, I kinda like it out here. Quiet, peaceful...ish.</key>
-		<value>Frankly, I kinda like it out here. Quiet, peaceful...ish.</value>
+		<value>จริงๆ ฉันก็ชอบที่นี่นะ เงียบสงบ...แหละ</value>
 	</entry>
 	<entry>
 		<key>FeldsparRescueYou’re a little young to understand, but it’s a lot of pressure, being the best that ever was. Been nice to have a break.</key>
-		<value>You’re a little young to understand, but it’s a lot of pressure, being the best that ever was. Been nice to have a break.</value>
+		<value>นายอาจยังเด็กเกินกว่าที่จะเข้าใจ แต่การเป็นที่หนึ่งนะกดดันมากๆเลยนะ ได้พักบ้างแบบนี้ก็ดีเหมือนกัน</value>
 	</entry>
 	<entry>
 		<key>FeldsparExploreThat’s the spirit!</key>
-		<value>That’s the spirit!</value>
+		<value>ต้องแบบนั้นสิ!</value>
 	</entry>
 	<entry>
 		<key>FeldsparExploreAnywhere’s good, but you should know that space is weird here. Intensely.</key>
-		<value>Anywhere’s good, but you should know that space is weird here. Intensely.</value>
+		<value>ที่ไหนก็ได้หมดนั่นแหละ แต่นายควรจะรู้ไว้ว่าพื้นที่ในนี้มันแปลก มากๆ</value>
 	</entry>
 	<entry>
 		<key>FeldsparExploreEver tried throwing your scout into one of these weird seeds? See there, with the little opening? It’s just big enough to launch one through.</key>
-		<value>Ever tried throwing your scout into one of these weird seeds? See there, with the little opening? It’s just big enough to launch one through.</value>
+		<value>นายเคยยิงสเกาต์ของนายเข้าไปในเมล็ดแปลกๆของมันมั้ย? เห็นตรงนี้มั้ย ช่องเล็กๆน่ะ? ใหญ่พอที่จะให้มันเข้าไปได้พอดี</value>
 	</entry>
 	<entry>
 		<key>FeldsparExploreYour scout tracker will tell you the scout is in two places at once, but I don’t think that’s... wrong, exactly, because space doesn’t work right in here. That seed looks small, see? But inside, it’s bigger.</key>
-		<value>Your scout tracker will tell you the scout is in two places at once, but I don’t think that’s... wrong, exactly, because space doesn’t work right in here. That seed looks small, see? But inside, it’s bigger.</value>
+		<value>ระบบติดตามสเกาต์ของนายจะบอกว่าสเกาต์น่ะอยู่ในที่สองที่พร้อมๆกัน ซึ่งฉันก็ไม่คิดว่ามัน... ไม่ผิดซะทีเดียว เพราะว่าการทำงานของพื้นที่ในนี้มันไม่ปกติ เมล็ดนี่ดูจากข้างนอกก็ดูเล็กใช่มั้ย? แต่ข้างในมันใหญ่กว่านี้</value>
 	</entry>
 	<entry>
 		<key>FeldsparExplore&lt;i&gt;Much&lt;/i&gt; bigger.</key>
-		<value>&lt;i&gt;Much&lt;/i&gt; bigger.</value>
+		<value>ใหญ่กว่านี้&lt;i&gt;มาก&lt;/i&gt;</value>
 	</entry>
 	<entry>
 		<key>FeldsparExploreI’ve had a lot of time to think about this, and my theory is space in Dark Bramble kind of expands as you go through each sphere. That’s why it’s bigger inside those seeds.</key>
-		<value>I’ve had a lot of time to think about this, and my theory is space in Dark Bramble kind of expands as you go through each sphere. That’s why it’s bigger inside those seeds.</value>
+		<value>ฉันมีเวลาคิดเรื่องนี้เยอะมาก ทฤษฎีของฉันคือพื้นที่ด้านในของ Dark Bramble มันขยายตัวทุกครั้งที่เราเข้าไปในก้อนกลมๆ เพราะงั้นด้านในของเมล็ดพวกนี้เลยใหญ่กว่าด้านนอก</value>
 	</entry>
 	<entry>
 		<key>FeldsparExploreWell, that’s my theory. Keep that in mind while you’re exploring Dark Bramble and maybe you won’t get lost inside forever.</key>
-		<value>Well, that’s my theory. Keep that in mind while you’re exploring Dark Bramble and maybe you won’t get lost inside forever.</value>
+		<value>นั่นแหละคือทฤษฎีของฉัน จำเรื่องนี้ไว้ตอนที่นายสำรวจ Dark Bramble ล่ะ นายอาจได้ไม่ต้องหลงอยู่ในนั้นตลอดไป</value>
 	</entry>
 	<entry>
 		<key>FeldsparExploreGood luck!</key>
-		<value>Good luck!</value>
+		<value>โชคดีล่ะ!</value>
 	</entry>
 	<entry>
 		<key>FeldsparShipwreckNot far from here, as a matter of fact! If you go straight past the tail of this anglerfish skeleton here, you’ll see a flickering light in the fog.</key>
-		<value>Not far from here, as a matter of fact! If you go straight past the tail of this anglerfish skeleton here, you’ll see a flickering light in the fog.</value>
+		<value>ไม่ไกลจากตรงนี้เท่าไหร่หรอก ถ้านายตรงไปผ่านหางของโครงกระดูงแองเกลอร์ฟิชตรงนี้นายจะเห็นไฟกะพริบอยู่ในหมอก</value>
 	</entry>
 	<entry>
 		<key>FeldsparShipwreckFollow that, and you’ll find my old ship.&lt;Pause&gt; What’s left of it, anyway.</key>
-		<value>Follow that, and you’ll find my old ship.&lt;Pause&gt; What’s left of it, anyway.</value>
+		<value>เดินตามไฟนั้นไปแล้วนายจะเจอยานเก่าของฉัน &lt;Pause&gt; อย่างน้อยก็ส่วนที่ยังเหลืออยู่ละนะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomethingMenuLay it on me, hatchling!</key>
-		<value>Lay it on me, hatchling!</value>
+		<value>บอกฉันมาได้เลย แฮชท์ลิง!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI went to the core of Giant’s Deep.</key>
-		<value>I went to the core of Giant’s Deep.</value>
+		<value>ฉันไปที่แกนกลางของ Giant’s Deep มาแล้ว</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI found the frozen jellyfish near your ship.</key>
-		<value>I found the frozen jellyfish near your ship.</value>
+		<value>ฉันเจอแมงกะพรุนถูกแช่แข็งใกล้ๆยานขอนนาย</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI found the Anglerfish nest.</key>
-		<value>I found the Anglerfish nest.</value>
+		<value>ฉันเจอรังของพวกแองเกลอร์ฟิช</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI found a Dark Bramble seed on Timber Hearth.</key>
-		<value>I found a Dark Bramble seed on Timber Hearth.</value>
+		<value>ฉันเจอเมล็ดของ Dark Bramble ตกอยู่บน Timber Hearth</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI found Nomai writing saying anglerfish are blind.</key>
-		<value>I found Nomai writing saying anglerfish are blind.</value>
+		<value>ฉันเจอข้อความโนไมที่บอกว่าพวกแองเกลอร์ฟิชน่ะตาบอด</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI found a Nomai shuttle and flew it!</key>
-		<value>I found a Nomai shuttle and flew it!</value>
+		<value>ฉันเจอกระสวยของโนไมแล้วขึ้นขี่มันด้วยล่ะ!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuActually, nevermind.</key>
-		<value>Actually, nevermind.</value>
+		<value>ไม่มีอะไรแล้วล่ะ ช่างมันเถอะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1So you figured out the ol’ tornado trick, did you? Good work!</key>
-		<value>So you figured out the ol’ tornado trick, did you? Good work!</value>
+		<value>แสดงว่านายรู้กลของพายุเทอร์นาโดแล้วงั้นเหรอ? เก่งมาก!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1I found that bit out by accident, but let’s keep that between you and me, hey? Hornfels would have my very handsome head if they knew I’d been riding the cyclones again.</key>
-		<value>I found that bit out by accident, but let’s keep that between you and me, hey? Hornfels would have my very handsome head if they knew I’d been riding the cyclones again.</value>
+		<value>ฉันบังเอิญเจอน่ะ แต่เก็บไว้เป็นความลับระหว่างเราสองคนนะ ถ้าฮอร์นเฟลส์รู้เข้าว่าฉันเอายานไปขี่พายุเล่นอีก มีหวังเขาเอาหัวหล่อๆของฉันไปแขวนอีกแน่</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1“The ship is fragile! It can break! You can’t subject it to extreme conditions!” Not like I was flying the thing into the sun, now, was I?</key>
-		<value>"The ship is fragile! It can break! You can’t subject it to extreme conditions!" Not like I was flying the thing into the sun, now, was I?</value>
+		<value>"ยานมันบอบบางนะ! มันพังง่าย! นายจะเอามันไปเผชิญสภาวะวิกฤตไม่ได้!" ทำเหมือนกับฉันบินมันเข้าหาพระอาทิตย์อย่างนั้นแหละ?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1And the jellyfish, you figured those out, too? Hatchling, I tell you what, you’ve done real well for yourself! You’re a fine astronaut, sure, but you might just become a pilot yet!</key>
-		<value>And the jellyfish, you figured those out, too? Hatchling, I tell you what, you’ve done real well for yourself! You’re a fine astronaut, sure, but you might just become a pilot yet!</value>
+		<value>แล้วแมงกะพรุนล่ะ นายรู้เรื่องมันแล้วสินะ? แฮชท์ลิง นายนี่ไม่ธรรมดาเลยนะ! นายเป็นนักท่องอวกาศที่เก่งดีจริงๆ ถ้าอีกหน่อยก็อาจกลายเป็นนักบินอวกาศชั้นยอดเลยก็ได้!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2Ha! So the old thing still there, is it? That’s where I first camped out after the crash, you know. It was pretty cozy inside!</key>
-		<value>Ha! So the old thing still there, is it? That’s where I first camped out after the crash, you know. It was pretty cozy inside!</value>
+		<value>ฮ่า! แสดงว่าเจ้านั่นยังอยู่สินะ? นั่นคือที่ที่ฉันตั้งแคมป์ที่แรกหลังจากยานตก ด้านในมันสบายอยู่พอตัวเลยล่ะ!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2It does lack the structural integrity and indomitable spirit of a camp made in the shelter of the very bones of the species that tried to eat you, I suppose.</key>
-		<value>It does lack the structural integrity and indomitable spirit of a camp made in the shelter of the very bones of the species that tried to eat you, I suppose.</value>
+		<value>ถึงจะไม่แข็งแรงหรือมีจิตวิญญาณอันแกร่งกล้าเท่ากับแคมป์ที่สร้างในโครงกระดูกของสิ่งมีชีวิตที่พยายามจะกินนายเข้าไปก็เถอะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2Still. Very cozy.</key>
-		<value>Still. Very cozy.</value>
+		<value>ถึงอย่างงั้นก็เถอะ มันสบายมากจริงๆนะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3So that’s where the blasted things come from, is it? Stars above, if I still had a working ship, I’d be sorely tempted to go show ’em what’s what!</key>
-		<value>So that’s where the blasted things come from, is it? Stars above, if I still had a working ship, I’d be sorely tempted to go show ’em what’s what!</value>
+		<value>เจ้าแสบพวกนั้นมาจากตรงนั้นเองอย่างงั้นเหรอ? ดวงดาวข้างบนเอ้ย ถ้าฉันยังมียานอยู่ละก็นะ ฉันคงอดไม่ได้ที่จะบินไปสั่งสอนพวกมันสักหน่อยแน่ๆ!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3&lt;color=grey&gt;Sigh...&lt;/color&gt;</key>
-		<value>&lt;color=grey&gt;Sigh...&lt;/color&gt;</value>
+		<value>&lt;color=grey&gt;เฮ้อ...&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3Probably best to leave ’em alone, though, really. More trouble than it’s worth to mess with anglerfish.</key>
-		<value>Probably best to leave ’em alone, though, really. More trouble than it’s worth to mess with anglerfish.</value>
+		<value>เอาเถอะ คิดอีกทีปล่อยพวกมันไว้ดีกว่า ไปยุ่งกับแองเกลอร์ฟิชน่ะมีแต่ซวยกับซวย</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4...That’s bad business, hatchling.</key>
-		<value>...That’s bad business, hatchling.</value>
+		<value>...ข่าวไม่ดีเลยนะ แฮชท์ลิง</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4As Chert will tell you if you so much as glance in Dark Bramble’s direction, there used to be a fifth planet where the Bramble is now.</key>
-		<value>As Chert will tell you if you so much as glance in Dark Bramble’s direction, there used to be a fifth planet where the Bramble is now.</value>
+		<value>อย่างที่เชิร์ตชอบบอกใครต่อใครไปทั่ว แต่ก่อนตรงที่ Dark Bramble อยู่เคยเป็นของดาวเคราะห์ที่ดวงที่ห้า</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4This infernal plant appeared at the center and kept growing, and growing, and growing, until it shattered the planet and scattered its pieces across space.</key>
-		<value>This infernal plant appeared at the center and kept growing, and growing, and growing, until it shattered the planet and scattered its pieces across space.</value>
+		<value>แต่แล้วเจ้าพืชปิศาจนั่นก็ผุดขึ้นมาจากใจกลางดาวแล้วก็โตขึ้น โตขึ้น โตขึ้นเรื่อยๆจนกระทั่งมันทำลายดาวทั้งดวง แหลกกระจายไปทั่วอวกาศ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4If we don’t get that seed you found sorted real quicklike, I suspect Timber Hearth will be heading toward the same fate. And I tell you what, we Hearthians have overcome far too much to be done in by some worthless &lt;i&gt;seed&lt;/i&gt;.</key>
-		<value>If we don’t get that seed you found sorted real quicklike, I suspect Timber Hearth will be heading toward the same fate. And I tell you what, we Hearthians have overcome far too much to be done in by some worthless &lt;i&gt;seed&lt;/i&gt;.</value>
+		<value>ถ้าเราไม่รีบทำอะไรซักอย่างกับเมล็ดนั่น Timber Hearth ของเราคงได้เจอจุดจบแบบเดียวกันแน่ๆ บอกอะไรให้ พวกเราเหล่าฮาร์เธียนไม่ได้ฝ่าฟันทุกอย่างมาเพื่อที่จะโดยทำลายลงได้ด้วย&lt;i&gt;เมล็ด&lt;/i&gt;ไร้ค่าแบบนี้นะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5A-&lt;i&gt;ha&lt;/i&gt;! So the blasted things &lt;i&gt;do&lt;/i&gt; have a weakness!</key>
-		<value>A-&lt;i&gt;ha&lt;/i&gt;! So the blasted things &lt;i&gt;do&lt;/i&gt; have a weakness!</value>
+		<value>อา-&lt;i&gt;ฮ่า&lt;/i&gt;! เจ้าพวกนั้น&lt;i&gt;มี&lt;/i&gt;จุดอ่อนงั้นสินะ!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5Meaning my fly-as-fast-as-I-can approach to dealing with them could have used a bit more thought behind it.</key>
-		<value>Meaning my fly-as-fast-as-I-can approach to dealing with them could have used a bit more thought behind it.</value>
+		<value>หมายความว่ากลยุทธ์ บิน-ให้-ไว-ที่-สุด ของฉันน่าจะใช้สมองคิดกว่านี้หน่อยแฮะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5Ah, well, at least they didn’t eat me. All’s well that ends well, eh, hatchling?</key>
-		<value>Ah, well, at least they didn’t eat me. All’s well that ends well, eh, hatchling?</value>
+		<value>แต่ก็เอาเถอะ อย่างน้อยฉันก็ไม่โดนกิน จบสวยก็ถือว่าทุกอย่างโอเคแล้วล่ะ ใช่มั้ยแฮชท์ลิง?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething7You flew a Nomaian shuttle? You don’t say! How was it? How did it handle?</key>
-		<value>You flew a Nomaian shuttle? You don’t say! How was it? How did it handle?</value>
+		<value>นายขี่กระสวยของโนไม? พูดจริงมั้ยเนี่ย! เป้นยังไงบ้าง? มันขับนุ่มมั้ย?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething7Can’t say I’d mind having a go at that myself, hatchling. Once I return to Timber Hearth, maybe that’ll have to be my next stop.</key>
-		<value>Can’t say I’d mind having a go at that myself, hatchling. Once I return to Timber Hearth, maybe that’ll have to be my next stop.</value>
+		<value>ฟังดูน่าสนุกดีนะ แฮชท์ลิง ฉันเองก็อยากลองไปดูเหมือนกัน ไว้กลับไป Timber Hearth แล้ว บางทีนั่นอาจจะเป็นจุดหมายต่อไปของฉันก็ได้</value>
 	</entry>
 	<entry>
 		<key>FoundSomething7A brand-new astronaut, and you’re already a pro adventurer! Outer Wilds Ventures is in good hands with you, I can tell. The flight program is &lt;i&gt;going&lt;/i&gt; places!</key>
-		<value>A brand-new astronaut, and you’re already a pro adventurer! Outer Wilds Ventures is in good hands with you, I can tell. The flight program is &lt;i&gt;going&lt;/i&gt; places!</value>
+		<value>นักบินหน้าใหม่แท้ ๆ แต่ดูท่าแล้วเป็นนักผจญภัยมือโปรไปซะแล้วนะ! Outer Wilds Ventures คงฝากอนาคตไว้กับเจ้าได้แน่ ฉันดูออกเลยล่ะ โปรแกรมการบินนี่… กำลังไปได้&lt;i&gt;สวย&lt;/i&gt;เลย!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6Nothing you want to share with me? Sounds like you’d better get out there and start exploring!</key>
-		<value>Nothing you want to share with me? Sounds like you’d better get out there and start exploring!</value>
+		<value>ไม่มีอะไรที่อยากจะบอกฉันเหรอ? ฟังดูเหมือนว่านายต้องเริ่มออกสำรวจได้แล้วนะ!</value>
 	</entry>
 	<entry>
 		<key>SignDespite my checking on them at least a thousand times over, the images are STILL not ready to print over in the radio tower. Well, it’s like they say — a watched satellite never transmits data! &lt;size=20&gt;(Haha, that’s a little joke for you, journal. No one says that.)&lt;/size&gt;</key>
-		<value>Despite my checking on them at least a thousand times over, the images are STILL not ready to print over in the radio tower. Well, it’s like they say — a watched satellite never transmits data! &lt;size=20&gt;(Haha, that’s a little joke for you, journal. No one says that.)&lt;/size&gt;</value>
+		<value>ไม่ว่าฉันจะมาดูกี่พันรอบ รูปพวกนี้ก็ยังไม่พร้อมจะพิมพ์ในหอวิทยุอยู่ดี เอาเถอะ เหมือนกับที่คนชอบพูดกัน - ดาวเทียมที่ถูกจ้องจะไม่มีวันส่งข้อมูล! &lt;size=20&gt;(ฮาฮ่า เป็นมุกตลกน้อยๆให้นายนะ เจ้าบันทึก ไม่มีใครพูดอะไรแบบนั้นหรอก)&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>SignSomeday, I’ll have to study the mechanics of how time manages to slow to a syrupy crawl whenever I’m anticipating something. In the meantime, I’ve turned to Gabbro, our resident expert in leisurely whiling away the hours, who recommends the following:</key>
-		<value>Someday, I’ll have to study the mechanics of how time manages to slow to a syrupy crawl whenever I’m anticipating something. In the meantime, I’ve turned to Gabbro, our resident expert in leisurely whiling away the hours, who recommends the following:</value>
+		<value>สักวันนึง ฉันต้องหาทางศึกษาให้ได้ว่าทำไมเวลาถึงได้ยืดยาดหยั่งกับน้ำเชื่อมทุกครั้งที่ฉันตั้งตารออะไรซักอย่าง ระหว่างนี้ฉันก็เลยหันไปพึ่งแก็บโบร ผู้เชี่ยวชาญเรื่อง "ศิลปะการปล่อยให้เวลาไหลผ่านไปอย่างรวดเร็ว" ซึ่งเขาก็ได้แนะนำเทคนิคไว้ดังนี้:</value>
 	</entry>
 	<entry>
 		<key>SignGABBRO’S 3 FOOLPROOF STEPS FOR DOZING OFF\\n     1.     Light a nice, cozy campfire and get comfortable.\\n     2.     Gaze deeply into the serene warmth.\\n     3.     Let time begin to slip away as you allow the flames to lull you into a peaceful slumber.</key>
-		<value>GABBRO’S 3 FOOLPROOF STEPS FOR DOZING OFF\\n     1.     Light a nice, cozy campfire and get comfortable.\\n     2.     Gaze deeply into the serene warmth.\\n     3.     Let time begin to slip away as you allow the flames to lull you into a peaceful slumber.</value>
+		<value>3 ขั้นตอนสุดชิลให้หลับสบายฉบับแก็บโบร\\n     1.     ก่อกองให้ และทำตัวให้สบาย\\n     2.     จ้องมองเข้าไปในแสงอุ่นๆของเปลวไฟ\\n     3.     ปล่อยให้เวลาไหลไปอย่างช้าๆ ในขณะที่เปลวไฟกล่อมให้หลับอย่างสงบ</value>
 	</entry>
 	<entry>
 		<key>Sign(If Gabbro knew I’d taken notes, they’d probably think I’d finally cracked, but I refuse to accept sass from an astronaut who deliberately burns their marshmallows.)</key>
-		<value>(If Gabbro knew I’d taken notes, they’d probably think I’d finally cracked, but I refuse to accept sass from an astronaut who deliberately burns their marshmallows.)</value>
+		<value>(ถ้าแก็บโบรรู้ว่าฉันจดเทคนิคของเขามาละก็ เขาคงคิดว่าฉันเริ่มเพี้ยนแล้วแน่ๆ ...แต่ฉันจะไม่ยอมโดนล้อจากนักบินที่ตั้งใจเผามาร์ชเมลโลว์ให้มันไหม้หรอกนะ)</value>
 	</entry>
 	<entry>
 		<key>SignCharting stars again out by the radio tower — they’re so bright out here! I only wish I were able to record them faster. Admittedly, I could use more patience. I get so engrossed in my work that sunrise becomes an unwelcome deadline, and daylight a grating slog.</key>
-		<value>Charting stars again out by the radio tower — they’re so bright out here! I only wish I were able to record them faster. Admittedly, I could use more patience. I get so engrossed in my work that sunrise becomes an unwelcome deadline, and daylight a grating slog.</value>
+		<value>ทำแผนที่ดวงดาวอีกครั้งแถวๆหอวิทยุ - แสงของพวกมันช่างสว่างจริงๆ! อยากจะบันทึกให้เร็วกว่านี้จัง ฉันยอมรับนะว่าฉันยังขาดความอดทนอยู่มาก พอฉันจดจ่อกับงานทีไร รู้ตัวอีกทีก็พระอาทิตย์ขึ้นแล้ว และแสงแดดก็เป็นอุปสรรคที่น่ารำคาญซะด้วย</value>
 	</entry>
 	<entry>
 		<key>Sign...Aaand we’re recording! Ahem. It’s been two days since the launch of the deep space satellite, and I’m about to view the first batch of photos. Let the record show that on this historic day, Outer Wilds Ventures has—</key>
-		<value>...Aaand we’re recording! Ahem. It’s been two days since the launch of the deep space satellite, and I’m about to view the first batch of photos. Let the record show that on this historic day, Outer Wilds Ventures has—</value>
+		<value>...เอาล่ะะะ กำลังบันทึกนะ! แฮ่ม! นี่ก็ผ่านมาได้สองวันแล้วหลังจากที่เราปล่อยดาวเทียม Deep Space ออกไป และฉันกำลังจะได้เห็นรูปถ่ายชุดแรก บันทึกไว้เลยว่า ณ วันแห่งประวัติศาสตร์นี้คณะสำรวจ Outer Wilds ได้-</value>
 	</entry>
 	<entry>
 		<key>SignAaaah! They’re printing, they’re printing! Here they come!</key>
-		<value>Aaaah! They’re printing, they’re printing! Here they come!</value>
+		<value>อ้าา! ภาพกำลังพิมพ์ออกมาแล้ว! กำลังพิมพ์อยู่! มาแล้วๆ!</value>
 	</entry>
 	<entry>
 		<key>Sign…Stars above, will you look at that. There’s Brittle Hollow. And look, look there, that’s Hollow’s Lantern! And there’s Giant’s Deep, and — and the Quantum Moon! I’m speechless, completely speechless.</key>
-		<value>…Stars above, will you look at that. There’s Brittle Hollow. And look, look there, that’s Hollow’s Lantern! And there’s Giant’s Deep, and — and the Quantum Moon! I’m speechless, completely speechless.</value>
+		<value>…ดวงดาวทั้งหลายเอ๋ย ดูนี่สิ นั่นคือ Brittle Hollow ส่วนนั่นก็ Hollow’s Lantern! แล้วก็ Giant’s Deep กับดวงจันทร์ควอนตัม! ฉัน...พูดไม่ออกเลย</value>
 	</entry>
 	<entry>
 		<key>SignEvery single astral body in our magnificent solar system, looking stunning from every angle in each of these three images. And in color, no less! Now this is art. I could stare at these photos forever. Doesn’t Timber Hearth look tiny from —</key>
-		<value>Every single astral body in our magnificent solar system, looking stunning from every angle in each of these three images. And in color, no less! Now this is art. I could stare at these photos forever. Doesn’t Timber Hearth look tiny from —</value>
+		<value>ทุกวัตถุทางดาราศาสตร์ในระบบสุริยะของเรา ปรากฎครบถ้วนอยู่ในสามภาพนี้ - ชัดเจนทุกมุม แถมยังเป็นภาพสีอีกด้วย นี่แหละศิลปะของจริง ฉันนั่งดูภาพพวกนี้ได้ทั้งวันทั้งคืน Timber Hearth ดูเล็กไปเลยจาก—</value>
 	</entry>
 	<entry>
 		<key>SignHold on. What is &lt;i&gt;that&lt;/i&gt;?</key>
-		<value>Hold on. What is &lt;i&gt;that&lt;/i&gt;?</value>
+		<value>เดี๋ยวนะ&lt;i&gt;นั่น&lt;/i&gt;อะไรน่ะ?</value>
 	</entry>
 	<entry>
 		<key>SignThat can’t be right. That’s… I mean, that’s not even possible. Am I interpreting this photo correctly? What’s even stranger is it doesn’t show up in either of the other photos. Just this one…</key>
-		<value>That can’t be right. That’s… I mean, that’s not even possible. Am I interpreting this photo correctly? What’s even stranger is it doesn’t show up in either of the other photos. Just this one…</value>
+		<value>...ไม่สิ นั่นไม่ถูกต้อง นั่น… มันเป็นไปไม่ได้ด้วยซ้ำ ฉันดูผิดรึเปล่าเนี่ย? ที่แปลกกว่าก็คือมันไม่อยู่ในภาพอีกสองใบเลยแฮะ มีอยู่แค่ใบนี้ใบเดียว…</value>
 	</entry>
 	<entry>
 		<key>SignWell, there must have been an equipment malfunction, I suppose. Only sensible explanation for it. I’ll radio Gabbro and ask them to go examine the satellite’s lens for defects.</key>
-		<value>Well, there must have been an equipment malfunction, I suppose. Only sensible explanation for it. I’ll radio Gabbro and ask them to go examine the satellite’s lens for defects.</value>
+		<value>ต้องเป็นเพราะอุปกรณ์ขัดข้องนั่นแน่ๆ เป็นคำอธิบายเดียวที่ฉันพอจะคิดออก เดี๋ยวฉันต้องวิทยุไปให้แก็บโบรช่วยตรวจสอบเลนส์ของดาวเทียมเผื่อจะมีอะไรผิดปกติ</value>
 	</entry>
 	<entry>
 		<key>the Prisoner</key>
@@ -13476,7 +13476,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>315</key>
-			<value>คุณถืออย่างอื่นอยู่แล้ว - </value>
+			<value>ถืออยู่แล้ว ไม่สามารถถือเพิ่มได้</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>316</key>
@@ -13508,7 +13508,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>323</key>
-			<value>หินสร้างภาพฉาย</value>
+			<value>หินฉายภาพ </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>324</key>
@@ -13692,7 +13692,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>403</key>
-			<value>สัญญานชีพอยู๋ในสภาวะวิกฤต</value>
+			<value>สัญญานชีพอยู่ในสภาวะวิกฤต</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>404</key>
