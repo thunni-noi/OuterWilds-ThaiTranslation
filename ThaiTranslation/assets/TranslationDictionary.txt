@@ -34,7 +34,7 @@
 	Bur				เบอ
 	Canna			แคนนา
 	Cassava			คัซซาวา		he/him
-	Clary			คลารี			she/her		Poke's younger sister (probably), Yarrow's Girlfriend
+	Clary			คลารี			she/her		Poke's (younger?) sister , Yarrow's Girlfriend
 	Clem			เคลมส์
 	Coleus			โคเลียส		he/him
 	Conoy			โคนอย		he/him
@@ -42,9 +42,10 @@
 	Daz				แดซ			he/him
 	Filix			ฟิลิกซ์		she/her
 	Hyssop			ฮิสซอป
-	Idaea			ไอเดีย		he/him
+	Idaea			อเดยา		he/him		Privet's (older?) brother
 	Ilex			ไอเล็กซ์
-	Kousa			คูซะ
+	Kousa			โควซา
+	Foli			โฟ
 	Laevi			เลวิ
 	Lami			ลามิ
 	Mallow			มัลโลว
@@ -54,8 +55,8 @@
 	Oeno			โอเอโน่
 	Phlox			ฟล็อก		he/him
 	Plume			พลูม			he/him
-	Poke			โพเก้			she/her		Clary's older sister
-	Privet			พริเวต		she/her
+	Poke			โพเก้			she/her		Clary's (older?) sister
+	Privet			พริเวต		she/her		Idaea (younger?) sister
 	Pye				ไพร์			she/her
 	Ramie			เรมี่			she/her
 	Rhus			รัส
@@ -65,17 +66,20 @@
 	Taget			ทาเก็ต		he/him
 	Thatch			แธตช์
 	Yarrow			ยาร์โรว		he/him		Clary's boyfriend
+	Din 			ดีน
 	
 --- Other ---
 Ash Twin Project		โปรเจกต์แอชทวิน
 Vessel					ยานเวซเซล
-Escape Pod				แคปซูลหนีภัยที่
+Escape Pod				ยานหนีภัยหมายเลข
 Probe Orbital Cannon	เครื่องยิงโพรบอวกาศ
-Gravity Cannon			เครื่องยิงโน้มถ่วง
+Gravity Cannon			เครื่องยิงแรงโน้มถ่วง
 Black Hole Forge		โรงหลอมพลังหลุมดำ
 Anglerfish				แองเกลอร์ฟิช
 White hole station		สถานีหลุมขาว
 Tower of Quantum Knowledge 	หอคอยแห่งปัญญาควอนตัม
-Ghost Matter 			โกสต์แมทเทอร์
+Ghost Matter 			โกสต์แมตเทอร์
 Hatchling 				แฮชท์ลิง
+Sunless City			เมืองไร้ตะวัน
+Hanging City			เมืองห้อยหัว
 

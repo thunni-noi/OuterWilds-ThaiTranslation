@@ -14,6 +14,7 @@ namespace ThaiTranslation
         public static bool TextTranslation_GetFont(bool dynamicFont, ref Font __result)
         {
             __result = ThaiTranslation._kmitlFont;
+            ThaiTranslation.Instance.ModHelper.Console.WriteLine(TextTranslation.Get().GetLanguage().ToString());
 
             return false;
         }
@@ -527,7 +528,7 @@ namespace ThaiTranslation
 
             __instance._fontInUse = ThaiTranslation._chakraFont;
             __instance._dynamicFontInUse = ThaiTranslation._chakraFont;
-            __instance._fontSpacingInUse = 1.2f;
+            __instance._fontSpacingInUse = 1.1f;
 
             //__instance._textField.lineSpacing = __instance._fontSpacingInUse;
             //__instance._textField.font = ThaiTranslation._thaisans;
@@ -539,7 +540,7 @@ namespace ThaiTranslation
         [HarmonyPatch(typeof(NomaiTranslatorProp), nameof(NomaiTranslatorProp.DisplayTextNode))]
         public static void NomaiTranslatorProp_DisplayTextNode(NomaiTranslatorProp __instance)
         {
-            __instance._textField.fontSize = 82;
+            __instance._textField.fontSize = 78;
         }
 
         // text promt for stone ( In ENG it's xxx projection stone but in Thai it should be ฉายภาพ xxx ) 
@@ -555,12 +556,20 @@ namespace ThaiTranslation
         [HarmonyPatch(typeof(ItemTool), nameof(ItemTool.UpdateState))]
         public static void ItemTool_UpdateState(ItemTool.PromptState newState, string itemName, ItemTool __instance)
         {
+
+            if (TextTranslation.Get().GetLanguage().ToString() != "ไทย") { return; }
             if (__instance._promptState == ItemTool.PromptState.CANNOT_HOLD_MORE)
             {
                 __instance._messageOnlyPrompt.SetVisibility(true);
                 //__instance._messageOnlyPrompt.SetText(itemName + UITextLibrary.GetString(UITextType.ItemAlreadyHoldingPrompt));
                 __instance._messageOnlyPrompt.SetText("ไม่สามารถืออย่างอื่นได้เนื่องจากในมือมี " + itemName + " อยู่แล้ว"); // hard coded cuz idk what im doing
             }
+            else if (__instance._promptState == ItemTool.PromptState.UNSOCKET)
+            {
+                __instance._messageOnlyPrompt.SetVisibility(true);
+                __instance._messageOnlyPrompt.SetText("นำ " + itemName + " ออก"); // another hard-coded
+            }
+            
 
         }
        
