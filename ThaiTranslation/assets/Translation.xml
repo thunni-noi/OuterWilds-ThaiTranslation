@@ -61,7 +61,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: Is it, though? We’ve tried for so long to find something that I (and others) now believe might be impossible to find. If the search for the &lt;color=lightblue&gt;Eye&lt;/color&gt; is a futile one, we should choose the option with the least potential for harm.</key>
-		<value>คัซซาวา: มันคุ้มค่าจริงหรือ? เราพยายามมานานมากเพื่อตามหาสิ่งที่ฉัน (และคนอื่นๆ) เชื่อว่าเป็นไปไม่ได้ที่จะหาพบ ถ้าการค้นหา&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;นั้นเปล่าประโยชน์ เราก็ควรจะเลือกแนวทางที่เสี่ยงน้อยที่สุด</value>
+		<value>คัซซาวา: มันคุ้มค่าจริงหรือ? เราพยายามมานานมากเพื่อตามหาสิ่งที่ฉัน (และคนอื่นๆ) เชื่อว่าเป็นไปไม่ได้ที่จะหาพบ ถ้าการค้นหา&lt;color=lightblue&gt; The Eye &lt;/color&gt;นั้นเปล่าประโยชน์ เราก็ควรจะเลือกแนวทางที่เสี่ยงน้อยที่สุด</value>
 	</entry>
 	<entry>
 		<key>SPIRE: Abandoning the &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core and its casing means losing valuable knowledge.</key>
@@ -96,7 +96,7 @@
 			CASSAVA: Jokes aside, suppose my own fear of never finding the &lt;color=lightblue&gt;Eye&lt;/color&gt; prompted my argument with Poke. That would be immature of me.
 		</key>
 		<value>
-			คัซซาวา: เอาจริงๆ บางทีความกลัวของฉันที่คิดว่าเราจะไม่มีวันพบ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;อาจเป็นสาเหตุให้ฉันทะเลาะกับโพเก้ ฉันทำตัวไม่สมกับเป็นผู้ใหญ่เลย
+			คัซซาวา: เอาจริงๆ บางทีความกลัวของฉันที่คิดว่าเราจะไม่มีวันพบ&lt;color=lightblue&gt; The Eye &lt;/color&gt;อาจเป็นสาเหตุให้ฉันทะเลาะกับโพเก้ ฉันทำตัวไม่สมกับเป็นผู้ใหญ่เลย
 		</value>
 	</entry>
 	<entry>
@@ -367,7 +367,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: We warped to follow that curious signal from the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. Where we arrived was wrong; it wasn’t where we tried to go.</key>
-		<value>ฟิลิกซ์: เราวาร์ปตามสัญญาณปริศนาจาก&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;มา แต่ที่ๆเราวาร์ปออกมามันไม่ถูกต้อง มันไม่ใช่ปลายทางที่พวกเราวางแผนไว้</value>
+		<value>ฟิลิกซ์: เราวาร์ปตามสัญญาณปริศนาจาก&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;มา แต่ที่ๆเราวาร์ปออกมามันไม่ถูกต้อง มันไม่ใช่ปลายทางที่พวกเราวางแผนไว้</value>
 	</entry>
 	<entry>
 		<key>THATCH: Suppose it wasn’t a problem with the &lt;color=orange&gt;Vessel&lt;/color&gt;, but with our destination.</key>
@@ -1171,7 +1171,7 @@
 	</entry>
 	<entry>
 		<key>Gossan1Oof. Yes. The eye thing.</key>
-		<value>โอ๊ะ ใช่ เรื่องตา</value>
+		<value>โอ๊ะ ใช่ เรื่องตาของเขา</value>
 	</entry>
 	<entry>
 		<key>Gossan1Yeah, that's... yeah.</key>
@@ -1658,7 +1658,7 @@
 			Deep space anomaly matching all known criteria for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; found by probe &lt;FirstLoop&gt;.
 		</key>
 		<value>
-			ตรวจพบสิ่งปกติในห้วงอวกาศที่ตรงกับเกณฑ์ทั้งหมดที่ทราบเกี่ยวกับ&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt; จากโพรบที่ &lt;FirstLoop&gt;
+			ตรวจพบสิ่งปกติในห้วงอวกาศที่ตรงกับเกณฑ์ทั้งหมดที่ทราบเกี่ยวกับ&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt; จากโพรบที่ &lt;FirstLoop&gt;
 		</value>
 	</entry>
 	<entry>
@@ -2851,7 +2851,7 @@
 	</entry>
 	<entry>
 		<key>Scientist5There’s our pilot! Ready to get this beauty off the ground?</key>
-		<value>นั่นไงนักบินของเรา! พร้อมจะพาเธอออกบินหรือยัง?</value>
+		<value>นั่นไงนักบินของเรา! พร้อมจะพายานออกบินหรือยัง?</value>
 	</entry>
 	<entry>
 		<key>Scientist5Hey, what can I do you for?</key>
@@ -2871,7 +2871,7 @@
 	</entry>
 	<entry>
 		<key>SlateScientist5I keep getting killed by ghost matter.</key>
-		<value>ฉันตายเพราะโกสต์แมทเทอร์ไม่หยุดเลย</value>
+		<value>ฉันตายเพราะโกสต์แมตเทอร์ไม่หยุดเลย</value>
 	</entry>
 	<entry>
 		<key>SlateScientist5The sun is going to go supernova, by the way.</key>
@@ -3034,7 +3034,7 @@
 			ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe.
 		</key>
 		<value>
-			ข้อผิดพลาก: ไม่สามารถระบุวงโครจรได้ ไม่มีสัญญาณใดๆที่ตรงกับเกณฑ์ของดวงตาแห่งจักรวาล
+			ข้อผิดพลาก: ไม่สามารถระบุวงโครจรได้ ไม่มีสัญญาณใดๆที่ตรงกับเกณฑ์ของ Eye of the universe 
 		</value>
 	</entry>
 	<entry>
@@ -3607,7 +3607,7 @@
 	</entry>
 	<entry>
 		<key>WaitingForInvitationWhen my kind found the Eye and realized what it was capable of, they were terrified. It was too difficult a truth. Like a light too bright to look upon directly, it burned them.</key>
-		<value>เมื่อเผ่าพันธุ์ของข้าพบกับดวงตาแห่งจักรวาลและตระหนักถึงสิ่งที่มันทำได้ พวกเขาก็หวาดกลัว มันเป็นความจริงที่ยากเกินกว่าจะรับไหว ราวกับแสงที่สว่างเกินกว่าจะจ้องมองโดยตรง มันเผาไหม้พวกเขา</value>
+		<value>เมื่อเผ่าพันธุ์ของข้าพบกับ Eye of the universe และตระหนักถึงสิ่งที่มันทำได้ พวกเขาก็หวาดกลัว มันเป็นความจริงที่ยากเกินกว่าจะรับไหว ราวกับแสงที่สว่างเกินกว่าจะจ้องมองโดยตรง มันเผาไหม้พวกเขา</value>
 	</entry>
 	<entry>
 		<key>WaitingForInvitationWhat they could not unlearn was hidden away in darkness — obfuscated, then lost. They did not want to see their story end.</key>
@@ -3683,11 +3683,11 @@
 	</entry>
 	<entry>
 		<key>IPDreamLibrariesFoundThis species traveled from a nearby star system in search of the Eye of the universe, but, horrified by what they discovered, decided to block the Eye’s signal so that no one else would ever find it.</key>
-		<value>เผ่าพันธุ์นี้เดินทางมาจากระบบดวงดาวใกล้เคียง เพื่อค้นหา The Eye of the universe แต่เมื่อพบกับความจริงที่น่าสะพรึง พวกเขาตัดสินใจปิดกั้นสัญญาณของดวงตาเพื่อให้ไม่มีใครหามันพบ</value>
+		<value>เผ่าพันธุ์นี้เดินทางมาจากระบบดวงดาวใกล้เคียง เพื่อค้นหา Eye of the universe แต่เมื่อพบกับความจริงที่น่าสะพรึง พวกเขาตัดสินใจปิดกั้นสัญญาณของ The Eye เพื่อให้ไม่มีใครหามันพบ</value>
 	</entry>
 	<entry>
 		<key>IPFinishedOne individual, however, rebelled against the decision, and was able to briefly release the Eye’s signal back into space before being caught and imprisoned in solitude for this betrayal.</key>
-		<value>อย่างไรก็ดี มีบุคคลหนึ่งได้ต่อต้านการตัดสินใจนั้น และปล่อยสัญญาณของดวงตากลับสู่ห้วงอวกาศเพียงแค่ชั่วครู่ ก่อนที่จะถูกจองจำอยู่อย่างโดดเดียวจากการทรยศนั้น</value>
+		<value>อย่างไรก็ดี มีบุคคลหนึ่งได้ต่อต้านการตัดสินใจนั้น และปล่อยสัญญาณของ The Eye กลับสู่ห้วงอวกาศเพียงแค่ชั่วครู่ ก่อนที่จะถูกจองจำอยู่อย่างโดดเดียวจากการทรยศนั้น</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Conoy, Daz and I were lifting &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; components into orbit for assembly, and one somehow sank down down &lt;i&gt;beneath&lt;/i&gt; the current.</key>
@@ -3715,15 +3715,15 @@
 	</entry>
 	<entry>
 		<key>COLEUS: I was upstairs testing the &lt;color=orange&gt;Eye signal locator&lt;/color&gt;, and it can hear and follow the signals from the &lt;color=lightblue&gt;sun&lt;/color&gt;, &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;, and &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-		<value>โคเลียส: ฉันกำลังทดสอบ&lt;color=orange&gt;เครื่องระบุสัญญาณดวงตา&lt;/color&gt;อยู่ด้านบน ดูเหมือนว่ามันจะติดตามสัญญาณของ&lt;color=lightblue&gt;ดวงอาทิตย์&lt;/color&gt;, &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; และ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; ได้ปกติ</value>
+		<value>โคเลียส: ฉันกำลังทดสอบ&lt;color=orange&gt;เครื่องระบุสัญญาณ The Eye &lt;/color&gt;อยู่ด้านบน ดูเหมือนว่ามันจะติดตามสัญญาณของ&lt;color=lightblue&gt;ดวงอาทิตย์&lt;/color&gt;, &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; และ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; ได้ปกติ</value>
 	</entry>
 	<entry>
 		<key>COLEUS: However, something strange is happening when I ask the &lt;color=orange&gt;Eye signal locator&lt;/color&gt; to follow the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal: The device’s indicator rotates wildly and never points to just one direction.</key>
-		<value>โคเลียส: อย่างไรก็ตาม พอฉันให้&lt;color=orange&gt;เครื่องระบุสัญญาณดวงตา&lt;/color&gt; ลองตามหาสัญญาณของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ดู: ตัวชี้ของเครื่องมันหมุนมั่วไปหมดและไม่เคยเจาะจงทางใดทางนึงเลย</value>
+		<value>โคเลียส: อย่างไรก็ตาม พอฉันให้&lt;color=orange&gt;เครื่องระบุสัญญาณ The Eye &lt;/color&gt; ลองตามหาสัญญาณของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;ดู: ตัวชี้ของเครื่องมันหมุนมั่วไปหมดและไม่เคยเจาะจงทางใดทางนึงเลย</value>
 	</entry>
 	<entry>
 		<key>THATCH: This is a curious result. It’s possible the &lt;color=lightblue&gt;Eye&lt;/color&gt; has stopped calling out its signal.</key>
-		<value>แธตช์: ช่างเป็นผลลัพธ์ที่น่าสงสัย มันอาจเป็นไปได้ว่า&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;อาจหยุดปล่อยสัญญาณออกมาแล้ว</value>
+		<value>แธตช์: ช่างเป็นผลลัพธ์ที่น่าสงสัย มันอาจเป็นไปได้ว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;อาจหยุดปล่อยสัญญาณออกมาแล้ว</value>
 	</entry>
 	<entry>
 		<key>FILIX: I see! I most likely calibrated the locator incorrectly. Privet (my apprentice) and I will make adjustments and try again.</key>
@@ -3735,11 +3735,11 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: It saddens me to posit this, my friends, but I believe this &lt;color=orange&gt;locator&lt;/color&gt; cannot detect the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal. We would need to build a more sensitive device if we want to locate the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.</key>
-		<value>คัซซาวา: ฉันเสียใจที่ต้องเขียนพูดแบบนี้ แต่ฉันคิดว่า&lt;color=orange&gt;เครื่องตามหา&lt;/color&gt;นี้ไม่สามารถจับสัญญาณของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ได้แน่ๆ เราคงจะต้องสร้างอุปกรณ์ที่ไวต่อสัญญาณมากกว่านี้ถ้าเราอยากจะหา&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;</value>
+		<value>คัซซาวา: ฉันเสียใจที่ต้องเขียนพูดแบบนี้ แต่ฉันคิดว่า&lt;color=orange&gt;เครื่องตามหา&lt;/color&gt;นี้ไม่สามารถจับสัญญาณของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;ได้แน่ๆ เราคงจะต้องสร้างอุปกรณ์ที่ไวต่อสัญญาณมากกว่านี้ถ้าเราอยากจะหา&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>THATCH: Then we will build it. Don’t lose hope, Cassava; our search for the &lt;color=lightblue&gt;Eye&lt;/color&gt; is what brought our clan to this place. We won’t give up so easily!</key>
-		<value>แธตช์: ถ้างั้นเราก็จะสร้างมันขึ้นมา อย่าเพิ่งสิ้นหวังไปคัซซาวา การค้นหา&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;เป็นสิ่งที่พาเผ่าเรามาตรงนี้ตั้งแต่แรก พวกเราจะไม่ยอมแพ้ง่ายๆหรอก!</value>
+		<value>แธตช์: ถ้างั้นเราก็จะสร้างมันขึ้นมา อย่าเพิ่งสิ้นหวังไปคัซซาวา การค้นหา&lt;color=lightblue&gt; The Eye &lt;/color&gt;เป็นสิ่งที่พาเผ่าเรามาตรงนี้ตั้งแต่แรก พวกเราจะไม่ยอมแพ้ง่ายๆหรอก!</value>
 	</entry>
 	<entry>
 		<key>Hal</key>
@@ -4447,7 +4447,7 @@
 	</entry>
 	<entry>
 		<key>THATCH: Where should this new, more sophisticated locator be built? It may need to be larger than this &lt;color=orange&gt;Eye signal locator&lt;/color&gt; is.</key>
-		<value>แธตช์: เราควรสร้างเครื่องระบุตำแหน่งแบบใหม่ที่ซับซ้อนกว่าเดิมที่ไหนดี? มันอาจต้องใหญ่กว่า&lt;color=orange&gt;เครื่องระบุสัญญาณดวงตา&lt;/color&gt;นี้พอตัวอยู่</value>
+		<value>แธตช์: เราควรสร้างเครื่องระบุตำแหน่งแบบใหม่ที่ซับซ้อนกว่าเดิมที่ไหนดี? มันอาจต้องใหญ่กว่า&lt;color=orange&gt;เครื่องระบุสัญญาณ The Eye &lt;/color&gt;นี้พอตัวอยู่</value>
 	</entry>
 	<entry>
 		<key>PLUME: The southern glacier on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; has ample available space. I could construct a new building to house this proposed locator.</key>
@@ -4455,7 +4455,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: Yes, let’s build there! I imagine our young friend Conoy would enjoy that immensely. He’s always held a great interest in the &lt;color=lightblue&gt;Eye&lt;/color&gt;, especially for a child born so long after the crash.</key>
-		<value>ฟิลิกซ์: เอาสิ สร้างตรงนั้นกันเถอะ! ฉันคิดว่า คอนอย เพื่อนตัวน้อยของเราจะชอบมันมาก เขาสนใจในตัวของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;อย่างมากโดยเฉพาะอย่างยิ่งสำหรับเด็กที่เกิดหลังจากเหตุการณ์ยานตกนานขนาดนั้น</value>
+		<value>ฟิลิกซ์: เอาสิ สร้างตรงนั้นกันเถอะ! ฉันคิดว่า คอนอย เพื่อนตัวน้อยของเราจะชอบมันมาก เขาสนใจในตัวของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;อย่างมากโดยเฉพาะอย่างยิ่งสำหรับเด็กที่เกิดหลังจากเหตุการณ์ยานตกนานขนาดนั้น</value>
 	</entry>
 	<entry>
 		<key>PLUME: I will begin construction on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;’s south pole immediately, then!</key>
@@ -4666,7 +4666,7 @@
 			What is the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;?
 		</key>
 		<value>
-			อะไรคือ&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;กันแน่?
+			อะไรคือ&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;กันแน่?
 		</value>
 	</entry>
 	<entry>
@@ -4674,7 +4674,7 @@
 			The &lt;color=lightblue&gt;Eye&lt;/color&gt; is the source of the signal that brought us here.
 		</key>
 		<value>
-			&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;คือแหล่งที่มาของสัญญาที่นำพาเรามาที่นี่
+			&lt;color=lightblue&gt; The Eye &lt;/color&gt;คือแหล่งที่มาของสัญญาที่นำพาเรามาที่นี่
 		</value>
 	</entry>
 	<entry>
@@ -4682,7 +4682,7 @@
 			Suppose the &lt;color=lightblue&gt;Eye&lt;/color&gt; is a more advanced being.
 		</key>
 		<value>
-			&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;อาจเป็นตัวตนที่ล้ำหน้ากว่า
+			&lt;color=lightblue&gt; The Eye &lt;/color&gt;อาจเป็นตัวตนที่ล้ำหน้ากว่า
 		</value>
 	</entry>
 	<entry>
@@ -4690,7 +4690,7 @@
 			The &lt;color=lightblue&gt;Eye&lt;/color&gt; is older than this universe, so imagine how much it could teach us.
 		</key>
 		<value>
-			&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;มีอายุมากกว่าจักรวาลเสียอีก คิดดูว่ามันสามารถสอนอะไรเราได้มากขนาดไหน
+			&lt;color=lightblue&gt; The Eye &lt;/color&gt;มีอายุมากกว่าจักรวาลเสียอีก คิดดูว่ามันสามารถสอนอะไรเราได้มากขนาดไหน
 		</value>
 	</entry>
 	<entry>
@@ -4706,7 +4706,7 @@
 			What is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal?
 		</key>
 		<value>
-			อะไรคือสัญญาณของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ล่ะ;
+			อะไรคือสัญญาณของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;ล่ะ;
 		</value>
 	</entry>
 	<entry>
@@ -4714,7 +4714,7 @@
 			Suppose the &lt;color=lightblue&gt;Eye&lt;/color&gt; wishes to communicate.
 		</key>
 		<value>
-			&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;อาจต้องการที่จะสื่อสาร
+			&lt;color=lightblue&gt; The Eye &lt;/color&gt;อาจต้องการที่จะสื่อสารอะไรซักอย่าง
 		</value>
 	</entry>
 	<entry>
@@ -4730,7 +4730,7 @@
 			The signal is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s voice. It speaks a language we don’t yet know.
 		</key>
 		<value>
-			สัญญาณนั่นเป็นเสียงของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt; มันพูดในภาษาที่เรายังไม่เข้าใจ
+			สัญญาณนั่นเป็นเสียงของ&lt;color=lightblue&gt; The Eye &lt;/color&gt; มันพูดในภาษาที่เรายังไม่เข้าใจ
 		</value>
 	</entry>
 	<entry>
@@ -4738,7 +4738,7 @@
 			Or maybe the signal is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s attempt at expressing itself.
 		</key>
 		<value>
-			หรือบางทีสัญญาณอาจเป็นวิธีที่&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;พยายามจะแสดงออก
+			หรือบางทีสัญญาณอาจเป็นวิธีที่&lt;color=lightblue&gt; The Eye &lt;/color&gt;พยายามจะแสดงออก
 		</value>
 	</entry>
 	<entry>
@@ -4746,20 +4746,20 @@
 			Of note: From the signal, we were able to determine the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s approximate age (or perhaps its lack of age?).
 		</key>
 		<value>
-			โน๊ต: จากสัญญาณที่เราได้รับ เราสามารถประมาณอายุของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ได้ (หรือบางมีมันอาจไร้อายุ?)
+			โน๊ต: จากสัญญาณที่เราได้รับ เราสามารถประมาณอายุของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;ได้ (หรือบางมีมันอาจไร้อายุ?)
 		</value>
 	</entry>
 	<entry>
 		<key>Be welcomed in this place. This shrine is a space to reflect on what brought us to this star system: the signal from the &lt;color=lightblue&gt;Eye&lt;/color&gt;.</key>
-		<value>ขอจงได้รับการต้อนรับในสถานที่แห่งนี้ วิหารแห่งนี้คือสถานที่ให้เราครุ่นคิดถึงสิ่งที่นำเรามายังระบบสุริยะนี้: สัญญาณจาก&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;</value>
+		<value>ขอจงได้รับการต้อนรับในสถานที่แห่งนี้ วิหารแห่งนี้คือสถานที่ให้เราครุ่นคิดถึงสิ่งที่นำเรามายังระบบสุริยะนี้: สัญญาณจาก&lt;color=lightblue&gt; The Eye &lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>We observed the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal in our travels, and followed it here to find its source.</key>
-		<value>พวกเราได้สังเกตสัญญาณของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ระหว่างการเดินทางของพวกเรา และตามมันมาที่นี่เพื่อหาแหล่งที่มาของมัน</value>
+		<value>พวกเราได้สังเกตสัญญาณของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;ระหว่างการเดินทางของพวกเรา และตามมันมาที่นี่เพื่อหาแหล่งที่มาของมัน</value>
 	</entry>
 	<entry>
 		<key>What we know is this: The source of the signal (which we have chosen to call the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;) is older than this universe itself. The rest, we have yet to learn.</key>
-		<value>สื่งที่เราพอรู้ก็คือ: ที่มาของสัญญาณนี้ (ที่เราเลือกที่จะเรียกมันว่า &lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;) มีอายุมากกว่าจักรวาลเสียอีก นอกจากนั้นเราก็ไม่รู้อะไรเพิ่มเติมแล้ว</value>
+		<value>สื่งที่เราพอรู้ก็คือ: ที่มาของสัญญาณนี้ (ที่เราเลือกที่จะเรียกมันว่า &lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;) มีอายุมากกว่าจักรวาลเสียอีก นอกจากนั้นเราก็ไม่รู้อะไรเพิ่มเติมแล้ว</value>
 	</entry>
 	<entry>
 		<key>Enter, and open your mind to its possibilities.</key>
@@ -4802,7 +4802,7 @@
 			SOLANUM: I no longer believe, as I did as a child on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, that the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; (the source of the signal) wishes to harm us. But it may not want to be found, either.
 		</key>
 		<value>
-			โซลานัม: ไม่ได้เชื่อแบบเดียวกับที่ฉันตอนเด็กบน &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; เชื่ออีกต่อไปแล้วว่า&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;(ที่มาของสัญญาณ) นั้นต้องการที่จะทำอันตรายแก่เรา แต่บางทีมันอาจไม่อยากถูกพบเช่นกัน
+			โซลานัม: ไม่ได้เชื่อแบบเดียวกับที่ฉันตอนเด็กบน &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; เชื่ออีกต่อไปแล้วว่า&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;(ที่มาของสัญญาณ) นั้นต้องการที่จะทำอันตรายแก่เรา แต่บางทีมันอาจไม่อยากถูกพบเช่นกัน
 		</value>
 	</entry>
 	<entry>
@@ -4818,7 +4818,7 @@
 			SOLANUM: I suspect imagining we are special to the &lt;color=lightblue&gt;Eye&lt;/color&gt; in some way is wishful thinking. The &lt;color=lightblue&gt;Eye&lt;/color&gt; might have called out to any sentient species.
 		</key>
 		<value>
-			โซลานัม: ฉันคิดว่าความคิดที่ว่า&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;นั้นคิดว่าเราพิเศษอาจเป็นความคิดที่สวยเกินจริงไป บางที&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;อาจเรียกหาเผ่าพันธุ์ใดๆก็ได้ที่มีสติปัญญา
+			โซลานัม: ฉันคิดว่าความคิดที่ว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;นั้นคิดว่าเราพิเศษอาจเป็นความคิดที่สวยเกินจริงไป บางที&lt;color=lightblue&gt; The Eye &lt;/color&gt;อาจเรียกหาเผ่าพันธุ์ใดๆก็ได้ที่มีสติปัญญา
 		</value>
 	</entry>
 	<entry>
@@ -4826,7 +4826,7 @@
 			SOLANUM: Or it might not have been calling out at all, and that my ancestors heard the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal holds no great, deep meaning.
 		</key>
 		<value>
-			โซลานัม: หรือบางทีมันอาจไม่ได้เรียกหาใครเลย และการที่บรรพุบุรุษของเราเจอกับสัญญาณของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ไม่ได้มีจุดประสงค์หรือความหมายลึกซึ้งใดๆ
+			โซลานัม: หรือบางทีมันอาจไม่ได้เรียกหาใครเลย และการที่บรรพุบุรุษของเราเจอกับสัญญาณของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;ไม่ได้มีจุดประสงค์หรือความหมายลึกซึ้งใดๆ
 		</value>
 	</entry>
 	<entry>
@@ -4842,7 +4842,7 @@
 			SOLANUM: In fact, the &lt;color=lightblue&gt;Eye&lt;/color&gt; may not have wishes at all. We have no evidence supporting this.
 		</key>
 		<value>
-			โซลานัม: จริงๆแล้ว &lt;color=lightblue&gt;ดวงตา&lt;/color&gt;อาจไม่ได้มีความปราถนาใดๆเลยก็เป็นได้ เราไม่มีหลักฐานใดมาสนับสนุนเรื่องนี้
+			โซลานัม: จริงๆแล้ว &lt;color=lightblue&gt; The Eye &lt;/color&gt;อาจไม่ได้มีความปราถนาใดๆเลยก็เป็นได้ เราไม่มีหลักฐานใดมาสนับสนุนเรื่องนี้
 		</value>
 	</entry>
 	<entry>
@@ -4906,7 +4906,7 @@
 			ILEX: It would also help if we stopped building so many things to search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. I asked Yarrow, and he says we use lots of resources on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.
 		</key>
 		<value>
-			ไอเล็กซ์: มันก็น่าจะดีด้วยถ้าเราหยุดสร้างอะไรต่อมิอะไรมาเพื่อตามหา&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt; ฉันถามยาร์โรวและเขาบอกฉันว่าเราใช้ทรัพยากรมหาศาลไปกับ&lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;
+			ไอเล็กซ์: มันก็น่าจะดีด้วยถ้าเราหยุดสร้างอะไรต่อมิอะไรมาเพื่อตามหา&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt; ฉันถามยาร์โรวและเขาบอกฉันว่าเราใช้ทรัพยากรมหาศาลไปกับ&lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;
 		</value>
 	</entry>
 	<entry>
@@ -4971,51 +4971,51 @@
 	</entry>
 	<entry>
 		<key>CONOY: What have we learned thus far in our search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;?</key>
-		<value>โคนอย: เรารู้อะไรแล้วบ้างในระหว่างที่เราตามหา&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;?</value>
+		<value>โคนอย: เรารู้อะไรแล้วบ้างในระหว่างที่เราตามหา&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;?</value>
 	</entry>
 	<entry>
 		<key>PLUME: Those of us on the &lt;color=orange&gt;Vessel&lt;/color&gt; originally followed the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal to this star system, but we were unable to warp to the &lt;color=lightblue&gt;Eye&lt;/color&gt; itself.</key>
-		<value>พลูม: ตอนแรกพวกเราที่อยู่ใน&lt;color=orange&gt;เวซเซล&lt;/color&gt;ตามสัญญาณของ &lt;color=lightblue&gt;The Eye&lt;/color&gt; มาที่ระบบสุริยะนี้ แต่เราไม่สามารถวาร์ปที่ที่ตัวของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;อยู่โดยตรงได้</value>
+		<value>พลูม: ตอนแรกพวกเราที่อยู่ใน&lt;color=orange&gt;เวซเซล&lt;/color&gt;ตามสัญญาณของ &lt;color=lightblue&gt;The Eye&lt;/color&gt; มาที่ระบบสุริยะนี้ แต่เราไม่สามารถวาร์ปที่ที่ตัวของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;อยู่โดยตรงได้</value>
 	</entry>
 	<entry>
 		<key>PRIVET: The locator we built on the &lt;color=lightblue&gt;Attlerock&lt;/color&gt; and the new, more sensitive locator we built here were both unable to detect any trace of the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal.</key>
-		<value>พริเวต: เครื่องระบุตำแหน่งที่เราสร้างบน &lt;color=lightblue&gt;Attlerock&lt;/color&gt; และเครื่องระบุตำแหน่งอันใหม่ที่ไวต่อสัญญาณที่เราสร้างขึ้นที่นี่ทั้งคู่ต่างไม่สามารถหาได้แม้แต่ร่องรอยสัญญาณของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;</value>
+		<value>พริเวต: เครื่องระบุตำแหน่งที่เราสร้างบน &lt;color=lightblue&gt;Attlerock&lt;/color&gt; และเครื่องระบุตำแหน่งอันใหม่ที่ไวต่อสัญญาณที่เราสร้างขึ้นที่นี่ทั้งคู่ต่างไม่สามารถหาได้แม้แต่ร่องรอยสัญญาณของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>AVENS: Hypothesis: The &lt;color=lightblue&gt;Eye&lt;/color&gt; has stopped emitting its signal.</key>
-		<value>อเวนส์: สมมติฐาน: &lt;color=lightblue&gt;ดวงตา&lt;/color&gt;นั้นหยุดปล่อยสัญญาณออกมาแล้ว</value>
+		<value>อเวนส์: สมมติฐาน: &lt;color=lightblue&gt; The Eye &lt;/color&gt;นั้นหยุดปล่อยสัญญาณออกมาแล้ว</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Suppose the &lt;color=lightblue&gt;Eye&lt;/color&gt; doesn’t wish to be found.</key>
-		<value>คัซซาวา: บางทีตัวของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;เองอาจไม่อยากถูกเจอ</value>
+		<value>คัซซาวา: บางทีตัวของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;เองอาจไม่อยากถูกเจอ</value>
 	</entry>
 	<entry>
 		<key>PLUME: Cassava, how can you suggest that? The &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal called out to summon us to this star system!</key>
-		<value>พลูม: คัซซาวา นายคิดแบบนั้นได้ยังไง? สัญญาณของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;นั้นเรียกพวกเขามายังระบบสุริยะนี้นะ!</value>
+		<value>พลูม: คัซซาวา นายคิดแบบนั้นได้ยังไง? สัญญาณของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;นั้นเรียกพวกเขามายังระบบสุริยะนี้นะ!</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: I’m aware; I grew up hearing the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s story. Yet we’re no closer to finding it than you were when you first arrived here.</key>
-		<value>คัซซาวา: ฉันรู้ ฉันโตมากับเรื่องราวของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;แต่เราก็ยังไม่เข้าใกล้การค้นพบมันไปมากกว่าตอนที่เรามาถึงที่นี่ตอนแรกเลย</value>
+		<value>คัซซาวา: ฉันรู้ ฉันโตมากับเรื่องราวของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;แต่เราก็ยังไม่เข้าใกล้การค้นพบมันไปมากกว่าตอนที่เรามาถึงที่นี่ตอนแรกเลย</value>
 	</entry>
 	<entry>
 		<key>MALLOW: Based on our knowledge of the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, we believe the &lt;color=lightblue&gt;Eye&lt;/color&gt; is in orbit around this star system’s &lt;color=lightblue&gt;sun&lt;/color&gt;. This would mean the &lt;color=lightblue&gt;Eye&lt;/color&gt; is located within a finite (albeit enormous) range.</key>
-		<value>มัลโลว: อิงจากความรู้ที่เรามีเกี่ยวกับ&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; เราเชื่อว่า&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;นั้นอยู่ในวงโครจรรอบๆ&lt;color=lightblue&gt;ดวงอาทิตย์&lt;/color&gt;ของระบบสุริยะนี้ นี่หมายความว่า&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;นั้นอยู่ในระยะที่จำกัด (ถึงแม้จะมหาศาล)</value>
+		<value>มัลโลว: อิงจากความรู้ที่เรามีเกี่ยวกับ&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; เราเชื่อว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;นั้นอยู่ในวงโครจรรอบๆ&lt;color=lightblue&gt;ดวงอาทิตย์&lt;/color&gt;ของระบบสุริยะนี้ นี่หมายความว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;นั้นอยู่ในระยะที่จำกัด (ถึงแม้จะมหาศาล)</value>
 	</entry>
 	<entry>
 		<key>CONOY: How should our methods change as we continue our search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;?</key>
-		<value>โคนอย: เราควรจะเปลี่ยนวิธีการของเราในขณะที่เราตามหา&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;อย่างไรดี?</value>
+		<value>โคนอย: เราควรจะเปลี่ยนวิธีการของเราในขณะที่เราตามหา&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;อย่างไรดี?</value>
 	</entry>
 	<entry>
 		<key>PRIVET: As we couldn’t find the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal using two different devices built for this exact purpose, we should discontinue this search method.</key>
-		<value>พริเวต: การตามหาสํญญาณของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ด้วยอุปกรณ์ที่เราสร้างมาเพื่อการนั้นโดยเฉพาะนั้นล้มเหลว เราควรจะยกเลิกการค้นหาด้วยวิธีนี้</value>
+		<value>พริเวต: การตามหาสํญญาณของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;ด้วยอุปกรณ์ที่เราสร้างมาเพื่อการนั้นโดยเฉพาะนั้นล้มเหลว เราควรจะยกเลิกการค้นหาด้วยวิธีนี้</value>
 	</entry>
 	<entry>
 		<key>MALLOW: We know what the &lt;color=lightblue&gt;Eye&lt;/color&gt; looks like thanks to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, so what if we try to find the &lt;color=lightblue&gt;Eye&lt;/color&gt; visually, instead? Let’s send out a probe!</key>
-		<value>มันโลว: เราพอจะรู้ว่า&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;มีลักษณะอย่างไรการศึกษา&lt;color=lightblue&gt;ดวงจันทร์ควอนตัมQuantum Moon&lt;/color&gt; เพราะงั้นถ้าเราลองหา&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ด้วยการมองหาโดยตรงดูไหม? ลองส่งโพรบออกไปหากันเถอะ!</value>
+		<value>มันโลว: เราพอจะรู้ว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;มีลักษณะอย่างไรการศึกษา&lt;color=lightblue&gt;ดวงจันทร์ควอนตัมQuantum Moon&lt;/color&gt; เพราะงั้นถ้าเราลองหา&lt;color=lightblue&gt; The Eye &lt;/color&gt;ด้วยการมองหาโดยตรงดูไหม? ลองส่งโพรบออกไปหากันเถอะ!</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Mallow’s idea is clever, but we have no idea where the &lt;color=lightblue&gt;Eye&lt;/color&gt; is in relation to here. The probability of launching a probe in the correct direction would be absurdly small.</key>
-		<value>คัซซาวา: ไอเดียของมัลโลวนั้นฉลาดมาก แต่เราไม่รู้เลยว่า&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;อยู่ตรงไหนเทียบกับตำแหน่งของเรา โอกาสที่โพรบจะถูกยิงไปในทิศทางที่ถูกน่ะน้อยมาก</value>
+		<value>คัซซาวา: ไอเดียของมัลโลวนั้นฉลาดมาก แต่เราไม่รู้เลยว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;อยู่ตรงไหนเทียบกับตำแหน่งของเรา โอกาสที่โพรบจะถูกยิงไปในทิศทางที่ถูกน่ะน้อยมาก</value>
 	</entry>
 	<entry>
 		<key>CONOY: I believe I have a solution for that problem! Have you spoken with Ramie and Pye about the technology they’re developing?</key>
@@ -5075,7 +5075,7 @@
 	</entry>
 	<entry>
 		<key>PLUME: I agree. We’re here because the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal called to us and we followed. If we’re to find it, we need to not merely survive, but thrive.</key>
-		<value>พลูม: ฉันเห็นด้วย พวกเรามาที่นี่เพราะว่าสัญญาณของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;เรียกพวกเรามาที่นี่ และเราก็ตามมันมา ถ้าเราอยากจะเจอมัน เราไม่ได้แค่ต้องเอาตัวรอด แต่เราต้องรุ่งเรืองด้วย</value>
+		<value>พลูม: ฉันเห็นด้วย พวกเรามาที่นี่เพราะว่าสัญญาณของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;เรียกพวกเรามาที่นี่ และเราก็ตามมันมา ถ้าเราอยากจะเจอมัน เราไม่ได้แค่ต้องเอาตัวรอด แต่เราต้องรุ่งเรืองด้วย</value>
 	</entry>
 	<entry>
 		<key>PLUME: I believe we should migrate to the northern glacier.</key>
@@ -5138,7 +5138,7 @@
 			If the &lt;color=lightblue&gt;Eye&lt;/color&gt; called to us, why won’t it reveal itself? Why is it so difficult to locate it?
 		</key>
 		<value>
-			ถ้า&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;เรียกหาพวกเรา ทำไมมันถึงไม่เปิดเผยตัวมันเองออกมา? ทำไมมันถึงยากเหลือเกินในการตามหามัน?
+			ถ้า&lt;color=lightblue&gt; The Eye &lt;/color&gt;เรียกหาพวกเรา ทำไมมันถึงไม่เปิดเผยตัวมันเองออกมา? ทำไมมันถึงยากเหลือเกินในการตามหามัน?
 		</value>
 	</entry>
 	<entry>
@@ -5154,7 +5154,7 @@
 			Did the signal stop? Does the &lt;color=lightblue&gt;Eye&lt;/color&gt; no longer desire to be found?
 		</key>
 		<value>
-			สัญญาณหยุดไปหรือเปล่า? &lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ไม่ต้องการที่จะถูกพบแล้วหรือ?
+			สัญญาณหยุดไปหรือเปล่า? &lt;color=lightblue&gt; The Eye &lt;/color&gt;ไม่ต้องการที่จะถูกพบแล้วหรือ?
 		</value>
 	</entry>
 	<entry>
@@ -5162,7 +5162,7 @@
 			Perhaps this isn’t the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s choice. The &lt;color=lightblue&gt;Eye&lt;/color&gt; may not be able to communicate with us more than it already has.
 		</key>
 		<value>
-			บางทีมันอาจไม่ใช่ทางเลือกของ &lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ก็ได้ &lt;color=lightblue&gt;ดวงตา&lt;/color&gt;อาจไม่สามารถสื่อสารกับเราไปได้มากกว่านี้
+			บางทีมันอาจไม่ใช่ทางเลือกของ &lt;color=lightblue&gt; The Eye &lt;/color&gt;ก็ได้ &lt;color=lightblue&gt; The Eye &lt;/color&gt;อาจไม่สามารถสื่อสารกับเราไปได้มากกว่านี้
 		</value>
 	</entry>
 	<entry>
@@ -5170,7 +5170,7 @@
 			Did the &lt;color=lightblue&gt;Eye&lt;/color&gt; deliberately call out to us by sending the signal, or did we hear the signal by coincidence?
 		</key>
 		<value>
-			&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ตั้งใจเรียกหาเราด้วยการส่งสัญญาณ หรือเราแค่ได้รับสัญญาณโดยบังเอิญเท่านั้น?
+			&lt;color=lightblue&gt; The Eye &lt;/color&gt;ตั้งใจเรียกหาเราด้วยการส่งสัญญาณ หรือเราแค่ได้รับสัญญาณโดยบังเอิญเท่านั้น?
 		</value>
 	</entry>
 	<entry>
@@ -5186,7 +5186,7 @@
 			Does that mean the &lt;color=lightblue&gt;Eye&lt;/color&gt; is any less important, though?
 		</key>
 		<value>
-			นั่นทำให้&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;สำคัญน้อยลงหรือ?
+			นั่นทำให้&lt;color=lightblue&gt; The Eye &lt;/color&gt;สำคัญน้อยลงหรือ?
 		</value>
 	</entry>
 	<entry>
@@ -5194,7 +5194,7 @@
 			Perhaps the &lt;color=lightblue&gt;Eye&lt;/color&gt; wanted to be found (could it be sentient?). Maybe it chose us.
 		</key>
 		<value>
-			บางที&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;อาจต้องการถูกพบเจอ (มันอาจมีสติสัมปชัญญะก็ได้t?) บางทีมันอาจเลือกเรา
+			บางที&lt;color=lightblue&gt; The Eye &lt;/color&gt;อาจต้องการถูกพบเจอ (มันอาจมีสติสัมปชัญญะก็ได้t?) บางทีมันอาจเลือกเรา
 		</value>
 	</entry>
 	<entry>
@@ -5202,7 +5202,7 @@
 			Does the &lt;color=lightblue&gt;Eye&lt;/color&gt; desire something from us? Could it need us in some way?
 		</key>
 		<value>
-			&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ต้องการอะไรสักอย่างจากเราหรือ? มันอาจต้องการเราในแง่บางอย่าง?
+			&lt;color=lightblue&gt; The Eye &lt;/color&gt;ต้องการอะไรสักอย่างจากเราหรือ? มันอาจต้องการเราในแง่บางอย่าง?
 		</value>
 	</entry>
 	<entry>
@@ -5218,7 +5218,7 @@
 			Is the &lt;color=lightblue&gt;Eye&lt;/color&gt; natural, or artificial?
 		</key>
 		<value>
-			&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;นั้นเกิดขึ้นเองตามธรรมชาติ หรือถูกสร้างมันขึ้นมา?
+			&lt;color=lightblue&gt; The Eye &lt;/color&gt;นั้นเกิดขึ้นเองตามธรรมชาติ หรือถูกสร้างมันขึ้นมา?
 		</value>
 	</entry>
 	<entry>
@@ -5234,7 +5234,7 @@
 			The &lt;color=lightblue&gt;Eye&lt;/color&gt; is older than the universe itself. How could something exist before its creator?
 		</key>
 		<value>
-			&lt;color=lightblue&gt;ดวงตา&lt;/color&gt; เก่าแก่ยิ่งกว่าตัวจักรวาลเอง สิ่งนี้จะมีอยู่ก่อนผู้สร้างได้อย่างไร?
+			&lt;color=lightblue&gt; The Eye &lt;/color&gt; เก่าแก่ยิ่งกว่าตัวจักรวาลเอง สิ่งนี้จะมีอยู่ก่อนผู้สร้างได้อย่างไร?
 		</value>
 	</entry>
 	<entry>
@@ -5247,15 +5247,15 @@
 	</entry>
 	<entry>
 		<key>Be welcomed in this place. This shrine is a space to reflect on what brought us to this star system: the signal from the &lt;color=lightblue&gt;Eye&lt;/color&gt;. test</key>
-		<value>ขอจงได้รับการต้อนรับในสถานที่แห่งนี้ วิหารแห่งนี้คือพื้นที่ให้เราได้ไตร่ตรองถึงสิ่งที่นำพาเรามายังระบบสุริยะนี้: สัญญาณจาก&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;</value>
+		<value>ขอจงได้รับการต้อนรับในสถานที่แห่งนี้ วิหารแห่งนี้คือพื้นที่ให้เราได้ไตร่ตรองถึงสิ่งที่นำพาเรามายังระบบสุริยะนี้: สัญญาณจาก&lt;color=lightblue&gt; The Eye &lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>We observed the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal in our travels, and followed it here to find its source. test</key>
-		<value>พวกเราได้พบสัญญาณของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ระหว่างการเดินทางของพวกเรา และตามมันมาที่นี่เพื่อหาแหล่งที่มาของมัน</value>
+		<value>พวกเราได้พบสัญญาณของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;ระหว่างการเดินทางของพวกเรา และตามมันมาที่นี่เพื่อหาแหล่งที่มาของมัน</value>
 	</entry>
 	<entry>
 		<key>What we know is this: The source of the signal (which we have chosen to call the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;) is older than this universe itself. The rest, we have yet to learn. test</key>
-		<value>สิ่งที่เราพอรู้ก็คือ: ที่มาของสัญญาณนี้ (ที่เราเลือกที่จะเรียกมันว่า&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;)มีอายุมากกว่าจักรวาลเสียอีก นอกจากนั้นเราก็ไม่รู้อะไรเพิ่มเติมแล้ว</value>
+		<value>สิ่งที่เราพอรู้ก็คือ: ที่มาของสัญญาณนี้ (ที่เราเลือกที่จะเรียกมันว่า&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;)มีอายุมากกว่าจักรวาลเสียอีก นอกจากนั้นเราก็ไม่รู้อะไรเพิ่มเติมแล้ว</value>
 	</entry>
 	<entry>
 		<key>Enter, and open your mind to its possibilities. test</key>
@@ -5266,7 +5266,7 @@
 			SOLANUM: I don’t know why everyone says the &lt;color=lightblue&gt;Eye&lt;/color&gt; is important.
 		</key>
 		<value>
-			โซลานัม: ฉันไม่เข้าใจว่าทำไมทุกคนถึงคิดว่า&lt;color=lightblue&gt;ดวงตาe&lt;/color&gt;เป็นเรื่องใหญ่โต
+			โซลานัม: ฉันไม่เข้าใจว่าทำไมทุกคนถึงคิดว่า&lt;color=lightblue&gt; The Eye e&lt;/color&gt;เป็นเรื่องใหญ่โต
 		</value>
 	</entry>
 	<entry>
@@ -5282,7 +5282,7 @@
 			SOLANUM: What if the &lt;color=lightblue&gt;Eye&lt;/color&gt; wanted that to happen?
 		</key>
 		<value>
-			โซลานัม: ถ้า&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ตั้งใจให้มันเกิดขึ้นล่ะ?
+			โซลานัม: ถ้า&lt;color=lightblue&gt; The Eye &lt;/color&gt;ตั้งใจให้มันเกิดขึ้นล่ะ?
 		</value>
 	</entry>
 	<entry>
@@ -5290,7 +5290,7 @@
 			SOLANUM: What if the &lt;color=lightblue&gt;Eye&lt;/color&gt; isn’t something good?
 		</key>
 		<value>
-			โซลานัม: ถ้า&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ไม่ใช่อะไรดีอย่างที่เราคิดล่ะ?
+			โซลานัม: ถ้า&lt;color=lightblue&gt; The Eye &lt;/color&gt;ไม่ใช่อะไรดีอย่างที่เราคิดล่ะ?
 		</value>
 	</entry>
 	<entry>
@@ -5322,7 +5322,7 @@
 			4: &lt;color=orange&gt;Eye Shrine District&lt;/color&gt;
 		</key>
 		<value>
-			4: เขตวิหารดวงตา
+			4: เขตวิหาร The Eye 
 		</value>
 	</entry>
 	<entry>
@@ -5860,7 +5860,7 @@
 	</entry>
 	<entry>
 		<key>MALLOW: Imagine, Privet: the &lt;color=orange&gt;Probe Tracking Module&lt;/color&gt; will be the first to know the coordinates of the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;! You’ll be the first to see them!</key>
-		<value>มัลโลว: คิดดูนะพริเวต: &lt;color=orange&gt;โมดูลติดตามโพรบ&lt;/color&gt;จะเป็นที่แรกที่เราจะรู้พิกัดแน่นอนของ&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;เลยนะ! นายจะเป็นคนแรกที่ได้เห็นมัน!</value>
+		<value>มัลโลว: คิดดูนะพริเวต: &lt;color=orange&gt;โมดูลติดตามโพรบ&lt;/color&gt;จะเป็นที่แรกที่เราจะรู้พิกัดแน่นอนของ&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;เลยนะ! นายจะเป็นคนแรกที่ได้เห็นมัน!</value>
 	</entry>
 	<entry>
 		<key>PRIVET: I am honored and terrified!</key>
@@ -5880,7 +5880,7 @@
 	</entry>
 	<entry>
 		<key>AVENS: Mallow, my better 50 percent! Cassava is sending the last of the &lt;color=orange&gt;cannon&lt;/color&gt; components. Soon (relatively speaking), we’ll know the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s precise location!</key>
-		<value>อเวนส์: มัลโลว อีกครึ่งนึงที่ดีกว่าของฉัน! คัซซาวากำลังส่งชิ้นส่วนสุดท้ายของ&lt;color=orange&gt;เครื่องยิง&lt;/color&gt;มาแล้ว อีกไม่นาน(ในเชิงสัมพันธ์) เราก็จะได้รู้ถึงตำแหน่งที่แน่นอนของของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;แล้ว!</value>
+		<value>อเวนส์: มัลโลว อีกครึ่งนึงที่ดีกว่าของฉัน! คัซซาวากำลังส่งชิ้นส่วนสุดท้ายของ&lt;color=orange&gt;เครื่องยิง&lt;/color&gt;มาแล้ว อีกแค่ไม่นาน(พูดในเชิงสัมพันธ์)เราก็จะได้รู้ถึงตำแหน่งที่แน่นอนของของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;แล้ว!</value>
 	</entry>
 	<entry>
 		<key>MALLOW: The thought of concluding our elders’ curious and challenging search increases my heart’s temperature, my love!</key>
@@ -5900,7 +5900,7 @@
 	</entry>
 	<entry>
 		<key>AVENS: Giving the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; all the power it can structurally withstand creates the greatest chance of finding the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.</key>
-		<value>อเวนส์: ถ้าเราให้พลังงานมากที่สุดเท่าที่โครงสร้างของ&lt;color=orange&gt;เครื่องยิงโพรบอวกาศจะรับได้&lt;/color&gt;ละก็จะช่วยให้เรามีโอกาสหา&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt; ได้มากขึ้น</value>
+		<value>อเวนส์: ถ้าเราให้พลังงานมากที่สุดเท่าที่โครงสร้างของ&lt;color=orange&gt;เครื่องยิงโพรบอวกาศจะรับได้&lt;/color&gt;ละก็จะช่วยให้เรามีโอกาสหา&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt; ได้มากขึ้น</value>
 	</entry>
 	<entry>
 		<key>MALLOW: Yes, the probe must travel as fast as it can, as far as it can. I’ll make some adjustments!</key>
@@ -5920,7 +5920,7 @@
 	</entry>
 	<entry>
 		<key>PRIVET: Once the probe determines the location of the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;, I’ll send an alert directly to you and Ramie.</key>
-		<value>พริเวต: พอโพรบหาตำแหน่งของ&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;เจอเมื่อไหร่ ฉันจะส่งแจ้งเตือนไปหาเธอและเรมี่ทันทีเลย</value>
+		<value>พริเวต: พอโพรบหาตำแหน่งของ&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;เจอเมื่อไหร่ ฉันจะส่งแจ้งเตือนไปหาเธอและเรมี่ทันทีเลย</value>
 	</entry>
 	<entry>
 		<key>PRIVET: On the other appendage, I’m now worried about this &lt;color=orange&gt;cannon&lt;/color&gt;’s structural integrity and its crew’s moral integrity.</key>
@@ -7813,7 +7813,7 @@
 	</entry>
 	<entry>
 		<key>SignThe Nomai never got to see it for themselves, but thanks to their efforts and technology, a Hearthian was able to reach the Eye of the universe.</key>
-		<value>ชาวโนไมไม่เคยได้เห็นมันด้วยตาตัวเอง แต่ต้องขอบคุณความพยายามและเทคโนโลยีของพวกเขา ที่ทำให้ชาวฮาร์เธียน สามารถไปถึงดวงตาแห่งจักรวาลได้</value>
+		<value>ชาวโนไมไม่เคยได้เห็นมันด้วยตาตัวเอง แต่ต้องขอบคุณความพยายามและเทคโนโลยีของพวกเขา ที่ทำให้ชาวฮาร์เธียน สามารถไปถึง Eye of the universe ได้</value>
 	</entry>
 	<entry>
 		<key>SignThe strange rock moving around in this grotto appears to react to conscious observation.</key>
@@ -8118,7 +8118,7 @@
 	</entry>
 	<entry>
 		<key>SignWhat you see here are parts of the Nomai skeleton. We can tell from their skulls that they possessed antlers and, quite unusually, only three eyes.</key>
-		<value>สิ่งที่คุณเห็นอยู่นี้คือชิ้นส่วนโครงกระดูกของชาวโนไม เราบอกได้จากกะโหลกของพวกเขาว่าพวกเขามีเขา และที่แปลกมากๆคือพวกเขามีดวงตาเพียงแค่สามดวง</value>
+		<value>สิ่งที่คุณเห็นอยู่นี้คือชิ้นส่วนโครงกระดูกของชาวโนไม เราบอกได้จากกะโหลกของพวกเขาว่าพวกเขามีเขา และที่แปลกมากๆคือพวกเขามี The Eye เพียงแค่สามดวง</value>
 	</entry>
 	<entry>
 		<key>SignThe Nomai body was most likely adapted for living exclusively on land. The differences in the Nomai’s anatomy, such as their shockingly fragile bone structure, show us that Hearthians couldn’t have descended from Nomaian ancestors.</key>
@@ -8130,7 +8130,7 @@
 	</entry>
 	<entry>
 		<key>SignThe Nomai who came to our solar system were following a signal from the Eye of the universe.</key>
-		<value>ชาวโนไมที่มายังระบบสุริยะของเราเดินทางตามสัญญาณจากดวงตาแห่งจักรวาลมา</value>
+		<value>ชาวโนไมที่มายังระบบสุริยะของเราเดินทางตามสัญญาณจาก Eye of the universe มา</value>
 	</entry>
 	<entry>
 		<key>SignThey perished when the Interloper arrived, bringing with it the deadly substance we called ghost matter that flooded the entire solar system almost instantly and without warning.</key>
@@ -8240,7 +8240,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: The signal looked like an eye: round, with a circle at the center much like a pupil. (Suppose the signal was looking for something.)</key>
-		<value>ฟิลิกซ์: สัญญาณนั่นดูเหมือนดวงตา: กลมๆ มีวงกลมตรงกลางคล้ายกับรูม่านตา (บางทีมันอาจกำลังมองหาอะไรบางอย่าง)</value>
+		<value>ฟิลิกซ์: สัญญาณนั่นดูเหมือน The Eye : กลมๆ มีวงกลมตรงกลางคล้ายกับรูม่านตา (บางทีมันอาจกำลังมองหาอะไรบางอย่าง)</value>
 	</entry>
 	<entry>
 		<key>FILIX: The signal was older than the universe itself! This is the most significant detail.</key>
@@ -8252,7 +8252,7 @@
 	</entry>
 	<entry>
 		<key>THATCH: Imagine what rare and profound knowledge it might offer. We &lt;i&gt;must&lt;/i&gt; find this &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.</key>
-		<value>แธตช์: ลองจินตนาการถึงความรู้หายากและลึกซึ้งที่มันอาจจะมอบให้เราได้สิ เรา&lt;i&gt;ต้อง&lt;/i&gt;ตามหา&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;นี้เจอให้ได้</value>
+		<value>แธตช์: ลองจินตนาการถึงความรู้หายากและลึกซึ้งที่มันอาจจะมอบให้เราได้สิ เรา&lt;i&gt;ต้อง&lt;/i&gt;ตามหา&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;นี้เจอให้ได้</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Black Hole Forge District&lt;/color&gt;</key>
@@ -8324,7 +8324,7 @@
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Eye Shrine District&lt;/color&gt;</key>
-		<value>&lt;color=orange&gt;เขตวิหารดวงตา&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;เขตวิหาร The Eye &lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Meltwater District&lt;/color&gt;</key>
@@ -8570,15 +8570,15 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: There is fundamental uncertainty throughout the universe. Normally, this uncertainty is only observable on a very small scale. As one approaches the &lt;color=lightblue&gt;Eye&lt;/color&gt;, however, that uncertainty grows &lt;i&gt;enormously&lt;/i&gt;.</key>
-		<value>โซลานัม: มันมีความไม่แน่นอนที่เป็นรากฐานอยู่ทั่วทั้งจักรวาล โดยปกติความไม่แน่นอนนี้จะสังเกตเห็นได้ในระดับที่เล็กมากๆเท่านั้น แต่เมื่อเข้าใกล้&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;มากขึ้น ความไม่แน่นอนนั้นก็จะยิ่งเพิ่มขึ้น&lt;i&gt;อย่างมหาศาล&lt;/i&gt;</value>
+		<value>โซลานัม: มันมีความไม่แน่นอนที่เป็นรากฐานอยู่ทั่วทั้งจักรวาล โดยปกติความไม่แน่นอนนี้จะสังเกตเห็นได้ในระดับที่เล็กมากๆเท่านั้น แต่เมื่อเข้าใกล้&lt;color=lightblue&gt; The Eye &lt;/color&gt;มากขึ้น ความไม่แน่นอนนั้นก็จะยิ่งเพิ่มขึ้น&lt;i&gt;อย่างมหาศาล&lt;/i&gt;</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: The &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; probably exhibits macroscopic quantum behavior because of its proximity to the &lt;color=lightblue&gt;Eye&lt;/color&gt;. Shards that broke off from the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; have a similar effect, as I imagine you’ve seen elsewhere in this star system.</key>
-		<value>โซลานัม: &lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;น่าจะแสดงปรากฏการณ์ควอนตัมในระดับมหภาคเพราะมันอยู่ในระยะใกล้กับ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt; เศษเสี้ยวที่แตกออกมาจาก&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ก็มีพฤติกรรมคล้ายๆกัน ฉันว่าเธอก็น่าจะเห็นมันกระจายอยู่ทั่วระบบสุริยะนี้</value>
+		<value>โซลานัม: &lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;น่าจะแสดงปรากฏการณ์ควอนตัมในระดับมหภาคเพราะมันอยู่ในระยะใกล้กับ&lt;color=lightblue&gt; The Eye &lt;/color&gt; เศษเสี้ยวที่แตกออกมาจาก&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ก็มีพฤติกรรมคล้ายๆกัน ฉันว่าเธอก็น่าจะเห็นมันกระจายอยู่ทั่วระบบสุริยะนี้</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Conscious observation forces a quantum object to collapse to a single possibility. But what would happen if a conscious observer somehow entered the &lt;color=lightblue&gt;Eye&lt;/color&gt; itself?</key>
-		<value>โซลานัม: การรับรู้มันจะบังคับให้วัตถุควอนตัมนั้นยุบตัวลงเหลือเพียงความเป็นไปได้เดียว แต่ว่าอะไรเกิดขึ้นหากผู้รับรู้นั้นเข้าไปอยู่ในตัวของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;เสียเอง?</value>
+		<value>โซลานัม: การรับรู้มันจะบังคับให้วัตถุควอนตัมนั้นยุบตัวลงเหลือเพียงความเป็นไปได้เดียว แต่ว่าอะไรเกิดขึ้นหากผู้รับรู้นั้นเข้าไปอยู่ในตัวของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;เสียเอง?</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Over time, this has become my clan’s greatest question.</key>
@@ -8586,7 +8586,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: I imagine your purpose here is the same as mine: to learn about and to find the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.</key>
-		<value>โซลานัม: ฉันคิดว่าจุดประสงค์ที่เธอมาที่นี่ก็คงเหมือนกับของฉัน: เพื่อเรียนรู้และค้นหา&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;</value>
+		<value>โซลานัม: ฉันคิดว่าจุดประสงค์ที่เธอมาที่นี่ก็คงเหมือนกับของฉัน: เพื่อเรียนรู้และค้นหา&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I’m unsure how you arrived here, however. Perhaps you came from another star system, as my clan originally did?</key>
@@ -8594,19 +8594,19 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: Have you encountered a quantum shard on another planet? The shards look the same as the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s surface does now, while at the &lt;color=lightblue&gt;Eye&lt;/color&gt;.</key>
-		<value>โซลานัม: เธอเคยพบเศษเสี้ยวควอนตัมบนดาวเคราะห์ดวงอื่นมั้ย? เศษเสี้ยวเหล่านั้นดูเหมือนกับพื้นผิวของ&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ตอนที่มันอยู่กับ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;แบบตอนนี้เลย</value>
+		<value>โซลานัม: เธอเคยพบเศษเสี้ยวควอนตัมบนดาวเคราะห์ดวงอื่นมั้ย? เศษเสี้ยวเหล่านั้นดูเหมือนกับพื้นผิวของ&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ตอนที่มันอยู่กับ&lt;color=lightblue&gt; The Eye &lt;/color&gt;แบบตอนนี้เลย</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: From this, we can reasonably infer the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s natural state is as we see it now, and that the Eye is its primary location.</key>
-		<value>โซลานัม: เพราะงั้น เราสามารถอนุมานได้อย่างสมเหตุสมผลว่าสภาวะตามธรรมชาติของ&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;เป็นอย่างที่เราเห็นมันในตอนนี้ และดวงตาก็คือตำแหน่งหลักของมัน</value>
+		<value>โซลานัม: เพราะงั้น เราสามารถอนุมานได้อย่างสมเหตุสมผลว่าสภาวะตามธรรมชาติของ&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;เป็นอย่างที่เราเห็นมันในตอนนี้ และ The Eye ก็คือตำแหน่งหลักของมัน</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Given the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s moon, it’s likely that any characteristics the moon exhibits are also exhibited by the Eye itself. The &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; and its shards, for instance, are quantum; thus, the &lt;color=lightblue&gt;Eye&lt;/color&gt; is likely also quantum.</key>
-		<value>โซลานัม: เมื่อพิจารณาว่า&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;เป็นดวงจันทร์ของ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt; ก็เป็นไปได้ว่าคุณลักษณะใดๆ ที่ดวงจันทร์แสดงออกมา ดวงตาเองก็ย่อมแสดงออกมาเช่นกัน ตัวอย่างเช่น&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; และเศษเสี้ยวของมันเป็นควอนตัม ดังนั้น&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ก็มีแนวโน้มที่จะเป็นควอนตัมเช่นกัน</value>
+		<value>โซลานัม: เมื่อพิจารณาว่า&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;เป็นดวงจันทร์ของ&lt;color=lightblue&gt; The Eye &lt;/color&gt; ก็เป็นไปได้ว่าคุณลักษณะใดๆ ที่ดวงจันทร์แสดงออกมา  The Eye เองก็ย่อมแสดงออกมาเช่นกัน ตัวอย่างเช่น&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; และเศษเสี้ยวของมันเป็นควอนตัม ดังนั้น&lt;color=lightblue&gt; The Eye &lt;/color&gt;ก็มีแนวโน้มที่จะเป็นควอนตัมเช่นกัน</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: In fact, this moon is probably quantum because its proximity to the &lt;color=lightblue&gt;Eye&lt;/color&gt; made it quantum, the same way the areas surrounding quantum shards that landed on other planets eventually became quantum, too.</key>
-		<value>โซลานัม: จริงๆแล้ว ดวงจันทร์นี้น่าจะเป็นควอนตัมเพราะอยู่ในระยะใกล้กับ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt; ทำให้มันกลายเป็นความตัม เหมือนกับที่พื้นที่รอบๆเศษเสี้ยวควอนตัมที่ตกลงบนดาวเคราะห์จะเริ่มเป็นควอนตัมไปด้วย</value>
+		<value>โซลานัม: จริงๆแล้ว ดวงจันทร์นี้น่าจะเป็นควอนตัมเพราะอยู่ในระยะใกล้กับ&lt;color=lightblue&gt; The Eye &lt;/color&gt; ทำให้มันกลายเป็นความตัม เหมือนกับที่พื้นที่รอบๆเศษเสี้ยวควอนตัมที่ตกลงบนดาวเคราะห์จะเริ่มเป็นควอนตัมไปด้วย</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I am on my first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. All Nomai in my clan make this journey when we come of age.</key>
@@ -8614,15 +8614,15 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: Even though the &lt;color=lightblue&gt;Eye&lt;/color&gt; cannot be reached from here, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; remains special to us, as it carries us nearer to the &lt;color=lightblue&gt;Eye&lt;/color&gt; than any other place we know.</key>
-		<value>โซลานัม: แม้ว่าจะไม่สามารถไปถึง&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ได้จากที่นี่ แต่&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ก็ยังคงพิเศษสำหรับพวกเรา เพราะมันพาเราเข้าใกล้&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ได้มากกว่าสถานที่อื่นใดที่เรารู้จัก</value>
+		<value>โซลานัม: แม้ว่าจะไม่สามารถไปถึง&lt;color=lightblue&gt; The Eye &lt;/color&gt;ได้จากที่นี่ แต่&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ก็ยังคงพิเศษสำหรับพวกเรา เพราะมันพาเราเข้าใกล้&lt;color=lightblue&gt; The Eye &lt;/color&gt;ได้มากกว่าสถานที่อื่นใดที่เรารู้จัก</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I’ve journeyed here to be close to the &lt;color=lightblue&gt;Eye&lt;/color&gt;. While the &lt;color=lightblue&gt;Eye&lt;/color&gt; is obscured from our sight, we can see the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s reflection of the &lt;color=lightblue&gt;Eye&lt;/color&gt; in the sky above us.</key>
-		<value>โซลานัม: ฉันเดินทางมาที่นี่เพื่ออยู่ใกล้ชิดกับ&lt;color=lightblue&gt;ดวงตา&lt;/color&gt; แม้ว่า&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;จะถูกบดบังไปจากสายตาของเรา แต่เราก็ยังสามารถเห็นภาพสะท้อน&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ของ&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ได้บนท้องฟ้าเหนือหัวเรา</value>
+		<value>โซลานัม: ฉันเดินทางมาที่นี่เพื่ออยู่ใกล้ชิดกับ&lt;color=lightblue&gt; The Eye &lt;/color&gt; แม้ว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;จะถูกบดบังไปจากสายตาของเรา แต่เราก็ยังสามารถเห็นภาพสะท้อน&lt;color=lightblue&gt; The Eye &lt;/color&gt;ของ&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ได้บนท้องฟ้าเหนือหัวเรา</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Suppose you could reach the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;: Would you try to enter it?</key>
-		<value>โซลานัม: สมมุติว่าเธอสามารถไปถึง&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;ได้: เธอจะพยายามเข้าไปด้านในมั้ย?</value>
+		<value>โซลานัม: สมมุติว่าเธอสามารถไปถึง&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;ได้: เธอจะพยายามเข้าไปด้านในมั้ย?</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: What do you imagine the effects of a conscious observer might be?</key>
@@ -8634,11 +8634,11 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: Because the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; clearly changes in its different forms, the &lt;color=lightblue&gt;Eye&lt;/color&gt; (being this moon’s primary location) must be similarly malleable.</key>
-		<value>โซลานัม: เพราะว่า&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;นั้นสามารถเปลี่ยนรูปลักษณ์ได้ หมายความว่า&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;(ซึ่งเป็นตำแหน่งหลักของมัน) นั้นย่อมสามารถแปรสภาพได้เช่นกัน</value>
+		<value>โซลานัม: เพราะว่า&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;นั้นสามารถเปลี่ยนรูปลักษณ์ได้ หมายความว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;(ซึ่งเป็นตำแหน่งหลักของมัน) นั้นย่อมสามารถแปรสภาพได้เช่นกัน</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: From this, we can hypothesize that &lt;i&gt;the Eye represents extreme changeability&lt;/i&gt;.</key>
-		<value>โซลานัม: เช่นนั้น เราสามารถตั้งสมมติฐานได้ว่า&lt;i&gt;ดวงตานั้นแสดงออกถึงความสามารถในการแปรสภาพขั้นสุด&lt;/i&gt;</value>
+		<value>โซลานัม: เช่นนั้น เราสามารถตั้งสมมติฐานได้ว่า&lt;i&gt; The Eye นั้นแสดงออกถึงความสามารถในการแปรสภาพอย่างที่สุด&lt;/i&gt;</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: That said, despite its malleable nature, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; becomes locked to one specific version of itself when it is consciously observed.</key>
@@ -8646,19 +8646,19 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: But what would happen if a conscious observer were to enter the &lt;i&gt;Eye&lt;/i&gt;?</key>
-		<value>โซลานัม: แต่จะเกิดอะไรขึ้นล่ะถ้าผู้รับรู้เข้าไปใน&lt;i&gt;ดวงตา&lt;/i&gt;?</value>
+		<value>โซลานัม: แต่จะเกิดอะไรขึ้นล่ะถ้าผู้รับรู้เข้าไปใน&lt;i&gt; The Eye &lt;/i&gt;?</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Many in my clan have believed the &lt;color=lightblue&gt;Eye&lt;/color&gt; called to us for a particular purpose.</key>
-		<value>โซลานัม: หลายคนในเผ่าของฉันเชื่อว่า&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;เรียกหาพวกเราด้วยจุดประสงค์อะไรบางอย่าง</value>
+		<value>โซลานัม: หลายคนในเผ่าของฉันเชื่อว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;เรียกหาพวกเราด้วยจุดประสงค์อะไรบางอย่าง</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: When I was a child, I used to believe the &lt;color=lightblue&gt;Eye&lt;/color&gt; was malevolent, to have lured my clan to this star system only to then vanish from them so completely.</key>
-		<value>โซลานัม: ตอนที่ฉันยังเด็ก ฉันเคยเชื่อว่า&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;นั้นมุ่งร้าย และมันหลอกล่อเผ่าของฉันมายังระบบสุริยะนี้ เพียงเพื่อที่มันจะหายตัวไปอย่างไร้ร่องรอย</value>
+		<value>โซลานัม: ตอนที่ฉันยังเด็ก ฉันเคยเชื่อว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;เป็นสิ่งชั่วร้าย และมันหลอกล่อเผ่าของฉันมายังระบบสุริยะนี้ เพียงเพื่อที่มันจะหายตัวไปอย่างไร้ร่องรอย</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: But I don’t fear the &lt;color=lightblue&gt;Eye&lt;/color&gt;, anymore. In fact, it became my fondest hope to see the &lt;color=lightblue&gt;Eye&lt;/color&gt; itself, someday, but I fear this may be beyond my reach.</key>
-		<value>โซลานัม: แต่ฉันไม่กลัว&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;อีกต่อไปแล้วล่ะ อันที่จริงมันเริ่มกลายเป็นความหวังสูงสุดของฉันที่จะได้เห็น&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ด้วยตาของฉันเองสักวันหนึ่ง แต่ฉันคิดว่าคงจะไม่มีวันนั้นแล้วล่ะ</value>
+		<value>โซลานัม: แต่ฉันไม่กลัว&lt;color=lightblue&gt; The Eye &lt;/color&gt;อีกต่อไปแล้วล่ะ อันที่จริงมันเริ่มกลายเป็นความหวังสูงสุดของฉันที่จะได้เห็น&lt;color=lightblue&gt; The Eye &lt;/color&gt;ด้วยตาของฉันเองสักวันหนึ่ง แต่ฉันคิดว่าคงจะไม่มีวันนั้นแล้วล่ะ</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: You may think I’m strange, but I have a hypothesis that I may not be entirely alive. Perhaps my journey has reached its end.</key>
@@ -8670,11 +8670,11 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: We are orbiting the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; now, although we cannot see it (only the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s reflection of it). The &lt;color=lightblue&gt;Eye&lt;/color&gt; is older than the universe itself, and my clan believes it dwells in an extremely distant orbit around this star system.</key>
-		<value>โซลานัม: เรากำลังโครจรรอบ&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;อยู่ตอนนี้ ถึงแม้ว่าเราจะมองไม่เห็นมัน (เห็นแค่ภาพสะท้อนจาก&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;) &lt;color=lightblue&gt;ดวงตา&lt;/color&gt;น่ะเก่าแก่กว่าตัวจักรวาลเองซะอีก และเผ่าของฉันเชื่อว่ามันอยู่ในวงโครจรที่ห่างไกลมากๆของระบบสุริยะนี้</value>
+		<value>โซลานัม: เรากำลังโครจรรอบ&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;อยู่ตอนนี้ ถึงแม้ว่าเราจะมองไม่เห็นมัน (เห็นแค่ลักษณะสะท้อนออกจาก&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;) &lt;color=lightblue&gt; The Eye &lt;/color&gt;น่ะเก่าแก่กว่าตัวจักรวาลเองซะอีก และเผ่าของฉันเชื่อว่ามันอยู่ในวงโครจรที่ห่างไกลมากๆของระบบสุริยะนี้</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I’ve never met one of your kind before. It’s an honor to speak with you! I particularly admire your four eyes.</key>
-		<value>โซลานัม: ฉันไม่เคยเจอเผ่าพันธุ์ของเธอมาก่อนเลย เป็นเกียรติที่ได้สนทนากับเธอนะ! ฉันชอบดวงตาทั้งสี่ของเธอเป็นพิเศษเลย</value>
+		<value>โซลานัม: ฉันไม่เคยเจอเผ่าพันธุ์ของเธอมาก่อนเลย เป็นเกียรติที่ได้สนทนากับเธอนะ! ฉันชอบตาสองคู่ของเธอเป็นพิเศษเลย</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: There are many questions I would ask, if I could comprehend your language. You have my gratitude for understanding mine.</key>
@@ -8686,7 +8686,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: Despite also orbiting other celestial bodies, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;’s moon.</key>
-		<value>โซลานัม: แม้ว่ามันจะโครจรรอบวัตถุดาราศาสตร์อื่นๆด้วย แต่&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;นั้นเป็นดวงจันทร์ของ&lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;</value>
+		<value>โซลานัม: แม้ว่ามันจะโครจรรอบวัตถุดาราศาสตร์อื่นๆด้วย แต่&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;นั้นเป็นดวงจันทร์ของ&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I am Solanum, a Nomai. My clan arrived in this star system before my birth, and we now call it home.</key>
@@ -8702,7 +8702,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: Like many of my clan before me, I journeyed here to see the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s reflection of the &lt;color=lightblue&gt;Eye&lt;/color&gt;. This is the closest any of us have come to seeing the &lt;color=lightblue&gt;Eye&lt;/color&gt; itself.</key>
-		<value>โซลานัม: เหมือนกับหลายคนในเผ่าก่อนหน้าฉัน ฉันเดินทางมาที่นี่เพื่อมองดูภาพสะท้อน&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ของ&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; นี่คือสิ่งที่ใกล้เคียงที่สุดในการที่พวกเราจะได้เห็น&lt;color=lightblue&gt;ดวงตา&lt;/color&gt;ด้วยตาของตัวเอง</value>
+		<value>โซลานัม: เหมือนกับหลายคนในเผ่าก่อนหน้าฉัน ฉันเดินทางมาที่นี่เพื่อมองดูการสะท้อนลักษณะของ &lt;color=lightblue&gt; The Eye &lt;/color&gt;ของ&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; นี่คือสิ่งที่ใกล้เคียงที่สุดในการที่พวกเราจะได้เห็น&lt;color=lightblue&gt; The Eye &lt;/color&gt;ด้วยตาของตัวเอง</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: We do not have much connection, you and I.</key>
@@ -10470,7 +10470,7 @@
 			Displaying coordinates for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.
 		</key>
 		<value>
-			กำลังแสดงพิกัดสำหรับ &lt;color=lightblue&gt;ดวงตาแห่งจักรวาล&lt;/color&gt;
+			กำลังแสดงพิกัดสำหรับ &lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;
 		</value>
 	</entry>
 	<entry>
@@ -10531,7 +10531,7 @@
 	</entry>
 	<entry>
 		<key>ReadyToPlayA conscious observer has entered the Eye. I wonder what happens now.</key>
-		<value>ผู้รับรู้ได้เข้ามาในดวงตาแล้ว ฉันสงสัยจังว่าอะไรจะเกิดขึ้นตอนนี้</value>
+		<value>ผู้รับรู้ได้เข้ามาใน The Eye แล้ว ฉันสงสัยจังว่าอะไรจะเกิดขึ้นตอนนี้</value>
 	</entry>
 	<entry>
 		<key>ReadyToPlayIs it time to find out?</key>
@@ -11077,11 +11077,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe Nomai worked together to recall an eye-shaped signal they encountered while aboard the Vessel.</key>
-			<value>พวกโนไมรวมตัวกันเพื่อระลึกถึงสัญญาณรูปดวงตาที่พวกเขาพบบน เวซเซล</value>
+			<value>พวกโนไมรวมตัวกันเพื่อระลึกถึงสัญญาณรูป The Eye ที่พวกเขาพบบน เวซเซล</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe signal was somehow older than the universe itself. The Nomai decided to call it the "Eye of the universe."</key>
-			<value>สัญญาณนั้นเก่าแก่กว่าจักรวาลเสียอีก พวกโนไมตัดสินใจเรียกมันว่า "ดวงตาแห่งจักรวาล"</value>
+			<value>สัญญาณนั้นเก่าแก่กว่าจักรวาลเสียอีก พวกโนไมตัดสินใจเรียกมันว่า " Eye of the universe "</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe Nomai abandoned this settlement over growing concerns about its stability.</key>
@@ -11141,7 +11141,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityThe Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</key>
-			<value>ชาวโนไมเดินทางมายังระบบสุริยะนี้เพื่อติดตามสัญญาณจากบางสิ่งที่เก่าแก่กว่าตัวจักรวาลเอง พวกเขาตั้งชื่อแหล่งกำเนิดของสัญญาณนี้ว่า "ดวงตาแห่งจักรวาล"</value>
+			<value>ชาวโนไมเดินทางมายังระบบสุริยะนี้เพื่อติดตามสัญญาณจากบางสิ่งที่เก่าแก่กว่าตัวจักรวาลเอง พวกเขาตั้งชื่อแหล่งกำเนิดของสัญญาณนี้ว่า " Eye of the universe "</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole Forge</key>
@@ -11209,7 +11209,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThe Nomai decided to build a larger, more sophisticated Eye signal locator on Brittle Hollow's south pole.</key>
-			<value>โนไมตัดสินใจสร้างเครื่องระบุตำแหน่งสัญญาณดวงตา ที่ใหญ่ขึ้นและซับซ้อนขึ้นบนขั้วโลกใต้ของ Brittle Hollow</value>
+			<value>โนไมตัดสินใจสร้างเครื่องระบุตำแหน่งสัญญาณ The Eye  ที่ใหญ่ขึ้นและซับซ้อนขึ้นบนขั้วโลกใต้ของ Brittle Hollow</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThere are two paths beneath Brittle Hollow's surface that lead to the observatory. One starts at the gravity cannon, and the other starts at the Tower of Quantum Knowledge.</key>
@@ -11225,15 +11225,15 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThe new, more sensitive locator the Nomai built in this observatory was unable to detect any trace of the Eye's signal.</key>
-			<value>เครื่องระบุตำแหน่งใหม่ที่ละเอียดอ่อนกว่าซึ่งพวกโนไมสร้างขึ้นในหอดูดาวแห่งนี้ ไม่สามารถตรวจจับร่องรอยใดๆ เกี่ยวกับสัญญาณของดวงตาได้เลย</value>
+			<value>เครื่องระบุตำแหน่งใหม่ที่ละเอียดอ่อนกว่าซึ่งพวกโนไมสร้างขึ้นในหอดูดาวแห่งนี้ ไม่สามารถตรวจจับร่องรอยใดๆ เกี่ยวกับสัญญาณของ The Eye ได้เลย</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryBased on their knowledge of the Quantum Moon, the Nomai believed the Eye was in a distant orbit around the sun.</key>
-			<value>จากความรู้เกี่ยวกับดวงจันทร์ควอนตัม พวกโนไมเชื่อว่าดวงตานั้นอยู่ในวงโคจรที่ห่างไกลมากๆรอบดวงอาทิตย์</value>
+			<value>จากความรู้เกี่ยวกับดวงจันทร์ควอนตัม พวกโนไมเชื่อว่า The Eye นั้นอยู่ในวงโคจรที่ห่างไกลมากๆรอบดวงอาทิตย์</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThe Nomai decided to stop searching for the Eye's signal and instead look for it visually by sending out a deep space probe.</key>
-			<value>พวกโนไมตัดสินใจหยุดค้นหาสัญญาณของดวงตา และหันมาค้นหามันโดยตรงผ่านการมองหาแทน โดยการส่งโพรบอวกาศห้วงลึกออกไป</value>
+			<value>พวกโนไมตัดสินใจหยุดค้นหาสัญญาณของ The Eye  และหันมาค้นหามันโดยตรงผ่านการมองหาแทน โดยการส่งโพรบอวกาศห้วงลึกออกไป</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThere were concerns that the probability of launching a probe in the correct direction would be absurdly small.</key>
@@ -11373,7 +11373,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Nomai warped to this solar system in a spaceship called the Vessel. They were attempting to follow a signal from the Eye of the universe.</key>
-			<value>พวกโนไมวาร์ปมายังระบบสุริยะนี้ในยานอวกาศที่เรียกว่า ยานเวซเซล พวกเขากำลังพยายามติดตามสัญญาณจากดวงตาแห่งจักรวาล</value>
+			<value>พวกโนไมวาร์ปมายังระบบสุริยะนี้ในยานอวกาศที่เรียกว่า ยานเวซเซล พวกเขากำลังพยายามติดตามสัญญาณจาก Eye of the universe </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel crashed somewhere in Dark Bramble.</key>
@@ -11409,7 +11409,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI found a recording of the original signal the Nomai encountered from the Eye of the universe. The Nomai were worried the signal might disappear, so they warped before they could tell another clan where they were going.</key>
-			<value>ฉันเจอบันทึกจากเมื่อตอนที่พวกโนไมพบกับสัญญาณของดวงตาแห่งจักรวาลครั้งแรก พวกโนไมกังวลว่าสัญญาณอาจจะหายไป ดังนั้นพวกเขาจึงวาร์ปก่อนที่จะได้บอกเผ่าอื่นว่าพวกเขากำลังจะไปที่ไหน</value>
+			<value>ฉันเจอบันทึกจากเมื่อตอนที่พวกโนไมพบกับสัญญาณของ Eye of the universe ครั้งแรก พวกโนไมกังวลว่าสัญญาณอาจจะหายไป ดังนั้นพวกเขาจึงวาร์ปก่อนที่จะได้บอกเผ่าอื่นว่าพวกเขากำลังจะไปที่ไหน</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe Cannon</key>
@@ -11441,11 +11441,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Orbital Probe Cannon was created to find the precise location of the Eye of the universe.</key>
-			<value>เครื่องยิงโพรบอวกาศ ถูกสร้างขึ้นเพื่อค้นหาตำแหน่งที่แม่นยำของดวงตาแห่งจักรวาล</value>
+			<value>เครื่องยิงโพรบอวกาศ ถูกสร้างขึ้นเพื่อค้นหาตำแหน่งที่แม่นยำของ Eye of the universe </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Nomai pushed the Orbital Probe Cannon above its maximum power setting to create the greatest chance of finding the Eye of the universe.</key>
-			<value>พวกโนไมปรับเครื่องยิงโพรบอวกาศให้ทำงานเกินกำลังสูงสุดเพื่อโอกาสมากที่สุดในการค้นหาดวงตาแห่งจักรวาลเจอ</value>
+			<value>พวกโนไมปรับเครื่องยิงโพรบอวกาศให้ทำงานเกินกำลังสูงสุดเพื่อโอกาสมากที่สุดในการค้นหา Eye of the universe เจอ</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking Module</key>
@@ -11461,7 +11461,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleAny Nomai aboard the Probe Tracking Module would be the first to see the coordinates of the Eye of the universe.</key>
-			<value>โนไมคนใดก็ตามที่อยู่บนโมดูลติดตามโพรบจะเป็นคนแรกที่ได้เห็นพิกัดของดวงตาแห่งจักรวาล</value>
+			<value>โนไมคนใดก็ตามที่อยู่บนโมดูลติดตามโพรบจะเป็นคนแรกที่ได้เห็นพิกัดของ Eye of the universe </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleA Nomai computer reports the Probe Tracking Module as "missing."</key>
@@ -11477,7 +11477,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe 9,318,054th probe located a deep space anomaly matching all known criteria for the Eye of the universe.</key>
-			<value>โพรบตัวที่ 9,318,054 ค้นพบความผิดปกติในอวกาศห้วงลึกที่ตรงกับเกณฑ์ที่ทราบทั้งหมดของดวงตาแห่งจักรวาล</value>
+			<value>โพรบตัวที่ 9,318,054 ค้นพบความผิดปกติในอวกาศห้วงลึกที่ตรงกับเกณฑ์ที่ทราบทั้งหมดของ Eye of the universe </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe statue in the Probe Tracking Module automatically records each probe's trajectory and transmits the data to the Ash Twin Project.</key>
@@ -11485,7 +11485,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleI found Nomai coordinates marking the location of the Eye of the universe.</key>
-			<value>ฉันเจอพิกัดของโนไมที่ระบุตำแหน่งของดวงตาแห่งจักรวาล</value>
+			<value>ฉันเจอพิกัดของโนไมที่ระบุตำแหน่งของ Eye of the universe </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch Module</key>
@@ -11593,19 +11593,19 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Cinder IslesI found a large metal symbol inside a burned-out building that closely resembles the Nomai symbol for the Eye of the universe.</key>
-			<value>ฉันเจอสัญลักษณ์โลหะขนาดใหญ่ภายในอาคารที่ถูกไฟไหม้ มันดูคล้ายกับสัญลักษณ์ดวงตาแห่งจักรวาลของชาวโนไม</value>
+			<value>ฉันเจอสัญลักษณ์โลหะขนาดใหญ่ภายในอาคารที่ถูกไฟไหม้ มันดูคล้ายกับสัญลักษณ์ Eye of the universe ของชาวโนไม</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Cinder IslesI found a large metal symbol for the Eye of the universe inside a burned-out building.</key>
-			<value>ฉันเจอสัญลักษณ์โลหะขนาดใหญ่สื่อถึงดวงตาแห่งจักรวาลภายในอาคารที่ถูกไฟไหม้</value>
+			<value>ฉันเจอสัญลักษณ์โลหะขนาดใหญ่สื่อถึง Eye of the universe ภายในอาคารที่ถูกไฟไหม้</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</key>
-			<value>ม้วนสไลด์ที่แสดงให้เห็นผู้อยู่อาศัยของ The Stranger กำลังวิเคราะห์ความผิดปกติที่หน้าตาคล้ายกับสัญลักษณ์ดวงตาแห่งจักรวาลของชาวโนไม</value>
+			<value>ม้วนสไลด์ที่แสดงให้เห็นผู้อยู่อาศัยของ The Stranger กำลังวิเคราะห์ความผิดปกติที่หน้าตาคล้ายกับสัญลักษณ์ Eye of the universe ของชาวโนไม</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows the Stranger's inhabitants analyzing the Eye of the universe.</key>
-			<value>ม้วนสไลด์ที่แสดงให้เห็นผู้อยู่อาศัยของ The Stranger กำลังวิเคราะห์ดวงตาแห่งจักรวาล</value>
+			<value>ม้วนสไลด์ที่แสดงให้เห็นผู้อยู่อาศัยของ The Stranger กำลังวิเคราะห์ Eye of the universe </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.</key>
@@ -11973,15 +11973,15 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</key>
-			<value>ฉันเจอม้วนสไลด์ที่แสดงให้เห็นผู้อยู่อาศัยของ The Stranger กำลังวิเคราะห์ความผิดปกติที่คล้ายกับสัญลักษณ์ดวงตาแห่งจักรวาลของพวกโนไม</value>
+			<value>ฉันเจอม้วนสไลด์ที่แสดงให้เห็นผู้อยู่อาศัยของ The Stranger กำลังวิเคราะห์ความผิดปกติที่คล้ายกับสัญลักษณ์ Eye of the universe ของพวกโนไม</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants analyzing the Eye of the universe.</key>
-			<value>ฉันเจอม้วนสไลด์ที่แสดงให้เห็นผู้อยู่อาศัยของดวงตาแห่งจักรวาล</value>
+			<value>ฉันเจอม้วนสไลด์ที่แสดงให้เห็นผู้อยู่อาศัยของ Eye of the universe </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveIntact slides reveal the construction and launch of a spacecraft designed to block the Eye's signal.</key>
-			<value>สไลด์ที่สมบูรณ์แสดงให้เห็นการสร้างและการปล่อยยานอวกาศที่ออกแบบมาเพื่อปิดกั้นสัญญาณของดวงตาโดยเฉพาะ</value>
+			<value>สไลด์ที่สมบูรณ์แสดงให้เห็นการสร้างและการปล่อยยานอวกาศที่ออกแบบมาเพื่อปิดกั้นสัญญาณของ The Eye โดยเฉพาะ</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows two artifacts being lit near a green fire. The first artifact lights after its bearer falls asleep, and the second artifact lights after its bearer dies.</key>
@@ -12193,7 +12193,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</key>
-			<value>เหล่าโนไมเดินทางมายังระบบสุริยะนี้เพื่อตามหาสัญญาณจากบางสิ่งที่เก่าแก่กว่าตัวจักรวาลเอง พวกเขาตั้งชื่อแหล่งกำเนิดของสัญญาณนี้ว่า "ดวงตาแห่งจักรวาล"</value>
+			<value>เหล่าโนไมเดินทางมายังระบบสุริยะนี้เพื่อตามหาสัญญาณจากบางสิ่งที่เก่าแก่กว่าตัวจักรวาลเอง พวกเขาตั้งชื่อแหล่งกำเนิดของสัญญาณนี้ว่า " Eye of the universe "</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish Fossil</key>
@@ -12365,7 +12365,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro found a Nomai statue on another island. The statue's eyes started glowing and Gabbro saw their memories flash before their eyes.</key>
-			<value>แก็บโบรเจอรูปปั้นโนไมบนเกาะอื่น จู่ๆ ดวงตาของรูปปั้นเริ่มเรืองแสงแล้วแก็บโบรก็เห็นความทรงจำของเขาแวบผ่านไป</value>
+			<value>แก็บโบรเจอรูปปั้นโนไมบนเกาะอื่น จู่ๆ  ดวงตาของรูปปั้นเริ่มเรืองแสงแล้วแก็บโบรก็เห็นความทรงจำของเขาแวบผ่านไป</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro remembers dying. They saw their memories flash before their eyes, just like the time with the statue.</key>
@@ -12565,19 +12565,19 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationThe Quantum Moon is the Eye of the universe's moon.</key>
-			<value>ดวงจันทร์ควอนตัม คือดวงจันทร์ของดวงตาแห่งจักรวาล</value>
+			<value>ดวงจันทร์ควอนตัม คือดวงจันทร์ของ Eye of the universe </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationAt this location, the Quantum Moon becomes a reflection of the Eye itself.</key>
-			<value>ณ ตำแหน่งนี้ ดวงจันทร์ควอนตัมจะกลายเป็นภาพสะท้อนของดวงตา</value>
+			<value>ณ ตรงนี้ ดวงจันทร์ควอนตัมจะสะท้อนลักษณะของ The Eye ออกมา</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationThe Eye is likely the source of all macroscopic quantum phenomena in the solar system.</key>
-			<value>ดวงตาน่าจะเป็นแหล่งกำเนิดของปรากฏการณ์ควอนตัมระดับมหภาคทั้งหมดในระบบสุริยะ</value>
+			<value> The Eye น่าจะเป็นแหล่งกำเนิดของปรากฏการณ์ควอนตัมระดับมหภาคทั้งหมดในระบบสุริยะ</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationSolanum wonders what would happen if a concious observer were to enter the Eye.</key>
-			<value>โซลานัม สงสัยว่าจะเกิดอะไรขึ้นหากมีผู้รับรู้เข้าไปในดวงตา</value>
+			<value>โซลานัม สงสัยว่าจะเกิดอะไรขึ้นหากมีผู้รับรู้เข้าไปใน The Eye </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationSolanum has a hypothesis that she may not be entirely alive.</key>
@@ -12641,7 +12641,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Eye Signal Locator</key>
-			<value>อุปกรณ์ระบุสัญญาณดวงตา</value>
+			<value>อุปกรณ์ระบุสัญญาณ The Eye </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lunar Ruins</key>
@@ -12661,7 +12661,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Eye Signal LocatorThe Nomai were disappointed by their failure to detect a signal from something called the Eye of the universe.</key>
-			<value>เหล่าโนไมผิดหวังกับความล้มเหลวในการตรวจจับสัญญาณจากบางสิ่งที่เรียกว่า ดวงตาแห่งจักรวาล</value>
+			<value>เหล่าโนไมผิดหวังกับความล้มเหลวในการตรวจจับสัญญาณจากบางสิ่งที่เรียกว่า Eye of the universe </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Towers</key>
@@ -14743,7 +14743,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>963</key>
-			<value>อันตราย: ตรวจพบโกสต์แมทเทอร์ใกล้ๆ</value>
+			<value>อันตราย: ตรวจพบโกสต์แมตเทอร์ใกล้ๆ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>964</key>
