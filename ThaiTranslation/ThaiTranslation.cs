@@ -18,16 +18,18 @@ namespace ThaiTranslation
         public static Font _kmitlFont;      // main font
         public static Font _silpakornFont;    // static font
         public static Font _chakraFont;
+        public static Font _rsuFont;
 
         private bool _needShipscreenFix = false;
 
         public static ThaiTranslation Instance;
 
-        public static float _textSizeMutliplier_genText = 1.2f;     // general text
-        public static float _textSizeMutliplier_uiLang = 1.2f;      // uiLangDependant
+        public static float _textSizeMutliplier_genText = 1.15f;     // general text
+        public static float _textSizeMutliplier_uiLang = 1.15f;      // uiLangDependant
         public static float _textSizeMultiplier_dialogue = 1.1f;    // DialogueOption
-        public static float _textSizeMultiplier_shipFact = 1.2f;    // ShipFact
-        public static float _textSizeMultiplier_shipEntry = 1.3f;   // ShipEntry
+        public static float _textSizeMultiplier_shipFact = 1.1f;    // ShipFact
+        public static float _textSizeMultiplier_shipEntry = 1.2f;   // ShipEntry
+
 
         public void Awake()
         {
@@ -94,8 +96,9 @@ namespace ThaiTranslation
             _kmitlFont = ab.LoadAsset<Font>("Assets/Fonts/KMITLGO.ttf");
             _silpakornFont = ab.LoadAsset<Font>("Assets/Fonts/SILPAKORN_static.ttf");
             _chakraFont = ab.LoadAsset<Font>("Assets/Fonts/ChakraPetchLegacy.ttf");
+            _rsuFont = ab.LoadAsset<Font>("Assets/Fonts/RSU_BOLD.ttf");
 
-            foreach (Font fontName in new Font[] { _kmitlFont, _silpakornFont, _chakraFont })
+            foreach (Font fontName in new Font[] { _kmitlFont, _silpakornFont, _chakraFont, _rsuFont })
             {
                 if (fontName == null) { ModHelper.Console.WriteLine($"Cannot Load Font {nameof(fontName)}", MessageType.Error); }
             }

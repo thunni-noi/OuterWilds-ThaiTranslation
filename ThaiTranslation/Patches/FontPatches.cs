@@ -14,8 +14,6 @@ namespace ThaiTranslation
         public static bool TextTranslation_GetFont(bool dynamicFont, ref Font __result)
         {
             __result = ThaiTranslation._kmitlFont;
-            ThaiTranslation.Instance.ModHelper.Console.WriteLine(TextTranslation.Get().GetLanguage().ToString());
-
             return false;
         }
 
@@ -239,12 +237,13 @@ namespace ThaiTranslation
 
             if (ui_textSize == UITextSize.LARGE)
             {
-                fontSize = subEntry_flag ? __instance._subEntryFontSizeDefault.largeVal : __instance._entryFontSizeDefault.largeVal;
+                fontSize = subEntry_flag ? (int)(__instance._subEntryFontSizeDefault.largeVal * 1.2) : __instance._entryFontSizeDefault.largeVal;
                 minHeight = __instance._minRootObjLayoutHeightDefault.largeVal;
             }
             else
             {
-                fontSize = subEntry_flag ? __instance._subEntryFontSizeDefault.normalVal : __instance._entryFontSizeDefault.normalVal;
+                fontSize = subEntry_flag ? (int) (__instance._subEntryFontSizeDefault.normalVal * 1.2) : __instance._entryFontSizeDefault.normalVal;
+
                 minHeight = __instance._minRootObjLayoutHeightDefault.normalVal;
             }
 
@@ -283,7 +282,7 @@ namespace ThaiTranslation
             }
 
             __instance._textField.fontSize = (int)(fontSize * ThaiTranslation._textSizeMultiplier_shipFact);
-            __instance._textField.lineSpacing = 1.2f;
+            __instance._textField.lineSpacing = 1.05f;
             __instance._bulletPointTransform.anchoredPosition = __instance._bulletPointPositionDefault.normalVal;
             return false;
         }
@@ -337,13 +336,6 @@ namespace ThaiTranslation
                 GameObject spacer = GameObject.Find("TitleMenu/TitleCanvas/TitleLayoutGroup/MainMenuBlock/MainMenuLayoutGroup/Spacer");
                 spacer?.SetActive(false);
             }
-        }
-
-        [HarmonyPostfix]
-        [HarmonyPatch(typeof(TitleScreenManager), nameof(TitleScreenManager.OnLanguageChanged))]
-        public static void TitleScreenManager_OnLanguageChanged(TitleScreenManager __instance)
-        {
-            ThaiTranslation.Instance.ModHelper.Console.WriteLine(TextTranslation.Get().GetLanguage().ToString());
         }
 
         // fix settings tooltip line space is too large
@@ -561,21 +553,69 @@ namespace ThaiTranslation
             if (__instance._promptState == ItemTool.PromptState.CANNOT_HOLD_MORE)
             {
                 __instance._messageOnlyPrompt.SetVisibility(true);
-                //__instance._messageOnlyPrompt.SetText(itemName + UITextLibrary.GetString(UITextType.ItemAlreadyHoldingPrompt));
                 __instance._messageOnlyPrompt.SetText("ไม่สามารถืออย่างอื่นได้เนื่องจากในมือมี " + itemName + " อยู่แล้ว"); // hard coded cuz idk what im doing
+
+                __instance._cancelButtonPrompt.SetVisibility(false);
+                __instance._interactButtonPrompt.SetVisibility(false);
             }
             else if (__instance._promptState == ItemTool.PromptState.UNSOCKET)
             {
-                __instance._messageOnlyPrompt.SetVisibility(true);
-                __instance._messageOnlyPrompt.SetText("นำ " + itemName + " ออก"); // another hard-coded
+                __instance._messageOnlyPrompt.SetVisibility(false);
+                __instance._cancelButtonPrompt.SetVisibility(false);
+
+                __instance._interactButtonPrompt.SetVisibility(true);
+                __instance._interactButtonPrompt.SetText("นำ " + itemName + " ออก"); // another hard-coded
             }
             
 
         }
-       
-       
+
+        // Ship log clue mode
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(ShipLogDetectiveMode), nameof(ShipLogDetectiveMode.OnEnterComputer))]
+        public static void ShipLogDetectiveMode_OnEnterComputer(ShipLogController __instance)
+        {
+            
+        }
+
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(ShipLogController), nameof(ShipLogController.LateInitialize))]
+        public static void ShipLogController_LateInitialize(ShipLogController __instance)
+        {
+            GameObject factListObj = GameObject.Find("Ship_Body/Module_Cabin/Systems_Cabin/ShipLogPivot/ShipLog/ShipLogPivot/ShipLogCanvas/DescriptionField/FactListMask/FactList");
+            if (factListObj != null)
+            {
+                VerticalLayoutGroup factLayout = factListObj.GetAddComponent<VerticalLayoutGroup>();
+                if (factLayout != null)
+                {
+                    factLayout.spacing = 15f;
+                }
+            }
+
+            GameObject clueObj = GameObject.Find("Ship_Body/Module_Cabin/Systems_Cabin/ShipLogPivot/ShipLog/ShipLogPivot/ShipLogCanvas/DetectiveMode/ScaleRoot/PanRoot");
+            if (clueObj != null)
+            {
+                foreach (Transform t in clueObj.transform)
+                {
+                    Transform title = t.Find("EntryCardRoot/NameBackground/Name");
+                    if (title != null)
+                    {
+                        Text txtComp = title.GetComponent<Text>();
+                        if (txtComp != null)
+                        {
+                            txtComp.font = ThaiTranslation._rsuFont;
+                            txtComp.fontSize = 16;
+                            txtComp.fontStyle = FontStyle.Bold;
+                        }
+                    }
+                }
+            }
+
+        }
 
 
 
-    }
+
+
+            }
 }
