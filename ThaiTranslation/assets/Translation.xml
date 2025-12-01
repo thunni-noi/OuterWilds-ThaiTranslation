@@ -307,7 +307,7 @@
 	</entry>
 	<entry>
 		<key>SPIRE: Most cyclones on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; rotate clockwise. These are the cyclones Cassava typically uses to send components into orbit.</key>
-		<value>สไปร์: ไซโคลนส่วนมากบน &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; จะหมุดตามเข็มนาฬิกา พวกนั้นคือไซโคลนที่ปกติคัซซาวาใช้ในการส่งชิ้นส่วนขึ้นไปยังวงโครจร</value>
+		<value>สไปร์: ไซโคลนส่วนมากบน &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; จะหมุนตามเข็มนาฬิกา พวกนั้นคือไซโคลนที่ปกติคัซซาวาใช้ในการส่งชิ้นส่วนขึ้นไปยังวงโครจร</value>
 	</entry>
 	<entry>
 		<key>SPIRE: There also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</key>
@@ -391,11 +391,11 @@
 	</entry>
 	<entry>
 		<key>BELLS: After the two divided groups were able to reunite, it became our clan’s united goal to find and visit the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. This took time, and many Nomai who dreamed of seeing the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; died before we discovered how to make the journey.</key>
-		<value>เบลส์: หลังจากที่กลุ่มสองกลุ่มซึ่งถูกแยกจากได้กลับมารวมกัน มันก็เป็นเป้าหมายร่วมกันของเผ่าเราที่จะค้นหาและเยี่ยมชน&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; กระบวนการนี้ใช้เวลานานและไนไมหลายชีวิตที่มีความฝันอยากจะเห็น&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ด้วยตาของพวกเขากลับเสียชีวิตไปก่อนที่เราจะค้นพบวิธีการออกเดินทาง</value>
+		<value>เบลส์: หลังจากที่กลุ่มสองกลุ่มซึ่งถูกแยกจากได้กลับมารวมกัน มันก็เป็นเป้าหมายร่วมกันของเผ่าเราที่จะค้นหาและเยี่ยมชน&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; กระบวนการนี้ใช้เวลานานและโนไมหลายชีวิตที่มีความฝันอยากจะเห็น&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ด้วยตาของพวกเขากลับเสียชีวิตไปก่อนที่เราจะค้นพบวิธีการออกเดินทาง</value>
 	</entry>
 	<entry>
 		<key>BELLS: When you reach the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, recall these Nomai, and carry their curiosity onward with you.</key>
-		<value>เบลส์: เมื่อคุณเดินทางไปจนถึง&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; จงรำลึกถึงไนโมเหล่านั้น และสานต่อความรู้อยากเห็นของพวกเขาไปกับคุณด้วย</value>
+		<value>เบลส์: เมื่อคุณเดินทางไปจนถึง&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; จงรำลึกถึงโนไมเหล่านั้น และสานต่อความรู้อยากเห็นของพวกเขาไปกับคุณด้วย</value>
 	</entry>
 	<entry>
 		<key>
@@ -498,7 +498,7 @@
 			BELLS: Welcome, Solanum! Your arrival here means you’ve completed your preparations on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; and are ready to depart for the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.
 		</key>
 		<value>
-			เบลส์: ยินดีต้อนรับ โซลานัม! การมาถึงของเธอที่นี่หมายความว่าเธอได้เตรียมพร้อมบน &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; แล้วและพร้อมออกเดินทางไปยัง&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;แล้วสินะ
+			เบลส์: ยินดีต้อนรับ โซลานัม! การมาถึงของเธอที่นี่หมายความว่าเธอได้ผ่านการเตรียมพร้อมจาก &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; และพร้อมออกเดินทางไปยัง&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;แล้วสินะ
 		</value>
 	</entry>
 	<entry>
@@ -514,7 +514,7 @@
 			BELLS: You’ll be aided in your pilgrimage by the shrine our clan built on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. But remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole.
 		</key>
 		<value>
-			เบลส์: วิหารที่เราสร้างขึ้นบน&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;นี้จะช่วยเธอในการเดินทางครั้งนี้ จงจำกฎข้อสุดท้ายนี้ไว้ให้ดี ในการที่จะออกสำรวจสถานที่ที่หกนี้ วิหารจะต้องอยู่บนขั้วโลกเหนือของดวงจันทร์เท่านั้น
+			เบลส์: วิหารที่เราสร้างขึ้นบน&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;จะช่วยเธอในการเดินทางครั้งนี้ จงจำกฎข้อสุดท้ายนี้ไว้ให้ดี ในการที่จะออกสำรวจสถานที่ที่หกนี้ วิหารจะต้องอยู่บนขั้วโลกเหนือของดวงจันทร์เท่านั้น
 		</value>
 	</entry>
 	<entry>
@@ -522,7 +522,7 @@
 			BELLS: Be curious on your journey!
 		</key>
 		<value>
-			เบลส์: ข้อให้เธอเดินทางด้วยความอยากรู้อยากเห็นนะ!
+			เบลส์: ขอให้เธอเดินทางด้วยความอยากรู้อยากเห็นนะ!
 		</value>
 	</entry>
 	<entry>
@@ -562,7 +562,7 @@
 			LAEVI: We’re meeting in the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; to play the game! If you’re too big to climb through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole:
 		</key>
 		<value>
-			เลวิ: เราจะไปเจอกันที่&lt;color=orange&gt;ถ้ำฟอซซิลฟิช&lt;/color&gt; เพื่อไปเล่นเกมกัน! ถ้าตัวของนายใหญ่เกินที่จะปีนเข้ารูที่&lt;color=orange&gt;ช่องส่องแองเกลอร์ฟิช&lt;/color&gt;ได้ละก็:
+			เลวิ: เราจะไปเจอกันที่&lt;color=orange&gt;ถ้ำฟอซซิลฟิช&lt;/color&gt; เพื่อไปเล่นเกมกัน! ถ้าตัวของนายใหญ่เกินที่จะปีนเข้ารูที่&lt;color=orange&gt;ช่องส่องปลาแองเกลอร์&lt;/color&gt;ได้ละก็:
 		</value>
 	</entry>
 	<entry>
@@ -586,12 +586,12 @@
 			ILEX: Remember to feed the fossil fish first! If you go to the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; and throw a light into his mouth, he’ll show you the way.
 		</key>
 		<value>
-			ไอเล็กซ์: อย่าลืมป้อนอาหารฟอซซิลปลาก่อนนะ! ถ้านายไปที่&lt;color=orange&gt;ช่องส่องแองเกลอร์ฟิช&lt;/color&gt;แล้วโยนแสงไปที่ปากของเขา เดี๋ยวเขาจะบอกทางให้นายเอง
+			ไอเล็กซ์: อย่าลืมป้อนอาหารฟอซซิลปลาก่อนนะ! ถ้านายไปที่&lt;color=orange&gt;ช่องส่องปลาแองเกลอร์&lt;/color&gt;แล้วโยนแสงไปที่ปากของเขา เดี๋ยวเขาจะบอกทางให้นายเอง
 		</value>
 	</entry>
 	<entry>
 		<key>LAMI: Taget can’t fit through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole anymore because he grew bigger! He’s taller than Laevi now.</key>
-		<value>ลามิ: ทาเก็ตตัวใหญ่เกินจนเข้าผ่าน&lt;color=orange&gt;ช่องส่องแองเกลอร์ฟิช&lt;/color&gt;ไม่ได้แล้วล่ะ! เขาสูงกว่าเลวิอีกตอนนี้</value>
+		<value>ลามิ: ทาเก็ตตัวใหญ่เกินจนเข้าผ่าน&lt;color=orange&gt;ช่องส่องปลาแองเกลอร์&lt;/color&gt;ไม่ได้แล้วล่ะ! เขาสูงกว่าเลวิอีกตอนนี้</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Who cares? Ilex is still tallest.</key>
@@ -607,7 +607,7 @@
 	</entry>
 	<entry>
 		<key>LAEVI: Gratitude, Solanum! It’s good you’re small enough to climb in through the hole at the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt;.</key>
-		<value>เลวิ: ขอบคุณมากนะโซลานัม! ดีจริงๆที่เธอยังตัวเล็กพอที่จะปีนเข้าผ่าน&lt;color=orange&gt;ช่องส่องแองเกลอร์ฟิช&lt;/color&gt;ได้อยู่</value>
+		<value>เลวิ: ขอบคุณมากนะโซลานัม! ดีจริงๆที่เธอยังตัวเล็กพอที่จะปีนเข้าผ่าน&lt;color=orange&gt;ช่องส่องปลาแองเกลอร์&lt;/color&gt;ได้อยู่</value>
 	</entry>
 	<entry>
 		<key>LAMI: I’m still small enough!</key>
@@ -622,7 +622,7 @@
 			MELORAE: The heat from this star system’s &lt;color=lightblue&gt;sun&lt;/color&gt; is more bearable below the surface.
 		</key>
 		<value>
-			เมโลเรย์: ความร้อนจาก&lt;color=lightblue&gt;ดวงอาทิตย์&lt;/color&gt;ของระบบสุริยะนี้ค่อยทนได้หน่อยหน่อยตอนนี้ใต้พื้นผิวดาว
+			เมโลเรย์: ความร้อนจาก&lt;color=lightblue&gt;ดวงอาทิตย์&lt;/color&gt;ของระบบสุริยะนี้ค่อยทนได้หน่อยพอมาเราอยู่ใต้พื้นผิวดาว
 		</value>
 	</entry>
 	<entry>
@@ -630,7 +630,7 @@
 			MELORAE: When our &lt;color=orange&gt;escape pod&lt;/color&gt; punctured this planet’s surface, it broke into what scans show is a cave system with much cooler air. I &lt;i&gt;would&lt;/i&gt; recommend we seek a site down there to build a long-term shelter, Annona, but these passages are a maze!
 		</key>
 		<value>
-			เมโลเรย์: เมื่อตอนที่&lt;color=orange&gt;ยานหนีภัย&lt;/color&gt;ของเราทะลุผ่านพื้นผิวของดาวเคราะห์ดวงนี้ มันทำให้ด้านใต้แตกออกเป็นสิ่งที่สแกนเนอร์บอกเราว่าเป็นระบบถ้ำที่มีอากาศที่เย็นกว่าหน่อย ฉัน&lt;i&gt;แนะนำ&lt;/i&gt;ให้เราหาที่สร้างที่ตั้งแหล่งหลบภัยที่นั่นนะ อันโนนา แต่ทางเดินพวกนี้มันเหมือนกับเขาวงกตเลย!
+			เมโลเรย์: เมื่อตอนที่&lt;color=orange&gt;ยานหนีภัย&lt;/color&gt;ของเราชนทะลุพื้นผิวของดาวเคราะห์ดวงนี้ พื้นด้านล่างแตกออกเป็นระบบถ้ำที่สแกนเนอร์บอกว่ามีอากาศที่เย็นกว่าหน่อย ฉัน&lt;i&gt;แนะนำ&lt;/i&gt;ให้เราหาที่สร้างที่ตั้งแหล่งหลบภัยที่นั่นนะ อันโนนา แต่ทางเดินพวกนี้มันเหมือนกับเขาวงกตเลย!
 		</value>
 	</entry>
 	<entry>
@@ -662,7 +662,7 @@
 			COLEUS: The path to the shelter site is somewhat convoluted, so follow the instructions ahead closely!
 		</key>
 		<value>
-			โคเลียส: ทางไปที่หลบภัยค่อนข้างจะซับซ้อนและวกวน ดังนั้นทำตามคำแนะนำด้านหน้าดีๆล่ะ!
+			โคเลียส: ทางไปที่หลบภัยค่อนข้างจะซับซ้อนและวนไปมา ดังนั้นทำตามคำแนะนำด้านหน้าดีๆล่ะ!
 		</value>
 	</entry>
 	<entry>
@@ -670,7 +670,7 @@
 			COLEUS: To reach the shelter site, walk forward until you meet the sandfall at the pit, then turn left. Continue to the room filled with rock column formations and climb upward through the opening above them.
 		</key>
 		<value>
-			โคเลียส: เพื่อไปยังที่หลบภัย เดินไปข้างหน้าจนกว่าจะทรายที่ไหลลงไปในหลุม จากนั้นก็เลี้ยวซ้าย เดินไปเรื่อยๆจนกว่าจะเจอกับห้องที่มีหินรูปทรงเสาหลายๆแท่ง ปีนขึ้นไปข้างบนผ่านช่องที่เปิดอยู่เหนือหินพวกนั้น
+			โคเลียส: เพื่อไปยังที่หลบภัย เดินไปข้างหน้าจนกว่าจะเจอทรายที่ไหลลงไปในหลุม จากนั้นก็เลี้ยวซ้าย เดินไปเรื่อยๆจนกว่าจะเจอกับห้องที่มีหินรูปทรงเสาหลายๆแท่ง ปีนขึ้นไปข้างบนผ่านช่องที่เปิดอยู่เหนือหินพวกนั้น
 		</value>
 	</entry>
 	<entry>
@@ -686,7 +686,7 @@
 			COLEUS: Be cautious crossing the chasm ahead. The bridge Melorae and I crafted will do its job, but it isn’t strong.
 		</key>
 		<value>
-			COLEUS: ระวังตอนข้างเหวข้างหน้าด้วย สะพานที่ฉันกับเมโลเรย์สร้างขึ้นมาพอใช้งานได้อยู่ แต่มันไม่ได้แข็งแรงมาก
+			โคเลียส: ระวังตอนข้ามเหวข้างหน้าด้วย สะพานที่ฉันกับเมโลเรย์สร้างขึ้นมาพอใช้งานได้อยู่ แต่มันไม่ได้แข็งแรงมาก
 		</value>
 	</entry>
 	<entry>
@@ -702,7 +702,7 @@
 			COLEUS: You’re doing well! There’s only a little farther left to go now until you reach the shelter site. You can rest there. Hurry, before the sand comes!
 		</key>
 		<value>
-			โคเลียส: คุณมาได้ไกลแล้ว! เหลืออีกนึดหน่อยก็จะถึงที่หลบภัย คุณสามารถไปพักที่นั่นได้ แต่รีบหน่อยนะ ก่อนที่ทรายจะมา!
+			โคเลียส: คุณมาได้ไกลแล้ว! เหลืออีกนิดหน่อยก็จะถึงที่หลบภัย คุณสามารถไปพักที่นั่นได้ แต่รีบหน่อยนะ ก่อนที่ทรายจะมา!
 		</value>
 	</entry>
 	<entry>
@@ -718,7 +718,7 @@
 			ANNONA: Of note: This passage leads to breathable air. Refill your supply tank there (we cannot tell how far or deep these tunnels may wind), but do not linger, as the area is exposed to the heat of this alien &lt;color=lightblue&gt;sun&lt;/color&gt;.
 		</key>
 		<value>
-			ANNONA: โน๊ต: ทางเดินนี้จะพาไปสู่อากาศที่หายใจได้ คุณจะไปเติมถังอากาศของคุณที่นั่นก็ได้ (เราบอกไม่ได้เหมือนกันว่าอุโมงค์พวกนี้จะลึกหรือยาวแค่ไหน) แต่อย่าอยู่นานมาก เพราะแถวนั้นค่อนข้างโดนความร้อนจาก&lt;color=lightblue&gt;พระอาทิตย์&lt;/color&gt;เอเลี่ยนมากจนอาจเป็นอันตรายได้
+			อันโนนา: โน๊ต: ทางเดินนี้จะพาไปสู่อากาศที่หายใจได้ คุณจะไปเติมถังอากาศของคุณที่นั่นก็ได้ (เราบอกไม่ได้เหมือนกันว่าอุโมงค์พวกนี้จะลึกหรือยาวแค่ไหน) แต่อย่าอยู่นานมาก เพราะแถวนั้นค่อนข้างโดนความร้อนจาก&lt;color=lightblue&gt;พระอาทิตย์&lt;/color&gt;เอเลี่ยนมากจนอาจเป็นอันตรายได้
 		</value>
 	</entry>
 	<entry>
@@ -1155,7 +1155,7 @@
 	</entry>
 	<entry>
 		<key>Wrong3CHopefully not. Besides, an extra version of us is definitely better than if we'd created an extra anglerfish or something.</key>
-		<value>หวังว่าจะไม่ อีกอย่าง การมีเราเพิ่มขึ้นมาอีกคนยังดีกว่าการที่เราจะเผลอสร้างแองเกลอร์ฟิชขึ้นมาอีกตัวหรืออะไรทำนองนั้นแน่นอนล่ะ</value>
+		<value>หวังว่าจะไม่ อีกอย่าง การมีเราเพิ่มขึ้นมาอีกคนยังดีกว่าการที่เราจะเผลอสร้างปลาแองเกลอร์ขึ้นมาอีกตัวหรืออะไรทำนองนั้นแน่นอนล่ะ</value>
 	</entry>
 	<entry>
 		<key>SelfWrong3CGEH.</key>
@@ -1523,7 +1523,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: I enjoy precision as much as the next Nomai, but if, for example, a tower’s base were to shift even slightly, that tower might no longer align with its astral body.</key>
-		<value>คลารี: ฉันก็ชอบความแม่นยำเหมือนกับไนไมทั่วๆไปอยู่ แต่ว่า ยกตัวอย่างว่าฐานของหอวาร์ปมันขยับไปแม้แต่นิดเดียว มันก็อาจไม่ตรงกับวัตถุดาราศาสตร์นั้นๆแล้วก็ได้</value>
+		<value>คลารี: ฉันก็ชอบความแม่นยำเหมือนกับโนไมทั่วๆไปอยู่ แต่ว่า ยกตัวอย่างว่าฐานของหอวาร์ปมันขยับไปแม้แต่นิดเดียว มันก็อาจไม่ตรงกับวัตถุดาราศาสตร์นั้นๆแล้วก็ได้</value>
 	</entry>
 	<entry>
 		<key>POKE: We don’t need the alignment angle to be exact; it only needs to be within five degrees of the astral body’s center.</key>
@@ -1567,7 +1567,7 @@
 	</entry>
 	<entry>
 		<key>POKE: The tower designs in the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; reveal each receiver's location. Ask Yarrow; he is familiar with them.</key>
-		<value>โพเก้: ดีไซน์ของหอคอยใน&lt;color=orange&gt;แล็บ High Energy &lt;/color&gt; บน &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; จะบอกถึงที่อยู่ของตัวรับแต่ละอัน ลองถามยาร์โรวดู เขาคุ้นเคยกับมันดี</value>
+		<value>โพเก้: ดีไซน์ของหอคอยใน&lt;color=orange&gt;แล็บพลังงานสูง&lt;/color&gt; บน &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; จะบอกถึงที่อยู่ของตัวรับแต่ละอัน ลองถามยาร์โรวดู เขาคุ้นเคยกับมันดี</value>
 	</entry>
 	<entry>
 		<key>WARNING: Be cautious near the boarding area while the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is in operation.</key>
@@ -1591,7 +1591,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: No, Yarrow understands the distinction. He likely doesn’t realize the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; are so close together they function as a single astral body, with a shared alignment point in between them.</key>
-		<value>คลารี: ไม่ๆ ยาร์โรวเข้าใจว่ามันต่างกัน เขาน่าจะไม่รู้เฉยๆว่า &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; อยู่ใกล้กันมากจนมีพวกมันถูกนับเป็นวัตถุดาราศาสตร์อันเดียวโดยมีจุดศูนย์กลางอยู่ระหว่างดาวน่ะ</value>
+		<value>คลารี: ไม่ๆ ยาร์โรวเข้าใจว่ามันต่างกัน เขาน่าจะไม่รู้เฉยๆว่า &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; อยู่ใกล้กันมากจนมีพวกมันถูกนับเป็นวัตถุดาราศาสตร์อันเดียว\\nโดยมีจุดศูนย์กลางอยู่ระหว่างดาวน่ะ</value>
 	</entry>
 	<entry>
 		<key>
@@ -1619,11 +1619,11 @@
 	</entry>
 	<entry>
 		<key>CLARY: Poke, Root, and I can begin work on this immediately in the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; (this will keep us busy!).</key>
-		<value>คลารี: โพเก้ รูทกับฉันสามารถเริ่มงานนี้ได้ทันทีใน&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt; (นี่คงจะทำให้เรายุ่งพอสมควร!)</value>
+		<value>คลารี: โพเก้ รูทกับฉันสามารถเริ่มงานนี้ได้ทันทีใน&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt; (นี่คงจะทำให้เรายุ่งไปอีกสักพักใหญ่เลยล่ะ!)</value>
 	</entry>
 	<entry>
 		<key>YARROW: Of note: Each tower on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will warp to a different planet.</key>
-		<value>ยาร์โรว: โน๊ต: หอคอยแต่ละหอบน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; จะวาร์ปไปยังดาวที่แตกต่างกัน</value>
+		<value>ยาร์โรว: โน๊ต: หอคอยแต่ละหอบน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; จะวาร์ปไปยังดาวเคราะห์ที่แตกต่างกัน</value>
 	</entry>
 	<entry>
 		<key>PHLOX: We can design each tower to visually reflect its warp destination!</key>
@@ -1631,7 +1631,7 @@
 	</entry>
 	<entry>
 		<key>PHLOX: The &lt;color=orange&gt;Giant’s Deep tower&lt;/color&gt;, for instance, could resemble a cyclone. And we could model the &lt;color=orange&gt;Timber Hearth tower&lt;/color&gt; after a geyser mountain!</key>
-		<value>ฟล็อก: อย่างเช่นหอคอยของ &lt;color=orange&gt;Giant’s Deep &lt;/color&gt; อาจมีลักษณะคล้ายไซโคลน ส่วนหอคอยของ &lt;color=orange&gt;Timber Hearth tower&lt;/color&gt; เราก็อาจทำให้เหมือนภูเขาน้ำพุร้อนก็ได้!</value>
+		<value>ฟล็อก: อย่างเช่นหอคอยของ &lt;color=orange&gt;Giant’s Deep &lt;/color&gt; อาจมีลักษณะคล้ายไซโคลน ส่วนหอคอยของ &lt;color=orange&gt;Timber Hearth&lt;/color&gt; เราก็อาจทำให้เหมือนภูเขาน้ำพุร้อนก็ได้!</value>
 	</entry>
 	<entry>
 		<key>YARROW: My gratitude to those who noted my imprecise language! Yes, the &lt;color=lightblue&gt;sun&lt;/color&gt; is not a planet. I believe this has been sufficiently clarified (kindly stop reminding me!).</key>
@@ -1671,7 +1671,7 @@
 	</entry>
 	<entry>
 		<key>POKE: No, it isn’t!</key>
-		<value>โพเก้: ไม่ มันยังไม่หร้อม!</value>
+		<value>โพเก้: ไม่ มันยังไม่พร้อม!</value>
 	</entry>
 	<entry>
 		<key>YARROW: Is everything well at the &lt;color=orange&gt;forge&lt;/color&gt;?</key>
@@ -1723,7 +1723,7 @@
 	</entry>
 	<entry>
 		<key>CYCAD: If they're sealing off all entrances, I hope they've planned a-&lt;i&gt;core&lt;/i&gt;-dingly!</key>
-		<value>ไซแคต: ถ้าพวกเขาวางแผนที่จะปิดทางเข้าทั้ง ฉันหวังว่าพวกเขาจะวาง&lt;i&gt;แกน&lt;/i&gt;มาดีแล้วล่ะ!</value>
+		<value>ไซแคต: ถ้าพวกเขาวางแผนที่จะปิดทางเข้าทั้งหมด ฉันหวังว่าพวกเขาจะวาง&lt;i&gt;แกน&lt;/i&gt;มาดีแล้วล่ะ!</value>
 	</entry>
 	<entry>
 		<key>OENO: I thought you had forbidden your apprentice from making puns, Coleus.</key>
@@ -1747,7 +1747,7 @@
 	</entry>
 	<entry>
 		<key>POKE: Welcome to the &lt;color=orange&gt;White Hole Station&lt;/color&gt;! If you fell through the black hole by accident (don't worry, you aren’t the first), this warp tower can return you to &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-		<value>โพเก้: ยินดีต้องรับสู่&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;! ถ้าเกิดคุณพลัดตกหลุมดำมาละก็ (ไม่ต้องห่วง คุณไม่ใช่คนแรกหรอก) หอวาร์ปนี้สามารถวาร์ปคุณกลับไปที่ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; ได้</value>
+		<value>โพเก้: ยินดีต้อนรับสู่&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;! ถ้าเกิดคุณพลัดตกหลุมดำมาละก็ (ไม่ต้องห่วง คุณไม่ใช่คนแรกหรอก) หอวาร์ปนี้สามารถวาร์ปคุณกลับไปที่ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; ได้</value>
 	</entry>
 	<entry>
 		<key>POKE: Every warp tower is tuned to a specific astral body. A tower's warp can only be used during the brief window when the tower is aligned with its corresponding astral body (in this case, &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;).</key>
@@ -1779,7 +1779,7 @@
 	</entry>
 	<entry>
 		<key>GabbroMeetGabbro3FNo, it’s me, too. We’re in a time loop.</key>
-		<value>ไม่ ฉันก็เหมือนกัน เราติดอยู่ในลูปเวลาน่ะ.</value>
+		<value>ไม่ ฉันก็เหมือนกัน เราติดอยู่ในลูปเวลาน่ะ</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_2Time &lt;i&gt;has&lt;/i&gt; been behaving unusually lately. Yeah, a time loop makes sense. Cool.</key>
@@ -1815,7 +1815,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro3F_5And here’s another weird one for you - every time I die, all of my memories from that loop replay back to me. I’m pretty sure that’s related to this big stone Nomai statue I found on one of the other islands.</key>
-		<value>มีอีกอย่างที่แปลกๆ เหมือนกัน - ทุกครั้งที่ฉันตาย ความทรงจำจากลูปนั้นจะเล่นซ้ำมาให้ฉันดู ฉันค่อนข้างมั่นใจว่ามันน่าจะเกี่ยวกับรูปปั้นโนไมหินอันใหญ่ๆที่ฉันเจอตรงเกาะอีกเกาะนึง.</value>
+		<value>มีอีกอย่างที่แปลกๆ เหมือนกัน - ทุกครั้งที่ฉันตาย ความทรงจำจากลูปนั้นจะเล่นซ้ำมาให้ฉันดู ฉันค่อนข้างมั่นใจว่ามันน่าจะเกี่ยวกับรูปปั้นโนไมหินอันใหญ่ๆที่ฉันเจอตรงเกาะอีกเกาะนึง</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_5I was looking at it, and the statue opened its eyes and started glowing. It replayed my memories like it’d seen them through my own eyes, just like what happens each time I die.</key>
@@ -1923,7 +1923,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_3FAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>ส่วนเรื่องพื้นดิน ฉันนับได้ประมาณสี่เกาะรวมเกาะนี้ แล้วก็รวมเกาะที่มีรูปปั้นไนโมที่ฉันเจอบนชายหาดด้วย</value>
+		<value>ส่วนเรื่องพื้นดิน ฉันนับได้ประมาณสี่เกาะรวมเกาะนี้ แล้วก็รวมเกาะที่มีรูปปั้นโนไมที่ฉันเจอบนชายหาดด้วย</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3FYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
@@ -2015,7 +2015,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething1bIf you come up with any hunches about what the Nomai wanted to record memories for, feel free to run them by me! You know where I’ll be.</key>
-		<value>ถ้านายพอจะรู้ว่าทำไมพวกไนโมถึงอยากจะบันทึกความทรงจำเก็บไว้ก็มาบอกฉันด้วยละกัน! ฉันจะอยู่ตรงนี้นี่แหละ</value>
+		<value>ถ้านายพอจะรู้ว่าทำไมพวกโนไมถึงอยากจะบันทึกความทรงจำเก็บไว้ก็มาบอกฉันด้วยละกัน! ฉันจะอยู่ตรงนี้นี่แหละ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
@@ -2023,7 +2023,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-		<value>เรารู้แล้วว่าอะไรเป็นตัวการทำให้เกิดลูปแล้ว... ถ้ามันเกิดจากอุปกรณ์ของไนโม แสดงว่ามันต้องถูกเปิดใช้งานอยู่สินะ? อืม...</value>
+		<value>เรารู้แล้วว่าอะไรเป็นตัวการทำให้เกิดลูปแล้ว... ถ้ามันเกิดจากอุปกรณ์ของโนไม แสดงว่ามันต้องถูกเปิดใช้งานอยู่สินะ? อืม...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FHey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
@@ -2091,7 +2091,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_3F...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-		<value>...น่ากลัวอยู่นะที่ฟังดูเหมือนสิ่งที่สเลธหรือเฟลด์สปาร์จะทำอยู่เหมือนกัน ฉันค่อนข้างจะแปลกใจที่ไนโมก็สร้างบางอย่างที่พังได้ด้วยแฮะ!</value>
+		<value>...น่ากลัวอยู่นะที่ฟังดูเหมือนสิ่งที่สเลธหรือเฟลด์สปาร์จะทำอยู่เหมือนกัน ฉันค่อนข้างจะแปลกใจที่โนไมก็สร้างบางอย่างที่พังได้ด้วยแฮะ!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_3FCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
@@ -2295,7 +2295,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_3TAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>ส่วนเรื่องพื้นดิน ฉันนับได้ประมาณสี่เกาะรวมเกาะนี้ แล้วก็รวมเกาะที่มีรูปปั้นไนโมที่ฉันเจอบนชายหาดด้วย</value>
+		<value>ส่วนเรื่องพื้นดิน ฉันนับได้ประมาณสี่เกาะรวมเกาะนี้ แล้วก็รวมเกาะที่มีรูปปั้นโนไมที่ฉันเจอบนชายหาดด้วย</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3TYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</key>
@@ -2315,7 +2315,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_3TNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-		<value>เรารู้แล้วว่าอะไรเป็นตัวการทำให้เกิดลูปแล้ว... ถ้ามันเกิดจากอุปกรณ์ของไนโม แสดงว่ามันต้องถูกเปิดใช้งานอยู่สินะ? อืม...</value>
+		<value>เรารู้แล้วว่าอะไรเป็นตัวการทำให้เกิดลูปแล้ว... ถ้ามันเกิดจากอุปกรณ์ของโนไม แสดงว่ามันต้องถูกเปิดใช้งานอยู่สินะ? อืม...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3THey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
@@ -2363,7 +2363,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_3T...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-		<value>..น่ากลัวอยู่นะที่ฟังดูเหมือนสิ่งที่สเลธหรือเฟลด์สปาร์จะทำอยู่เหมือนกัน ฉันค่อนข้างจะแปลกใจที่ไนโมก็สร้างบางอย่างที่พังได้ด้วยแฮะ!</value>
+		<value>..น่ากลัวอยู่นะที่ฟังดูเหมือนสิ่งที่สเลธหรือเฟลด์สปาร์จะทำอยู่เหมือนกัน ฉันค่อนข้างจะแปลกใจที่โนไมก็สร้างบางอย่างที่พังได้ด้วยแฮะ!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_3TCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
@@ -2491,7 +2491,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_mergeAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>ส่วนเรื่องพื้นดิน ฉันนับได้ประมาณสี่เกาะรวมเกาะนี้ แล้วก็รวมเกาะที่มีรูปปั้นไนโมที่ฉันเจอบนชายหาดด้วย</value>
+		<value>ส่วนเรื่องพื้นดิน ฉันนับได้ประมาณสี่เกาะรวมเกาะนี้ แล้วก็รวมเกาะที่มีรูปปั้นโนไมที่ฉันเจอบนชายหาดด้วย</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_mergeYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
@@ -2511,7 +2511,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-		<value>เรารู้แล้วว่าอะไรเป็นตัวการทำให้เกิดลูปแล้ว... ถ้ามันเกิดจากอุปกรณ์ของไนโม แสดงว่ามันต้องถูกเปิดใช้งานอยู่สินะ? อืม...</value>
+		<value>เรารู้แล้วว่าอะไรเป็นตัวการทำให้เกิดลูปแล้ว... ถ้ามันเกิดจากอุปกรณ์ของโนไม แสดงว่ามันต้องถูกเปิดใช้งานอยู่สินะ? อืม...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeHey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
@@ -2559,7 +2559,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_merge...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-		<value>...น่ากลัวอยู่นะที่ฟังดูเหมือนสิ่งที่สเลธหรือเฟลด์สปาร์จะทำอยู่เหมือนกัน ฉันค่อนข้างจะแปลกใจที่ไนโมก็สร้างบางอย่างที่พังได้ด้วยแฮะ!</value>
+		<value>...น่ากลัวอยู่นะที่ฟังดูเหมือนสิ่งที่สเลธหรือเฟลด์สปาร์จะทำอยู่เหมือนกัน ฉันค่อนข้างจะแปลกใจที่โนไมก็สร้างบางอย่างที่พังได้ด้วยแฮะ!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_mergeCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
@@ -2667,7 +2667,7 @@
 	</entry>
 	<entry>
 		<key>Scientist1AWhat do you say - ready to get this beauty off the ground? It’s all fueled up and ready to go!</key>
-		<value>ว่าไงล่ะ - พร้อมที่จะพาเธอขึ้นไปบนฟ้ารึยัง? เติมเชื้อเพลิงเต็มถึงแล้ว พร้อมออกตัวได้เลย!</value>
+		<value>ว่าไงล่ะ - พร้อมที่จะพายานขึ้นไปบนฟ้ารึยัง? เติมเชื้อเพลิงเต็มถึงแล้ว พร้อมออกตัวได้เลย!</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1AAll systems go!</key>
@@ -2683,7 +2683,7 @@
 	</entry>
 	<entry>
 		<key>Scientist1BHey, you ready to get this thing off the ground? Ship’s all fueled and ready to go.</key>
-		<value>เฮ้, นายพร้อมที่จะพาเธอขึ้นฟ้าหรือยัง? ยานของนายเติมเชื้อเพลิงเต็มถังแล้ว พร้อมออกตัวได้เลย</value>
+		<value>เฮ้, นายพร้อมที่จะพายานขึ้นฟ้าหรือยัง? ยานของนายเติมเชื้อเพลิงเต็มถังแล้ว พร้อมออกตัวได้เลย</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1BDid... did I just... die?</key>
@@ -2939,7 +2939,7 @@
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1It’s a brilliant feature, if I say so myself. Dead useful. And the risk it poses of shorting out the fuel regulator and causing the ship to explode is so minimal that only Gossan would worry about it.</key>
-		<value>เป็นฟีเจอร์ที่เยี่ยมยอดเลยถ้าจะให้ฉันพูดล่ะนะ มีประโยชน์สุดๆ และความเสี่ยงที่จะทำให้ตัวควบคุมเชื้อเพลิงลัดวงจรจนยานระเบิดก็น้อยมากจนมีแค่กอสซานเท่านั้นแหละที่จะเป็นห่วงเกี่ยวกับเรื่องพวกนั้น.</value>
+		<value>เป็นฟีเจอร์ที่เยี่ยมยอดเลยถ้าจะให้ฉันพูดล่ะนะ มีประโยชน์สุดๆ และความเสี่ยงที่จะทำให้ตัวควบคุมเชื้อเพลิงลัดวงจรจนยานระเบิดก็น้อยมากจนมีแค่กอสซานเท่านั้นแหละที่จะเป็นห่วงเกี่ยวกับเรื่องพวกนั้น</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_1Wait, so how do I use it?</key>
@@ -3047,7 +3047,7 @@
 	</entry>
 	<entry>
 		<key>Feldspar1Where’d you come from? No one’s come here in... well, ever, actually. That makes you the second Hearthian to ever reach Dark Bramble — after me, of course. Well done!</key>
-		<value>มาจากไหนกันเนี่ย? ไม่มีใครมาที่นี่ตั้งแต่... เอ่อ จริงๆก็ไม่เคยมีใครมาเลยต่างหาก แสดงว่านายจะฮาร์เธียนคนที่สองที่เคยมาเยือน Dark Bramble — แน่นอนว่าถัดจากฉัน ฮ่าๆ เก่งมาก!</value>
+		<value>มาจากไหนกันเนี่ย? ไม่มีใครมาที่นี่ตั้งแต่... เอ่อ จริงๆก็ไม่เคยมีใครมาเลยต่างหาก แสดงว่านายเป็นฮาร์เธียนคนที่สองที่เคยมาเยือน Dark Bramble — แน่นอนว่าถัดจากฉัน ฮ่าๆ เก่งมาก!</value>
 	</entry>
 	<entry>
 		<key>Feldspar1...Say, it’s you! They made you an astronaut? And you haven’t blown yourself up yet, good for you!</key>
@@ -3055,7 +3055,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar1Let me guess: anglerfish?</key>
-		<value>ให้ฉันเดา: แองเกลอร์ฟิชใช่มะ?</value>
+		<value>ให้ฉันเดา: ปลาแองเกลอร์ใช่มะ?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar1Feldspar! You’re alive!</key>
@@ -3107,7 +3107,7 @@
 	</entry>
 	<entry>
 		<key>Feldspar4Depends on how long “all this time” is. I’ve been here a while, I guess. Ever since I crashed my ship into — that is, ever since my daring escape from the jaws of an anglerfish!</key>
-		<value>ขึ้นอยู่กับว่า "ตลอดที่ผ่านมา" นานขนาดไหน แต่ฉันก็อยู่ที่นี่มาสักพักใหญ่ๆแล้ว ตั้งแต่ตอนที่ยานของชนกับ - เอ่อ ตั้งที่ฉันหนีพ้นจากเงื้อมปากของแองเกลอร์ฟิชน่ะ!</value>
+		<value>ขึ้นอยู่กับว่า "ตลอดที่ผ่านมา" นานขนาดไหน แต่ฉันก็อยู่ที่นี่มาสักพักใหญ่ๆแล้ว ตั้งแต่ตอนที่ยานของชนกับ - เอ่อ ตั้งที่ฉันหนีพ้นจากเงื้อมปากของปลาแองเกลอร์น่ะ!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar4Tell me more about your flying prowess!</key>
@@ -3167,7 +3167,7 @@
 	</entry>
 	<entry>
 		<key>Feldspar5aBut after a while, I run into this huge anglerfish — you’ve seen ’em? Big gnarly things, and this was the biggest one I’ve ever seen. I pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</key>
-		<value>แต่พอผ่านไปสักพัก ฉันดันไปเจอกับแองเกลอร์ฟิชไซส์มหึมา - นายเห็นพวกมันรึยัง ตัวใหญ่ๆ หน้าตาโหดๆหน่อย แล้วตัวนี้คือตัวที่ใหญ่สุดเท่าที่ฉันเคยเจอมาแล้ว  ฉันเล่นท่าเรื่อยๆ พยายามสลัดมันออก — ไม่ได้หวือหวาอะไร พอฉันกำลังเร่งความเร็วเต็มสปีดก็โดนเจ้าปลานั่นเฉี่ยวฉันจนไปชนกับเถาวัลย์ จากนั้นก็...</value>
+		<value>แต่พอผ่านไปสักพัก ฉันดันไปเจอกับปลาแองเกลอร์ไซส์มหึมา - นายเห็นพวกมันรึยัง ตัวใหญ่ๆ หน้าตาโหดๆหน่อย แล้วตัวนี้คือตัวที่ใหญ่สุดเท่าที่ฉันเคยเจอมาแล้ว  ฉันเล่นท่าเรื่อยๆ พยายามสลัดมันออก — ไม่ได้หวือหวาอะไร พอฉันกำลังเร่งความเร็วเต็มสปีดก็โดนเจ้าปลานั่นเฉี่ยวฉันจนไปชนกับเถาวัลย์ จากนั้นก็...</value>
 	</entry>
 	<entry>
 		<key>Feldspar5bOh, this is a good story. I’d just finished exploring the core of Giant’s Deep and needed a new challenge, and none of us had ever been inside Dark Bramble, so I think, hey, let’s give that a try.</key>
@@ -3175,7 +3175,7 @@
 	</entry>
 	<entry>
 		<key>Feldspar5bI’ve been cruising around for a while, dodging the odd massive, interdimensional vine bristling with thorns, when I run into this huge anglerfish, the biggest I’ve ever seen.</key>
-		<value>ฉันก็บินไปสักพัก หลบเถาวัลย์ยักษ์หลากมิติที่มีหนามเต็มลำตัวไปพลางๆ จนกระทั่งฉันไปเจอกับแองเกลอร์ฟิช ตัวใหญ่ที่สุดที่ฉันเคยเจอมา</value>
+		<value>ฉันก็บินไปสักพัก หลบเถาวัลย์ยักษ์หลากมิติที่มีหนามเต็มลำตัวไปพลางๆ จนกระทั่งฉันไปเจอกับปลาแองเกลอร์ ตัวใหญ่ที่สุดที่ฉันเคยเจอมา</value>
 	</entry>
 	<entry>
 		<key>Feldspar5bI pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</key>
@@ -3191,7 +3191,7 @@
 	</entry>
 	<entry>
 		<key>Feldspar5cI’ve been cruising around for a while, dodging the odd massive, interdimensional vine bristling with thorns, when I run into this huge anglerfish, the biggest I’ve ever seen.</key>
-		<value>ฉันก็บินไปสักพัก หลบเถาวัลย์ยักษ์หลากมิติที่มีหนามเต็มลำตัวไปพลางๆ จนกระทั่งฉันไปเจอกับแองเกลอร์ฟิช ตัวใหญ่ที่สุดที่ฉันเคยเจอมา</value>
+		<value>ฉันก็บินไปสักพัก หลบเถาวัลย์ยักษ์หลากมิติที่มีหนามเต็มลำตัวไปพลางๆ จนกระทั่งฉันไปเจอกับปลาแองเกลอร์ ตัวใหญ่ที่สุดที่ฉันเคยเจอมา</value>
 	</entry>
 	<entry>
 		<key>Feldspar5cI pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</key>
@@ -3259,7 +3259,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuWhat happened to this anglerfish?</key>
-		<value>เกิดอะไรขึ้นกับแองเกลอร์ฟิชตัวนี้งั้นเหรอ?</value>
+		<value>เกิดอะไรขึ้นกับปลาแองเกลอร์ตัวนี้งั้นเหรอ?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuShouldn’t I tell ground control to come get you?</key>
@@ -3295,7 +3295,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryWhat happened to this anglerfish?</key>
-		<value>เกิดอะไรขึ้นกับแองเกลอร์ฟิชตัวนี้งั้นเหรอ?</value>
+		<value>เกิดอะไรขึ้นกับปลาแองเกลอร์ตัวนี้งั้นเหรอ?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryShouldn’t I tell ground control to come get you?</key>
@@ -3311,7 +3311,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparFishAs near as I can tell, this anglerfish must have been chewing on the vine and eaten a seed, and then the seed grew and grew in the poor fish’s stomach until... this happened.</key>
-		<value>เท่าที่ฉันพอจะบอกได้ แองเกลอร์ฟิชตัวนี้น่าจะกลืนเมล็ดเข้าไป พอเมล็ดโตอยู่ด้านในท้องของเจ้านั่นเรื่อยๆก็... คงจะเป็นแบบนี้แหละ</value>
+		<value>เท่าที่ฉันพอจะบอกได้ ปลาแองเกลอร์ตัวนี้น่าจะกลืนเมล็ดเข้าไป พอเมล็ดโตอยู่ด้านในท้องของเจ้านั่นเรื่อยๆก็... คงจะเป็นแบบนี้แหละ</value>
 	</entry>
 	<entry>
 		<key>FeldsparFishGross, huh?</key>
@@ -3343,7 +3343,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparCoreYou’ll want to go to the tail end of this anglerfish skeleton here and look for a flickering light in the fog — that’ll be my old ship. Path starts there.</key>
-		<value>นายต้องไปที่ส่วนหางของโครงกระดูกแองเกลอร์ฟิชนี่แล้วลองมองหาไฟกะพริบในหมอกดู นั่นน่าจะเป็นยานเก่าของฉัน ทางเริ่มจากตรงนั้นแหละ</value>
+		<value>นายต้องไปที่ส่วนหางของโครงกระดูกปลาแองเกลอร์นี่แล้วลองมองหาไฟกะพริบในหมอกดู นั่นน่าจะเป็นยานเก่าของฉัน ทางเริ่มจากตรงนั้นแหละ</value>
 	</entry>
 	<entry>
 		<key>FeldsparGoodIf you change your mind, you know where to find me!</key>
@@ -3395,7 +3395,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparShipwreckNot far from here, as a matter of fact! If you go straight past the tail of this anglerfish skeleton here, you’ll see a flickering light in the fog.</key>
-		<value>ไม่ไกลจากตรงนี้เท่าไหร่หรอก ถ้านายตรงไปผ่านหางของโครงกระดูงแองเกลอร์ฟิชตรงนี้นายจะเห็นไฟกะพริบอยู่ในหมอก</value>
+		<value>ไม่ไกลจากตรงนี้เท่าไหร่หรอก ถ้านายตรงไปผ่านหางของโครงกระดูงปลาแองเกลอร์ตรงนี้นายจะเห็นไฟกะพริบอยู่ในหมอก</value>
 	</entry>
 	<entry>
 		<key>FeldsparShipwreckFollow that, and you’ll find my old ship.&lt;Pause&gt; What’s left of it, anyway.</key>
@@ -3411,11 +3411,11 @@
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI found the frozen jellyfish near your ship.</key>
-		<value>ฉันเจอแมงกะพรุนถูกแช่แข็งใกล้ๆยานขอนนาย</value>
+		<value>ฉันเจอแมงกะพรุนถูกแช่แข็งใกล้ๆยานของนายด้วย</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI found the Anglerfish nest.</key>
-		<value>ฉันเจอรังของพวกแองเกลอร์ฟิช</value>
+		<value>ฉันเจอรังของพวกปลาแองเกลอร์</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI found a Dark Bramble seed on Timber Hearth.</key>
@@ -3423,7 +3423,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI found Nomai writing saying anglerfish are blind.</key>
-		<value>ฉันเจอข้อความโนไมที่บอกว่าพวกแองเกลอร์ฟิชน่ะตาบอด</value>
+		<value>ฉันเจอข้อความโนไมที่บอกว่าพวกปลาแองเกลอร์น่ะตาบอด</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI found a Nomai shuttle and flew it!</key>
@@ -3471,7 +3471,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3Probably best to leave ’em alone, though, really. More trouble than it’s worth to mess with anglerfish.</key>
-		<value>เอาเถอะ คิดอีกทีปล่อยพวกมันไว้ดีกว่า ไปยุ่งกับแองเกลอร์ฟิชน่ะมีแต่ซวยกับซวย</value>
+		<value>เอาเถอะ คิดอีกทีปล่อยพวกมันไว้ดีกว่า ไปยุ่งกับปลาแองเกลอร์น่ะมีแต่ซวยกับซวย</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4...That’s bad business, hatchling.</key>
@@ -3479,7 +3479,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4As Chert will tell you if you so much as glance in Dark Bramble’s direction, there used to be a fifth planet where the Bramble is now.</key>
-		<value>อย่างที่เชิร์ตชอบบอกใครต่อใครไปทั่ว แต่ก่อนตรงที่ Dark Bramble อยู่เคยเป็นของดาวเคราะห์ที่ดวงที่ห้า</value>
+		<value>อย่างที่เชิร์ตชอบบอกใครต่อใครไปทั่ว แต่ก่อนตรงที่ Dark Bramble อยู่เคยเป็นของดาวเคราะห์ดวงที่ห้า</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4This infernal plant appeared at the center and kept growing, and growing, and growing, until it shattered the planet and scattered its pieces across space.</key>
@@ -3751,7 +3751,7 @@
 	</entry>
 	<entry>
 		<key>Friend1aJust think - you’ll be able to translate any Nomai text you want, anywhere you are. The two of us put a lot of hours into inventing that tool, so don’t break it, okay? Haha! &lt;Pause&gt;...Oh, geez. &lt;i&gt;Do not break it.&lt;/i&gt;</key>
-		<value>คิดดูนะ - นายจะสามารถแปลภาษาไนโมอะไรก็ได้ ที่ไหนก็ได้ เราทั้งคู่ลงเวลากับเครื่องนั้นไปเยอะ เพราะงั้นอย่าทำมันพังล่ะ โอเคมั้ย? ฮ่าฮ่า! &lt;Pause&gt;...จริงจังนะ &lt;i&gt;อย่าทำมันพังล่ะ&lt;/i&gt;</value>
+		<value>คิดดูนะ - นายจะสามารถแปลภาษาโนไมอะไรก็ได้ ที่ไหนก็ได้ เราทั้งคู่ลงเวลากับเครื่องนั้นไปเยอะ เพราะงั้นอย่าทำมันพังล่ะ โอเคมั้ย? ฮ่าฮ่า! &lt;Pause&gt;...จริงจังนะ &lt;i&gt;อย่าทำมันพังล่ะ&lt;/i&gt;</value>
 	</entry>
 	<entry>
 		<key>Friend1a...Ugh, ignore me, okay? I’m just nervous. And I’m not even the one going into space! How are &lt;i&gt;you&lt;/i&gt; feeling?</key>
@@ -3895,7 +3895,7 @@
 	</entry>
 	<entry>
 		<key>Friend6Good question! So Gabbro found this fully intact statue on Giant’s Deep, right? Well, Hornfels told me it’s made from the same type of special stone as the partial statue Chert brought back from the Hourglass Twins.</key>
-		<value>ถามได้ดี! แก็บโบรเจอรูปปั้นนี้ที่ Giant’s Deep น่ะ ฮอร์นเฟลส์บอกฉันว่ามันสร้างจากหินพิเศษแบบเดียวกับที่เชิร์ตเอามาจากเศษรูปปั้นใน Hourglass Twins.</value>
+		<value>ถามได้ดี! แก็บโบรเจอรูปปั้นนี้ที่ Giant’s Deep น่ะ ฮอร์นเฟลส์บอกฉันว่ามันสร้างจากหินพิเศษแบบเดียวกับที่เชิร์ตเอามาจากเศษรูปปั้นใน Hourglass Twins</value>
 	</entry>
 	<entry>
 		<key>Friend6That’s why when Gabbro, you know, chipped the Giant’s Deep statue, that stone fragment was repurposed for your ship’s computer.</key>
@@ -3927,7 +3927,7 @@
 	</entry>
 	<entry>
 		<key>Friend8But honestly, as long as they don’t end up naming new safety equipment after you, I’m sure you’ll have done a great job.</key>
-		<value>But honestly, as long as they don’t end up naming new safety equipment after you, I’m sure you’ll have done a great job.</value>
+		<value>แต่เอาจริงๆนะ ขอแค่เขาไม่ตั้งชื่ออุปกรณ์เซฟตี้ใหม่ตามชื่อนายก็แสดงว่านายทำได้ดีแล้วล่ะ</value>
 	</entry>
 	<entry>
 		<key>Friend9No problem. Take it easy!</key>
@@ -3986,7 +3986,7 @@
 			BUR: I thought the &lt;color=orange&gt;locator&lt;/color&gt; now accounted for all of the &lt;color=lightblue&gt;phantom moon&lt;/color&gt;’s locations, but sometimes the &lt;color=orange&gt;locator&lt;/color&gt; can’t tell where the moon is. Perhaps there’s a problem with the device?
 		</key>
 		<value>
-			เบอ: ฉันนึกว่า&lt;color=orange&gt;อุปกรณ์ตามหา&lt;/color&gt;ของเราครอบคลุมทุกตำแหน่งที่&lt;color=lightblue&gt;ดวงจันทร์ผี&lt;/color&gt;นี่จะเคลื่อนไปได้แล้วซะอีก แต่บางที&lt;color=orange&gt;อุปกรณ์ตามหา&lt;/color&gt;ก็หาดวงจันทร์ไม่เจอ หรือว่าอุปกรณ์นี่จะมีปัญหา?
+			เบอ: ฉันนึกว่า&lt;color=orange&gt;อุปกรณ์ตามหา&lt;/color&gt;ของเราครอบคลุมทุกตำแหน่งที่\\n&lt;color=lightblue&gt;ดวงจันทร์ผี&lt;/color&gt;นี่จะเคลื่อนไปได้แล้วซะอีก แต่บางที&lt;color=orange&gt;อุปกรณ์ตามหา&lt;/color&gt;ก็หาดวงจันทร์ไม่เจอ\\nหรือว่าอุปกรณ์นี่จะมีปัญหา?
 		</value>
 	</entry>
 	<entry>
@@ -3994,7 +3994,7 @@
 			MELORAE: It’s also possible there exists a sixth place in this star system to which the &lt;color=lightblue&gt;phantom moon&lt;/color&gt; travels.
 		</key>
 		<value>
-			เมโลเรย์: มีความเป็นไปได้ที่จะมีตำแหน่งที่หกในระบบสุริยะนี้ที่&lt;color=lightblue&gt;ดวงจันทร์&lt;/color&gt;นั้นจะเคลื่อนที่ไปโครจรรอบๆ
+			เมโลเรย์: มีความเป็นไปได้ที่จะมีตำแหน่งที่หกในระบบสุริยะนี้ที่&lt;color=lightblue&gt;ดวงจันทร์&lt;/color&gt;\\nนั้นจะเคลื่อนที่ไปโครจรรอบๆ
 		</value>
 	</entry>
 	<entry>
@@ -4051,11 +4051,11 @@
 	</entry>
 	<entry>
 		<key>IDAEA: I almost can’t comprehend this is being suggested seriously. The purpose of the &lt;color=orange&gt;Sun Station&lt;/color&gt; goes against every standard we hold ourselves to and everything we believe in as a species!</key>
-		<value>อะเดยา: ฉันไม่อยากจะเชื่อเลยว่าพวกเราจะพิจารณาไอเดียนี้จริงๆ จุดประสงค์ของ&lt;color=orange&gt;สถานีสุริยะ&lt;/color&gt;มันสวนทางกับหลักการทุกอย่างที่เรายึดมั่นและศรัทธาในฐานะเผ่าพันธุ์นึง!</value>
+		<value>อเดยา: ฉันไม่อยากจะเชื่อเลยว่าพวกเราจะพิจารณาไอเดียนี้จริงๆ จุดประสงค์ของ&lt;color=orange&gt;สถานีสุริยะ&lt;/color&gt;มันสวนทางกับหลักการทุกอย่างที่เรายึดมั่นและศรัทธาในฐานะเผ่าพันธุ์นึง!</value>
 	</entry>
 	<entry>
 		<key>PYE: Unsurprisingly, Idaea, I disagree. We’re pushing a possible new technology further than ever before. That, in my experience, is the defining characteristic of our species.</key>
-		<value>ไพร์: นายอาจพอเดาได้นะอะเดยา แต่ฉันไม่เห็นด้วย เรากำลังผลักดันเทคโนโลยีใหม่ให้ไปได้ก้าวหน้ายิ่งขึ้น และจากประสบการณ์ของฉัน นั่นแหละคือเอกลักษณ์ของเผ่าพันธุ์ของเรา</value>
+		<value>ไพร์: นายอาจพอเดาได้นะอเดยา แต่ฉันไม่เห็นด้วย เรากำลังผลักดันเทคโนโลยีใหม่ให้ไปได้ก้าวหน้ายิ่งขึ้น และจากประสบการณ์ของฉัน นั่นแหละคือเอกลักษณ์ของเผ่าพันธุ์ของเรา</value>
 	</entry>
 	<entry>
 		<key>YARROW: Are there other ways to generate this level of power?</key>
@@ -4067,7 +4067,7 @@
 	</entry>
 	<entry>
 		<key>RAMIE: I understand this proposal is unsettling, but the &lt;color=orange&gt;Sun Station&lt;/color&gt; must be built if we hope to complete the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>เรมี่: ฉันเข้าใจว่าไอเดียนี้มันอาจทำให้ไม่สบายใจ แต่เราต้องการ&lt;color=orange&gt;สถานีสุริยะ&lt;/color&gt;ถ้าเกิดเราหวังที่จะทำให้&lt;color=orange&gt;โครงการแอชทวินเสร็จสมบูรณ์ได้t&lt;/color&gt;</value>
+		<value>เรมี่: ฉันเข้าใจว่าไอเดียนี้มันอาจทำให้ไม่สบายใจ แต่เราต้องการ&lt;color=orange&gt;สถานีสุริยะ&lt;/color&gt;ถ้าเกิดเราหวังที่จะทำให้&lt;color=orange&gt;โครงการแอชทวินเสร็จสมบูรณ์ได้&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>COLEUS: If we fail (and the probability of this is not insignificant), we will without question destroy ourselves, all life here, and the rest of this star system. I wish to protect these species.</key>
@@ -4075,7 +4075,7 @@
 	</entry>
 	<entry>
 		<key>IDAEA: The potential annihilation of an entire star system is too severe a cost. We shouldn’t build the &lt;color=orange&gt;Sun Station&lt;/color&gt;, no matter how badly we want the knowledge that comes with it.</key>
-		<value>อะเดยา: ความเป็นไปได้ของการฆ่าล้างทั้งระบบสุริยะมันเป็นความเสี่ยงมามากเกินไป เราไม่ควรจะให้&lt;color=orange&gt;สถานีสุริยะ&lt;/color&gt;ได้ไปต่อไม่ว่าเราจะอยากได้ความรู้ที่มากับมันมากแค่ไหน</value>
+		<value>อเดยา: ความเป็นไปได้ของการฆ่าล้างทั้งระบบสุริยะมันเป็นความเสี่ยงมามากเกินไป เราไม่ควรจะให้&lt;color=orange&gt;สถานีสุริยะ&lt;/color&gt;ได้ไปต่อไม่ว่าเราจะอยากได้ความรู้ที่มากับมันมากแค่ไหน</value>
 	</entry>
 	<entry>
 		<key>POKE: Fear of failure is a poor reason not to try. I believe, if we’re cautious, the &lt;color=orange&gt;Sun Station&lt;/color&gt; will work. I believe in Pye.</key>
@@ -4083,7 +4083,7 @@
 	</entry>
 	<entry>
 		<key>PYE: Poke, I’m deeply honored. Idaea, I comprehend your position; however, if we aren’t all but certain the &lt;color=orange&gt;Sun Station&lt;/color&gt; will not cause destruction once we’ve built it, then I won’t support the station’s use.</key>
-		<value>ไพร์: เป็นเกียรติอย่างยิ่งเลยโพเก้ อะเดยา ฉันเข้าใจที่นายพูดนะ แต่ฉันสัญญาได้ว่าถ้าพวกเราไม่มั่นใจว่า&lt;color=orange&gt;สถานีสุริยะ&lt;/color&gt;จะก่อให้เกิดการทำลายล้างได้หรือไม่ เราจะไม่เปิดใช้งานมัน</value>
+		<value>ไพร์: เป็นเกียรติอย่างยิ่งเลยโพเก้ ส่วน อเดยา ฉันเข้าใจที่นายพูดนะ แต่ฉันขอให้คำสัญญา \\n ถ้าพวกฉันมองว่า&lt;color=orange&gt;สถานีสุริยะ&lt;/color&gt;มีโอกาสที่จะก่อให้เกิดการทำลายล้างได้ เราจะไม่เปิดใช้งานมัน</value>
 	</entry>
 	<entry>
 		<key>RAMIE: Note: This door will need to remain closed for some &lt;i&gt;time&lt;/i&gt;! Pye and I are running an experiment based on the extraordinary findings from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.</key>
@@ -4091,15 +4091,15 @@
 	</entry>
 	<entry>
 		<key>PYE: Ramie and I will be running this experiment until one of us (specifically, me) can prove the other wrong, so although it’s inconvenient, the lab currently can only be accessed by the path from the &lt;color=orange&gt;Sunless City&lt;/color&gt;.</key>
-		<value>ไพร์: ฉันกับเรมี่จะทดลองฉันกว่าใครสักคน (ฉันนี่แหละ) จะสามารถพิสูจน์ได้ว่าอีกคนน่ะผิด เพราะงั้นถึงจะไม่สะดวกแต่ตอนนี้แล็บเข้าได้เฉพาะทางจาก&lt;color=orange&gt;เมืองไร้ตะวัน&lt;/color&gt;เท่านั้น</value>
+		<value>ไพร์: ฉันกับเรมี่จะทดลองกันกว่าใครสักคน (ฉันนี่แหละ) จะสามารถพิสูจน์ได้ว่าอีกคนน่ะผิด เพราะงั้นถึงจะไม่สะดวกแต่ตอนนี้แล็บเข้าได้เฉพาะทางจาก&lt;color=orange&gt;เมืองไร้ตะวัน&lt;/color&gt;เท่านั้น</value>
 	</entry>
 	<entry>
 		<key>RAMIE: Inviting sand inside would disrupt our setup and could have enormous consequences. (We realize this is an intriguing prospect, but the door must remain closed nonetheless!)</key>
-		<value>เรมี่: ถ้ามีทรายเข้ามารบกวนการจัดเตรียมของเราและอาจทำให้เกิดผลกระทบที่มหาศาลตามมาได้ (ฉันคิดว่านี่อาจเป็นโอกาสที่น่าสนใจ แต่ถึงอย่างงั้นประตูก็ต้องปิดไว้อยู่ดี!)</value>
+		<value>เรมี่: ถ้ามีทรายเข้ามารบกวนการจัดเตรียมของเราและอาจทำให้เกิดผลกระทบที่มหาศาล\\nตามมาได้ (ฉันคิดว่านี่อาจเป็นโอกาสที่น่าสนใจ แต่ถึงอย่างงั้นประตูก็ต้องปิดไว้อยู่ดี!)</value>
 	</entry>
 	<entry>
 		<key>RAMIE: An update: The &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is now being used to design the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;! If you’re here to help (or even just to observe), be sure to use the &lt;color=orange&gt;Sunless City&lt;/color&gt; path to the lab.</key>
-		<value>เรมี่: อัพเดต: ตอนนี้&lt;color=orange&gt;แล็บพลังงานสูง&lt;/color&gt;ของเรากำลังถูกใช้เพื่อดีไซน์&lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;อยู่! ถ้าคุณเพื่อช่วย (หรือแค่มาสังเกตการณ์) โปรดใช้ทางจาก&lt;color=orange&gt;เมืองไร้ตะวัน&lt;/color&gt;เพื่อมาที่แล็บนี้</value>
+		<value>เรมี่: อัพเดต: ตอนนี้&lt;color=orange&gt;แล็บพลังงานสูง&lt;/color&gt;ของเรากำลังถูกใช้เพื่อดีไซน์&lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;อยู่! ถ้าคุณมาเพื่อช่วย (หรือแค่มาสังเกตการณ์) โปรดใช้ทางจาก&lt;color=orange&gt;เมืองไร้ตะวัน&lt;/color&gt;เพื่อมาที่แล็บนี้</value>
 	</entry>
 	<entry>
 		<key>RAMIE: The &lt;color=orange&gt;Southern Observatory&lt;/color&gt; is asking if creating a 22 minute interval is possible (that is, to have something arrive 22 minutes before it is actually sent through the warp).</key>
@@ -4107,7 +4107,7 @@
 	</entry>
 	<entry>
 		<key>RAMIE: We’ve learned the negative interval of time between departure and arrival can be increased by adding more energy to the warp core. Problematically, the energy required to extend the interval increases at an exponential rate.</key>
-		<value>เรมี่: เรารู้ว่าความต่างเวลาติดลบระหว่างเวลาเข้าและออกนั้นสามารถเพิ่มได้โดยการให้พลังงานแกนวาร์ปเยอะขึ้น แต่ปัญหาหลักคือพลังงานที่ต้องการในการเพิ่มความต่างเวลานั้นเพิ่มขึ้นแบบทวีคูณเรื่อยๆ</value>
+		<value>เรมี่: เรารู้ว่าความต่างเวลาติดลบระหว่างเวลาเข้าและออกนั้นสามารถเพิ่มได้\\nโดยการให้พลังงานแกนวาร์ปเยอะขึ้น \\nแต่ปัญหาหลักคือพลังงานที่ต้องการในการเพิ่มความต่างเวลานั้นเพิ่มขึ้นแบบทวีคูณเรื่อยๆ</value>
 	</entry>
 	<entry>
 		<key>PYE: Hypothesis: Creating a 22-minute-long interval is possible, but we are currently unable to generate the necessary energy.</key>
@@ -4115,7 +4115,7 @@
 	</entry>
 	<entry>
 		<key>PYE: Ramie and I believe it would be necessary to invent a new method of producing energy, a thrilling but enormous undertaking. We would also require advanced warp technology able to handle such energy.</key>
-		<value>ไพร์: ฉันกับรามี่เชื่อว่าเราจำเป็นต้องคิดค้นวิธีการกำเนิดพลังงานแบบใหม่ น่าตื่นเต้นแต่เป็นงานที่หินมาก แล้วเราก็ต้องการเทคโนโลยีวาร์ปขึ้นสูงเพื่อรองรับพลังงานเหล่านั้นด้วย</value>
+		<value>ไพร์: ฉันกับรามี่เชื่อว่าเราจำเป็นต้องคิดค้นวิธีการกำเนิดพลังงานแบบใหม่ น่าตื่นเต้นแต่เป็นงานที่หินมาก แล้วเราก็ต้องการเทคโนโลยีแกนวาร์ปขึ้นสูงเพื่อรองรับพลังงานเหล่านั้นด้วย</value>
 	</entry>
 	<entry>
 		<key>PYE: We would also likely need an enormous space to fit these proposed new energy and warp technologies together. The only location large enough would be &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
@@ -4139,7 +4139,7 @@
 	</entry>
 	<entry>
 		<key>PYE: Initial things first: Our experiment setup will first pair a small black hole core with a small white hole core to mimic the setup on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.</key>
-		<value>ไพร์: อย่างแรกเลย เราจะจับคู่แกนหลุมดำและแกนหลุมขาวอันเล็กเพื่อเลียนแบบโครงสร้างที่ใช้บน&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;</value>
+		<value>ไพร์: อย่างแรกเลย เราจะจับคู่แกนหลุมดำและแกนหลุมขาวอันเล็กเพื่อเลียนแบบ\\nโครงสร้างที่ใช้บน&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>RAMIE: Hypothesis: It is possible for an object to exit a white hole before entering the corresponding black hole.</key>
@@ -4147,11 +4147,11 @@
 	</entry>
 	<entry>
 		<key>RAMIE: An update: Our experiment here reproduced the anomaly in arrival and departure times, but Pye is unconvinced it’s more than an equipment error. I hope to strengthen the effect to render it visible to the unaided eyes.</key>
-		<value>เรมี่: อัพเดต: การทดลองของเราสามารถทำให้สิ่งผิดปกติระหว่างเวลาออกและเวลามาถึงเกิดขึ้นซ้ำได้ แต่ไพร์ยังคงเชื่อว่ามันเป็นความผิดพลาดของอุปกรณ์อยู่ ฉันจะลองปรับให้ความต่างมันเห็นได้ง่ายขึ้นด้วยตาเปล่า</value>
+		<value>เรมี่: อัพเดต: การทดลองของเราสามารถทำให้ความผิดปกติระหว่างเวลาออกและเวลามาถึงเกิดขึ้นซ้ำได้ แต่ไพร์ยังคงเชื่อว่ามันเป็นความผิดพลาดของอุปกรณ์อยู่ ฉันจะลองปรับให้ความต่างมันเห็นได้ง่ายขึ้นด้วยตาเปล่า</value>
 	</entry>
 	<entry>
 		<key>PYE: To that end, we’ve decided to try adding more energy. I imagine the &lt;color=orange&gt;Sunless City&lt;/color&gt;’s energy supply should prove sufficient.</key>
-		<value>ไพร์: เพราะอย่างงั้น เราเลยตัดสินว่าจะลองเพิ่มระดับพลังงานดู ฉันคิดว่าพลังงานของ&lt;color=orange&gt;นครไร้ตะวั&lt;/color&gt;จะพอนะ</value>
+		<value>ไพร์: เพราะอย่างงั้น เราเลยตัดสินว่าจะลองเพิ่มระดับพลังงานดู ฉันคิดว่าพลังงานของ&lt;color=orange&gt;นครไร้ตะวัน&lt;/color&gt;จะพอนะ</value>
 	</entry>
 	<entry>
 		<key>PYE: Of note, Ramie: Yarrow requests that we let him know before we reroute energy to the experiment.</key>
@@ -4163,7 +4163,7 @@
 	</entry>
 	<entry>
 		<key>PYE: All available energy has been rerouted from the city to our experiment. Ramie and I are about to run a new test.</key>
-		<value>ไพร์: พลังงานทั้งหมดจากนครถูกย้ายมาให้ส่งไปยังการทดลองแล้ว ฉันกับเรมี่กำลังจะเริ่มการทดสอบอีกรอบ</value>
+		<value>ไพร์: พลังงานทั้งหมดจากนครถูกย้ายมาให้ส่งไปยังแล็บทดลองแล้ว ฉันกับเรมี่กำลังจะเริ่มการทดสอบอีกรอบ</value>
 	</entry>
 	<entry>
 		<key>RAMIE: Hypothesis confirmed! Hypothesis confirmed! I saw it! Pye saw it! &lt;i&gt;Hypothesis confirmed&lt;/i&gt;!</key>
@@ -4186,7 +4186,7 @@
 			SECCA: We’ve held out as long as we could here, but this pod’s supply of breathable air is nearly depleted, and the anglerfish attack more and more frequently.
 		</key>
 		<value>
-			เซคค่า: เราเอาตัวรอดอยู่ในนี้นานที่สุดเท่าที่เราจะทำได้แล้ว แต่อากาศสำรองของยานนี้ก็ใกล้จะหมดเต็มที ซ้ำแองเกลอร์ฟิชที่มาจู่โจมก็ถี่มากขึ้นอีก
+			เซคค่า: เราเอาตัวรอดอยู่ในนี้นานที่สุดเท่าที่เราจะทำได้แล้ว แต่อากาศสำรองของยานนี้ก็ใกล้จะหมดเต็มที ซ้ำปลาแองเกลอร์ที่มาจู่โจมก็ถี่มากขึ้นอีก
 		</value>
 	</entry>
 	<entry>
@@ -4335,7 +4335,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: Our next step will be to send Privet up to the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; to install the probe tracking system.</key>
-		<value>คัซซาวา: ขั้นต่อไปของเราคือส่งพริเวตขึ้นไปที่&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ;/color&gt;เพื่อให้เขาไปติดตั้งระบบติดตามโพรบ</value>
+		<value>คัซซาวา: ขั้นต่อไปของเราคือส่งพริเวตขึ้นไปที่&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;เพื่อให้เขาไปติดตั้งระบบติดตามโพรบ</value>
 	</entry>
 	<entry>
 		<key>DAZ: If I know my brother, Avens (and his spouse) will want to launch the probe with as much power as possible. I’m worried the cannon would break under the strain.</key>
@@ -4347,7 +4347,7 @@
 	</entry>
 	<entry>
 		<key>Be welcomed in this place. This tower shares with all who ask the knowledge needed to make his or her first quantum journey.</key>
-		<value>ยินดีต้องรับเข้าสู่สถานที่แห่งนี้ หอคอยนี้จะแบ่งปันความรู้ที่จำเป็นในการการออกเดินทางควอนตัมให้แก่ผู้ที่ตามหามัน</value>
+		<value>ยินดีต้อนรับเข้าสู่สถานที่แห่งนี้ หอคอยนี้จะแบ่งปันความรู้ที่จำเป็นในการการออกเดินทางควอนตัมให้แก่ผู้ที่ตามหามัน</value>
 	</entry>
 	<entry>
 		<key>Enter this place without friends, however; these are lessons to learn for yourself.</key>
@@ -4359,7 +4359,7 @@
 	</entry>
 	<entry>
 		<key>Observing a quantum object; observing an image of a quantum object. These are the same.</key>
-		<value>การรับรู้ถึงวัตถุควอนตัม ; การรับรู้ถึงรูปภาพของวัตถุควอนตัม ; สิ่งเหล่านี้คือสิ่งเดียวกัน</value>
+		<value>การสังเกตวัตถุควอนตัม ; การสังเกตรูปภาพของวัตถุควอนตัม ; สิ่งเหล่านี้คือสิ่งเดียวกัน</value>
 	</entry>
 	<entry>
 		<key>This is the last one (but we made it harder).</key>
@@ -4395,7 +4395,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: We don’t know why the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; always welcomes its visitors at the south pole, just that this is true.</key>
-		<value>โซลานัม: พวกเราไม่รู้ว่าทำไม&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ถึงต้องรับแขกของมันที่ขั้วโลกใต้ตลอด แค่รู้ว่ามันเป็นแบบนั้น</value>
+		<value>โซลานัม: พวกเราไม่รู้ว่าทำไม&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ถึงต้อนรับแขกของมันที่ขั้วโลกใต้ตลอด แค่รู้ว่ามันเป็นแบบนั้น</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: As a child, I considered such unknowns sinister. Now, though, I understand they bear no ill will. The universe is, and we are.</key>
@@ -4535,7 +4535,7 @@
 	</entry>
 	<entry>
 		<key>WARNING: Removing the core will disable the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>คำเตือน: หากนำแกนวาร์ปออกจะปิดการทำงาน&lt;color=orange&gt;โปรเจกต์แอชทวินAsh Twin Project&lt;/color&gt;ทันที</value>
+		<value>คำเตือน: หากนำแกนวาร์ปออกจะปิดการทำงาน&lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;ทันที</value>
 	</entry>
 	<entry>
 		<key>
@@ -4547,7 +4547,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: Today we finished the excavation of &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. Here, in this space we carved, we will craft our most ambitious project yet: the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, powerful enough to send information back in time.</key>
-		<value>ยาร์โรว: วันนี้เป็นวันที่เราจะเสร็จสิ้นการขุดเจาะ &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; แล้ว ที่นี่ ในพื้นที่ที่เราขุดเจาะมานี้จะใช้ในการสร้างโปรเจกต์ที่ทะเยอทะยานที่สุดของพวกเรา: the &lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt; ซึ่งทรงพลังมากพอที่จะส่งข้อมูลย้อนเวลากลับไปในได้</value>
+		<value>ยาร์โรว: วันนี้เป็นวันที่เราจะเสร็จสิ้นการขุดเจาะ &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; แล้ว ที่นี่ ในพื้นที่ที่เราขุดเจาะมานี้จะใช้ในการสร้างโปรเจกต์ที่ทะเยอทะยานที่สุดของพวกเรา: &lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt; ซึ่งทรงพลังมากพอที่จะส่งข้อมูลย้อนเวลากลับไปในได้</value>
 	</entry>
 	<entry>
 		<key>COLEUS: We’ve also finished relocating all subterranean plants we met while digging.</key>
@@ -4563,7 +4563,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: Poke just sent the warp core for the final tower to us from the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;. Now &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; can be connected with &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;, where Cassava is working with Avens to craft the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;, and where Phlox is sculpting the memory statues.</key>
-		<value>ยาร์โรว: โพเก้พึ่งจะส่งแกนวาร์ปสำหรับหาคอยอันสุดท้ายมาให้เราจาก&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt; ตอนนี้ &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; สามารถเชื่อมต่อกับ &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; ซึ่งเป็นสถานที่ที่คัซซาวากับอเวนส์กำลังสร้าง&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;และที่ที่ฟล็อกกำลังปั้นรูปปั้นความทรงจำอยู่</value>
+		<value>ยาร์โรว: โพเก้พึ่งจะส่งแกนวาร์ปสำหรับหอคอยอันสุดท้ายมาให้เราจาก&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt; ตอนนี้ &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; สามารถเชื่อมต่อกับ &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; ซึ่งเป็นสถานที่ที่คัซซาวากับอเวนส์กำลังสร้าง&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;และที่ที่ฟล็อกกำลังปั้นรูปปั้นความทรงจำอยู่</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Hypothesis: It was not by accident the core of our warp tower was the last to be forged.</key>
@@ -4575,7 +4575,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: The important point is we are all connected through &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; now, and also that I’m no longer needed for mediating your disagreements.</key>
-		<value>ยาร์โรว: ที่สำคัญตอนนี้คือพวกเราทุกคนเชื่อมต่อกันผ่าน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; แล้ว และฉันก็ไม่จำเป็นที่ต้องไกล่เกลี่ยเรื่องระหว่างเธอกับนายสักที</value>
+		<value>ยาร์โรว: ที่สำคัญตอนนี้คือพวกเราทุกคนเชื่อมต่อกันผ่าน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; แล้ว และฉันก็ไม่จำเป็นที่จะต้องมาไกล่เกลี่ยเรื่องระหว่างเธอกับนายสักที</value>
 	</entry>
 	<entry>
 		<key>YARROW: Our friends on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; tested the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; today. Mallow tells me the cannon is doing well, and that Avens advocates for more launch power. If anyone can coax the maximum power from a device, Avens can.</key>
@@ -4619,7 +4619,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: However, this is the closest we have ever been. The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is theoretically sound; we were only unable to power it. Perhaps there is another way.</key>
-		<value>ยาร์โรว: อย่างไรก็ตาม นี่คือจุดที่เราใกล้เคียงความจริงที่สุดที่เราเคยถึงแล้ว &lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;นั้นถูกต้องตามทฤษฎ๊ เราเพียงแค่ไม่มีวิธีที่จะจ่ายพลังงานให้มันมากพอ บางทีมันอาจมีวิธีอื่น</value>
+		<value>ยาร์โรว: อย่างไรก็ตาม นี่คือจุดที่เราใกล้เคียงความจริงที่สุดที่เราเคยถึงแล้ว &lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;นั้นถูกต้องตามทฤษฎี เราเพียงแค่ไม่มีวิธีที่จะจ่ายพลังงานให้มันมากพอ บางทีมันอาจมีวิธีอื่น</value>
 	</entry>
 	<entry>
 		<key>PYE: Suppose we redesign the &lt;color=orange&gt;Sun Station&lt;/color&gt;. To generate power of that magnitude, a supernova is still our only viable option.</key>
@@ -4643,7 +4643,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: It’s been a very long time since we last explored somewhere new, so we’re excited to welcome this &lt;color=lightblue&gt;comet&lt;/color&gt;. Imagine what knowledge might be gained there!</key>
-		<value>ยาร์โรว: เป็นเวลานานแล้วตั้งแต่ครั้งสุดท้ายที่เราได้สำรวจที่ใหม่ๆ เพราะงั้นเราตื่นเต้นมากที่จะต้องรับ&lt;color=lightblue&gt;ดาวหาง&lt;/color&gt;ดวงนี้ ลองคิดดูสิว่ามันจะมีความรู้อะไรใหม่บ้างอยู่บนนั้น!</value>
+		<value>ยาร์โรว: เป็นเวลานานแล้วตั้งแต่ครั้งสุดท้ายที่เราได้สำรวจที่ใหม่ๆ เพราะงั้นเราตื่นเต้นมากที่จะต้อนรับ&lt;color=lightblue&gt;ดาวหาง&lt;/color&gt;ดวงนี้ ลองคิดดูสิว่ามันจะมีความรู้อะไรใหม่บ้างอยู่บนนั้น!</value>
 	</entry>
 	<entry>
 		<key>PYE: Friends visiting from the &lt;color=orange&gt;Hanging City&lt;/color&gt;, we are planning the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;’s equator.</key>
@@ -4655,11 +4655,11 @@
 	</entry>
 	<entry>
 		<key>RAMIE: I imagine our otherwise immensely clever Conoy would lose his own head if it weren’t anatomically impossible!</key>
-		<value>เรมี่: ฉันคิดว่าโคนอยผู้แสนชาญฉลาดไม่เหมือนฉัน ฉันคิดว่าเขาคงจะเสียหัวไปเลยถ้ามันเป็นไปได้ทางกายวิภาคอ่านะ!</value>
+		<value>เรมี่: ฉันคิดว่าโคนอยผู้แสนชาญฉลาดไม่เหมือนฉัน ถ้ามันเป็นไปได้ทางกายวิภาคละก็นะ ฉันคิดว่าเขาคงจะหัวหมุนไปเลย!</value>
 	</entry>
 	<entry>
 		<key>The &lt;color=orange&gt;shuttle&lt;/color&gt; is currently resting at the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.</key>
-		<value>&lt;color=orange&gt;กระสวย&lt;/color&gt;กำลังจอดพักอยู่ที่&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;.</value>
+		<value>&lt;color=orange&gt;กระสวย&lt;/color&gt;กำลังจอดพักอยู่ที่&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>
@@ -4759,7 +4759,7 @@
 	</entry>
 	<entry>
 		<key>What we know is this: The source of the signal (which we have chosen to call the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;) is older than this universe itself. The rest, we have yet to learn.</key>
-		<value>สื่งที่เราพอรู้ก็คือ: ที่มาของสัญญาณนี้ (ที่เราเลือกที่จะเรียกมันว่า &lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;) มีอายุมากกว่าจักรวาลเสียอีก นอกจากนั้นเราก็ไม่รู้อะไรเพิ่มเติมแล้ว</value>
+		<value>สื่งที่เราพอรู้ก็คือ: ที่มาของสัญญาณนี้ \\n(ที่เราเลือกที่จะเรียกมันว่า &lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;) \\nมีอายุมากกว่าจักรวาลเสียอีก นอกจากนั้นเราก็ไม่รู้อะไรเพิ่มเติมแล้ว</value>
 	</entry>
 	<entry>
 		<key>Enter, and open your mind to its possibilities.</key>
@@ -4783,11 +4783,11 @@
 	</entry>
 	<entry>
 		<key>PHLOX: This would require a return to &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;. Plume (my father) said many good Nomai perished there.</key>
-		<value>ฟล็อก: นั่นหมายความว่าเราต้องกลับไป &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt; พลูม(พ่อของฉัน) เคยบอกว่ามีไนไมที่เก่งกาจหลายคนเสียชีวิตที่นั่น</value>
+		<value>ฟล็อก: นั่นหมายความว่าเราต้องกลับไป &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt; พลูม(พ่อของฉัน) เคยบอกว่ามีโนไมที่เก่งกาจหลายคนเสียชีวิตที่นั่น</value>
 	</entry>
 	<entry>
 		<key>CYCAD: My mentor (Coleus) and his old mentor once discovered and studied an anglerfish fossil on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;. Using that knowledge, we could avoid the anglerfish entirely!</key>
-		<value>ไซแคต: อาจารย์ของฉัน(โคเลียส) และอาจารย์ของเขาเคยศึกษาฟอซซิลของแองเกลอร์ฟิชที่พวกเขาค้นพบบน &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; ถ้าเราใช้ความรู้พวกนั้น เราน่าจะหลีกเลี่ยงการปะทะกับแองเกลอร์ฟิชได้!</value>
+		<value>ไซแคต: อาจารย์ของฉัน(โคเลียส) และอาจารย์ของเขาเคยศึกษาฟอซซิลของปลาแองเกลอร์ที่พวกเขาค้นพบบน &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; ถ้าเราใช้ความรู้พวกนั้น เราน่าจะหลีกเลี่ยงการปะทะกับปลาแองเกลอร์ได้!</value>
 	</entry>
 	<entry>
 		<key>COLEUS: What Melorae and I learned from that fossil would theoretically help us evade the anglerfish, but our hypothesis was never tested on a live specimen.</key>
@@ -4882,7 +4882,7 @@
 			ILEX: We could even meet with other Nomai, and learn from them, like Coleus says we used to do.
 		</key>
 		<value>
-			ไอเล็กซ์: เราอาจได้พบปะกับไนโมเผ่าอื่น และเรียนรู้จากพวกเขา เหมือนกับที่โคเลียสเคยบอกว่าพวกเราเคยทำในอดีตก็ได้
+			ไอเล็กซ์: เราอาจได้พบปะกับโนไมเผ่าอื่น และเรียนรู้จากพวกเขา เหมือนกับที่โคเลียสเคยบอกว่าพวกเราเคยทำในอดีตก็ได้
 		</value>
 	</entry>
 	<entry>
@@ -4898,7 +4898,7 @@
 			ILEX: We might have to build a smaller Vessel for now, even though Vessels are normally large. But we could make it bigger later once we reach planets with more resources.
 		</key>
 		<value>
-			ไอเล็กซ์: เราอาจต้องสร้าวยากเวซเซลขนาดเล็กขึ้นมาก่อน ถึงแม้ว่าเวซเซลปกติจะใหญ่พอสมควร แต่เราค่อยขยายมันทีหลังเมื่อเราพอเจอดาวที่มีทรัพยากรมากกว่านี้
+			ไอเล็กซ์: เราอาจต้องสร้างยานเวซเซลขนาดเล็กขึ้นมาก่อน ถึงแม้ว่าเวซเซลปกติจะใหญ่พอสมควร แต่เราค่อยขยายมันทีหลังเมื่อเราพอเจอดาวที่มีทรัพยากรมากกว่านี้
 		</value>
 	</entry>
 	<entry>
@@ -4906,7 +4906,7 @@
 			ILEX: It would also help if we stopped building so many things to search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. I asked Yarrow, and he says we use lots of resources on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.
 		</key>
 		<value>
-			ไอเล็กซ์: มันก็น่าจะดีด้วยถ้าเราหยุดสร้างอะไรต่อมิอะไรมาเพื่อตามหา&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt; ฉันถามยาร์โรวและเขาบอกฉันว่าเราใช้ทรัพยากรมหาศาลไปกับ&lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;
+			ไอเล็กซ์: มันก็น่าจะดีด้วยถ้าเราหยุดสร้างอะไรต่อมิอะไรมาเพื่อตามหา \\n &lt;color=lightblue&gt; Eye of the universe &lt;/color&gt; ซะ ฉันถามยาร์โรวและเขาบอกฉันว่าเราใช้ทรัพยากรมหาศาลไปกับ&lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;
 		</value>
 	</entry>
 	<entry>
@@ -4923,7 +4923,7 @@
 	</entry>
 	<entry>
 		<key>PLUME: No one was badly injured from the &lt;color=orange&gt;escape pod’s&lt;/color&gt; impact. We’re incredibly fortunate.</key>
-		<value>พลูม: ไม่มีบาดเจ็บร้ายแรงจากแรงกระแทกของ&lt;color=orange&gt;ยานหนีภัย&lt;/color&gt; พวกเราโชคดีมาก</value>
+		<value>พลูม: ไม่มีใครบาดเจ็บร้ายแรงจากแรงกระแทกของ&lt;color=orange&gt;ยานหนีภัย&lt;/color&gt; พวกเราโชคดีมาก</value>
 	</entry>
 	<entry>
 		<key>THATCH: This is good news, at least. Have we heard from &lt;color=orange&gt;Escape Pod 2&lt;/color&gt; or &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;?</key>
@@ -5011,7 +5011,7 @@
 	</entry>
 	<entry>
 		<key>MALLOW: We know what the &lt;color=lightblue&gt;Eye&lt;/color&gt; looks like thanks to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, so what if we try to find the &lt;color=lightblue&gt;Eye&lt;/color&gt; visually, instead? Let’s send out a probe!</key>
-		<value>มันโลว: เราพอจะรู้ว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;มีลักษณะอย่างไรการศึกษา&lt;color=lightblue&gt;ดวงจันทร์ควอนตัมQuantum Moon&lt;/color&gt; เพราะงั้นถ้าเราลองหา&lt;color=lightblue&gt; The Eye &lt;/color&gt;ด้วยการมองหาโดยตรงดูไหม? ลองส่งโพรบออกไปหากันเถอะ!</value>
+		<value>มันโลว: เราพอจะรู้ว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;มีลักษณะอย่างไรการศึกษา&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; เพราะงั้นถ้าเราลองหา&lt;color=lightblue&gt; The Eye &lt;/color&gt;ด้วยการมองหาโดยตรงดูไหม? ลองส่งโพรบออกไปหากันเถอะ!</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Mallow’s idea is clever, but we have no idea where the &lt;color=lightblue&gt;Eye&lt;/color&gt; is in relation to here. The probability of launching a probe in the correct direction would be absurdly small.</key>
@@ -5194,7 +5194,7 @@
 			Perhaps the &lt;color=lightblue&gt;Eye&lt;/color&gt; wanted to be found (could it be sentient?). Maybe it chose us.
 		</key>
 		<value>
-			บางที&lt;color=lightblue&gt; The Eye &lt;/color&gt;อาจต้องการถูกพบเจอ (มันอาจมีสติสัมปชัญญะก็ได้t?) บางทีมันอาจเลือกเรา
+			บางที&lt;color=lightblue&gt; The Eye &lt;/color&gt;อาจต้องการถูกพบเจอ (มันอาจมีสติสัมปชัญญะก็ได้?) บางทีมันอาจเลือกเรา
 		</value>
 	</entry>
 	<entry>
@@ -5218,7 +5218,7 @@
 			Is the &lt;color=lightblue&gt;Eye&lt;/color&gt; natural, or artificial?
 		</key>
 		<value>
-			&lt;color=lightblue&gt; The Eye &lt;/color&gt;นั้นเกิดขึ้นเองตามธรรมชาติ หรือถูกสร้างมันขึ้นมา?
+			&lt;color=lightblue&gt; The Eye &lt;/color&gt;นั้นเกิดขึ้นเองตามธรรมชาติ หรือถูกสร้างขึ้นมา?
 		</value>
 	</entry>
 	<entry>
@@ -5255,7 +5255,7 @@
 	</entry>
 	<entry>
 		<key>What we know is this: The source of the signal (which we have chosen to call the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;) is older than this universe itself. The rest, we have yet to learn. test</key>
-		<value>สิ่งที่เราพอรู้ก็คือ: ที่มาของสัญญาณนี้ (ที่เราเลือกที่จะเรียกมันว่า&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;)มีอายุมากกว่าจักรวาลเสียอีก นอกจากนั้นเราก็ไม่รู้อะไรเพิ่มเติมแล้ว</value>
+		<value>สิ่งที่เราพอรู้ก็คือ: ที่มาของสัญญาณนี้ \\n(ที่เราเลือกที่จะเรียกมันว่า&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;)\\nมีอายุมากกว่าจักรวาลเสียอีก นอกจากนั้นเราก็ไม่รู้อะไรเพิ่มเติมแล้ว</value>
 	</entry>
 	<entry>
 		<key>Enter, and open your mind to its possibilities. test</key>
@@ -5266,7 +5266,7 @@
 			SOLANUM: I don’t know why everyone says the &lt;color=lightblue&gt;Eye&lt;/color&gt; is important.
 		</key>
 		<value>
-			โซลานัม: ฉันไม่เข้าใจว่าทำไมทุกคนถึงคิดว่า&lt;color=lightblue&gt; The Eye e&lt;/color&gt;เป็นเรื่องใหญ่โต
+			โซลานัม: ฉันไม่เข้าใจว่าทำไมทุกคนถึงคิดว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;เป็นเรื่องใหญ่โต
 		</value>
 	</entry>
 	<entry>
@@ -5274,7 +5274,7 @@
 			SOLANUM: They say it brought us to this solar system, but is that good? Dad told me lots of Nomai died when our clan came here.
 		</key>
 		<value>
-			โซลานัม: พวกเขาบอกว่ามันเป็นสิ่งที่นำพาเรามายังระบบสุริยะนี้ แต่นั่นมันดีแล้วรึไง? พ่อบอกฉันว่าโนไมหลายตัวตายไปเพราะเผ่าของเรามาที่นี่
+			โซลานัม: พวกเขาบอกว่ามันเป็นสิ่งที่นำพาเรามายังระบบสุริยะนี้ แต่นั่นมันดีแล้วรึไง? พ่อบอกฉันว่าโนไมหลายคนตายไปเพราะเผ่าของเรามาที่นี่
 		</value>
 	</entry>
 	<entry>
@@ -5314,7 +5314,7 @@
 			3: &lt;color=orange&gt;Anglerfish Overlook District&lt;/color&gt;
 		</key>
 		<value>
-			3: เขตช่องส่องแองเกลอร์ฟิช
+			3: เขตช่องส่องปลาแองเกลอร์
 		</value>
 	</entry>
 	<entry>
@@ -5404,7 +5404,7 @@
 			MELORAE: Clearly this hole is too small for it to have fit through. Hypothesis: There is another entrance to this cave. If there is, Coleus and I will find it! We can’t leave valuable information undiscovered!
 		</key>
 		<value>
-			เมโลเรย์: ชัดเจนว่ารู้นี้น่ะเล็กเกินกว่าที่มันจะเข้าไปได้ สมมติฐาน: ถ้ำนี้ทางเข้าอื่น ถ้าเช่นนั้น โคเลียสกับฉันก็จะหามันให้เจอ! เราไม่มีทางปล่อยข้อมูลอันล้ำค่าให้สูญเปล่าไปได้!
+			เมโลเรย์: ชัดเจนว่ารู้นี้น่ะเล็กเกินกว่าที่มันจะเข้าไปได้ \\nสมมติฐาน: ถ้ำนี้มีทางเข้าอื่น ถ้าเช่นนั้น โคเลียสกับฉันก็จะหามันให้เจอ! เราไม่มีทางปล่อยข้อมูลอันล้ำค่าให้สูญเปล่าไปได้!
 		</value>
 	</entry>
 	<entry>
@@ -5441,7 +5441,7 @@
 	</entry>
 	<entry>
 		<key>MELORAE: Anglerfish study</key>
-		<value>เมโลเรย์: ศึกษาเกี่ยวกับแองเกลอร์ฟิช</value>
+		<value>เมโลเรย์: ผลการศึกษาเกี่ยวกับปลาแองเกลอร์</value>
 	</entry>
 	<entry>
 		<key>COLEUS: An update: Melorae, while I was here making sketches of the anglerfish, I observed the children I saw earlier playing here again. They’ve added a rule to their game that incorporates our research (it’s wonderful)!</key>
@@ -5453,7 +5453,7 @@
 	</entry>
 	<entry>
 		<key>COLEUS: This anglerfish’s digestive tract suggests death by starvation.</key>
-		<value>โคเลียส: ซากระบบย่อยอาหารของแองเกลอร์ฟิชตัวนี้บ่งบอกว่ามันตายจากการอดอาหาร</value>
+		<value>โคเลียส: ซากระบบย่อยอาหารของปลาแองเกลอร์ตัวนี้บ่งบอกว่ามันตายจากการอดอาหาร</value>
 	</entry>
 	<entry>
 		<key>MELORAE: Visually, the specimen appears to be of the same species as the anglerfish in &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;. We don’t believe it originated from this planet.</key>
@@ -5465,23 +5465,23 @@
 	</entry>
 	<entry>
 		<key>LAEVI: Whoever was it when we ended last time is the anglerfish.</key>
-		<value>เวลิ: ใครที่โดนจับได้ครั้งที่แล้วต้องเป็นแองเกลอร์ฟิชรอบนี้</value>
+		<value>เวลิ: ใครที่โดนจับได้ครั้งที่แล้วต้องเป็นปลาแองเกลอร์รอบนี้</value>
 	</entry>
 	<entry>
 		<key>LAEVI: &lt;i&gt;Rule change&lt;/i&gt;! The anglerfish now has to wear a blindfold. (And do &lt;i&gt;not&lt;/i&gt; peek!)</key>
-		<value>เลวิ: &lt;i&gt;เปลี่ยนกฎ&lt;/i&gt;! แองเกลอร์ฟิชต้องใส่ผ้าปิดตา (และ&lt;i&gt;ห้าม&lt;/i&gt;แอบมองนะ!)</value>
+		<value>เลวิ: &lt;i&gt;เปลี่ยนกฎ&lt;/i&gt;! ปลาแองเกลอร์ต้องใส่ผ้าปิดตา (และ&lt;i&gt;ห้าม&lt;/i&gt;แอบมองนะ!)</value>
 	</entry>
 	<entry>
 		<key>LAEVI: The rest of us (the littlefish) line up against one wall. When the anglerfish says go, the littlefish sneak across to the other side.</key>
-		<value>เลวิ: ส่วนที่เหลือ(ปลาเล็ก) ยืนเรียงติดกับกำแพง พอแองเกลอร์ฟิชบอกให้ไป ปลาเล็กก็ต้องแอบย่องข้ามไปยังอีกฝั่งนึง</value>
+		<value>เลวิ: ส่วนที่เหลือ(ปลาเล็ก) ยืนเรียงติดกับกำแพง พอปลาแองเกลอร์บอกให้ไป ปลาเล็กก็ต้องแอบย่องข้ามไปยังอีกฝั่งนึง</value>
 	</entry>
 	<entry>
 		<key>LAEVI: If the anglerfish catches you, you’re eaten.</key>
-		<value>เลมิ: ถ้าแองเกลอร์ฟิชจับใครได้ คนนั้นก็จะโดนกิน</value>
+		<value>เลมิ: ถ้าปลาแองเกลอร์จับใครได้ คนนั้นก็จะโดนกิน</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Last littlefish to be caught is the new anglerfish! (The old anglerfish gives the new anglerfish the blindfold and becomes a littlefish.)</key>
-		<value>เวลิ: ปลาเล็กคนสุดท้ายที่โดนจับได้ก็จะเป็นแองเกลอร์ฟิชคนใหม่! (แองเกลอร์ฟิชคนเก่าให้ผ้าปิดตาคนใหม่แล้วเล่นเป็นปลาเล็ก)</value>
+		<value>เวลิ: ปลาเล็กคนสุดท้ายที่โดนจับได้ก็จะเป็นปลาแองเกลอร์คนใหม่! (ปลาแองเกลอร์คนเก่าให้ผ้าปิดตาคนใหม่แล้วเล่นเป็นปลาเล็ก)</value>
 	</entry>
 	<entry>
 		<key>LAMI: Why are we changing it? It’s too hard if you can’t see anything!</key>
@@ -5489,7 +5489,7 @@
 	</entry>
 	<entry>
 		<key>LAEVI: Aunt Pye says real anglerfish are blind, so you have to wear a blindfold! The rule stands!</key>
-		<value>เลวิ: น้าไพร์บอกว่าแองเกลอร์ฟิชของจริงน่ะตาบอด เพราะงั้นเธอก็ต้องใส่ผ้าตา! กฎก็คือกฎ!</value>
+		<value>เลวิ: น้าไพร์บอกว่าปลาแองเกลอร์ของจริงน่ะตาบอด เพราะงั้นเธอก็ต้องใส่ผ้าตา! กฎก็คือกฎ!</value>
 	</entry>
 	<entry>
 		<key>ILEX: Rule update: It’s okay if younger kids don’t wear the blindfold when they’re it. (The rest of us will still wear it for scientific accuracy and to make the game more even.)</key>
@@ -5716,7 +5716,7 @@
 	</entry>
 	<entry>
 		<key>The arch and the crystal do not naturally meet.</key>
-		<value>ขอบประตูและคริสตัลจะไม่อยู่ด้วยกันโดยปกติ</value>
+		<value>ตามปกติแล้ว ขอบประตูและคริสตัลจะไม่อยู่ด้วยกัน</value>
 	</entry>
 	<entry>
 		<key>PHLOX: I’m curious: Is sending a being’s memories back in time the same as sending the being itself back in time?</key>
@@ -5744,7 +5744,7 @@
 	</entry>
 	<entry>
 		<key>PHLOX: Welcome to Giant’s Deep, friends! I’m excited for you to meet the statues!</key>
-		<value>ฟล็อก: ยินดีต้องรับเข้าสู่ Giant’s Deep นะเพื่อนๆ! ฉันตื่นเต้นมากที่จะให้พวกนายเจอกับรูปปั้นสักที!</value>
+		<value>ฟล็อก: ยินดีต้อนรับเข้าสู่ Giant’s Deep นะเพื่อนๆ! ฉันตื่นเต้นมากที่จะให้พวกนายเจอกับรูปปั้นสักที!</value>
 	</entry>
 	<entry>
 		<key>PHLOX: If I’m not in my dwelling, I’m likely in my &lt;color=orange&gt;workshop&lt;/color&gt; below (inside the island).</key>
@@ -5912,7 +5912,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: Ramie is adding some finishing touches here, but she’ll be finished soon. Are you and the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; well?</key>
-		<value>ยาร์โรว: เรมี่กำลังปรับขึ้นตอนสุดท้ายอยู่ แต่อีกเดี๋ยวเธอก็เสร็จแล้วล่ะ พวกนายที่the &lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;เป็นยังไงบ้าง สบายดีอยู่มั้ย?</value>
+		<value>ยาร์โรว: เรมี่กำลังปรับขั้นตอนสุดท้ายอยู่ แต่อีกเดี๋ยวเธอก็เสร็จแล้วล่ะ พวกนายที่the &lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;เป็นยังไงบ้าง สบายดีอยู่มั้ย?</value>
 	</entry>
 	<entry>
 		<key>PRIVET: We are! The statue here in the&lt;color=orange&gt; Probe Tracking Module &lt;/color&gt;is ready to record each launch’s flight trajectory and will automatically transmit all relevant data to you.</key>
@@ -5924,7 +5924,7 @@
 	</entry>
 	<entry>
 		<key>PRIVET: On the other appendage, I’m now worried about this &lt;color=orange&gt;cannon&lt;/color&gt;’s structural integrity and its crew’s moral integrity.</key>
-		<value>พริเวต: ในอีกด้านนึง ฉันเริ่มกังวลทั้งทั้งเรื่องความมั่นคงของโครงสร้าง&lt;color=orange&gt;เครื่องยิง&lt;/color&gt;แล้วก็ความมั่นคงทางแรงใจของลูกทีมด้วย</value>
+		<value>พริเวต: ในอีกด้านนึง ฉันเริ่มกังวลทั้งเรื่องความมั่นคงของโครงสร้าง&lt;color=orange&gt;เครื่องยิง&lt;/color&gt;แล้วก็ความมั่นคงทางแรงใจของลูกทีมด้วย</value>
 	</entry>
 	<entry>
 		<key>YARROW: What happened? Did the &lt;color=orange&gt;Sun Station&lt;/color&gt; not fire?</key>
@@ -5952,7 +5952,7 @@
 	</entry>
 	<entry>
 		<key>IDAEA: We’re well, Yarrow (or as well as can be expected, given the circumstances), though disappointed. I may have disagreed with exploding the &lt;color=lightblue&gt;sun&lt;/color&gt;, but I never wished the device would fail. I’d hoped our terrible work was finished.</key>
-		<value>อเดยา: พวกเราสบายดี ยาร์โรว (สบายดีได้มากที่สุดเท่าที่นายจะหวังได้ละนะ ด้วยสถานการณ์แบบนี้) แต่ผิดหวัง ถึงแม้ว่าฉันจะไม่เห็นด้วยกับการระเบิด&lt;color=lightblue&gt;ดวงอาทิตย์&lt;/color&gt; แต่ฉันไม่เคยหวังว่าจะให้มันล้มเหลว ฉันหวังให้ผลงานอันเลวร้านของพวกเราสำเร็จ</value>
+		<value>อเดยา: พวกเราสบายดี ยาร์โรว (สบายดีได้มากที่สุดเท่าที่นายจะหวังได้ละนะ ด้วยสถานการณ์แบบนี้) แต่ผิดหวัง ถึงแม้ว่าฉันจะไม่เห็นด้วยกับการระเบิด&lt;color=lightblue&gt;ดวงอาทิตย์&lt;/color&gt; แต่ฉันไม่เคยหวังว่าจะให้มันล้มเหลว ฉันหวังให้ผลงานอันเลวร้ายของพวกเราสำเร็จ</value>
 	</entry>
 	<entry>
 		<key>
@@ -6071,7 +6071,7 @@
 			PYE: Ramie and I reviewed the records you sent, Poke, and they appear to show Nomai are arriving at the warp receiver on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; slightly &lt;i&gt;before&lt;/i&gt; departing from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.
 		</key>
 		<value>
-			ไพร์: เรมี่กับฉันตรวจสอบบันทึกที่เธอส่งมาแล้วนะโพเก้ มันเหมือนจะบอกว่าไนโมที่ออกจากตัวรับวาร์ปที่ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; ออกมา&lt;i&gt;ก่อน&lt;/i&gt;ที่จะเข้าวาร์ปจาก&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;
+			ไพร์: ฉันกับเรมี่ตรวจสอบบันทึกที่เธอส่งมาแล้วนะโพเก้ เหมือนว่าโนไมที่ออกจากตัวรับวาร์ปที่ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; จะออกมา&lt;i&gt;ก่อน&lt;/i&gt;ที่จะเข้าวาร์ปจาก&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;
 		</value>
 	</entry>
 	<entry>
@@ -6079,7 +6079,7 @@
 			POKE: I understand it’s exceedingly odd, but Clary and I have tested and retested the equipment, and the result is the same every time someone warps.
 		</key>
 		<value>
-			โพเก้: ฉันเข้าใจว่ามันแปลกมากๆ แต่คลารีกับฉันทดสอบอุปกรณ์แล้วทดสอบอีก แต่ผลลัพท์ออกมาเหมือนเดิมทุกครั้งที่มีใครก็ตามวาร์ป
+			โพเก้: ฉันเข้าใจว่ามันแปลกมากๆ แต่คลารีกับฉันทดสอบอุปกรณ์แล้วทดสอบอีก แต่ค่าออกมาเหมือนเดิมทุกครั้งที่มีใครก็ตามวาร์ป
 		</value>
 	</entry>
 	<entry>
@@ -6087,7 +6087,7 @@
 			RAMIE: The interval is incredibly miniscule (roughly one hundred-thousandth of a second). Do you suppose our instruments can’t accurately measure time to such a small degree?
 		</key>
 		<value>
-			เรมี่: ความต่างของเวลานั้นน้อยมากๆ (ราวๆหนึ่งในแสนของวินาที) เธอคิดว่าเครื่องวัดของเราอาจไม่สามารถวัดเวลาในระดับที่เล็กขนาดนั้นได้อย่างแม่นยำขนาดนั้นมั้ย?
+			เรมี่: ความต่างของเวลานั้นน้อยมากๆ (ราวๆหนึ่งในแสนของวินาที) หรือว่าเครื่องวัดของเราอาจวัดเวลาในหน่วยที่เล็กขนาดนั้นไม่ตรง?
 		</value>
 	</entry>
 	<entry>
@@ -6095,7 +6095,7 @@
 			PYE: As I’ve already told Ramie, these measurements can’t be accurate. How can a Nomai arrive on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; before he or she ever stepped into the teleporter? The implications are absurd.
 		</key>
 		<value>
-			ไพร์: อย่างที่ฉันบอกเรมี่ไป ค่าพวกนี้ไม่มีทางแม่นยำได้แน่ๆ โนไมจะไปถึง &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; ก่อนเข้าเครื่องวาร์ปไปได้ยังไง? ความหมายนัยยะของมันไร้เหตุผลมาก
+			ไพร์: อย่างที่ฉันบอกเรมี่ไป ค่าพวกนี้ไม่มีทางถูกได้แน่ๆ โนไมจะไปถึง &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; ก่อนเข้าเครื่องวาร์ปไปได้ยังไง? ความหมายของมันไร้เหตุผลมาก
 		</value>
 	</entry>
 	<entry>
@@ -6103,7 +6103,7 @@
 			POKE: I don’t disagree. It &lt;i&gt;would&lt;/i&gt; mean I’ve inadvertently broken several fundamental theories regarding this universe. We would have to reconsider all of our beliefs about the nature of time.
 		</key>
 		<value>
-			โพเก้: ฉันไม่เห็นต่าง มัน&lt;i&gt;จะ&lt;/i&gt;หมายความว่าเราได้แหกทฤษฎีพื้นฐานหลายทฤษฎีที่เราเข้าใจเกี่ยวกับจักรวาลนี้ เราต้องพิจารณาความเชื่อทั้งหมดเกี่ยวกับธรรมชาติของเวลาใหม่
+			โพเก้: ฉันก็ว่าอย่างงั้น มัน&lt;i&gt;จะหมายความว่า&lt;/i&gt;เราได้แหกทฤษฎีพื้นฐานหลายทฤษฎีที่เราเข้าใจเกี่ยวกับจักรวาลนี้ เราต้องพิจารณาความเชื่อทั้งหมดเกี่ยวกับธรรมชาติของเวลาใหม่
 		</value>
 	</entry>
 	<entry>
@@ -6111,7 +6111,7 @@
 			RAMIE: Yes, I hope so, too!
 		</key>
 		<value>
-			เรมี่: ใช่ ฉันก็หวังว่าจะเป็นแบบนั้นเหมือนกัน!
+			เรมี่: ใช่ ฉันก็หวังว่าจะเป็นแบบนั้นแหละ!
 		</value>
 	</entry>
 	<entry>
@@ -6119,7 +6119,7 @@
 			RAMIE: Poke, as Pye is confident the reading is inaccurate, she’s kindly helping me attempt to recreate this phenomenon at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt;. We’re designing an experiment to take more data.
 		</key>
 		<value>
-			เรมี่: โพเก้ เพราะว่าไพร์มั่นใจว่าค่าที่อ่านออกมาได้มันไม่แม่นยำแน่ๆ เธอเลยจะมาช่วยฉันสร้างสถานการณ์แบบเดียวกันที่&lt;color=orange&gt;แล็บพลังงานสูง&lt;/color&gt; เรากำลังวางแผนการทดลองที่จะช่วยให้เรามีข้อมูลเยอะขึ้น
+			เรมี่: โพเก้ เพราะว่าไพร์มั่นใจว่าค่าที่อ่านออกมาได้มันไม่ถูกแน่ๆ ไพร์เลยจะมาช่วยฉันสร้างสถานการณ์แบบเดียวกันที่&lt;color=orange&gt;แล็บพลังงานสูง&lt;/color&gt; เรากำลังวางแผนการทดลองที่จะช่วยให้เรามีข้อมูลเยอะขึ้น
 		</value>
 	</entry>
 	<entry>
@@ -6184,7 +6184,7 @@
 	</entry>
 	<entry>
 		<key>SignDay 51: Listened to Chert play for a while today. Unrelated, someone should tell Porphy and Gossan their flirting is &lt;i&gt;not&lt;/i&gt; subtle from an aerial perspective.</key>
-		<value>วันที่ 51: วันนี้ฉันฟังเชิร์ตเล่นเพลงอยู่สักพักพนึ่ง เรื่องนี้ไม่เกี่ยวกันนะ แต่ใครซักคนควรจะไปบอกพอร์พีกับกอสซานหน่อยว่าการจีบของพวกเขา&lt;i&gt;ไม่&lt;/i&gt;แนบเนียนเลยถ้ามองจากบนฟ้าน่ะ</value>
+		<value>วันที่ 51: วันนี้ฉันฟังเชิร์ตเล่นเพลงอยู่สักพักหนึ่ง เรื่องนี้ไม่เกี่ยวกันนะ แต่ใครซักคนควรจะไปบอกพอร์พีกับกอสซานหน่อยว่าการจีบของพวกเขา&lt;i&gt;ไม่&lt;/i&gt;แนบเนียนเลยถ้ามองจากบนฟ้าน่ะ</value>
 	</entry>
 	<entry>
 		<key>SignDay 55: Banjo music coming in loud and clear today! Sounds like Riebeck’s doing okay. That oaf, I was worried!</key>
@@ -6196,7 +6196,7 @@
 	</entry>
 	<entry>
 		<key>SignDay 70: No, it’s back again today, too. Something strange is coming from Timber Hearth.</key>
-		<value>วันที่ 70: ไม่ วันนี้เสียงนั่นกลับมาอีกแล้ว มีเสียงอะไรแปลกๆมาจาก Timber Hearth.</value>
+		<value>วันที่ 70: ไม่ วันนี้เสียงนั่นกลับมาอีกแล้ว มีเสียงอะไรแปลกๆมาจาก Timber Hearth</value>
 	</entry>
 	<entry>
 		<key>SignDay 76: Okay, I &lt;i&gt;know&lt;/i&gt; this is crazy, but the sound from Timber Hearth sounds exactly like Feldspar’s harmonica. But Feldspar disappeared in space ages ago. It can’t be them...</key>
@@ -7128,7 +7128,7 @@
 	</entry>
 	<entry>
 		<key>Intro1Heyo, hatchling! Thought you were taking that tin can of yours into space today - what’re you still doing here?</key>
-		<value>ว่าไง แฮชท์ลิง! นึกจะนายจะยานกระป๋องของนายออกไปอวกาศเลยซะอีก - มาทำอะไรแถวนี้?</value>
+		<value>ว่าไง แฮชท์ลิง! นึกจะนายจะเอายานกระป๋องของนายออกไปอวกาศเลยซะอีก - มาทำอะไรแถวนี้?</value>
 	</entry>
 	<entry>
 		<key>Intro1Me? I was using the old scout launcher and saw smoke in one of the photos, so I thought I’d come over here myself and take a look.</key>
@@ -7244,7 +7244,7 @@
 	</entry>
 	<entry>
 		<key>Tektite6Inside the seed? Huh. Dunno what to tell you there - the only harmonica player I know is Feldspar, and they disappeared ages ago.</key>
-		<value>จากข้างในเมล็ดงั้นเหรอ? หืม ฉันไม่รู้จะบอกนายยังไงดี - คนเป่าฮาร์โมนิก้าคนเดียวที่ฉันรู้จักก็คือเฟลด์สปาร์ และเขาก็หายตัวไปตั้งนานแล้วฃ</value>
+		<value>จากข้างในเมล็ดงั้นเหรอ? หืม ฉันไม่รู้จะบอกนายยังไงดี - คนเป่าฮาร์โมนิก้าคนเดียวที่ฉันรู้จักก็คือเฟลด์สปาร์ และเขาก็หายตัวไปตั้งนานแล้ว</value>
 	</entry>
 	<entry>
 		<key>Tektite6Listen here, don’t go telling Gneiss about the harmonica music, okay? They’ll never let me get rid of this darn seed if they suspect it has any musical talent.</key>
@@ -7628,11 +7628,11 @@
 	</entry>
 	<entry>
 		<key>SignThis anglerfish specimen was found attached to the landing gear of one of our ships that flew close to Dark Bramble. It appears well-suited to living in dark places with minimal atmosphere.</key>
-		<value>ตัวอย่างแองเกลอร์ฟิชตัวนี้ถูกพบติดอยู่กับฐานจอดของยานลำหนึ่งของเราที่บินเข้าไปใกล้กับ Dark Bramble ดูเหมือนมันจะปรับตัวได้ดีกับการอาศัยอยู่ในที่มืดและมีชั้นบรรยากาศเบาบาง</value>
+		<value>ตัวอย่างปลาแองเกลอร์ตัวนี้ถูกพบติดอยู่กับฐานจอดของยานลำหนึ่งของเราที่บินเข้าไปใกล้กับ Dark Bramble ดูเหมือนมันจะปรับตัวได้ดีกับการอาศัยอยู่ในที่มืดและมีชั้นบรรยากาศเบาบาง</value>
 	</entry>
 	<entry>
 		<key>SignOf all the lifeforms who will perish in the oncoming death of the universe, we will miss the anglerfish the least.</key>
-		<value>ในบรรดาสิ่งมีชีวิตทั้งหมดที่จะมอดม้วยไปพร้อมกับการล่มสลายของจักรวาลที่กำลังจะมาถึง เราจะคิดถึงแองเกลอร์ฟิชน้อยที่สุด</value>
+		<value>ในบรรดาสิ่งมีชีวิตทั้งหมดที่จะมอดม้วยไปพร้อมกับการล่มสลายของจักรวาลที่กำลังจะมาถึง เราจะคิดถึงปลาแองเกลอร์น้อยที่สุด</value>
 	</entry>
 	<entry>
 		<key>SignOuter Wilds Ventures, Timber Hearth’s first and only space program, was founded to explore the farthest reaches of our solar system.</key>
@@ -7768,11 +7768,11 @@
 	</entry>
 	<entry>
 		<key>SignThis remarkably intact statue was carved by the Nomai, an ancient species who dwelled in our solar system thousands of years ago.</key>
-		<value>รูปปั้นที่ยังคงสภาพสมบูรณ์อย่างน่าทึ่งนี้ ถูกแกะสลักโดยชาวโมไม เผ่าพันธุ์โบราณที่เคยอาศัยอยู่ในระบบสุริยะของเราเมื่อหลายพันปีก่อน</value>
+		<value>รูปปั้นที่ยังคงสภาพสมบูรณ์อย่างน่าทึ่งนี้ ถูกแกะสลักโดยชาวโนไม เผ่าพันธุ์โบราณที่เคยอาศัยอยู่ในระบบสุริยะของเราเมื่อหลายพันปีก่อน</value>
 	</entry>
 	<entry>
 		<key>SignThe statue provides us with our most detailed look yet at the Nomai, who appear to have been covered with a layer of fur. Note the decorative jewelry that has been carved as part of the antlers.</key>
-		<value>รูปปั้นนี้ทำให้เราได้เห็นรายละเอียดของชาวไนโมที่ชัดเจนที่สุดเท่าที่เคยมีมา ซึ่งดูเหมือนว่าพวกเขาจะถูกปกคลุมด้วยชั้นของขน และสังเกตเครื่องประดับตกแต่งที่ถูกแกะสลักเป็นส่วนหนึ่งของเขาพวกเขา</value>
+		<value>รูปปั้นนี้ทำให้เราได้เห็นรายละเอียดของชาวโนไมที่ชัดเจนที่สุดเท่าที่เคยมีมา ดูเหมือนว่าพวกเขาจะมีชั้นขน และยังมีเครื่องประดับตกแต่งที่ถูกแกะสลักเป็นส่วนหนึ่งของเขาพวกเขาด้วย</value>
 	</entry>
 	<entry>
 		<key>SignAlthough their artifacts and structures have been found on almost every planet in this solar system, we still have no idea where this species came from or what happened to them.</key>
@@ -7792,7 +7792,7 @@
 	</entry>
 	<entry>
 		<key>SignSome ancient Nomai art depicts strange animals, foreign celestial objects, and other subjects that can’t be found in our solar system, which makes us wonder whether the Nomai originated elsewhere in the universe or simply had vibrant imaginations.</key>
-		<value>ศิลปะโบราณของ Nomai บางชิ้นมีภาพสัตว์แปลกๆ วัตถุดาราศาสตร์ที่ไม่คุ้นเคย และอย่างอื่นๆ ที่ไม่สามารถพบได้ในระบบสุริยะของเรา ซึ่งทำให้เราสงสัยว่าชาวโนไมมีต้นกำเนิดมาจากที่อื่นในจักรวาล หรือเพียงแค่มีจินตนาการที่บรรเจิดเท่านั้น</value>
+		<value>ศิลปะโบราณของโนไมบางชิ้นมีภาพสัตว์แปลกๆ วัตถุดาราศาสตร์ที่ไม่คุ้นเคย และอย่างอื่นๆ ที่ไม่สามารถพบได้ในระบบสุริยะของเรา ซึ่งทำให้เราสงสัยว่าชาวโนไมมีต้นกำเนิดมาจากที่อื่นในจักรวาล หรือเพียงแค่มีจินตนาการที่บรรเจิดเท่านั้น</value>
 	</entry>
 	<entry>
 		<key>SignWere the Nomai born in our solar system? Or were they born among other stars and planets - and if they were, how and why did they come here?</key>
@@ -7804,7 +7804,7 @@
 	</entry>
 	<entry>
 		<key>SignThe Nomai technology brought back from space by our astronauts has been a great boon to Outer Wilds Ventures, allowing us to modify expedition gear in exciting and useful ways.</key>
-		<value>เทคโนโลยีของ Nomai ที่นักบินอวกาศของเรานำกลับมาจากอวกาศนั้น เป็นประโยชน์อย่างยิ่งต่อคณะสำรวจ Outer Wilds ทำให้เราสามารถดัดแปลงอุปกรณ์สำรวจในรูปแบบใหม่ๆ ที่น่าตื่นเต้นและมีประโยชน์</value>
+		<value>เทคโนโลยีของโนไมที่นักบินอวกาศของเรานำกลับมาจากอวกาศนั้น เป็นประโยชน์อย่างยิ่งต่อคณะสำรวจ Outer Wilds ทำให้เราสามารถดัดแปลงอุปกรณ์สำรวจในรูปแบบใหม่ๆ ที่น่าตื่นเต้นและมีประโยชน์</value>
 	</entry>
 	<entry>
 		<key>SignFor example, the Little Scout now boasts a warp retrieval capability that allows astronauts to recall their scouts almost instantly. This has dramatically reduced the number of scouts lost to the depths of space.</key>
@@ -7817,11 +7817,11 @@
 	</entry>
 	<entry>
 		<key>SignThe strange rock moving around in this grotto appears to react to conscious observation.</key>
-		<value>หินประหลาดที่เคลื่อนที่ไปมาในถ้ำนี้ ดูเหมือนจะตอบสนองหากหินนั้นถูกรับรู้</value>
+		<value>หินประหลาดที่เคลื่อนที่ไปมาในถ้ำนี้ ดูเหมือนจะตอบสนองหากหินนั้นถูกสังเกต</value>
 	</entry>
 	<entry>
 		<key>SignThe level-headed among us realize there must be some sort of optical illusion at play, but Gabbro claims the rock “exists in all possible states until it is observed” (whatever that means).</key>
-		<value>กลุ่มคนที่มีเหตุผลในหมู่เราตระหนักดีว่ามันต้องเป็นภาพลวงตาบางชนิด แต่แก็บโบรอ้างว่าหินก้อนนี้ "ดำรงอยู่ในทุกสถานะที่เป็นไปได้ จนกว่าจะถูกสังเกตหรือรับรู้" (ไม่ว่าเขาจะหมายความว่าอะไรก็ตาม)</value>
+		<value>กลุ่มคนที่มีเหตุผลในหมู่เราตระหนักดีว่ามันต้องเป็นภาพลวงตาบางชนิด แต่แก็บโบรอ้างว่าหินก้อนนี้ "ดำรงอยู่ในทุกสถานะที่เป็นไปได้ จนกว่าจะถูกรับรู้หรือสังเกต" (ไม่ว่าเขาจะหมายความว่าอะไรก็ตาม)</value>
 	</entry>
 	<entry>
 		<key>SignWhatever is actually happening, both sides of this debate agree the effect is extremely creepy.</key>
@@ -7921,7 +7921,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckArcheologistIf you have any questions about the Brittle Hollow Nomai, I’m your Hearthian! Or, um... I have some knowledge of them, I mean. So. &lt;size=20&gt;Maybe I can help?&lt;/size&gt;</key>
-		<value>ถ้านายมีคำถามเกี่ยวกับชาวไนโมในดาว Brittle Hollow ล่ะก็ ผมคือฮาร์เธียนที่นายต้องการเลย! หรือ เอ่อ... ผมหมายถึงผมก็มีความรู้เรื่องพวกเขาอยู่บ้างน่ะนะ ดังนั้น... &lt;size=20&gt;บางทีผมอาจจะช่วยได้?&lt;/size&gt;</value>
+		<value>ถ้านายมีคำถามเกี่ยวกับชาวโนไมในดาว Brittle Hollow ล่ะก็ ผมคือฮาร์เธียนที่นายต้องการเลย! หรือ เอ่อ... ผมหมายถึงผมก็มีความรู้เรื่องพวกเขาอยู่บ้างน่ะนะ ดังนั้น... &lt;size=20&gt;บางทีผมอาจจะช่วยได้?&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>RiebeckExploreOh wow, where &lt;i&gt;shouldn’t&lt;/i&gt; you explore here?&lt;Pause&gt; Um, not the &lt;size=20&gt;black hole&lt;/size&gt;, actually. That’s... very no.</key>
@@ -7938,7 +7938,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckExploreGood luck with exploring. Um, if you learn anything about the Nomai, I’d love to hear it, &lt;size=20&gt;if it’s not too much trouble?&lt;/size&gt;</key>
-		<value>ขอให้โชคดีกับการสำรวจนะ เอ่อ ถ้านายรู้อะไรเกี่ยวกับพวกโมไมผมก็อยากฟังนะ &lt;size=20&gt;ถ้ามันไม่รบกวนนายเกินไปน่ะ?&lt;/size&gt;</value>
+		<value>ขอให้โชคดีกับการสำรวจนะ เอ่อ ถ้านายรู้อะไรเกี่ยวกับพวกโนไมผมก็อยากฟังนะ &lt;size=20&gt;ถ้ามันไม่รบกวนนายเกินไปน่ะ?&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearnedOh, cool! &lt;Pause/&gt;Um, what is it?</key>
@@ -8042,7 +8042,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_5That means there were two groups of Nomai — one that lived on Ember Twin, and one that lived here on Brittle Hollow. But they must have traveled around the solar system, since Nomai writing can be found on other planets, too.</key>
-		<value>นั่นแปลว่ามีชาวไนโมอยู่สองกลุ่ม — กลุ่มหนึ่งอาศัยอยู่บน Ember Twin และอีกกลุ่มอาศัยอยู่ที่นี่บน Brittle Hollow แต่พวกเขาต้องเดินทางไปทั่วระบบสุริยะแน่ๆ เพราะข้อความของโนไมก็พบเจอได้บนดาวอื่นเหมือนกัน</value>
+		<value>นั่นแปลว่ามีชาวโนไมอยู่สองกลุ่ม — กลุ่มหนึ่งอาศัยอยู่บน Ember Twin และอีกกลุ่มอาศัยอยู่ที่นี่บน Brittle Hollow แต่พวกเขาต้องเดินทางไปทั่วระบบสุริยะแน่ๆ เพราะข้อความของโนไมก็พบเจอได้บนดาวอื่นเหมือนกัน</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_6A pilgrimage to the Quantum Moon? The Nomai mentioned the Quantum Moon in a lot of their writing, so it was clearly special to them. And um, special enough to make a trip there by themselves!</key>
@@ -8090,7 +8090,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8...What? On the Quantum Moon, you said?&lt;Pause&gt; There’s a sort of-living Nomai on the Quantum Moon?!</key>
-		<value>...อะไรนะ? บนดวงจันทร์ควอนตัม? &lt;Pause&gt; นายบอกว่า มีชาว Nomai ที่กึ่งๆ-มีชีวิตอยู่บนดวงจันทร์ควอนตัม?!</value>
+		<value>...อะไรนะ? บนดวงจันทร์ควอนตัม? &lt;Pause&gt; นายบอกว่า มีชาวโนไม ที่กึ่งๆ-มีชีวิตอยู่บนดวงจันทร์ควอนตัม?!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8WELL, WHY DIDN’T YOU SAY SO?!</key>
@@ -8445,7 +8445,7 @@
 			The &lt;color=orange&gt;High Energy Lab&lt;/color&gt;\\n(400m)
 		</key>
 		<value>
-			The &lt;color=orange&gt;แล็บพลังงานสูง&lt;/color&gt;\\n(400m)
+			&lt;color=orange&gt;แล็บพลังงานสูง&lt;/color&gt;\\n(400m)
 		</value>
 	</entry>
 	<entry>
@@ -8453,7 +8453,7 @@
 			&lt;color=orange&gt;Anglerfish Fossil Overlook&lt;/color&gt;\\n(40m)
 		</key>
 		<value>
-			&lt;color=orange&gt;ช่องส่องแองเกลอร์ฟิช&lt;/color&gt;\\n(40m)
+			&lt;color=orange&gt;ช่องส่องปลาแองเกลอร์&lt;/color&gt;\\n(40m)
 		</value>
 	</entry>
 	<entry>
@@ -8493,7 +8493,7 @@
 			The &lt;color=orange&gt;Sunless City&lt;/color&gt;\\n(300m)
 		</key>
 		<value>
-			The &lt;color=orange&gt;เมืองไร้ตะวัน&lt;/color&gt;\\n(300m)
+			&lt;color=orange&gt;เมืองไร้ตะวัน&lt;/color&gt;\\n(300m)
 		</value>
 	</entry>
 	<entry>
@@ -8530,7 +8530,7 @@
 	</entry>
 	<entry>
 		<key>DAZ: Each statue will send a single Nomai’s memories to his or her own storage unit within &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
-		<value>แดซ: รูปปั้นแต่ละอันจะส่งความทรงจำของโนไมแต่ละคนไปยังหน่วยเก็บความจำของตนเองที่อยู่ด้านใน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</value>
+		<value>แดซ: รูปปั้นแต่ละอันจะส่งความทรงจำของโนไมแต่ละคนไปยังหน่วยเก็บความจำของตนเองที่อยู่ด้านใน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>PHLOX: Each storage unit will be equipped with a mask, the statue’s counterpart, which will be able to send those stored memories back to the corresponding Nomai.</key>
@@ -8578,7 +8578,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: Conscious observation forces a quantum object to collapse to a single possibility. But what would happen if a conscious observer somehow entered the &lt;color=lightblue&gt;Eye&lt;/color&gt; itself?</key>
-		<value>โซลานัม: การรับรู้มันจะบังคับให้วัตถุควอนตัมนั้นยุบตัวลงเหลือเพียงความเป็นไปได้เดียว แต่ว่าอะไรเกิดขึ้นหากผู้รับรู้นั้นเข้าไปอยู่ในตัวของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;เสียเอง?</value>
+		<value>โซลานัม: การสังเกตมันจะบังคับให้วัตถุควอนตัมนั้นยุบตัวลงเหลือเพียงความเป็นไปได้เดียว แต่ว่าอะไรเกิดขึ้นหากผู้สังเกตนั้นเข้าไปอยู่ในตัวของ&lt;color=lightblue&gt; The Eye &lt;/color&gt;เสียเอง?</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Over time, this has become my clan’s greatest question.</key>
@@ -8618,7 +8618,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: I’ve journeyed here to be close to the &lt;color=lightblue&gt;Eye&lt;/color&gt;. While the &lt;color=lightblue&gt;Eye&lt;/color&gt; is obscured from our sight, we can see the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s reflection of the &lt;color=lightblue&gt;Eye&lt;/color&gt; in the sky above us.</key>
-		<value>โซลานัม: ฉันเดินทางมาที่นี่เพื่ออยู่ใกล้ชิดกับ&lt;color=lightblue&gt; The Eye &lt;/color&gt; แม้ว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;จะถูกบดบังไปจากสายตาของเรา แต่เราก็ยังสามารถเห็นภาพสะท้อน&lt;color=lightblue&gt; The Eye &lt;/color&gt;ของ&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ได้บนท้องฟ้าเหนือหัวเรา</value>
+		<value>โซลานัม: ฉันเดินทางมาที่นี่เพื่ออยู่ใกล้ชิดกับ&lt;color=lightblue&gt; The Eye &lt;/color&gt; แม้ว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;จะถูกบดบังไปจากสายตาของเรา แต่เราก็ยังสามารถเห็นการสะท้อน&lt;color=lightblue&gt; The Eye &lt;/color&gt;ของ&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ได้บนท้องฟ้าเหนือหัวเรา</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Suppose you could reach the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;: Would you try to enter it?</key>
@@ -8626,7 +8626,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: What do you imagine the effects of a conscious observer might be?</key>
-		<value>โซลานัม: เธอคิดว่าผลกระทบจากผู้รับรู้มันจะเป็นยังไง?</value>
+		<value>โซลานัม: เธอคิดว่าผลกระทบจากผู้สังเกตมันจะเป็นยังไง?</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I imagine you’ve noticed the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; changes in appearance depending on which location it is currently orbiting (for instance, the moon looks quite different when orbiting &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; than it does when orbiting the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;).</key>
@@ -8642,11 +8642,11 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: That said, despite its malleable nature, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; becomes locked to one specific version of itself when it is consciously observed.</key>
-		<value>โซลานัม: ถึงอย่างงั้นthe &lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ก็ยังถูกล็อกไว้เป็นลักษณะเดียวเมื่อมันถูกรับรู้</value>
+		<value>โซลานัม: ถึงอย่างงั้นthe &lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ก็ยังถูกล็อกไว้เป็นลักษณะเดียวเมื่อมันถูกสังเกต</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: But what would happen if a conscious observer were to enter the &lt;i&gt;Eye&lt;/i&gt;?</key>
-		<value>โซลานัม: แต่จะเกิดอะไรขึ้นล่ะถ้าผู้รับรู้เข้าไปใน&lt;i&gt; The Eye &lt;/i&gt;?</value>
+		<value>โซลานัม: แต่จะเกิดอะไรขึ้นล่ะถ้าผู้สังเกตเข้าไปใน&lt;i&gt; The Eye &lt;/i&gt;?</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Many in my clan have believed the &lt;color=lightblue&gt;Eye&lt;/color&gt; called to us for a particular purpose.</key>
@@ -8730,7 +8730,7 @@
 	</entry>
 	<entry>
 		<key>PHLOX: If anything goes wrong with the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, the statues (and their masks) will make us aware of the situation and enable us to fix it. Otherwise, it would be possible for us to remain permanently unaware of the problem.</key>
-		<value>ฟล็อก: ถ้ามี&lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;มีอะไรผิดพลาดขึ้น รูปปั้น(และหน้ากากของมัน)จะทำให้เรารับรู้สถานการณ์และสามารถไปซ่อมแซมได้ ไม่งั้นเราอาจไม่รู้ถึงปัญหาเลยก็ได้</value>
+		<value>ฟล็อก: ถ้า&lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;เกิดปัญหาอะไรขึ้นมา \\nรูปปั้น(และหน้ากากของมัน)จะทำให้เรารู้สถานการณ์ด้านในและเข้าไปซ่อมแซมได้ ไม่อย่างงั้นเราอาจไม่รู้ด้วยซ้ำว่ามีอะไรแปลกๆไป</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I hadn’t thought of that! What a profoundly horrific fate that would be.</key>
@@ -8858,7 +8858,7 @@
 	</entry>
 	<entry>
 		<key>ChertIntroExplanationHornfels asked me to update our star charts, so I’m out here observing. This is one of the best places in the solar system to spot astronomical events, you know.</key>
-		<value>ฮอร์นเฟลส์ขอให้ฉันออกมาอัปเดตแผนที่ดาวของเรา ฉันก็เลยออกมาสังเกตการณ์อยู่ที่นี่น่ะ ที่นี่เป็นหนึ่งในจุดที่ดีที่สุดในระบบสุริยะของเราในการองเหตุการณ์ทางดาราศาสตร์เลยนะ รู้ไหม</value>
+		<value>ฮอร์นเฟลส์ขอให้ฉันออกมาอัปเดตแผนที่ดาวของเรา ฉันก็เลยออกมาสังเกตการณ์อยู่ที่นี่น่ะ ที่นี่เป็นหนึ่งในจุดที่ดีที่สุดในระบบสุริยะของเราในการสังเกตุการณ์ทางดาราศาสตร์เลยนะ รู้ไหม</value>
 	</entry>
 	<entry>
 		<key>ChertIntroExplanationWhat’s weird is I’ve actually seen a couple of supernovae today. Usually, I’d be fortunate to see just one. Keep an eye or four on the stars, and maybe you’ll spot one yourself!</key>
@@ -9034,7 +9034,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4I’ve observed the Quantum Moon orbiting each of the five planets, but sometimes, it quite simply disappears from the sky altogether. Maybe there’s another place it travels to!</key>
-		<value>ฉันเคยสังเกตเห็น Quantum Moon โคจรรอบดาวเคราะห์ทั้งห้าดวงเลยนะ แต่บางครั้ง มันก็หายไปจากท้องฟ้าเฉยๆ เลย บางทีอาจจะมีที่อื่นที่มันเดินทางไปก็ได้!</value>
+		<value>ฉันเคยสังเกตเห็น ดวงจันทร์ควอนตัม โคจรรอบดาวเคราะห์ทั้งห้าดวงเลยนะ แต่บางครั้ง มันก็หายไปจากท้องฟ้าเฉยๆ เลย บางทีอาจจะมีที่อื่นที่มันเดินทางไปก็ได้!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4Unfortunately, if there is, I’ve never seen it. Perhaps if I take a closer look at these star charts...</key>
@@ -9218,7 +9218,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4bI’ve observed the Quantum Moon orbiting each of the five planets, but sometimes, it quite simply disappears from the sky altogether. Maybe there’s another place it travels to!</key>
-		<value>ฉันเคยสังเกตเห็น Quantum Moon โคจรรอบดาวเคราะห์ทั้งห้าดวงเลยนะ แต่บางครั้ง มันก็หายไปจากท้องฟ้าเฉยๆ เลย บางทีอาจจะมีที่อื่นที่มันเดินทางไปก็ได้!</value>
+		<value>ฉันเคยสังเกตเห็น ดวงจันทร์ควอนตัม โคจรรอบดาวเคราะห์ทั้งห้าดวงเลยนะ แต่บางครั้ง มันก็หายไปจากท้องฟ้าเฉยๆ เลย บางทีอาจจะมีที่อื่นที่มันเดินทางไปก็ได้!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4bUnfortunately, if there is, I’ve never seen it. Perhaps if I take a closer look at these star charts...</key>
@@ -9670,7 +9670,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparJellyfishJournalTrip 4(?), entry #... I’m gonna say “not 1.”  \\n Crashes: 3 \\n Boring crashes: 0 (a personal best!)</key>
-		<value>การเดินทางครั้งที่ 4(?), บันทึกที่... ฉันจะบอกว่า "ไม่ใช่ 1" ก็แล้วกัน \n จำนวนครั้งที่ตก: 3 \n จำนวนครั้งที่ตกแบบน่าเบื่อ: 0 (สถิติส่วนตัวที่ดีที่สุด!)</value>
+		<value>การเดินทางครั้งที่ 4(?), บันทึกที่... ฉันจะบอกว่า "ไม่ใช่ 1" ก็แล้วกัน \\n จำนวนครั้งที่ตก: 3 \\n จำนวนครั้งที่ตกแบบน่าเบื่อ: 0 (สถิติส่วนตัวที่ดีที่สุด!)</value>
 	</entry>
 	<entry>
 		<key>FeldsparJellyfishJournalWhoa &lt;i&gt;ho&lt;/i&gt;! Never thought I’d see one of these beasties outside of Giant’s Deep! They were awfully useful back there — maybe a jellyfish could be useful here, too?</key>
@@ -9682,11 +9682,11 @@
 	</entry>
 	<entry>
 		<key>FeldsparJellyfishJournalRight, I’m going inside of this jellyfish’s interior cavity to see if what’s in there tastes any better.</key>
-		<value>เอาล่ะ ฉันจะเข้าไปในด้างในของแมงกะพรุนนี่เพื่อดูว่าข้างในนั้นมันรสชาติดีกว่ารึเปล่า</value>
+		<value>เอาล่ะ ฉันจะเข้าไปในด้านในของแมงกะพรุนนี่เพื่อดูว่าข้างในนั้นมันรสชาติดีกว่ารึเปล่า</value>
 	</entry>
 	<entry>
 		<key>FeldsparJellyfishJournalNote to Feldspar: DO NOT EAT THIS EVEN IF YOU ARE DYING. It would be too sad if this were the last thing you ever ate in this life.</key>
-		<value>โน้ตถึงเฟลด์สปาร์: ห้ามกินสิ่งนี้เด็ดขาดแม้ว่านายกำลังจะตายตาม มันคงจะน่าเศร้าเกินไปถ้าหากนี่เป็นสิ่งสุดท้ายที่นายได้กินในชีวิตนี้</value>
+		<value>โน้ตถึงเฟลด์สปาร์: ห้ามกินสิ่งนี้เด็ดขาดแม้ว่านายกำลังจะตายก็ตาม มันคงจะน่าเศร้าเกินไปถ้าหากนี่เป็นสิ่งสุดท้ายที่นายได้กินในชีวิตนี้</value>
 	</entry>
 	<entry>
 		<key>FeldsparJellyfishJournalI guess these jellyfish are only useful for insulation from electricity. Again, DO NOT EAT. (Love, Feldspar)</key>
@@ -9810,7 +9810,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanetAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>ส่วนเรื่องพื้นดิน ฉันนับได้ประมาณสี่เกาะรวมเกาะนี้ แล้วก็รวมเกาะที่มีรูปปั้นไนโมที่ฉันเจอบนชายหาดด้วย</value>
+		<value>ส่วนเรื่องพื้นดิน ฉันนับได้ประมาณสี่เกาะรวมเกาะนี้ แล้วก็รวมเกาะที่มีรูปปั้นโนไมที่ฉันเจอบนชายหาดด้วย</value>
 	</entry>
 	<entry>
 		<key>ThisPlanetYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
@@ -9926,7 +9926,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_2FAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>ส่วนเรื่องพื้นดิน ฉันนับได้ประมาณสี่เกาะรวมเกาะนี้ แล้วก็รวมเกาะที่มีรูปปั้นไนโมที่ฉันเจอบนชายหาดด้วย</value>
+		<value>ส่วนเรื่องพื้นดิน ฉันนับได้ประมาณสี่เกาะรวมเกาะนี้ แล้วก็รวมเกาะที่มีรูปปั้นโนไมที่ฉันเจอบนชายหาดด้วย</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2FYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</key>
@@ -10041,7 +10041,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_2TAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>ส่วนเรื่องพื้นดิน ฉันนับได้ประมาณสี่เกาะรวมเกาะนี้ แล้วก็รวมเกาะที่มีรูปปั้นไนโมที่ฉันเจอบนชายหาดด้วย</value>
+		<value>ส่วนเรื่องพื้นดิน ฉันนับได้ประมาณสี่เกาะรวมเกาะนี้ แล้วก็รวมเกาะที่มีรูปปั้นโนไมที่ฉันเจอบนชายหาดด้วย</value>
 
 	</entry>
 	<entry>
@@ -10531,7 +10531,7 @@
 	</entry>
 	<entry>
 		<key>ReadyToPlayA conscious observer has entered the Eye. I wonder what happens now.</key>
-		<value>ผู้รับรู้ได้เข้ามาใน The Eye แล้ว ฉันสงสัยจังว่าอะไรจะเกิดขึ้นตอนนี้</value>
+		<value>ผู้สังเกตได้เข้ามาใน The Eye แล้ว ฉันสงสัยจังว่าอะไรจะเกิดขึ้นตอนนี้</value>
 	</entry>
 	<entry>
 		<key>ReadyToPlayIs it time to find out?</key>
@@ -10583,7 +10583,7 @@
 	</entry>
 	<entry>
 		<key>Farewell3But unless they are collapsed by an observer, they will never be more than possibilities.</key>
-		<value>แต่หากพวกมันไม่ถูกยุบรวมโดยผู้รับรู้ พวกมันก็จะไม่มีวันเป็นอะไรได้มากกว่าความเป็นไปได้</value>
+		<value>แต่หากพวกมันไม่ถูกยุบรวมโดยผู้สังเกต พวกมันก็จะไม่มีวันเป็นอะไรได้มากกว่าความเป็นไปได้</value>
 	</entry>
 	<entry>
 		<key>SignI saw smoke coming from Youngbark Crater up north and figured I should go check it out. You can use the scout launcher, just please don’t break it while I’m gone – Tektite</key>
@@ -10993,7 +10993,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeThis tower (located on Brittle Hollow's equator) held useful knowledge for Nomai embarking on their first pilgrimage to the Quantum Moon.</key>
-			<value>หอคอยนี้(ตั้งอยู่บริเวณเส้นศูนย์สูตรของ Brittle Hollow) เป็นสถานที่เก็บความรู้ที่เป็นจำเป็นสำหรับชาวโนไมที่กำลังเริ่มต้นการแสวงบุญครั้งแรกไปยังดวงจันทร์คอวนตัว</value>
+			<value>หอคอยนี้(ตั้งอยู่บริเวณเส้นศูนย์สูตรของ Brittle Hollow) เป็นสถานที่เก็บความรู้ที่เป็นจำเป็นสำหรับชาวโนไมที่กำลังเริ่มต้นการแสวงบุญครั้งแรกไปยังดวงจันทร์ควอนตัม</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeA Nomai named Solanum was told to visit the Tower of Quantum Knowledge (on Brittle Hollow's equator) to learn one final rule before embarking on her pilgrimage to the Quantum Moon.</key>
@@ -11257,7 +11257,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationThere also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</key>
-			<value>แต่ยังมีพายุไซโคลนชนิดที่หายากกว่าซึ่งหมุนในทิศทางตรงกันข้ามและผลักวัตถุลงไปใต้น้ำจมผ่านกระแสน้ำได้</value>
+			<value>แต่ยังมีพายุไซโคลนชนิดที่หายากกว่าซึ่งหมุนในทิศทางตรงกันข้ามและผลักวัตถุลงไปจมผ่านกระแสน้ำได้</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s Camp</key>
@@ -11281,7 +11281,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar is alive! They crashed their ship and is now camping inside a huge anglerfish skeleton.</key>
-			<value>เฟลด์สปาร์ยังมีชีวิตอยู่! เขาทำยานพังและตอนนี้กำลังตั้งแคมป์อยู่ในโครงกระดูกแองเกลอร์ฟิชขนาดมหึมา</value>
+			<value>เฟลด์สปาร์ยังมีชีวิตอยู่! เขาทำยานพังและตอนนี้กำลังตั้งแคมป์อยู่ในโครงกระดูกปลาแองเกลอร์ขนาดมหึมา</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar doesn't think my scout tracker is wrong when it says my scout is in two places at once. They have a theory that space doesn’t work the same inside Dark Bramble.</key>
@@ -11301,7 +11301,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar hinted that a secret to reaching the core of Giant's Deep lies at the end of the hollow vine they crashed their ship into. To find Feldspar's ship, I'll want to go to the tail end of the anglerfish skeleton and look for a flickering light in the fog.</key>
-			<value>เฟลด์สปาร์ ใบ้ว่าความลับในการไปถึงแกนกลางของ Giant's Deep นั้นอยู่ที่ปลายเถาวัลย์กลวงที่ยากของพวกเขาชนใส่ หากต้องการหายานของเฟลด์สปาร์ ฉันจะต้องไปที่ส่วนหางของโครงกระดูกแองเกลอร์ฟิชและมองหาแสงไฟกระพริบในหมอก</value>
+			<value>เฟลด์สปาร์ ใบ้ว่าความลับในการไปถึงแกนกลางของ Giant's Deep นั้นอยู่ที่ปลายเถาวัลย์กลวงที่ยากของพวกเขาชนใส่ หากต้องการหายานของเฟลด์สปาร์ ฉันจะต้องไปที่ส่วนหางของโครงกระดูกปลาแองเกลอร์และมองหาแสงไฟกระพริบในหมอก</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar documented their attempts to eat this enormous jellyfish frozen in the ice. The outside was all rubbery and tough, possibly because it insulates the jellyfish’s insides from getting zapped by electricity.</key>
@@ -12049,7 +12049,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s CampChert has become catatonic in response to our sun's imminent death.</key>
-			<value>เชิร์ต อยู่ในภาวะนิ่งงันจากการรับรู้ถึงการตายที่ใกล้เข้ามาของดวงอาทิตย์ของเรา</value>
+			<value>เชิร์ต อยู่ในภาวะนิ่งงันหลังจากทราบถึงความจริงที่ว่าดวงอาทิตย์ของเรากำลังจะตาย</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Moon Locator</key>
@@ -12057,7 +12057,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Moon LocatorA Nomai device created to track the Quantum Moon's location.</key>
-			<value>อุปกรณ์ที่โนไมสร้างขึ้นเพื่อติดตามตำแหน่งของ Quantum Moon</value>
+			<value>อุปกรณ์ที่โนไมสร้างขึ้นเพื่อติดตามตำแหน่งของดวงจันทร์ควอนตัม</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Moon LocatorThe Nomai hypothesized that the Quantum Moon might be a form of macroscopic quantum mechanics.</key>
@@ -12101,7 +12101,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2All three escape pods were launched from something called the Vessel, which was badly damaged.</key>
-			<value>ยานหนีภัยยั้งสามลำถูกปล่อยมาจากสิ่งที่เรียกว่า เวซเซล ซึ่งได้รับความเสียหายอย่างหนัก</value>
+			<value>ยานหนีภัยทั้งสามลำถูกปล่อยมาจากสิ่งที่เรียกว่า เวซเซล ซึ่งได้รับความเสียหายอย่างหนัก</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy Lab</key>
@@ -12129,7 +12129,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe Nomai wanted to know if a 22-minute negative time interval was possible. They concluded it would require new technology to produce the necessary energy as well an advanced warp core to handle those energies. Ash Twin was proposed as a location for the project.</key>
-			<value>โนไมอยากรู้ว่าช่วงเวลาติดลบ 22 นาทีนั้นเป็นไปได้หรือไม่ พวกเขาสรุปได้ว่ามันต้องใช้เทคโนโลยีใหม่ในการผลิตพลังงานที่ต้องการ รวมถึงแกนวาร์ปขั้นสูงเพื่อจัดการกับพลังงานเหล่านั้น Ash Twin ถูกเสนอให้เป็นสถานที่สำหรับโครงการนี้</value>
+			<value>โนไมอยากรู้ว่าความต่างเวลาติดลบ 22 นาทีนั้นเป็นไปได้หรือไม่ พวกเขาสรุปได้ว่ามันต้องใช้เทคโนโลยีใหม่ในการผลิตพลังงานที่ต้องการ รวมถึงแกนวาร์ปขั้นสูงเพื่อจัดการกับพลังงานเหล่านั้น Ash Twin ถูกเสนอให้เป็นสถานที่สำหรับโครงการนี้</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower Designs</key>
@@ -12197,15 +12197,15 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish Fossil</key>
-			<value>ซากฟอสซิลแองเกลอร์ฟิช</value>
+			<value>ซากฟอสซิลปลาแองเกลอร์</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilI found a cave with an anglerfish fossil inside, but the opening is only big enough for my scout.</key>
-			<value>ฉันเจอถ้ำที่มีซากฟอสซิลแองเกลอร์ฟิชอยู่ข้างใน แต่ช่องเปิดมีขนาดใหญ่พอสำหรับสเกาต์ของฉันเท่านั้น</value>
+			<value>ฉันเจอถ้ำที่มีซากฟอสซิลปลาแองเกลอร์อยู่ข้างใน แต่ช่องเปิดมีขนาดใหญ่พอสำหรับสเกาต์ของฉันเท่านั้น</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilThe Nomai learned how to evade anglerfish (theoretically, at least) by studying an anglerfish fossil they found on Ember Twin.</key>
-			<value>เหล่าโนไมรู้วิธีหลบหลีกแองเกลอร์ฟิช(อย่างน้อยก็ในทางทฤษฎี) โดยการศึกษาซากฟอสซิลแองเกลอร์ฟิชที่พวกเขาพบบน Ember Twin</value>
+			<value>เหล่าโนไมรู้วิธีหลบหลีกปลาแองเกลอร์(อย่างน้อยก็ในทางทฤษฎี) โดยการศึกษาซากฟอสซิลปลาแองเกลอร์ที่พวกเขาพบบน Ember Twin</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Fossil Fish Cave</key>
@@ -12217,15 +12217,15 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilThe entrance from Stepping Stone Cave is hard to see unless the anglerfish is fed a light first.</key>
-			<value>ทางเข้าจากถ้ำสเตปปิ้งสโตนนั้นจะมองเห็นได้ยาก ยกเว้นจะป้อนแสงให้แองเกลอร์ฟิชก่อน</value>
+			<value>ทางเข้าจากถ้ำสเตปปิ้งสโตนนั้นจะมองเห็นได้ยาก ยกเว้นจะป้อนแสงให้ปลาแองเกลอร์ก่อน</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilNomai children used to play a game here. One player was the anglerfish and wore a blindfold. The rest of the children (the littlefish) lined up against one wall. When the anglerfish said go, the littlefish had to sneak across to the other side.</key>
-			<value>โนไมเด็กๆ เคยเล่นเกมกันที่นี่ ผู้เล่นคนหนึ่งจะเป็นแองเกลอร์ฟิชและสวมผ้าปิดตา เด็กที่เหลือ(ปลาเล็ก)จะยืนเรียงแถวชิดผนังด้านหนึ่ง เมื่อแองเกลอร์ฟิชพูดว่า "ไป" เหล่าลูกปลาตัวน้อยจะต้องย่องข้ามไปอีกฝั่ง</value>
+			<value>โนไมเด็กๆ เคยเล่นเกมกันที่นี่ ผู้เล่นคนหนึ่งจะเป็นปลาแองเกลอร์และสวมผ้าปิดตา เด็กที่เหลือ(ปลาเล็ก)จะยืนเรียงแถวชิดผนังด้านหนึ่ง เมื่อปลาแองเกลอร์พูดว่า "ไป" เหล่าลูกปลาตัวน้อยจะต้องย่องข้ามไปอีกฝั่ง</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilThe blindfold rule was added because real anglerfish are blind.</key>
-			<value>กฎการปิดตาถูกเพิ่มเข้ามาเพราะแองเกลอร์ฟิชตัวจริงนั้นตาบอด</value>
+			<value>กฎการปิดตาถูกเพิ่มเข้ามาเพราะปลาแองเกลอร์ตัวจริงนั้นตาบอด</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilThe adult Nomai were delighted to see the children incorporate their research into the game's rules.</key>
@@ -12265,11 +12265,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveTo travel with a quantum object, I must stand on the object and cease to observe my surroundings (meaning I must be in complete darkness). Coleus used this quantum rule to escape the cave he was trapped in.</key>
-			<value>ในการที่จะเดินทางไปพร้อมกับวัตถุควอนตัม ฉันต้องยืนอยู่บนวัตถุนั้นและหยุดรับรู้สภาพแวดล้อมของฉัน(หมายความว่าฉันต้องอยู่ในความมืดสนิท) โคเลียสใช้กฎควอนตัมนี้เพื่อหาทางออกจากถ้ำที่เขาติดอยู่</value>
+			<value>ในการที่จะเดินทางไปพร้อมกับวัตถุควอนตัม ฉันต้องยืนอยู่บนวัตถุนั้นและหยุดสังเกตสภาพแวดล้อมของฉัน(หมายความว่าฉันต้องอยู่ในความมืดสนิท) โคเลียสใช้กฎควอนตัมนี้เพื่อหาทางออกจากถ้ำที่เขาติดอยู่</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveColeus and Merolae returned to examine the rock. They theorized that when a conscious being is in contact with a quantum object and ceases to observe his or her surroundings, the being can become entangled with that quantum object, and they both move together.</key>
-			<value>โคเลียสและเมโลเรย์กลับมาตรวจสอบหินก้อนนั้น พวกเขาสร้างทฤษฎีว่าเมื่อสิ่งมีชีวิตสัมผัสกับวัตถุควอนตัมและหยุดรับรู้สภาพแวดล้อมของตน สิ่งมีชีวิตนั้นจะอยู่ในสภาวะพัวพันกับวัตถุควอนตัมนั้น และทั้งสองจะเคลื่อนที่ไปด้วยกัน</value>
+			<value>โคเลียสและเมโลเรย์กลับมาตรวจสอบหินก้อนนั้น พวกเขาสร้างทฤษฎีว่าเมื่อสิ่งมีชีวิตสัมผัสกับวัตถุควอนตัมและหยุดสังเกตสภาพแวดล้อมของตน สิ่งมีชีวิตนั้นจะอยู่ในสภาวะพัวพันกับวัตถุควอนตัมนั้น และทั้งสองจะเคลื่อนที่ไปด้วยกัน</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai Shuttle</key>
@@ -12469,7 +12469,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Trials"Observing a quantum object; observing an image of a quantum object. These are the same."</key>
-			<value>"การรับรู้ถึงวัตถุควอนตัม ; การรับรู้ถึงรูปภาพของวัตถุควอนตัม ; สิ่งเหล่านี้คือสิ่งเดียวกัน"</value>
+			<value>"การสังเกตวัตถุควอนตัม ; การสังเกตรูปภาพของวัตถุควอนตัม ; สิ่งเหล่านี้คือสิ่งเดียวกัน"</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum TrialsThe Nomai called this the "Rule of Quantum Imaging."</key>
@@ -12485,7 +12485,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonThe Nomai on Brittle Hollow observed a phantom moon that would sometimes appear in the sky.</key>
-			<value>เหล่าโนไมบน Brittle Hollow สังเกตเห็นดวงจันทร์ผีที่บางครั้งก็ปรากฏขึ้นบนท้องฟ้า.</value>
+			<value>เหล่าโนไมบน Brittle Hollow สังเกตเห็นดวงจันทร์ผีที่บางครั้งก็ปรากฏขึ้นบนท้องฟ้า</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonThe Nomai on Ember Twin observed a moon that would disappear when no one was watching.</key>
@@ -12577,7 +12577,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationSolanum wonders what would happen if a concious observer were to enter the Eye.</key>
-			<value>โซลานัม สงสัยว่าจะเกิดอะไรขึ้นหากมีผู้รับรู้เข้าไปใน The Eye </value>
+			<value>โซลานัม สงสัยว่าจะเกิดอะไรขึ้นหากมีผู้สังเกตเข้าไปใน The Eye </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationSolanum has a hypothesis that she may not be entirely alive.</key>
@@ -13175,7 +13175,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>213</key>
-			<value>กลิ้ง</value>
+			<value>หมุนตัว</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>214</key>
@@ -13239,7 +13239,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>233</key>
-			<value>เรียกคือสเกาต์</value>
+			<value>เรียกคืนสเกาต์</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>234</key>
@@ -14095,7 +14095,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>577</key>
-			<value>เรียกคือสเกาต์</value>
+			<value>เรียกคืนสเกาต์</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>578</key>
@@ -14763,7 +14763,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>968</key>
-			<value>ไม่สามารถเก็บสเกาต์กลับมาได้; มีหลายเป้าหมายเกินไป</value>
+			<value>ไม่สามารถเรียกคืนสเกาต์ได้; มีหลายเป้าหมายเกินไป</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>969</key>
@@ -14775,7 +14775,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>971</key>
-			<value>จาก 3 ซ่อนแซมแล้ว</value>
+			<value> จาก 3 ซ่อนแซมแล้ว</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>972</key>
@@ -15167,7 +15167,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1122</key>
-			<value>ป้องกันภาพฉีกขาดโดยซิงค์เฟรมเรตของเกมกับรีเฟรชเรตของจอภาพ\\n่าใช้จ่ายในการแสดงผล: ไม่มีผล แต่ว่าจะลดเฟรมเรตเพื่อให้ใกล้เคียงกับรีเฟรชเรตของจอมากที่สุด</value>
+			<value>ป้องกันภาพฉีกขาดโดยซิงค์เฟรมเรตของเกมกับรีเฟรชเรตของจอภาพ\\nค่าใช้จ่ายในการแสดงผล: ไม่มีผล แต่ว่าจะลดเฟรมเรตเพื่อให้ใกล้เคียงกับรีเฟรชเรตของจอมากที่สุด</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1123</key>
@@ -15227,7 +15227,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1137</key>
-			<value>หยุเวลาขณะกำลังคุยกับตัวละคร, อ่านบันทึกหรืออ่านป้าย แอนิเมชั่นของตัวละครจะไม่ถูกเล่นขณะสนทนาหากเปิดใช้งาน\\nโน๊ต: เวลาจะไม่ถูกหยุดในบางสถานการณ์</value>
+			<value>หยุดเวลาขณะกำลังคุยกับตัวละคร, อ่านบันทึกหรืออ่านป้าย แอนิเมชั่นของตัวละครจะไม่ถูกเล่นขณะสนทนาหากเปิดใช้งาน\\nโน๊ต: เวลาจะไม่ถูกหยุดในบางสถานการณ์</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1138</key>

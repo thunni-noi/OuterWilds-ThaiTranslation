@@ -1,4 +1,4 @@
-![logo](img/logo.png)
+![logo](img/banner.png)
 
  > For english see below!
 
@@ -20,13 +20,21 @@
 
 ![modmanager](img/ModManagerExample.png)
 
+## เจอบัค / แปลผิด / สะกดผิด
+เปิด [Issue](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/issues) / [Pull Request](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/pulls) บน Github (ไฟล์ภาษาจะอยู่ที่ [assets/translation.xml](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/blob/main/ThaiTranslation/assets/Translation.xml) แต่บางอันจะเขียนทับลงไปใน[โค้ด](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/blob/main/ThaiTranslation/Patches/FontPatches.cs)เลย)  
+หรือติดต่อผมผ่าน Discord (thunninoi) หรือ Twitter (@thunninoi)  
+ถ้าผมแก้ได้จะแก้ให้นะครับ :D
+
 
 ## ฟอนต์ที่ใช้
  - บทพูดและ UI - [KMITLGO](https://thaifaces.com/specimen/kmitl-go)        
  - เครื่องแปลภาษา - [Chakra Petch](https://thaifaces.com/specimen/th-chakra-petch)
  - จอในยาน - [SILPAKORN70NEW](https://thaifaces.com/specimen/silpakorn70new)
  - โหมดเบาะแส - [RSU](https://thaifaces.com/specimen/rsu)
+ - โลโก้ - [SOV_LaiKhnad](https://thaifaces.com/specimen/sov-laikhnad), [DM Twilight Reborn](https://thaifaces.com/specimen/dm-jomkwan)
  
+
+
  #
    
 # Eng Ver. 
@@ -48,10 +56,16 @@ Your mod manager should look like this
 
 ![modmanager](img/ModManagerExample.png)
 
+## Found bug / mistranslation
+Please open [Issue](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/issues) / [Pull Request](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/pulls) on Github (Translation file is [assets/translation.xml](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/blob/main/ThaiTranslation/assets/Translation.xml) but some are hard-coded in [patches](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/blob/main/ThaiTranslation/Patches/FontPatches.cs))  
+Or contact me via Discord (thunninoi) or Twitter (@thunninoi)  
+I'll fix it asap if i can! :D
 
 ## Font used
  - Dialogue & UI - [KMITLGO](https://thaifaces.com/specimen/kmitl-go)        
  - Translator - [Chakra Petch](https://thaifaces.com/specimen/th-chakra-petch)
  - Ship display - [SILPAKORN70NEW](https://thaifaces.com/specimen/silpakorn70new)
  - Clue mode - [RSU](https://thaifaces.com/specimen/rsu)
+ - Outer Wilds Logo - [SOV_LaiKhnad](https://thaifaces.com/specimen/sov-laikhnad), [DM Twilight Reborn](https://thaifaces.com/specimen/dm-jomkwan)
+
 

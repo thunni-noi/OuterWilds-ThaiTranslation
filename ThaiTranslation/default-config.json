@@ -2,6 +2,19 @@
   "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json",
   "enabled": true,
   "settings": {
-    
+
+    "owLogo": {
+      "type": "toggle",
+      "title": "Show Custom Logos",
+      "tooltip": "Change Outer Wild's logo to custom Thai logo (Need to reload to take effect)",
+      "value": true
+    },
+    "dlcLogo": {
+      "type": "toggle",
+      "title": "Show Custom DLC Logos",
+      "tooltip": "Change Echoes of the Eyes's logo to custom Thai logo (Need to reload to take effect)",
+      "value": true
+    }
+
   }
 }

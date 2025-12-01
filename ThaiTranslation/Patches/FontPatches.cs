@@ -1,5 +1,6 @@
 ﻿using HarmonyLib;
 using OWML.ModHelper.Events;
+using ThaiTranslation.Patches;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -13,7 +14,13 @@ namespace ThaiTranslation
         [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation.GetFont))]
         public static bool TextTranslation_GetFont(bool dynamicFont, ref Font __result)
         {
-            __result = ThaiTranslation._kmitlFont;
+            if (TextTranslation.s_theTable == null)
+            {
+                __result = null;
+                return false;
+            }
+
+            __result = ThaiTranslation.Instance.KmitlFont;
             return false;
         }
 
@@ -44,9 +51,7 @@ namespace ThaiTranslation
                 return false;
             }
 
-            __result = TextTranslation.GetFont(false);
-
-
+            __result = ThaiTranslation.Instance.KmitlFont;
             return false;
         }
 
@@ -54,11 +59,7 @@ namespace ThaiTranslation
         [HarmonyPatch(typeof(UIStyleManager), nameof(UIStyleManager.GetMenuFont))]
         public static bool UIStyleManager_GetMenuFont(ref Font __result)
         {
-            var savedLanguage = PlayerData.GetSavedLanguage();
-
-
             __result = TextTranslation.GetFont(false);
-
             return false;
         }
 
@@ -68,7 +69,7 @@ namespace ThaiTranslation
         [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation.GetGameOverFont))]
         public static bool TextTranslation_GetGameOverFont(ref Font __result)
         {
-            __result = ThaiTranslation._kmitlFont;
+            __result = ThaiTranslation.Instance.KmitlFont;
 
             return false;
         }
@@ -88,7 +89,7 @@ namespace ThaiTranslation
                 {
                     container.textElement.fontSize = (int)(TextTranslation.GetModifiedFontSize(container.originalFontSize));
                     container.textElement.rectTransform.localScale = container.originalScale;
-                    container.textElement.lineSpacing = (float)1.5;
+                    container.textElement.lineSpacing = 1.5f;
                 }
             }
 
@@ -98,33 +99,45 @@ namespace ThaiTranslation
         // Not ideal but i don't even know what i'm doing and it works so...
 
         // Font Size Adjustment
+        private static void TextResizeApply(Text textField, UITextSize sizeSetting, int largeVal, int normalVal, float multiplier, bool forceOverflow = false, bool enableSizeChange = true, bool enableSpaceChange = true)
+        {
+            UITextSize ui_textSize = sizeSetting;
+            if (ui_textSize == UITextSize.AUTO)
+            {
+                ui_textSize = PlayerData.IsUILargeTextSize() ? UITextSize.LARGE : UITextSize.SMALL;
+            }
+
+            int finalSize;
+            float spacing;
+
+            if (ui_textSize == UITextSize.LARGE)
+            {
+                finalSize = largeVal;
+                spacing = SizeConstant.SpacingLarge;
+            }
+            else
+            {
+                finalSize = normalVal;
+                spacing = SizeConstant.SpacingNormal;
+            }
+
+            if (textField != null)
+            {
+                if (enableSizeChange) { textField.fontSize = (int)(finalSize * multiplier); }
+                if (enableSpaceChange) { textField.lineSpacing = spacing; }
+                textField.horizontalOverflow = forceOverflow ? HorizontalWrapMode.Overflow : HorizontalWrapMode.Wrap;
+            }
+        }
+
         [HarmonyPrefix]
         [HarmonyPatch(typeof(UiSizeSetterText), nameof(UiSizeSetterText.DoResizeAction))]
         public static bool UiSizeSetterText_DoResizeAction(UiSizeSetterText __instance, UITextSize textSizeSetting)
         {
-            UITextSize ui_textSize = textSizeSetting;
-            if (ui_textSize == UITextSize.AUTO)
-            {
-                if (PlayerData.IsUILargeTextSize())
-                {
-                    ui_textSize = UITextSize.LARGE;
-                }
-                else
-                {
-                    ui_textSize = UITextSize.SMALL;
-                }
-            }
 
-            if (ui_textSize == UITextSize.LARGE)
-            {
-                if (__instance._enableFontSizeChange) { __instance._targetText.fontSize = (int) (__instance._fontSizes.largeVal * ThaiTranslation._textSizeMutliplier_genText); }
-                if (__instance._enableLineSpacingChange) { __instance._targetText.lineSpacing = (float) 1.4; }
-            }
-            else
-            {
-                if (__instance._enableFontSizeChange) { __instance._targetText.fontSize = (int) (__instance._fontSizes.normalVal * ThaiTranslation._textSizeMutliplier_genText); }
-                if (__instance._enableLineSpacingChange) { __instance._targetText.lineSpacing = (float)1.2; }
-            }
+            TextResizeApply(textField: __instance._targetText, sizeSetting: textSizeSetting, 
+                            largeVal: __instance._fontSizes.largeVal, normalVal: __instance._fontSizes.normalVal,
+                            multiplier: SizeConstant.MultGenText, enableSizeChange: __instance._enableFontSizeChange, enableSpaceChange: __instance._enableLineSpacingChange) ;
+
             return false;
         }
 
@@ -132,39 +145,9 @@ namespace ThaiTranslation
         [HarmonyPatch(typeof(UiSizeSetterLangDependentText), nameof(UiSizeSetterLangDependentText.DoResizeAction))]
         public static bool UiSizeLangDependentText_DoResizeAction(UiSizeSetterLangDependentText __instance, UITextSize textSizeSetting)
         {
-            UITextSize ui_textSize = textSizeSetting;
-            if (ui_textSize == UITextSize.AUTO)
-            {
-                if (PlayerData.IsUILargeTextSize())
-                {
-                    ui_textSize = UITextSize.LARGE;
-                }
-                else
-                {
-                    ui_textSize = UITextSize.SMALL;
-                }
-            }
-
-            int fontSize;
-            float lineSpacing;
-            bool horizonOverflow;
-
-            if (ui_textSize == UITextSize.LARGE)
-            {
-                fontSize = __instance._entryFontSizeDefault.largeVal;
-                lineSpacing = (float)1.4;
-                horizonOverflow = false;
-            }
-            else
-            {
-                fontSize = __instance._entryFontSizeDefault.normalVal;
-                lineSpacing = (float)1.2;
-                horizonOverflow = false;
-            }
-
-            __instance._textField.fontSize = (int)(fontSize * ThaiTranslation._textSizeMutliplier_uiLang);
-            __instance._textField.lineSpacing = lineSpacing;
-            __instance._textField.horizontalOverflow = (horizonOverflow ? HorizontalWrapMode.Overflow : HorizontalWrapMode.Wrap);
+            TextResizeApply(textField: __instance._textField, sizeSetting: textSizeSetting,
+                            largeVal: __instance._entryFontSizeDefault.largeVal, normalVal: __instance._entryFontSizeDefault.normalVal,
+                            multiplier: SizeConstant.MultUiLang, forceOverflow: false);
 
             return false;
         }
@@ -173,6 +156,11 @@ namespace ThaiTranslation
         [HarmonyPatch(typeof(UiSizeSetterDialogueOption), nameof(UiSizeSetterDialogueOption.DoResizeAction))]
         public static bool UiSizeSetterDialogueOption_DoResizeAction(UiSizeSetterDialogueOption __instance, UITextSize textSizeSetting) 
         {
+
+            TextResizeApply(textField: __instance._textField, sizeSetting: textSizeSetting,
+                            largeVal: __instance._entryFontSizeDefault.largeVal, normalVal: __instance._entryFontSizeDefault.normalVal,
+                            multiplier: SizeConstant.MultDialogue, forceOverflow: false);
+
             UITextSize ui_textSize = textSizeSetting;
             if (ui_textSize == UITextSize.AUTO)
             {
@@ -186,24 +174,8 @@ namespace ThaiTranslation
                 }
             }
 
-            int fontSize;
-            float lineSpacing;
-            float yPosMarker;
 
-            if (ui_textSize == UITextSize.LARGE)
-            {
-                fontSize = __instance._entryFontSizeDefault.largeVal;
-                lineSpacing = (float) 1.4;
-                yPosMarker = 7;
-            } else
-            {
-                fontSize = __instance._entryFontSizeDefault.normalVal;
-                lineSpacing = (float)1.2;
-                yPosMarker = 3;
-            }
-
-            __instance._textField.fontSize = (int)(fontSize * ThaiTranslation._textSizeMultiplier_dialogue);
-            __instance._textField.lineSpacing = lineSpacing;
+            float yPosMarker = (ui_textSize == UITextSize.LARGE)? 7 : 3;
             Vector2 anchoredPos = __instance._optionSelectionMarkerTransform.anchoredPosition;
             anchoredPos.y = yPosMarker;
             __instance._optionSelectionMarkerTransform.anchoredPosition = anchoredPos;
@@ -247,7 +219,7 @@ namespace ThaiTranslation
                 minHeight = __instance._minRootObjLayoutHeightDefault.normalVal;
             }
 
-            __instance._textField.fontSize = (int)(fontSize * ThaiTranslation._textSizeMultiplier_shipEntry);
+            __instance._textField.fontSize = (int)(fontSize * SizeConstant.MultShipEntry);
             __instance._listItemLayoutElement.minHeight = (float)(minHeight * 1.2);
 
             return false;
@@ -257,31 +229,10 @@ namespace ThaiTranslation
         [HarmonyPatch(typeof(UiSizeSetterShipLogFact), nameof(UiSizeSetterShipLogFact.DoResizeAction))]
         public static bool UISizeSetterShipLogFact_DoResizeAction(UiSizeSetterShipLogFact __instance, UITextSize textSizeSetting)
         {
-            UITextSize ui_textSize = textSizeSetting;
-            if (ui_textSize == UITextSize.AUTO)
-            {
-                if (PlayerData.IsUILargeTextSize())
-                {
-                    ui_textSize = UITextSize.LARGE;
-                }
-                else
-                {
-                    ui_textSize = UITextSize.SMALL;
-                }
-            }
+            TextResizeApply(textField: __instance._textField, sizeSetting: textSizeSetting,
+                           largeVal: __instance._fontSizeDefault.largeVal, normalVal: __instance._fontSizeDefault.normalVal,
+                           multiplier: SizeConstant.MultShipFact);
 
-            int fontSize;
-
-            if (ui_textSize == UITextSize.LARGE)
-            {
-                fontSize = __instance._fontSizeDefault.largeVal;
-            }
-            else
-            {
-                fontSize = __instance._fontSizeDefault.normalVal;
-            }
-
-            __instance._textField.fontSize = (int)(fontSize * ThaiTranslation._textSizeMultiplier_shipFact);
             __instance._textField.lineSpacing = 1.05f;
             __instance._bulletPointTransform.anchoredPosition = __instance._bulletPointPositionDefault.normalVal;
             return false;
@@ -295,7 +246,7 @@ namespace ThaiTranslation
             GameObject optionsLayoutObj = GameObject.Find("DialogueCanvas/MainAnchorPoint/DialogueRect/VerticalLayoutGroup/OptionsRoot");
             if (optionsLayoutObj != null)
             {
-                optionsLayoutObj.GetComponent<VerticalLayoutGroup>().spacing = 7.5f;
+                optionsLayoutObj.GetComponent<VerticalLayoutGroup>().spacing = SizeConstant.SpacingDialogueOptions;
             }
         }
 
@@ -308,34 +259,34 @@ namespace ThaiTranslation
         public static void TitleScreenManager_OnTitleMenuAnimationComplete(TitleScreenManager __instance)
         {
             GameObject mainMenuObj = GameObject.Find("TitleMenu/TitleCanvas/TitleLayoutGroup/MainMenuBlock/MainMenuLayoutGroup");
-            if (mainMenuObj != null)
-            {
-                foreach (Transform menuChild in mainMenuObj.transform)
-                {
-                    if (menuChild.name.StartsWith("Button-"))
-                    {
-                        Transform buttonTextObj = menuChild.Find("LayoutGroup/Text");
-                        if (buttonTextObj != null)
-                        {
-                            TextStyleApplier buttonStyle = buttonTextObj.GetComponent<TextStyleApplier>();
-                            if (buttonStyle != null) { buttonStyle.spacing = 0; }
+            if (mainMenuObj == null) { return; }
 
-                            Text buttonText = buttonTextObj.GetComponent<Text>();
-                            if (buttonText != null) { buttonText.fontSize = 52; }
-                        }
+            foreach (Transform menuChild in mainMenuObj.transform)
+            {
+                if (menuChild.name.StartsWith("Button-"))
+                {
+                    Transform buttonTextObj = menuChild.Find("LayoutGroup/Text");
+                    if (buttonTextObj)
+                    {
+                        TextStyleApplier buttonStyle = buttonTextObj.GetComponent<TextStyleApplier>();
+                        if (buttonStyle) { buttonStyle.spacing = 0; }
+
+                        Text buttonText = buttonTextObj.GetComponent<Text>();
+                        if (buttonText) { buttonText.fontSize = SizeConstant.SizeMenuFont; }
                     }
                 }
-                // Adjust spacing
-                VerticalLayoutGroup buttonLayout = mainMenuObj.GetComponent<VerticalLayoutGroup>();
-                if (buttonLayout != null) { buttonLayout.spacing = 20; }
+            }
+            // Adjust spacing
+            VerticalLayoutGroup buttonLayout = mainMenuObj.GetComponent<VerticalLayoutGroup>();
+            if (buttonLayout) { buttonLayout.spacing = 2; }
+
+            // move custom logo up a bit after finish animation
+            if (ThaiTranslation.Instance.custom_game_logo)
+            {
+                GameObject.Find("TitleMenu/TitleCanvas/TitleLayoutGroup/Logo").transform.Translate(0, 20, 0);
             }
 
-            // adjust spacing if dlc is owned and showed which make some button goes too far down
-            if (EntitlementsManager.IsDlcOwned() == EntitlementsManager.AsyncOwnershipStatus.Owned)
-            {
-                GameObject spacer = GameObject.Find("TitleMenu/TitleCanvas/TitleLayoutGroup/MainMenuBlock/MainMenuLayoutGroup/Spacer");
-                spacer?.SetActive(false);
-            }
+           
         }
 
         // fix settings tooltip line space is too large
@@ -364,7 +315,7 @@ namespace ThaiTranslation
                 foreach (Text optionTxt in optionTxtLists)
                 {
                     optionTxt.fontSize = 52;
-                    optionTxt.font = ThaiTranslation._kmitlFont;
+                    optionTxt.font = ThaiTranslation.Instance.KmitlFont;
                 }
             }
 
@@ -374,7 +325,7 @@ namespace ThaiTranslation
                 foreach (Text pTxt in pManageTxtList)
                 {
                     pTxt.fontSize = 52;
-                    pTxt.font = ThaiTranslation._kmitlFont;
+                    pTxt.font = ThaiTranslation.Instance.KmitlFont;
                 }
             }
 
@@ -382,70 +333,6 @@ namespace ThaiTranslation
             if (languageSetting != null) { languageSetting.transform.localScale = new Vector3(1, 1, 1); }
         }
 
-        // Same thing but with pause menu
-        [HarmonyPostfix]
-        [HarmonyPatch(typeof(PauseMenuManager), nameof(PauseMenuManager.OnActivateMenu))]
-        public static void PauseMenuManager_onActivateMenu(PauseMenuManager __instance)
-        {
-
-
-            GameObject pauseMenuObj = GameObject.Find("PauseMenu/PauseMenuCanvas/PauseMenuBlock/PauseMenuItems/PauseMenuItemsLayout");
-            if (pauseMenuObj != null)
-            {
-                foreach (Transform menuChild in pauseMenuObj.transform)
-                {
-                    if (menuChild.name.StartsWith("Button-"))
-                    {
-                        Transform buttonTextObj = menuChild.Find("HorizontalLayoutGroup/Text");
-                        if (buttonTextObj != null)
-                        {
-                            TextStyleApplier buttonStyle = buttonTextObj.GetComponent<TextStyleApplier>();
-                            if (buttonStyle != null) { buttonStyle.spacing = 0; }
-
-                            Text buttonText = buttonTextObj.GetComponent<Text>();
-                            if (buttonText != null) { buttonText.fontSize = 52; }
-                        }
-                    }
-
-                    if (menuChild.name == "LabelPaused")
-                    {
-                        Transform labelTextObj = menuChild.Find("Text");
-                        if (labelTextObj != null)
-                        {
-                            TextStyleApplier textStyle = labelTextObj.GetComponent<TextStyleApplier>();
-                            if (textStyle != null) { textStyle.spacing = 0; }
-
-                            Text labelText = labelTextObj.GetComponent<Text>();
-                            if (labelText != null) { labelText.fontSize = 52; }
-                        }
-                    }
-                }
-
-            }
-
-            // fix settings
-            GameObject optionMenu = GameObject.Find("PauseMenu/OptionsCanvas/OptionsMenu-Panel");
-            if (optionMenu != null)
-            {
-                Text[] optionTxtLists = optionMenu.GetComponentsInChildren<Text>(true);
-                foreach (Text optionTxt in optionTxtLists)
-                {
-                    optionTxt.fontSize = 52;
-                    optionTxt.font = ThaiTranslation._kmitlFont;
-                }
-            }
-
-            Transform settingTooltipObj = optionMenu.transform.Find("OptionsDisplayPanel/Tooltips/PanelTooltips/ToolTip-Text");
-            if (settingTooltipObj != null)
-            {
-                Text settingTooltipText = settingTooltipObj.GetComponent<Text>();
-                if (settingTooltipText != null)
-                {
-                    settingTooltipText.lineSpacing = 1;
-                }
-            }
-
-        }
 
         // fix popup
         [HarmonyPostfix]
@@ -469,61 +356,30 @@ namespace ThaiTranslation
         [HarmonyPatch(typeof(SignalscopeUI), nameof(SignalscopeUI.Activate))]
         public static void SignalscopeUI_Activate(SignalscopeUI __instance)
         {
-            Font signalScopeFont = ThaiTranslation._kmitlFont;
-            if (PlayerState._atFlightConsole)
-            {
-                // modify to use static font if player is on ship
-                signalScopeFont = ThaiTranslation._silpakornFont;
-            }
+            bool onShip = PlayerState._atFlightConsole;
+            Font signalScopeFont = onShip ? ThaiTranslation.Instance.SilpakornFont : ThaiTranslation.Instance.KmitlFont;
 
             __instance._signalscopeLabel.font = signalScopeFont;
-            __instance._signalscopeLabel.fontSize = 42;
+            __instance._signalscopeLabel.fontSize = SizeConstant.SizeSignalLabel;
 
             __instance._distanceLabel.font = signalScopeFont;
-            __instance._distanceLabel.fontSize = 52;
+            __instance._distanceLabel.fontSize = SizeConstant.SizeSignalDist;
 
-            // adjust text on helmet ui 
-            GameObject frequencyLabel = GameObject.Find("PlayerHUD/HelmetOnUI/UICanvas/SigScopeDisplay/FrequencyLabel");
-            if (frequencyLabel != null)
-            {
-                Text frequencyTxt = frequencyLabel.GetAddComponent<Text>();
-                if (frequencyTxt != null)
-                {
-
-                    frequencyTxt.fontStyle = FontStyle.Bold;
-                    frequencyTxt.lineSpacing = (float)1.2;
-                }
-            }
-            // for helmet off ( why tf are they seperated?? )
-            frequencyLabel = GameObject.Find("PlayerHUD/HelmetOffUI/SignalscopeCanvas/SigScopeDisplay/FrequencyLabel");
-            if (frequencyLabel != null)
-            {
-                Text frequencyTxt = frequencyLabel.GetAddComponent<Text>();
-                if (frequencyTxt != null)
-                {
-
-                    frequencyTxt.fontStyle = FontStyle.Bold;
-                    frequencyTxt.lineSpacing = (float)1.2;
-                }
-            }
-
-            // distance ui
-            GameObject distanceReticle = GameObject.Find("PlayerHUD/HelmetOffUI/SignalscopeReticule/DistanceText");
-            if(distanceReticle != null) { distanceReticle.GetComponent<Text>().fontSize = 48; }
         }
 
         // Setting custom font for nomai translator
-        [HarmonyPostfix]
+        [HarmonyPrefix]
         [HarmonyPatch(typeof(NomaiTranslatorProp), nameof(NomaiTranslatorProp.InitializeFont))]
-        public static void NomaiTranslatorProp_InitializeFont(NomaiTranslatorProp __instance)
+        public static bool NomaiTranslatorProp_InitializeFont(NomaiTranslatorProp __instance)
         {
 
-            __instance._fontInUse = ThaiTranslation._chakraFont;
-            __instance._dynamicFontInUse = ThaiTranslation._chakraFont;
+            __instance._fontInUse = ThaiTranslation.Instance.ChakraFont;
+            __instance._dynamicFontInUse = ThaiTranslation.Instance.ChakraFont;
             __instance._fontSpacingInUse = 1.1f;
 
-            //__instance._textField.lineSpacing = __instance._fontSpacingInUse;
-            //__instance._textField.font = ThaiTranslation._thaisans;
+            __instance._textField.lineSpacing = __instance._fontSpacingInUse;
+            __instance._textField.font = __instance._fontInUse;
+            return false;
 
           
         }
@@ -532,10 +388,10 @@ namespace ThaiTranslation
         [HarmonyPatch(typeof(NomaiTranslatorProp), nameof(NomaiTranslatorProp.DisplayTextNode))]
         public static void NomaiTranslatorProp_DisplayTextNode(NomaiTranslatorProp __instance)
         {
-            __instance._textField.fontSize = 78;
+            __instance._textField.fontSize = SizeConstant.SizeTranslator;
         }
 
-        // text promt for stone ( In ENG it's xxx projection stone but in Thai it should be ฉายภาพ xxx ) 
+        // text promt for stone ( XXX projection stone --> หินฉายภาพ XXX ) 
         [HarmonyPrefix]
         [HarmonyPatch(typeof(SharedStone), nameof(SharedStone.GetDisplayName))]
         public static bool SharedStone_GetDisplayName(SharedStone __instance, ref string __result)
@@ -552,31 +408,28 @@ namespace ThaiTranslation
             if (TextTranslation.Get().GetLanguage().ToString() != "ไทย") { return; }
             if (__instance._promptState == ItemTool.PromptState.CANNOT_HOLD_MORE)
             {
+                __instance._messageOnlyPrompt.SetText($"ไม่สามารถืออย่างอื่นได้เนื่องจากในมือมี {itemName} อยู่แล้ว"); // hard coded cuz idk what im doing
                 __instance._messageOnlyPrompt.SetVisibility(true);
-                __instance._messageOnlyPrompt.SetText("ไม่สามารถืออย่างอื่นได้เนื่องจากในมือมี " + itemName + " อยู่แล้ว"); // hard coded cuz idk what im doing
 
                 __instance._cancelButtonPrompt.SetVisibility(false);
                 __instance._interactButtonPrompt.SetVisibility(false);
             }
             else if (__instance._promptState == ItemTool.PromptState.UNSOCKET)
             {
+                __instance._interactButtonPrompt.SetText($"นำ {itemName} ออก"); // another hard-coded
+
                 __instance._messageOnlyPrompt.SetVisibility(false);
                 __instance._cancelButtonPrompt.SetVisibility(false);
 
                 __instance._interactButtonPrompt.SetVisibility(true);
-                __instance._interactButtonPrompt.SetText("นำ " + itemName + " ออก"); // another hard-coded
+                
             }
             
 
         }
 
         // Ship log clue mode
-        [HarmonyPostfix]
-        [HarmonyPatch(typeof(ShipLogDetectiveMode), nameof(ShipLogDetectiveMode.OnEnterComputer))]
-        public static void ShipLogDetectiveMode_OnEnterComputer(ShipLogController __instance)
-        {
-            
-        }
+
 
         [HarmonyPostfix]
         [HarmonyPatch(typeof(ShipLogController), nameof(ShipLogController.LateInitialize))]
@@ -603,7 +456,7 @@ namespace ThaiTranslation
                         Text txtComp = title.GetComponent<Text>();
                         if (txtComp != null)
                         {
-                            txtComp.font = ThaiTranslation._rsuFont;
+                            txtComp.font = ThaiTranslation.Instance.KmitlFont;
                             txtComp.fontSize = 16;
                             txtComp.fontStyle = FontStyle.Bold;
                         }
@@ -613,9 +466,5 @@ namespace ThaiTranslation
 
         }
 
-
-
-
-
-            }
+    }
 }
