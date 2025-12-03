@@ -20,7 +20,7 @@
 			The early universe was unimaginably hot and dense. If anything existed before, it would have been destroyed.
 		</key>
 		<value>
-			ช่วงแรกเริ่มของจักรวาลมีความร้อนและความหนาแน่นมหาศาล ต่อให้มีอะไรเหลือรอดอยู่ก็น่าจะโดนทำลายสิ้นหมดแล้ว
+			ช่วงแรกเริ่มของจักรวาลมีความร้อนและความหนาแน่นมหาศาล ต่อให้มีอะไรเหลืออยู่ก็น่าจะถูกทำลายจนสิ้นซากไปแล้ว
 		</value>
 	</entry>
 	<entry>
@@ -41,15 +41,15 @@
 	</entry>
 	<entry>
 		<key>OENO: The greatest challenge here, I think, is we don’t have the design for such a powerful core, or any of the original crafters of the &lt;color=orange&gt;Vessel&lt;/color&gt;’s core.</key>
-		<value>โอเอโน่: ฉันคิดว่า ความท้าทายหลักของเราในตอนนี้ คือเราไม่มีแบบแปลนสำหรับแกนวาร์ปที่ทรงพลังขนาดนั้น แถมเราก็ไม่มีใครที่เป็นผู้สร้างแกนวาร์ปของ&lt;color=orange&gt;เวซเซล&lt;/color&gt;อีก</value>
+		<value>โอเอโน่: ฉันคิดว่า ความท้าทายหลักของเราในตอนนี้ คือเราไม่มีแบบแปลนสำหรับแกนวาร์ปที่ทรงพลังขนาดนั้น แถมในหมู่พวกเราก็ไม่มีใครเคยสร้างแกนวาร์ปของ&lt;color=orange&gt;เวซเซล&lt;/color&gt;เลย</value>
 	</entry>
 	<entry>
 		<key>CLARY: No, but Poke was apprenticed to Annona, who created the original design, and our &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is adept at crafting simpler cores.</key>
-		<value>คลารี: ก็ใช่ แต่โพเก้เป็นศิษย์ของอันโนนา ผู้สร้างแบบแปลนดั้งเดิมของแกนวาร์ป และ&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt;ของเราก็เชี่ยวชาญในการสร้างแกนพลังงานพื้นฐานพอตัว</value>
+		<value>คลารี: ก็ใช่ แต่โพ้คเป็นศิษย์ของอันโนนา ผู้สร้างแบบแปลนดั้งเดิมของแกนวาร์ป และ&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt;ของเราก็เชี่ยวชาญในการสร้างแกนพลังงานพื้นฐานพอตัว</value>
 	</entry>
 	<entry>
 		<key>POKE: I believe I can be of use here! The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core was created before my time, but Annona explained many of his designs to me.</key>
-		<value>โพเก้: ฉันคิดว่าฉันช่วยได้อยู่นะ แกนวาร์ปของ&lt;color=orange&gt;เวซเซล&lt;/color&gt;ถูกสร้างขึ้นก่อนฉันเกิดอีก แต่อันโนนาอธิบายแบบแปลนหลายอย่างของเขาให้ฉันอยู่</value>
+		<value>โพ้ค: ฉันคิดว่าฉันช่วยได้อยู่นะ แกนวาร์ปของ&lt;color=orange&gt;เวซเซล&lt;/color&gt;ถูกสร้างขึ้นก่อนฉันเกิดอีก แต่อันโนนาอธิบายแบบแปลนหลายอย่างของเขาให้ฉันอยู่</value>
 	</entry>
 	<entry>
 		<key>IDAEA: This is the safest path for our clan.</key>
@@ -73,14 +73,14 @@
 	</entry>
 	<entry>
 		<key>POKE: I would very much like to craft such a powerful core! More relevantly, I believe the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; crew and I could recreate the basic design.</key>
-		<value>โพเก้: ฉันอยากสร้างแกนวาร์ปที่ทรงพลังอยู่เหมือนกัน! แต่ที่สำคัญกว่าคือฉันคิดว่าลูกทีมของ&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt;กับฉันน่าจะสามารถสร้างแบบแปลนพื้นฐานออกมาได้อยู่นะ</value>
+		<value>โพ้ค: ฉันอยากสร้างแกนวาร์ปที่ทรงพลังอยู่เหมือนกัน! แต่ที่สำคัญกว่าคือฉันคิดว่าลูกทีมของ&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt;กับฉันน่าจะสามารถสร้างแบบแปลนพื้นฐานออกมาได้อยู่นะ</value>
 	</entry>
 	<entry>
 		<key>
 			CASSAVA: I imagine I’ve been hard on Poke, again. This in turn means I’ve made things difficult for her sister (Clary).
 		</key>
 		<value>
-			คัซซาวา: ฉันคิดว่าฉันกดดันโพเก้ไปหน่อย อีกแล้ว ซึ่งก็หมายความว่าฉันทำให้คลารี (น้องสาวของเธอ) ลำบากไปด้วย
+			คัซซาวา: ฉันคิดว่าฉันกดดันโพ้คไปหน่อย อีกแล้ว ซึ่งก็หมายความว่าฉันทำให้คลารี (น้องสาวของเธอ) ลำบากไปด้วย
 		</value>
 	</entry>
 	<entry>
@@ -88,7 +88,7 @@
 			CASSAVA: If Poke and I are oil and water, Clary is our emulsifier. She certainly makes us a better team than would mixing through shaking (although sometimes I would like to shake Poke!).
 		</key>
 		<value>
-			คัซซาวา: ถ้าโพเก้กับฉันเป็นเหมือนน้ำกับน้ำมัน คลารีก็คือสารที่ช่วยให้เราผสมกันได้ เธอทำให้เราเข้ากันได้ดีขึ้นแทนที่จะผสมกันด้วยการเขย่าๆ (แต่บางครั้งฉันก็อยากจะเขย่าโพเก้อยู่เหมือนกันนะ!)
+			คัซซาวา: ถ้าโพ้คกับฉันเป็นเหมือนน้ำกับน้ำมัน คลารีก็คือตัวประสานที่ช่วยให้เราเข้ากันได้ เธอทำให้เราเข้ากันได้ดีขึ้นแทนที่จะผสมกันด้วยการเขย่าๆ (แต่บางครั้งฉันก็อยากจะเขย่าโพ้คอยู่เหมือนกันนะ!)
 		</value>
 	</entry>
 	<entry>
@@ -96,7 +96,7 @@
 			CASSAVA: Jokes aside, suppose my own fear of never finding the &lt;color=lightblue&gt;Eye&lt;/color&gt; prompted my argument with Poke. That would be immature of me.
 		</key>
 		<value>
-			คัซซาวา: เอาจริงๆ บางทีความกลัวของฉันที่คิดว่าเราจะไม่มีวันพบ&lt;color=lightblue&gt; The Eye &lt;/color&gt;อาจเป็นสาเหตุให้ฉันทะเลาะกับโพเก้ ฉันทำตัวไม่สมกับเป็นผู้ใหญ่เลย
+			คัซซาวา: เอาจริงๆ บางทีความกลัวของฉันที่คิดว่าเราจะไม่มีวันพบ&lt;color=lightblue&gt; The Eye &lt;/color&gt;อาจเป็นสาเหตุให้ฉันทะเลาะกับโพ้ค ฉันทำตัวไม่สมกับเป็นผู้ใหญ่เลย
 		</value>
 	</entry>
 	<entry>
@@ -104,7 +104,7 @@
 			CASSAVA: I should apologize... At least to Clary, who could then tell Poke.
 		</key>
 		<value>
-			คัซซาวา: ฉันควรจะไปขอโทษ... อย่างน้อยก็กับคลารี เผื่อเธอจะไปบอกโพเก้ต่อได้
+			คัซซาวา: ฉันควรจะไปขอโทษ... อย่างน้อยก็กับคลารี เผื่อเธอจะไปบอกโพ้คต่อได้
 		</value>
 	</entry>
 	<entry>
@@ -112,7 +112,7 @@
 			POKE: I feel strange, trying to recreate Annona’s warp core without him. At times, it still feels strange to no longer be his (very young) apprentice, and for the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; to be in my care and not his.
 		</key>
 		<value>
-			โพเก้: ฉันรู้สึกแปลกๆ พยายามจะสร้างแกนวาร์ปของอันโนนาโดยที่ไม่มีเขาอยู่ บางครั้งฉันก็รู้สึกแปลกที่ฉันไม่ได้เป็นศิษย์ (ที่เด็กมากๆ) ของเขาอีกต่อไป และการที่&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt;ตกมาอยู่ในความดูแลของฉันแทนที่จะเป็นของเขา
+			โพ้ค: ฉันรู้สึกแปลกๆ พยายามจะสร้างแกนวาร์ปของอันโนนาโดยที่ไม่มีเขาอยู่ บางครั้งฉันก็รู้สึกแปลกที่ฉันไม่ได้เป็นศิษย์ (ที่เด็กมากๆ) ของเขาอีกต่อไป และการที่&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt;ตกมาอยู่ในความดูแลของฉันแทนที่จะเป็นของเขา
 		</value>
 	</entry>
 	<entry>
@@ -120,7 +120,7 @@
 			POKE: Hypothesis: This will always feel strange. Even though my time with him was short, I miss my old mentor, and deeply.
 		</key>
 		<value>
-			โพเก้: สมมติฐาน: สิ่งนี้จะคงรู้สึกแปลกเสมอ แม้เวลาที่ฉันได้อยู่กับเขาจะสั้นแต่ฉันก็ยังคงคิดถึงอาจาร์ยของฉัน ฉันคิดถึงเขามากจริงๆ
+			โพ้ค: สมมติฐาน: สิ่งนี้จะคงรู้สึกแปลกเสมอ แม้เวลาที่ฉันได้อยู่กับเขาจะสั้นแต่ฉันก็ยังคงคิดถึงอาจารย์ของฉัน ฉันคิดถึงเขามากจริงๆ
 		</value>
 	</entry>
 	<entry>
@@ -128,7 +128,7 @@
 			POKE: To have the chance to try is thrilling, but... I don’t want to disappoint everyone. I &lt;i&gt;think&lt;/i&gt; I can do this (probably), but what if excitement has clouded my assessment of my own abilities?
 		</key>
 		<value>
-			โพเก้: การได้มีโอกาสลองดูก็เป็นเรื่องที่ตื่นเต้นอยู่ แต่ว่า... ฉันไม่อยากทำให้ทุกคนผิดหวัง ฉัน&lt;i&gt;คิดว่า&lt;/i&gt; ฉันทำได้ (น่าจะ) แต่ถ้าความตื่นเต้นของฉันทำให้ฉันประเมินความสามารถของฉันผิดไปล่ะ?
+			โพ้ค: การได้มีโอกาสลองดูก็เป็นเรื่องที่ตื่นเต้นอยู่ แต่ว่า... ฉันไม่อยากทำให้ทุกคนผิดหวัง ฉัน&lt;i&gt;คิดว่า&lt;/i&gt; ฉันทำได้ (น่าจะ) แต่ถ้าความตื่นเต้นของฉันทำให้ฉันประเมินความสามารถของฉันผิดไปล่ะ?
 		</value>
 	</entry>
 	<entry>
@@ -136,7 +136,7 @@
 			POKE: Was I wrong in volunteering to build it...? I was born in this star system, and never saw Annona’s warp core with my own three eyes. I only know what he taught me. What if I’ve bitten off a larger portion than I can consume?
 		</key>
 		<value>
-			โพเก้: ฉันคิดผิดหรือเปล่าที่อาสาจะสร้างมัน...? ฉันเกิดมาในระบบสุริยะนี้ แถมฉันไม่เคยเห็นแกนวาร์ปของอันโนนาด้วยตาสามดวงของฉันเองด้วยซ้ำ ฉันรู้แค่สิ่งที่เขาสอนฉันมา หรือว่าฉันทำอะไรเกินตัวไปจริงๆนะ?
+			โพ้ค: ฉันคิดผิดหรือเปล่าที่อาสาจะสร้างมัน...? ฉันเกิดมาในระบบสุริยะนี้ แถมฉันไม่เคยเห็นแกนวาร์ปของอันโนนาด้วยตาสามดวงของฉันเองด้วยซ้ำ ฉันรู้แค่สิ่งที่เขาสอนฉันมา หรือว่าฉันทำอะไรเกินตัวไปจริงๆนะ?
 		</value>
 	</entry>
 	<entry>
@@ -144,7 +144,7 @@
 			POKE: Still, all I can give is my best. And as Annona would say, should my best prove insufficient, then we will find another way to achieve what’s needed. I have Clary and Root in the forge, and I have my clan. I am not alone!
 		</key>
 		<value>
-			โพเก้: ยังไงก็ตาม อย่างเดียวที่ฉันทำได้ตอนนี้คือทำให้ดีที่สุด เหมือนอย่างที่อันโนนาจะพูดเสมอว่าต่อให้ความพยายามนั้นจะไม่เพียงพอ เราก็จะหาวิธีอื่นที่จะทำให้มันสำเร็จลุล่วงได้แทน ฉันมีคลารีกับรูทอยู่ในโรงหลอมและฉันยังมีในเผ่าของฉันอยู่ ฉันไม่ได้อยู่ตัวคนเดียวซักหน่อย! 
+			โพ้ค: ยังไงก็ตาม สิ่งเดียวที่ฉันทำได้ตอนนี้คือทำให้ดีที่สุด เหมือนอย่างที่อันโนนาจะพูดเสมอว่าต่อให้ความพยายามนั้นจะไม่เพียงพอ เราก็จะหาวิธีอื่นที่จะทำให้มันสำเร็จลุล่วงได้แทน ฉันมีคลารีกับรูทอยู่ในโรงหลอมและฉันยังมีในเผ่าของฉันอยู่ ฉันไม่ได้อยู่ตัวคนเดียวซักหน่อย! 
 		</value>
 	</entry>
 	<entry>
@@ -160,7 +160,7 @@
 			SOLANUM: No one knows how this universe was made, but one thing we do know is everything used to be very hot and very dense (tightly packed together).
 		</key>
 		<value>
-			โซลานัม: ไม่มีใครรู้ว่าจักรวาลนี้เกิดขึ้นมาได้อย่างไร แต่มีอย่างหนึ่งที่เรารู้คือทุกอย่างนั้นเคยร้อนจัดและหนาแน่นมาก (อัดแน่นกันอยู่)
+			โซลานัม: ไม่มีใครรู้ว่าจักรวาลนี้เกิดขึ้นมาได้อย่างไร แต่มีอย่างหนึ่งที่เรารู้คือทุกอย่างนั้นเคยร้อนจัดและหนาแน่นมาก (อัดแน่นเป็นเนื้อเดียวกัน)
 		</value>
 	</entry>
 	<entry>
@@ -176,7 +176,7 @@
 			SOLANUM: Since then, space has continued to expand at a faster and faster rate, which is hard to think about for too long without your brain hurting.
 		</key>
 		<value>
-			โซลานัม: ตั้งแต่นั้นมา อวกาศก็ยังคงขยายตัวด้วยความเร็วที่มากขึ้น และมากขึ้นเรื่อยๆ ซึ่งเป็นเรื่องยากที่จะคิดเรื่องนี้นานโดยที่สมองจะไม่ปวดไปก่อน
+			โซลานัม: ตั้งแต่นั้นมา อวกาศก็ยังคงขยายตัวด้วยความเร็วที่มากขึ้น และมากขึ้นเรื่อยๆ ซึ่งเป็นเรื่องยากที่จะคิดถึงมันนานๆ โดยไม่ปวดหัวไปซะก่อน
 		</value>
 	</entry>
 	<entry>
@@ -253,7 +253,7 @@
 	</entry>
 	<entry>
 		<key>PLUME: Use caution! A black hole sleeps below. You must not slip.</key>
-		<value>พลูม: ระวัง! มีหลุมดำอยู่ด้านล่วง ห้ามลื่นโดยเด็ดขาด</value>
+		<value>พลูม: ระวัง! มีหลุมดำอยู่ด้านล่าง ห้ามลื่นโดยเด็ดขาด</value>
 	</entry>
 	<entry>
 		<key>Emergency escape hatch</key>
@@ -295,7 +295,7 @@
 	</entry>
 	<entry>
 		<key>CONOY: &lt;color=orange&gt;Construction Yard&lt;/color&gt; has been using the cyclones on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; to lift &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; parts into orbit, but one component was pushed down past the current that usually prevents anything from sinking.</key>
-		<value>โคนอย: &lt;color=orange&gt;ลานก่อสร้าง&lt;/color&gt;ของคัซซาวานั้นใช้ประโยชน์จากพายุไซโคลนบน &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; ช่วยยกชิ้นส่วนของ&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;ขึ้นไปในวงโครจร แต่มีชิ้นส่วนหนึ่งถูกพัดจมลงไปทะลุกระแสน้ำที่ปกติจะกันไม่ให้อะไรจมลงไปได้</value>
+		<value>โคนอย: &lt;color=orange&gt;ลานก่อสร้าง&lt;/color&gt;ของคัซซาวานั้นใช้ประโยชน์จากพายุไซโคลนบน &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; ช่วยยกชิ้นส่วนของ&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;ขึ้นไปในวงโคจร แต่มีชิ้นส่วนหนึ่งถูกพัดจมลงไปทะลุกระแสน้ำที่ปกติจะกันไม่ให้อะไรจมลงไปได้</value>
 	</entry>
 	<entry>
 		<key>CONOY: Spire and I are crafting a model to determine why this happened.</key>
@@ -307,7 +307,7 @@
 	</entry>
 	<entry>
 		<key>SPIRE: Most cyclones on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; rotate clockwise. These are the cyclones Cassava typically uses to send components into orbit.</key>
-		<value>สไปร์: ไซโคลนส่วนมากบน &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; จะหมุนตามเข็มนาฬิกา พวกนั้นคือไซโคลนที่ปกติคัซซาวาใช้ในการส่งชิ้นส่วนขึ้นไปยังวงโครจร</value>
+		<value>สไปร์: ไซโคลนส่วนมากบน &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; จะหมุนตามเข็มนาฬิกา พวกนั้นคือไซโคลนที่ปกติคัซซาวาใช้ในการส่งชิ้นส่วนขึ้นไปยังวงโคจร</value>
 	</entry>
 	<entry>
 		<key>SPIRE: There also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</key>
@@ -327,7 +327,7 @@
 	</entry>
 	<entry>
 		<key>ILEX: Look out, look out below!</key>
-		<value>ไอเล็กซ์: ระวังข้างล่วง ระวังไว้!</value>
+		<value>ไอเล็กซ์: ระวังข้างล่าง ระวังไว้!</value>
 	</entry>
 	<entry>
 		<key>ILEX: Look out for the gravity hole!</key>
@@ -379,19 +379,19 @@
 	</entry>
 	<entry>
 		<key>BELLS: If you’re here to make your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, you are almost prepared to set out on this deeply significant journey. Before you do, pause, and remember your history.</key>
-		<value>เบลส์: ถ้าคุณมาที่นี่เพื่อเริ่้มการเดินทางแสวงบุญไปยัง&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; หมายความว่าคุณก็เกือบพร้อมทีจะเริ่มการออกเดินทางที่สำคัญที่แล้ว แต่ก่อนที่คุณจะไป โปรดหยุดและจดจำประวัติศาสตร์ของคุณไว้ก่อน</value>
+		<value>เบลส์: ถ้าคุณมาที่นี่เพื่อเริ่มการเดินทางแสวงบุญไปยัง&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; หมายความว่าคุณก็เกือบพร้อมทีจะเริ่มการออกเดินทางที่สำคัญนี้แล้ว แต่ก่อนที่คุณจะไป โปรดหยุดและจดจำประวัติศาสตร์ของคุณไว้ก่อน</value>
 	</entry>
 	<entry>
 		<key>BELLS: We make this journey not only for ourselves, but also to honor the members of our clan who came before us: those who, after the crash that brought them to this star system, became stranded on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; and on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, with no communication between these two groups of survivors.</key>
-		<value>เบลส์: เราไม่ได้ออกเดินทางเพื่อตัวเราเองเท่านั้น แต่เพื่อให้เกียรติแด่สมาชิกเผ่าของเราที่มาก่อนหน้าด้วย หลังจากเหตุการ์ณยานตกที่นำพาพวกเขามายังระบบสุริยะแห่งนี้ พวกเขาได้ติดอยู่บน &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; และบน &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; โดยไม่มีวิธีการที่จะสื่อสารระหว่างผู้รอดชีวิตสองกลุ่มนี้เลย</value>
+		<value>เบลส์: เราไม่ได้ออกเดินทางเพื่อตัวเราเองเท่านั้น แต่เพื่อให้เกียรติแด่สมาชิกเผ่ารุ่นก่อนของเราด้วย หลังจากเหตุการณ์ยานตกที่นำพาพวกเขามายังระบบสุริยะแห่งนี้ พวกเขาได้ติดอยู่บน &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; และบน &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; โดยไม่มีวิธีการที่จะสื่อสารระหว่างผู้รอดชีวิตสองกลุ่มนี้เลย</value>
 	</entry>
 	<entry>
 		<key>BELLS: These Nomai looked upward from two different planets and saw the same wandering moon visiting their skies. It was this moon (the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;) that kept their curiosity alive during this long period of hardship.</key>
-		<value>เบลส์: เหล่าโนไมมองขึ้นจากบนดาวเคราะห์สองดาวที่ต่าางกัน แต่กลับเห็นดวงจันทร์เดียวกันที่พเนจรมายังท้องฟ้าของพวกเขา เป็นดวงจันทร์ดวงนี้ (&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;) ที่ทำให้ความอยากรู้อยากเห็นของพวกเขายังคงอยู่ตลาดช่วงเวลาแห่งความยากลำบากอันยาวนานนี้</value>
+		<value>เบลส์: เหล่าโนไมมองขึ้นจากบนดาวเคราะห์สองดาวที่ต่างกัน แต่กลับเห็นดวงจันทร์เดียวกันที่พเนจรมายังท้องฟ้าของพวกเขา เป็นดวงจันทร์ดวงนี้ (&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;) ที่ทำให้ความอยากรู้อยากเห็นของพวกเขายังคงอยู่ตลอดช่วงเวลาแห่งความยากลำบากอันยาวนานนี้</value>
 	</entry>
 	<entry>
 		<key>BELLS: After the two divided groups were able to reunite, it became our clan’s united goal to find and visit the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. This took time, and many Nomai who dreamed of seeing the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; died before we discovered how to make the journey.</key>
-		<value>เบลส์: หลังจากที่กลุ่มสองกลุ่มซึ่งถูกแยกจากได้กลับมารวมกัน มันก็เป็นเป้าหมายร่วมกันของเผ่าเราที่จะค้นหาและเยี่ยมชน&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; กระบวนการนี้ใช้เวลานานและโนไมหลายชีวิตที่มีความฝันอยากจะเห็น&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ด้วยตาของพวกเขากลับเสียชีวิตไปก่อนที่เราจะค้นพบวิธีการออกเดินทาง</value>
+		<value>เบลส์: หลังจากที่กลุ่มสองกลุ่มซึ่งถูกแยกจากได้กลับมารวมกัน มันก็เป็นเป้าหมายร่วมกันของเผ่าเราที่จะค้นหาและเยี่ยมชม&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; กระบวนการนี้ใช้เวลานานและโนไมหลายชีวิตที่มีความฝันอยากจะเห็น&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;ด้วยตาของพวกเขากลับเสียชีวิตไปก่อนที่เราจะค้นพบวิธีการออกเดินทาง</value>
 	</entry>
 	<entry>
 		<key>BELLS: When you reach the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, recall these Nomai, and carry their curiosity onward with you.</key>
@@ -442,7 +442,7 @@
 			FILIX: Hypothesis: This rock shard’s presence is significant. We should study it! (Could it be what is causing other nearby objects to also move about this area?)
 		</key>
 		<value>
-			ฟิลิกซ์: สมมติฐาน: การมีอยู่ของเศษหินก้อนนี้นั้นมีความสำคัญมาก เราควรจะลองศึกษาดู! (บางทีเศษหินนี้อาจเป็นสาเหตุทีทำให้วัตถุรอบๆนี้ ขยับได้)
+			ฟิลิกซ์: สมมติฐาน: การมีอยู่ของเศษหินก้อนนี้นั้นมีความสำคัญมาก เราควรจะลองศึกษาดู! (บางทีเศษหินนี้อาจเป็นสาเหตุที่ทำให้วัตถุรอบๆ นี้ขยับได้)
 		</value>
 	</entry>
 	<entry>
@@ -466,7 +466,7 @@
 			PLUME: In her note from earlier, Filix mentions this strange type of rock isn’t found elsewhere on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;. What if it isn’t originally from this planet?
 		</key>
 		<value>
-			พลูม: จากโน๊ตก่อนหน้านี้ ฟิลิกซ์บอกว่าหินแปลกๆแบบนี้ไม่พบในที่อื่นของ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; นอกจากตรงนี้ เป็นไปได้มั้ยที่มันอาจไม่ได้มีจุดกำเนิดมาจากดาวเคราะห์ดวงนี้น่ะ?
+			พลูม: จากโน๊ตก่อนหน้านี้ ฟิลิกซ์บอกว่าหินแปลกๆแบบนี้ไม่พบในที่อื่นของ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; นอกจากตรงนี้ เป็นไปได้ไหมที่มันอาจไม่ได้มีจุดกำเนิดมาจากดาวเคราะห์ดวงนี้น่ะ?
 		</value>
 	</entry>
 	<entry>
@@ -759,7 +759,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: When turns the tide,</key>
-		<value>SOLANUM: เมื่อทรายผลิกไป</value>
+		<value>SOLANUM: เมื่อทรายพลิกไป</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Then skyward you should go.</key>
@@ -835,7 +835,7 @@
 	</entry>
 	<entry>
 		<key>POKE: Keep the &lt;color=orange&gt;shuttle&lt;/color&gt; warm for us, Clary. We’ll return the moment we identify the source of the energy readings!</key>
-		<value>โพเก้: อุ่น&lt;color=orange&gt;กระสวย&lt;/color&gt;รอพวกฉันไว้ก่อนนะ คลารี เราจะกลับไปหาทันทีที่เรายืนยันที่มาของระดับพลังงานที่พวกเราเจอ!</value>
+		<value>โพ้ค: อุ่น&lt;color=orange&gt;กระสวย&lt;/color&gt;รอพวกฉันไว้ก่อนนะ คลารี เราจะกลับไปหาทันทีที่เรายืนยันที่มาของระดับพลังงานที่พวกเราเจอ!</value>
 	</entry>
 	<entry>
 		<key>CLARY: I understand, but... Be cautious, both of you.</key>
@@ -843,7 +843,7 @@
 	</entry>
 	<entry>
 		<key>POKE: The spherical stone casing here seems to be the source of the energy readings... No, rather, the source is what’s within the stone. I’m detecting some form of exotic matter.</key>
-		<value>โพเก้: เปลือกหินทรงกลมนี่ดูเหมือนที่จะที่มาของพลังงานที่เราเจอ... ไม่สิ จริงๆแล้วแหล่งพลังงานอยู่ข้างในหินต่างหาก เหมือนว่าฉันกำลังตรวจพบสสารบางอย่างแปลกๆอยู่</value>
+		<value>โพ้ค: เปลือกหินทรงกลมนี่ดูเหมือนที่จะที่มาของพลังงานที่เราเจอ... ไม่สิ จริงๆแล้วแหล่งพลังงานอยู่ข้างในหินต่างหาก เหมือนว่าฉันกำลังตรวจพบสสารบางอย่างแปลกๆอยู่</value>
 	</entry>
 	<entry>
 		<key>PYE: The stone is &lt;i&gt;muting&lt;/i&gt; our energy readings; they should be ten times what we’re seeing, at least.</key>
@@ -851,7 +851,7 @@
 	</entry>
 	<entry>
 		<key>POKE: Pye, I don’t think we want this matter interacting with us. As far as I can tell, direct contact with it would almost certainly be fatal.</key>
-		<value>โพเก้: ไพร์ ฉันว่าเราไม่ควรยุ่งกับสสารนี้นะ เท่าที่ฉันดูแล้ว ฉันค่อนข้างมั่นใจสัมผัสโดยตรงอาจทำให้ถึงแก่ชีวิตได้เลย</value>
+		<value>โพ้ค: ไพร์ ฉันว่าเราไม่ควรยุ่งกับสสารนี้นะ เท่าที่ฉันดูแล้ว ฉันค่อนข้างมั่นใจสัมผัสโดยตรงอาจทำให้ถึงแก่ชีวิตได้เลย</value>
 	</entry>
 	<entry>
 		<key>PYE: I’ve never encountered anything like this casing, but it’s all that’s protecting us from what’s inside. Worse still, this matter is disturbingly volatile.</key>
@@ -859,7 +859,7 @@
 	</entry>
 	<entry>
 		<key>POKE: ...Pye. Whatever the matter inside this stone casing is, it’s more than just profoundly unstable; it’s under tonnes of pressure. Look at this density scan. I’ve never seen &lt;i&gt;anything&lt;/i&gt; this tightly compacted before! What &lt;i&gt;is&lt;/i&gt; this?</key>
-		<value>โพเก้: ...ไพร์ ไม่ว่าสสารที่อยู่ในเปลือกหินนี้จะเป็นอะไรก็ตาม ไม่ใช่แค่มันจะไม่เสถียรมากเท่านั้น แต่มันอยู่อยู่ภายใต้แรงกดดันมหาศาล ดูผลการสแกนความหนาแน่นนี้สิ ฉันไม่เคยเห็น&lt;i&gt;อะไรก็ตาม&lt;/i&gt;มีความหนาแน่นมากขนาดนี้มาก่อนเลย สสารนี้&lt;i&gt;คือ&lt;/i&gt;อะไรกันแน่?</value>
+		<value>โพ้ค: ...ไพร์ ไม่ว่าสสารที่อยู่ในเปลือกหินนี้จะเป็นอะไรก็ตาม ไม่ใช่แค่มันจะไม่เสถียรมากเท่านั้น แต่มันอยู่อยู่ภายใต้แรงกดดันมหาศาล ดูผลการสแกนความหนาแน่นนี้สิ ฉันไม่เคยเห็น&lt;i&gt;อะไรก็ตาม&lt;/i&gt;มีความหนาแน่นมากขนาดนี้มาก่อนเลย สสารนี้&lt;i&gt;คือ&lt;/i&gt;อะไรกันแน่?</value>
 	</entry>
 	<entry>
 		<key>PYE: This is orders of magnitude worse than I’d imagined. If this stone were to rupture, the lethal matter within would rapidly expand, completely blanketing this star system almost instantaneously. And the pressure is still building as the &lt;color=lightblue&gt;comet&lt;/color&gt; approaches this star system...</key>
@@ -871,11 +871,11 @@
 	</entry>
 	<entry>
 		<key>POKE: What are you doing, Pye?!</key>
-		<value>โพเก้: ไพร์ เธอจะทำอะไรน่ะ?!</value>
+		<value>โพ้ค: ไพร์ เธอจะทำอะไรน่ะ?!</value>
 	</entry>
 	<entry>
 		<key>PYE: The more we know about this alien matter, the better our chances of survival. I will learn what I can here. Go, warn the others; maybe they can construct shelter somehow. ...&lt;i&gt;Now&lt;/i&gt;, Poke!</key>
-		<value>ไพร์: ยิ่งเรารู้ข้อมูลเกี่ยวกับสสารเอเลี่ยนนี้มากเท่าไหร่ เรายิ่งมีโอกาสรอดชีวิตมากขึ้นเท่านั้น ฉันจะพยายามเรียนรู้ให้มากที่สุดเท่าที่จะทำได้ ไป ไปบอกโนไมอื่น เผื่อพวกเขาจะสามารถสร้างที่หลบภัยได้ทัน... &lt;i&gt;ไปเร็ว&lt;/i&gt; โพเก้!</value>
+		<value>ไพร์: ยิ่งเรารู้ข้อมูลเกี่ยวกับสสารเอเลี่ยนนี้มากเท่าไหร่ เรายิ่งมีโอกาสรอดชีวิตมากขึ้นเท่านั้น ฉันจะพยายามเรียนรู้ให้มากที่สุดเท่าที่จะทำได้ ไป ไปบอกโนไมอื่น เผื่อพวกเขาจะสามารถสร้างที่หลบภัยได้ทัน... &lt;i&gt;ไปเร็ว&lt;/i&gt; โพ้ค!</value>
 	</entry>
 	<entry>
 		<key>
@@ -887,11 +887,11 @@
 	</entry>
 	<entry>
 		<key>CLARY: Pye, Poke, and I landed here on this &lt;color=lightblue&gt;comet&lt;/color&gt; not long after its arrival in this star system. Our &lt;color=orange&gt;shuttle&lt;/color&gt;’s equipment heard strange energy readings coming from somewhere beneath the surface.</key>
-		<value>คลารี: ไพร์ โพเก้และฉันลงจอดมาที่&lt;color=lightblue&gt;ดาวหาง&lt;/color&gt;ดวงนี้ไม่นานหลังจากที่มันมาถึงระบบสุริยะนี้ &lt;color=orange&gt;กระสวย&lt;/color&gt;ของเราตรวจจับระดับพลังงานแปลกๆมาจากด้านใต้พื้นผิว</value>
+		<value>คลารี: ไพร์ โพ้คและฉันลงจอดมาที่&lt;color=lightblue&gt;ดาวหาง&lt;/color&gt;ดวงนี้ไม่นานหลังจากที่มันมาถึงระบบสุริยะนี้ &lt;color=orange&gt;กระสวย&lt;/color&gt;ของเราตรวจจับระดับพลังงานแปลกๆมาจากด้านใต้พื้นผิว</value>
 	</entry>
 	<entry>
 		<key>CLARY: Pye and Poke were able to locate a fissure in the ice on the &lt;color=lightblue&gt;comet&lt;/color&gt;’s sunward side, and they descended inside to investigate the source of the readings.</key>
-		<value>คลารี: ไพร์กับโพเก้เจอช่องแยกในน้ำแข็งบน&lt;color=lightblue&gt;ดาวหาง&lt;/color&gt;ฝั่งที่หันเข้ามาดวงอาทิตย์ พวกเขาเลยลงไปตรวจสอบที่มาของระดับพลังงานที่ตรวจเจอ</value>
+		<value>คลารี: ไพร์กับโพ้คเจอช่องแยกในน้ำแข็งบน&lt;color=lightblue&gt;ดาวหาง&lt;/color&gt;ฝั่งที่หันเข้ามาดวงอาทิตย์ พวกเขาเลยลงไปตรวจสอบที่มาของระดับพลังงานที่ตรวจเจอ</value>
 	</entry>
 	<entry>
 		<key>CLARY: But... Pye and my sister have been gone for a long time now. They haven’t contacted me since descending below the surface, either.</key>
@@ -903,19 +903,19 @@
 	</entry>
 	<entry>
 		<key>CLARY: Poke... Pye... Come back to me safely, my friends.</key>
-		<value>คลารี: โพเก้... ไพร์... กลับมาโดยปลอดถัยนะ เพื่อนของฉัน</value>
+		<value>คลารี: โพ้ค... ไพร์... กลับมาโดยปลอดภัยนะ เพื่อนของฉัน</value>
 	</entry>
 	<entry>
 		<key>
 			CLARY: This is troublesome: It seems the &lt;color=lightblue&gt;comet&lt;/color&gt; wishes to submerge our &lt;color=orange&gt;shuttle&lt;/color&gt; in ice. If we stay on the surface too long, the &lt;color=orange&gt;shuttle&lt;/color&gt; may freeze entirely.
 		</key>
 		<value>
-			คลารี: นี่ค่อนข้างจะน่าเป็นห่วง: เหมือนว่า&lt;color=lightblue&gt;ดาวหาง&lt;/color&gt;นี้ต้องการจะดึง&lt;color=orange&gt;กระสวย&lt;/color&gt;ของเราให้จมลงไปในน้ำแข็ง ถ้าเราอยู่บนพื้นผิวนานไป &lt;color=orange&gt;กระสวย&lt;/color&gt;ของเราอาจโดนแช่เข็งทั้งลำไปเลย
+			คลารี: นี่ค่อนข้างจะน่าเป็นห่วง: เหมือนว่า&lt;color=lightblue&gt;ดาวหาง&lt;/color&gt;นี้ต้องการจะดึง&lt;color=orange&gt;กระสวย&lt;/color&gt;ของเราให้จมลงไปในน้ำแข็ง ถ้าเราอยู่บนพื้นผิวนานไป &lt;color=orange&gt;กระสวย&lt;/color&gt;ของเราอาจโดนแช่แข็งทั้งลำไปเลย
 		</value>
 	</entry>
 	<entry>
 		<key>POKE: Even if it did, couldn’t someone call it back home to the &lt;color=orange&gt;gravity cannon&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;?</key>
-		<value>โพเก้: ต่อให้เป็นแบบนั้น, ให้ใครสักคนเรียกกลับไปที่&lt;color=orange&gt;เครื่องยิงแรงโน้มถ่วง&lt;/color&gt;บน &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; ก็ได้ไม่ใช่เหรอ?</value>
+		<value>โพ้ค: ต่อให้เป็นแบบนั้น, ให้ใครสักคนเรียกกลับไปที่&lt;color=orange&gt;เครื่องยิงแรงโน้มถ่วง&lt;/color&gt;บน &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; ก็ได้ไม่ใช่เหรอ?</value>
 	</entry>
 	<entry>
 		<key>PYE: Yes, but the exploration of the &lt;color=lightblue&gt;comet&lt;/color&gt; would be more difficult if we were without the &lt;color=orange&gt;shuttle&lt;/color&gt; until someone recalled it. Perhaps we shouldn’t have landed on the dark side of the &lt;color=lightblue&gt;comet&lt;/color&gt;...</key>
@@ -927,7 +927,7 @@
 	</entry>
 	<entry>
 		<key>PYE: This would be wise, I think, Clary. If you don’t mind waiting here with it, Poke and I can continue to investigate the surface.</key>
-		<value>ไพร์: ฉันคิดว่าเป็นความคิดที่ดีนะ คลารี ถ้าเธอไม่ว่าอะไรที่จะนั่งรออยู่ตรงนี้ ฉันกับโพเก้จะได้ไปสำรวจดูตรงพื้นผิวดูสักหน่อย</value>
+		<value>ไพร์: ฉันคิดว่าเป็นความคิดที่ดีนะ คลารี ถ้าเธอไม่ว่าอะไรที่จะนั่งรออยู่ตรงนี้ ฉันกับโพ้คจะได้ไปสำรวจดูตรงพื้นผิวดูสักหน่อย</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Mining site 2b&lt;/color&gt;</key>
@@ -1111,7 +1111,7 @@
 	</entry>
 	<entry>
 		<key>Wrong2AWell, we're talking to each other and nothing's exploded yet.</key>
-		<value>ก็เท่าทีเห็น เราสองคนยืนคุยกันอยู่ตรงนี้แล้วก็ยังไม่มีอะไรระเบิดนะ</value>
+		<value>ก็เท่าที่เห็น เราสองคนยืนคุยกันอยู่ตรงนี้แล้วก็ยังไม่มีอะไรระเบิดนะ</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2AYeah, it's a pretty novel experience.</key>
@@ -1127,7 +1127,7 @@
 	</entry>
 	<entry>
 		<key>Wrong2BWell, we're talking to each other and nothing's exploded yet.</key>
-		<value>ก็เท่าทีเห็น เราสองคนยืนคุยกันอยู่ตรงนี้แล้วก็ยังไม่มีอะไรระเบิดนะ</value>
+		<value>ก็เท่าที่เห็น เราสองคนยืนคุยกันอยู่ตรงนี้แล้วก็ยังไม่มีอะไรระเบิดนะ</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2BThat seems positive.</key>
@@ -1527,19 +1527,19 @@
 	</entry>
 	<entry>
 		<key>POKE: We don’t need the alignment angle to be exact; it only needs to be within five degrees of the astral body’s center.</key>
-		<value>โพเก้: เราไม่จำเป็นที่จัดเรียงให้ตรงเป๊ะก็ได้ ขอแค่อยู่ในระยะห้าองศาของจุดศูนย์กลางวัตถุดาราศาสตร์ก็ใช้ได้แล้ว</value>
+		<value>โพ้ค: เราไม่จำเป็นที่จัดเรียงให้ตรงเป๊ะก็ได้ ขอแค่อยู่ในระยะห้าองศาของจุดศูนย์กลางวัตถุดาราศาสตร์ก็ใช้ได้แล้ว</value>
 	</entry>
 	<entry>
 		<key>POKE: Of note: This gives us a slightly longer warp window. I imagine this window will last roughly several seconds.</key>
-		<value>โพเก้: โน๊ต: นี่ทำให้เรามีเวลาวาร์ปนานขึ้นเล็กน้อย ฉันคิดว่าช่วงเวลาที่วาร์ปได้น่าจะคงอยู่ประมาณสี่ถึงห้าวินาที</value>
+		<value>โพ้ค: โน๊ต: นี่ทำให้เรามีเวลาวาร์ปนานขึ้นเล็กน้อย ฉันคิดว่าช่วงเวลาที่วาร์ปได้น่าจะคงอยู่ประมาณสี่ถึงห้าวินาที</value>
 	</entry>
 	<entry>
 		<key>POKE: As such, any Nomai stepping onto the warp platform during the active window will be immediately warped. We will need to be careful around the platform for the duration of the time it’s active to avoid accidental transportation.</key>
-		<value>โพเก้: เพราะงั้น โนไมใดๆก็ตามที่ก้าวขึ้นไปบนแพลตฟอร์มวาร์ปในช่วงเวลาที่มันเปิดใช้งานจะถูกวาร์ปทันที เราต้องระมัดระวังบริเวณรอบๆ แพลตฟอร์มในช่วงเวลาที่มันทำงานเพื่อหลีกเลี่ยงการโดนวาร์ปโดยไม่ได้ตั้งใจ</value>
+		<value>โพ้ค: เพราะงั้น โนไมใดๆก็ตามที่ก้าวขึ้นไปบนแพลตฟอร์มวาร์ปในช่วงเวลาที่มันเปิดใช้งานจะถูกวาร์ปทันที เราต้องระมัดระวังบริเวณรอบๆ แพลตฟอร์มในช่วงเวลาที่มันทำงานเพื่อหลีกเลี่ยงการโดนวาร์ปโดยไม่ได้ตั้งใจ</value>
 	</entry>
 	<entry>
 		<key>CLARY: More accurately, I enjoy precision as much as the next Nomai, provided the next Nomai is not Poke.</key>
-		<value>คลารี: ถ้าให้พูดถูกจริงๆก็คือ ฉันชอบความแม่นยำเหมือนโนไมทั่วๆไป ถ้าโนไมตัวนั้นไม่ใช่โพเก้ล่ะนะ</value>
+		<value>คลารี: ถ้าให้พูดถูกจริงๆก็คือ ฉันชอบความแม่นยำเหมือนโนไมทั่วๆไป ถ้าโนไมตัวนั้นไม่ใช่โพ้คล่ะนะ</value>
 	</entry>
 	<entry>
 		<key>ROOT: Where am I taking this first black hole core? (And where am I taking the remaining cores once they’re ready?)</key>
@@ -1547,27 +1547,27 @@
 	</entry>
 	<entry>
 		<key>CLARY: All of the warp towers are being constructed on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, so the black hole cores will go there.</key>
-		<value>คลารี: พอวาร์ปทั้งหมดกำลังก่อสร้างบน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; เพราะงั้นแกนหลุนดำทั้งหมดก็จะไปอยู่ที่นั่นแหละ</value>
+		<value>คลารี: พอวาร์ปทั้งหมดกำลังก่อสร้างบน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; เพราะงั้นแกนหลุมดำทั้งหมดก็จะไปอยู่ที่นั่นแหละ</value>
 	</entry>
 	<entry>
 		<key>POKE: The white hole cores are for the warp receivers. Each of the six receivers are being constructed at different locations, so those deliveries will be a greater pain in your cervical spine.</key>
-		<value>โพเก้: แกนหลุมขาวเอาไว้ใช้สำหรับตัวรับวาร์ป ซึ่งตัวรับทั้งหกกำลังถูกก่อสร้างในสถานที่ที่แตกต่างกัน เพราะงั้นการขนส่งพวกนี้น่าจะทำให้พวกนายปวดกระดูกสันหลังขึ้นเยอะเลยล่ะ</value>
+		<value>โพ้ค: แกนหลุมขาวเอาไว้ใช้สำหรับตัวรับวาร์ป ซึ่งตัวรับทั้งหกกำลังถูกก่อสร้างในสถานที่ที่แตกต่างกัน เพราะงั้นการขนส่งพวกนี้น่าจะทำให้พวกนายปวดกระดูกสันหลังขึ้นเยอะเลยล่ะ</value>
 	</entry>
 	<entry>
 		<key>ROOT: My gratitude! In that case: Poke, Clary, I’m leaving for delivery! I’ll send Yarrow your regards.</key>
-		<value>รูท: ขอบคุณมาก! ถ้าอย่างงั้น โพเก้ คลารี งั้นฉันจะไปส่งของเดี๋ยวนี้ล่ะ! เดี๋ยวฉันฝากความคิดถึงไปหายาร์โรวให้</value>
+		<value>รูท: ขอบคุณมาก! ถ้าอย่างงั้น โพ้ค คลารี งั้นฉันจะไปส่งของเดี๋ยวนี้ล่ะ! เดี๋ยวฉันฝากความคิดถึงไปหายาร์โรวให้</value>
 	</entry>
 	<entry>
 		<key>CLARY: Poke, I’ll return to the &lt;color=orange&gt;forge&lt;/color&gt; shortly; I’m going to catch up to Root and help him deliver the first core to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, just to make sure Yarrow receives it.</key>
-		<value>คลารี: โพเก้ เดี๋ยวฉันตามไปที่&lt;color=orange&gt;โรงหลอม&lt;/color&gt;ทีหลัง ฉันจะช่วยรูทไปส่งแกนอันแรกที่ &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; สักหน่อยเพื่อให้มั่นใจว่ายาร์โรวจะได้รับมัน</value>
+		<value>คลารี: โพ้ค เดี๋ยวฉันตามไปที่&lt;color=orange&gt;โรงหลอม&lt;/color&gt;ทีหลัง ฉันจะช่วยรูทไปส่งแกนอันแรกที่ &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; สักหน่อยเพื่อให้มั่นใจว่ายาร์โรวจะได้รับมัน</value>
 	</entry>
 	<entry>
 		<key>POKE: Of course you are.</key>
-		<value>โพเก้: อ๋อ... แน่นอนล่ะ</value>
+		<value>โพ้ค: อ๋อ... แน่นอนล่ะ</value>
 	</entry>
 	<entry>
 		<key>POKE: The tower designs in the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; reveal each receiver's location. Ask Yarrow; he is familiar with them.</key>
-		<value>โพเก้: ดีไซน์ของหอคอยใน&lt;color=orange&gt;แล็บพลังงานสูง&lt;/color&gt; บน &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; จะบอกถึงที่อยู่ของตัวรับแต่ละอัน ลองถามยาร์โรวดู เขาคุ้นเคยกับมันดี</value>
+		<value>โพ้ค: ดีไซน์ของหอคอยใน&lt;color=orange&gt;แล็บพลังงานสูง&lt;/color&gt; บน &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; จะบอกถึงที่อยู่ของตัวรับแต่ละอัน ลองถามยาร์โรวดู เขาคุ้นเคยกับมันดี</value>
 	</entry>
 	<entry>
 		<key>WARNING: Be cautious near the boarding area while the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is in operation.</key>
@@ -1575,15 +1575,15 @@
 	</entry>
 	<entry>
 		<key>POKE: Of note: Yarrow believes he spotted a flaw in the warp tower designs: namely, that one of the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will never activate, because its warp receiver will never align overhead.</key>
-		<value>โพเก้: โน๊ต: ยาร์โรวเชื่อว่าเขาเจอปัญหาในดีไซน์ของหอวาร์ป ให้พูดคือ หอวาร์ปอันนึงบน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; จะไม่มีวันทำงาน เพราะว่าตัวรับวาร์ปมันไม่มีทางอยู่ด้านบนหัวของหอคอยได้</value>
+		<value>โพ้ค: โน๊ต: ยาร์โรวเชื่อว่าเขาเจอปัญหาในดีไซน์ของหอวาร์ป ให้พูดคือ หอวาร์ปอันนึงบน &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; จะไม่มีวันทำงาน เพราะว่าตัวรับวาร์ปมันไม่มีทางอยู่ด้านบนหัวของหอคอยได้</value>
 	</entry>
 	<entry>
 		<key>POKE: Does your romantic interest think a warp tower’s alignment point is its &lt;i&gt;receiver&lt;/i&gt;? Does he not know that a warp tower always aligns with the center of its corresponding astral body?</key>
-		<value>โพเก้: คนที่เธอชอบนี่คิดว่าหอวาร์ปต้องเรียงให้ตรงกับ&lt;i&gt;เครื่องรับวาร์ป&lt;/i&gt;เท่านั้นหรือยังไง? เขาไม่รู้เหรอว่าหอวาร์ปแค่ต้องตรงกับศูนย์กลางของวัตถุดาราศาสตร์นั้นๆก็พอแล้ว?</value>
+		<value>โพ้ค: คนที่เธอชอบนี่คิดว่าหอวาร์ปต้องเรียงให้ตรงกับ&lt;i&gt;เครื่องรับวาร์ป&lt;/i&gt;เท่านั้นหรือยังไง? เขาไม่รู้เหรอว่าหอวาร์ปแค่ต้องตรงกับศูนย์กลางของวัตถุดาราศาสตร์นั้นๆก็พอแล้ว?</value>
 	</entry>
 	<entry>
 		<key>CLARY: That isn’t an unreasonable belief, given the receiver &lt;i&gt;does&lt;/i&gt; have to be located on (or in close orbit around) the relevant astral body.</key>
-		<value>คลารี: ก็ไม่ใช่ความเชื่อที่ไร้เหตุผลซะทีเดียว เพราะว่าเครื่องรับ&lt;i&gt;จำเป็นต้อง&lt;/i&gt;ตั้งอยู่บน (หรืออยู่ในวงโครจรใกล้) วัตถุดาราศาสตร์นั้นๆนะ</value>
+		<value>คลารี: ก็ไม่ใช่ความเชื่อที่ไร้เหตุผลซะทีเดียว เพราะว่าเครื่องรับ&lt;i&gt;จำเป็นต้อง&lt;/i&gt;ตั้งอยู่บน (หรืออยู่ในวงโคจรใกล้) วัตถุดาราศาสตร์นั้นๆนะ</value>
 	</entry>
 	<entry>
 		<key>CLARY: I seem to recall that was &lt;i&gt;your&lt;/i&gt; understanding of warp technology, at first.</key>
@@ -1619,7 +1619,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: Poke, Root, and I can begin work on this immediately in the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; (this will keep us busy!).</key>
-		<value>คลารี: โพเก้ รูทกับฉันสามารถเริ่มงานนี้ได้ทันทีใน&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt; (นี่คงจะทำให้เรายุ่งไปอีกสักพักใหญ่เลยล่ะ!)</value>
+		<value>คลารี: โพ้ค รูทกับฉันสามารถเริ่มงานนี้ได้ทันทีใน&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt; (นี่คงจะทำให้เรายุ่งไปอีกสักพักใหญ่เลยล่ะ!)</value>
 	</entry>
 	<entry>
 		<key>YARROW: Of note: Each tower on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will warp to a different planet.</key>
@@ -1635,7 +1635,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: My gratitude to those who noted my imprecise language! Yes, the &lt;color=lightblue&gt;sun&lt;/color&gt; is not a planet. I believe this has been sufficiently clarified (kindly stop reminding me!).</key>
-		<value>ยาร์โรว: ขอบคุณใครก็ตามที่ทักท้วงเรื่องการใช้ภาษาที่กำกวมของฉัน! ใช่ &lt;color=lightblue&gt;ดวงอาทิตย์&lt;/color&gt;ไม่ใช่ดาวเคราะห์ ฉันเชื่อว่าเรื่องนี้ได้รับการชี้แจงมากเพียงพอแล้วนะ (หยุดทักมาบอกฉันได้แล้ว!)</value>
+		<value>ยาร์โรว: ขอบคุณใครก็ตามที่ทักท้วงเรื่องการใช้ภาษาที่กำกวมของฉัน! ใช่ &lt;color=lightblue&gt;ดวงอาทิตย์&lt;/color&gt;ไม่ใช่ดาวเคราะห์ ฉันเชื่อว่าเรื่องนี้ได้รับการชี้แจงมากเพียงพอแล้วนะ (เลิกเตือนฉันเรื่องนี้ได้แล้ว!)</value>
 	</entry>
 	<entry>
 		<key>
@@ -1671,7 +1671,7 @@
 	</entry>
 	<entry>
 		<key>POKE: No, it isn’t!</key>
-		<value>โพเก้: ไม่ มันยังไม่พร้อม!</value>
+		<value>โพ้ค: ไม่ มันยังไม่พร้อม!</value>
 	</entry>
 	<entry>
 		<key>YARROW: Is everything well at the &lt;color=orange&gt;forge&lt;/color&gt;?</key>
@@ -1679,11 +1679,11 @@
 	</entry>
 	<entry>
 		<key>CLARY: Don’t worry, love; Poke is only nervous. The core is extraordinary, and her design work is beautifully clever.</key>
-		<value>คลารี: ไม่ต้องเป็นห่วงไปหรอกน่าที่รัก โพเก้แค่กังวลมากเกินไปหน่อย แกนที่เธอดีไซน์ขึ้นมาน่ะยอดเยี่ยมมาก และเธอก็ดีไซน์ออกมาได้อย่างสวยงามเลยล่ะ</value>
+		<value>คลารี: ไม่ต้องเป็นห่วงไปหรอกน่าที่รัก โพ้คแค่กังวลมากเกินไปหน่อย แกนที่เธอดีไซน์ขึ้นมาน่ะยอดเยี่ยมมาก และเธอก็ดีไซน์ออกมาได้อย่างสวยงามเลยล่ะ</value>
 	</entry>
 	<entry>
 		<key>POKE: The core’s durability could still be improved! I need more time!</key>
-		<value>โพเก้: ความทนทานของแกนนั้นยังดีขึ้นกว่านี้ได้อีก! ฉันขอเวลามากกว่านี้อีกหน่อยนึง!</value>
+		<value>โพ้ค: ความทนทานของแกนนั้นยังดีขึ้นกว่านี้ได้อีก! ฉันขอเวลามากกว่านี้อีกหน่อยนึง!</value>
 	</entry>
 	<entry>
 		<key>CLARY: Ignore her, Yarrow. The core is finished. And if my sister tells you otherwise, then &lt;i&gt;she&lt;/i&gt; will be finished, as well.</key>
@@ -1699,7 +1699,7 @@
 	</entry>
 	<entry>
 		<key>OENO: This is exciting news! Can I offer an extra set of eyes for this final check (specifically, mine)? If my work here is complete, I’d be delighted to help.</key>
-		<value>โอเอโน่: นี่มันน่าตื่นเต้นจัง! ให้ฉันหาคนไปช่วยตรวจสอบได้มั้ย? (ถ้าพูดให้พูดคือเองเองนี่แหละ) ถ้าฉันเสร็จงานตรงนี้แล้วฉันก็อยากจะไปช่วยอยู่นะ</value>
+		<value>โอเอโน่: นี่มันน่าตื่นเต้นจัง! ให้ฉันหาคนไปช่วยตรวจสอบได้มั้ย? (ถ้าพูดให้พูดคือฉันเองนี่แหละ) ถ้าฉันเสร็จงานตรงนี้แล้วฉันก็อยากจะไปช่วยอยู่นะ</value>
 	</entry>
 	<entry>
 		<key>YARROW: We’d be grateful if you would! The more eyes, the better, as the smallest flaw or opening in the shell that protects the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; could lead to disaster.</key>
@@ -1747,11 +1747,11 @@
 	</entry>
 	<entry>
 		<key>POKE: Welcome to the &lt;color=orange&gt;White Hole Station&lt;/color&gt;! If you fell through the black hole by accident (don't worry, you aren’t the first), this warp tower can return you to &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-		<value>โพเก้: ยินดีต้อนรับสู่&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;! ถ้าเกิดคุณพลัดตกหลุมดำมาละก็ (ไม่ต้องห่วง คุณไม่ใช่คนแรกหรอก) หอวาร์ปนี้สามารถวาร์ปคุณกลับไปที่ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; ได้</value>
+		<value>โพ้ค: ยินดีต้อนรับสู่&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;! ถ้าเกิดคุณพลัดตกหลุมดำมาละก็ (ไม่ต้องห่วง คุณไม่ใช่คนแรกหรอก) หอวาร์ปนี้สามารถวาร์ปคุณกลับไปที่ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; ได้</value>
 	</entry>
 	<entry>
 		<key>POKE: Every warp tower is tuned to a specific astral body. A tower's warp can only be used during the brief window when the tower is aligned with its corresponding astral body (in this case, &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;).</key>
-		<value>โพเก้: หอวาร์ปทุกอันถูกปรับมาให้มองหาวัตถุดาราศาสตร์ที่เจาะจง แกนวาร์ปของหอคอยนี้จะใช้ได้แค่เฉพาะช่วงเวลาที่หอคอยนั้น\\nเรียงตัวตรงกับวัตถุดาราศาสตร์ของเป้าหมายที่มันหาอยู่เท่านั้น (ในกรณีนี้ก็เป็นของ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;)</value>
+		<value>โพ้ค: หอวาร์ปทุกอันถูกปรับมาให้มองหาวัตถุดาราศาสตร์ที่เจาะจง แกนวาร์ปของหอคอยนี้จะใช้ได้แค่เฉพาะช่วงเวลาที่หอคอยนั้น\\nเรียงตัวตรงกับวัตถุดาราศาสตร์ของเป้าหมายที่มันหาอยู่เท่านั้น (ในกรณีนี้ก็เป็นของ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;)</value>
 	</entry>
 	<entry>
 		<key>You must be standing on the warp platform on the floor during this alignment to be warped.</key>
@@ -1759,7 +1759,7 @@
 	</entry>
 	<entry>
 		<key>POKE: If you look up while the station is rotating, you can see the alignment happens when the astral body is directly overhead.</key>
-		<value>โพเก้: ถ้าคุณมองขึ้นตอนที่สถานีกำลังหมุนอยู่ละก็ คุณจะเห็นว่าการวาร์ปจะเกิดขึ้นเมื่อวัตถุดาราศาสตร์นั้นอยู่จัดเรียงด้านบนของหอคอยพอดี</value>
+		<value>โพ้ค: ถ้าคุณมองขึ้นตอนที่สถานีกำลังหมุนอยู่ละก็ คุณจะเห็นว่าการวาร์ปจะเกิดขึ้นเมื่อวัตถุดาราศาสตร์นั้นอยู่จัดเรียงด้านบนของหอคอยพอดี</value>
 	</entry>
 	<entry>
 		<key>Gabbro</key>
@@ -1799,7 +1799,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro3F_3Personally, I like new experiences, and I’ve never been in a time loop before. I mean, I don’t &lt;i&gt;think&lt;/i&gt; I’ve been in a time loop before this one.</key>
-		<value>สำหรับฉันนะ ฉันค่อนข้างจะชอบประสบการณ์ใหม่นี้เลยล่ะ ฉันไม่เคยติดอยู่ในลูปเวลามาก่อน แบบว่า ฉันไม่&lt;i&gt;คิดว่า&lt;/i&gt;ฉันเคยอยู่ในลูปเวลาก่อนล่ะนะ</value>
+		<value>สำหรับฉันเหรอ? ฉันค่อนข้างชอบประสบการณ์แปลกใหม่แบบนี้เลยล่ะ ฉันไม่เคยติดอยู่ในลูปเวลามาก่อน แบบว่า ฉันไม่&lt;i&gt;คิดว่า&lt;/i&gt;ฉันเคยอยู่ในลูปเวลาก่อนล่ะนะ</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_4I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</key>
@@ -1895,7 +1895,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_3FHere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-		<value>แต่มีบางอย่างที่นายน่าจะชอบนะ - ตอนเริ่มของทุกลูป ฉันชอบเห็นแสงวาบบนท้องฟ้าตลอดเลย มันต้องมีอะไรซักอย่างเกิดขึ้นแถวๆวงโครจรดาวนี้แน่ๆ</value>
+		<value>แต่มีบางอย่างที่นายน่าจะชอบนะ - ตอนเริ่มของทุกลูป ฉันชอบเห็นแสงวาบบนท้องฟ้าตลอดเลย มันต้องมีอะไรซักอย่างเกิดขึ้นแถวๆวงโคจรดาวนี้แน่ๆ</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3FWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
@@ -1951,7 +1951,7 @@
 	</entry>
 	<entry>
 		<key>GabbrosShip3Oh, cool. So it’s floating in the ocean, huh?</key>
-		<value>โอ้ว เจ๋ง แสดงว่ามันกำลังว่ายน้ำเล่นอยู่ในมหาสมุทสินะ?</value>
+		<value>โอ้ว เจ๋ง แสดงว่ามันกำลังว่ายน้ำเล่นอยู่ในมหาสมุทรสินะ?</value>
 	</entry>
 	<entry>
 		<key>GabbrosShip3Did it look like it was having a good time?</key>
@@ -1959,7 +1959,7 @@
 	</entry>
 	<entry>
 		<key>GabbrosShip4I hope it’s having fun! Did you say hi for me?</key>
-		<value>ฉันหวังว่ามันจะสนุกกับการว่ายน้ำนะ! นายได้ทักทายมันให้ฉันมั้ย?</value>
+		<value>ฉันหวังว่ามันจะสนุกกับการเล่นน้ำนะ! นายได้ทักทายมันแทนฉันบ้างรึเปล่า?</value>
 	</entry>
 	<entry>
 		<key>GoodbyeCool, cool. Take it easy out there.</key>
@@ -2035,7 +2035,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_3F...I dunno, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-		<value>...ไม่รู้สิ ฉันไม่ใช่ผู้เชี่ยวชาญเรื่องลูปเวลาด้วยสิ ฉันจะนั่งอยู่ตรงนี้และคิดเรื่องเปื่อยถึงความซับซ้อนของเวลาและอวกาศละกัน เผลอๆฉันอาจงีบด้วยสักหน่อยถ้าใจมันสั่งมา</value>
+		<value>...ไม่รู้สิ ฉันไม่ใช่ผู้เชี่ยวชาญเรื่องลูปเวลาด้วยสิ ฉันจะนั่งอยู่ตรงนี้และคิดอะไรเรื่อยเปื่อยถึงความซับซ้อนของเวลาและอวกาศละกัน เผลอๆฉันอาจงีบด้วยสักหน่อยถ้าใจมันสั่งมา</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2bMy head’s still all full of scenarios for what would happen if you turned off the time loop. I’ll probably notice if you decide to mess with it, though, right? Seems like something I’d notice.</key>
@@ -2127,7 +2127,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething6Must have been from the time Hornfels sent me to check on the deep space satellite. They thought Ol’ Spacey might be malfunctioning, but I couldn’t find a single thing wrong with it.</key>
-		<value>น่าจะเป็นตอนที่ฮอร์นเฟลส์ส่งฉันไปตรวจสอบดาวเทียม Deep Space แน่เลย พวกเขานึกว่า "ปู่ Spacey" อาจทำงานผิดปกติน่ะ แต่ฉันก็ไม่เห็นจะเจออะไรผิดปกติสักอย่างเลยนะ</value>
+		<value>น่าจะเป็นตอนที่ฮอร์นเฟลส์ส่งฉันไปตรวจสอบดวงเทียมอวกาศห้วงลึก แน่เลย พวกเขานึกว่า "ปู่ Spacey" อาจทำงานผิดปกติน่ะ แต่ฉันก็ไม่เห็นจะเจออะไรผิดปกติสักอย่างเลยนะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6Which is probably how it got a shot of my beautiful be-helmeted face, come to think of it.</key>
@@ -2135,7 +2135,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething6I always thought it was kinda sweet that the best way to find Ol’ Spacey is to use a map that’s generated by the satellite itself, isn’t it? Like it’s inviting us to visit. Good ol’ deep space satellite, always making sure we know where we’re going.</key>
-		<value>ฉันคิดเสมอเลยว่ามันน่ารักดีนะที่วิธีในการหา "ปู่ Spacey" คือการที่ใช้แผนที่ที่มาจากดาวเทียมเอง ใช่มั้ยล่ะ? เหมือนปู่กำลังเชื้อเชิญให้เราไปเยี่ยมเลย ปู่ดาวเทียม Deep Space คอยดูและนำทางเราให้รู้ว่าจะไปที่ไหน</value>
+		<value>ฉันคิดเสมอเลยว่ามันน่ารักดีนะที่วิธีในการหา "ปู่ Spacey" คือการที่ใช้แผนที่ที่มาจากดาวเทียมเอง ใช่มั้ยล่ะ? เหมือนปู่กำลังเชื้อเชิญให้เราไปเยี่ยมเลย ปู่ดวงเทียมอวกาศห้วงลึก คอยดูและนำทางเราให้รู้ว่าจะไปที่ไหน</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething6Why’d Hornfels think it was broken?</key>
@@ -2155,7 +2155,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething6aBest guess says the deep space satellite must have sent Timber Hearth some weird pictures, but like… what’s considered “weird” for a satellite, you know?</key>
-		<value>ที่น่าจะเป็นไปได้ที่สุดก็คือดาวเทียม Deep Space น่าจะส่งรูปอะไรแปลกๆกลับไปยัง Timber Hearth แต่แบบมันมีอะไรบ้างที่ถือว่า "แปลก" สำหรับดาวเทียมล่ะ นายพอจะเข้าใจมั้ย?</value>
+		<value>ที่น่าจะเป็นไปได้ที่สุดก็คือดวงเทียมอวกาศห้วงลึก น่าจะส่งรูปอะไรแปลกๆกลับไปยัง Timber Hearth แต่แบบมันมีอะไรบ้างที่ถือว่า "แปลก" สำหรับดาวเทียมล่ะ นายพอจะเข้าใจมั้ย?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6aAnyway, if you ever want to visit Ol’ Spacey, fastest way is to jump into your ship and use your solar system map to lock on to the satellite, same as you would any astral body.</key>
@@ -2215,7 +2215,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro3T_4Heh, right back at you. Personally, I like new experiences, and I’ve never been in a time loop before.</key>
-		<value>ฮ่า นายก็เหมือนกันนั่นแหละ สำหรับฉันนะ ฉันค่อนข้างจะชอบประสบการณ์ใหม่นี้เลยล่ะ แถมฉันไม่เคยติดอยู่ในลูปเวลามาก่อนด้วยซ้ำ</value>
+		<value>ฮ่า นายก็เหมือนกันนั่นแหละ สำหรับฉันเหรอ? ฉันค่อนข้างชอบประสบการณ์แปลกใหม่แบบนี้เลยล่ะ แถมฉันไม่เคยติดอยู่ในลูปเวลามาก่อนด้วยซ้ำ</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_4Well. I don’t &lt;i&gt;think&lt;/i&gt; I’ve been in a time loop before this one, but then, it’s not like I can know that for sure.</key>
@@ -2267,7 +2267,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_3THere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-		<value>แต่มีบางอย่างที่นายน่าจะชอบนะ - ตอนเริ่มของทุกลูป ฉันชอบเห็นแสงวาบบนท้องฟ้าตลอดเลย มันต้องมีอะไรซักอย่างเกิดขึ้นแถวๆวงโครจรดาวนี้แน่ๆ</value>
+		<value>แต่มีบางอย่างที่นายน่าจะชอบนะ - ตอนเริ่มของทุกลูป ฉันชอบเห็นแสงวาบบนท้องฟ้าตลอดเลย มันต้องมีอะไรซักอย่างเกิดขึ้นแถวๆวงโคจรดาวนี้แน่ๆ</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3TWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
@@ -2327,7 +2327,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_3T...I dunno, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-		<value>...ไม่รู้สิ ฉันไม่ใช่ผู้เชี่ยวชาญเรื่องลูปเวลาด้วยสิ ฉันจะนั่งอยู่ตรงนี้และคิดเรื่องเปื่อยถึงความซับซ้อนของเวลาและอวกาศละกัน เผลอๆฉันอาจงีบด้วยสักหน่อยถ้าใจมันสั่งมา</value>
+		<value>...ไม่รู้สิ ฉันไม่ใช่ผู้เชี่ยวชาญเรื่องลูปเวลาด้วยสิ ฉันจะนั่งอยู่ตรงนี้และคิดอะไรเรื่อยเปื่อยถึงความซับซ้อนของเวลาและอวกาศละกัน เผลอๆฉันอาจงีบด้วยสักหน่อยถ้าใจมันสั่งมา</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
@@ -2463,7 +2463,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_mergeHere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-		<value>แต่มีบางอย่างที่นายน่าจะชอบนะ - ตอนเริ่มของทุกลูป ฉันชอบเห็นแสงวาบบนท้องฟ้าตลอดเลย มันต้องมีอะไรซักอย่างเกิดขึ้นแถวๆวงโครจรดาวนี้แน่ๆ</value>
+		<value>แต่มีบางอย่างที่นายน่าจะชอบนะ - ตอนเริ่มของทุกลูป ฉันชอบเห็นแสงวาบบนท้องฟ้าตลอดเลย มันต้องมีอะไรซักอย่างเกิดขึ้นแถวๆวงโคจรดาวนี้แน่ๆ</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_mergeWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
@@ -2523,7 +2523,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeWell, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-		<value>เอาล่ะ ฉันไม่ใช่ผู้เชี่ยวชาญเรื่องลูปเวลาด้วยสิ เพราะงั้นฉันจะนั่งอยู่ตรงนี้และคิดเรื่องเปื่อยถึงความซับซ้อนของเวลาและอวกาศละกัน เผลอๆฉันอาจงีบด้วยสักหน่อยถ้าใจมันสั่งมา</value>
+		<value>เอาล่ะ ฉันไม่ใช่ผู้เชี่ยวชาญเรื่องลูปเวลาด้วยสิ เพราะงั้นฉันจะนั่งอยู่ตรงนี้และคิดอะไรเรื่อยเปื่อยถึงความซับซ้อนของเวลาและอวกาศละกัน เผลอๆฉันอาจงีบด้วยสักหน่อยถ้าใจมันสั่งมา</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
@@ -2579,11 +2579,11 @@
 	</entry>
 	<entry>
 		<key>RecordingGabbro here, checking in on the deep space satellite per ground control's request to check out a possible equipment problem. See, Hornfels? I do too work!</key>
-		<value>นี่แก็บโบรนะ ฉันมาตรวจสอบสภาพของดาวเทียม Deep Space เพื่อตรวจสอบปัญหาอุปกรณ์ที่อาจเกิดขึ้นตามคำขอของศูนย์ควบคุมภาพพื้นดิน เห็นมั้ยล่ะ ฮอร์นเฟลส์ ฉันก็ทำงานเป็นเหมือนกันนะ!</value>
+		<value>นี่แก็บโบรนะ ฉันมาตรวจสอบสภาพของดวงเทียมอวกาศห้วงลึก เพื่อตรวจสอบปัญหาอุปกรณ์ที่อาจเกิดขึ้นตามคำขอของศูนย์ควบคุมภาพพื้นดิน เห็นมั้ยล่ะ ฮอร์นเฟลส์ ฉันก็ทำงานเป็นเหมือนกันนะ!</value>
 	</entry>
 	<entry>
 		<key>RecordingYou know, I wouldn’t mind being a satellite. It's peaceful out here, among the distant stars and the soft, velvety darkness… Bet it's (yawn) awfully nice for naps, too...</key>
-		<value>รู้อะไรมั้ย ฉันคิดว่าเป็นดาวเทียมก็ไม่ได้แย่นะ ที่นี่ก็เงียบสงบดี ท่านกลางดวงดาวอันไกลโพ้นและความมืดมุดที่นุ่มนวลรวกับกำมะหยี่... พนันได้เลยว่า(หาว)น่าจะเหมาะกับการงีบสุดๆ...</value>
+		<value>รู้อะไรมั้ย ฉันคิดว่าเป็นดาวเทียมก็ไม่ได้แย่นะ ที่นี่ก็เงียบสงบดี ท่านกลางดวงดาวอันไกลโพ้นและความมืดมิดที่นุ่มนวลราวกับกำมะหยี่... พนันได้เลยว่า(หาว)น่าจะเหมาะกับการงีบสุดๆ...</value>
 	</entry>
 	<entry>
 		<key>Recording...</key>
@@ -2627,11 +2627,11 @@
 	</entry>
 	<entry>
 		<key>SignThe radio tower here on Timber Hearth was built to receive transmissions from our deep space satellite, and to this day still houses the first-ever photos taken of the entire solar system.</key>
-		<value>หอวิทยุนี้บน Timber Hearth ถูกสร้างมาเพื่อรับสัญญาณจากดาวเทียม Deep Space ของเรา และจนถึงวันนี้ยังเป็นที่เก็บรูปภาพแรกของเราที่ได้ถ่ายทั้งระบบสุริยะเอาไว้</value>
+		<value>หอวิทยุนี้บน Timber Hearth ถูกสร้างมาเพื่อรับสัญญาณจากดวงเทียมอวกาศห้วงลึก ของเรา และจนถึงวันนี้ยังเป็นที่เก็บรูปภาพแรกของเราที่ได้ถ่ายทั้งระบบสุริยะเอาไว้</value>
 	</entry>
 	<entry>
 		<key>SignThese photos were made possible by the deep space satellite’s unusual vertical orbit that carries it high above (and below) the plane of the solar system.</key>
-		<value>รูปพวกนี้เป็นไปได้ด้วยวงโครจรที่ไม่ปกติของดาวเทียม Deep Space ที่โครจรในแนวตั้งที่นำพามันไปด้านบน(และด้านใต้)ของระบบสุริยะของเรา</value>
+		<value>รูปพวกนี้เป็นไปได้ด้วยวงโคจรที่ไม่ปกติของดวงเทียมอวกาศห้วงลึก ที่โคจรในแนวตั้งที่นำพามันไปด้านบน(และด้านใต้)ของระบบสุริยะของเรา</value>
 	</entry>
 	<entry>
 		<key>SignThanks to a recent upgrade, the deep space satellite is now responsible for generating the real-time solar system map used by our newest astronauts.</key>
@@ -2715,7 +2715,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer13Are you kidding? Of course I’m ready - it’s finally time to test the new landing hydraulics with a pilot instead of the autoflight system!</key>
-		<value>นายล้อกันเล่นรึเปล่า? ฉันพร้อมแน่นอนอยู่แล้ว - ในที่สุดมันก็ถึงเวลาที่จะทดสอบระบบลงจอดไฮดรอลิกกับนักบินแทนที่จะเป็นระบบออโตไพลอทแล้ว!</value>
+		<value>นายล้อกันเล่นรึเปล่า? ฉันพร้อมแน่นอนอยู่แล้ว - ในที่สุดมันก็ถึงเวลาที่จะทดสอบระบบลงจอดไฮดรอลิกกับนักบินแทนที่จะเป็นระบบออโตไพลอตแล้ว!</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer13...Speaking of pilots, make sure you don’t crash the ship the first time you put it down, you hear?</key>
@@ -3034,7 +3034,7 @@
 			ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe.
 		</key>
 		<value>
-			ข้อผิดพลาก: ไม่สามารถระบุวงโครจรได้ ไม่มีสัญญาณใดๆที่ตรงกับเกณฑ์ของ Eye of the universe 
+			ข้อผิดพลาก: ไม่สามารถระบุวงโคจรได้ ไม่มีสัญญาณใดๆที่ตรงกับเกณฑ์ของ Eye of the universe 
 		</value>
 	</entry>
 	<entry>
@@ -3323,7 +3323,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparCoreGiant’s Deep’s core, huh? Ahhh, that was a wild one.</key>
-		<value>ใจกลางของ Giant’s Deep’s  งั้นเหรอ? อาาา นั่นมันค่อนข้างจะบ้าน่ะ</value>
+		<value>ใจกลางของ Giant’s Deep’s  งั้นเหรอ? อาาา นั่นมันบ้าดีเดือดมาก</value>
 	</entry>
 	<entry>
 		<key>FeldsparCoreBut since you’re asking, I gotta assume you haven’t made it down there yourself yet, right? If I tell you how, it kinda feels like cheating.</key>
@@ -3443,7 +3443,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething1“The ship is fragile! It can break! You can’t subject it to extreme conditions!” Not like I was flying the thing into the sun, now, was I?</key>
-		<value>"ยานมันบอบบางนะ! มันพังง่าย! นายจะเอามันไปเผชิญสภาวะวิกฤตไม่ได้!" ทำเหมือนกับฉันบินมันเข้าหาพระอาทิตย์อย่างนั้นแหละ?</value>
+		<value>"ยานมันบอบบางนะ! มันพังง่าย! นายจะเอามันไปเผชิญสภาวะวิกฤตไม่ได้!" ทำเหมือนกับฉันขับมันเข้าหาดวงอาทิตย์อย่างนั้นแหละ?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1And the jellyfish, you figured those out, too? Hatchling, I tell you what, you’ve done real well for yourself! You’re a fine astronaut, sure, but you might just become a pilot yet!</key>
@@ -3519,7 +3519,7 @@
 	</entry>
 	<entry>
 		<key>SignDespite my checking on them at least a thousand times over, the images are STILL not ready to print over in the radio tower. Well, it’s like they say — a watched satellite never transmits data! &lt;size=20&gt;(Haha, that’s a little joke for you, journal. No one says that.)&lt;/size&gt;</key>
-		<value>ไม่ว่าฉันจะมาดูกี่พันรอบ รูปพวกนี้ก็ยังไม่พร้อมจะพิมพ์ในหอวิทยุอยู่ดี เอาเถอะ เหมือนกับที่คนชอบพูดกัน - ดาวเทียมที่ถูกจ้องจะไม่มีวันส่งข้อมูล! &lt;size=20&gt;(ฮาฮ่า เป็นมุกตลกน้อยๆให้นายนะ เจ้าบันทึก ไม่มีใครพูดอะไรแบบนั้นหรอก)&lt;/size&gt;</value>
+		<value>ไม่ว่าฉันจะมาเช็กกี่พันรอบ รูปพวกนี้ก็ยังไม่พร้อมจะพิมพ์ในหอวิทยุอยู่ดี เอาเถอะ เหมือนกับที่คนชอบพูดกัน - ดาวเทียมที่ถูกจ้องจะไม่มีวันส่งข้อมูล! &lt;size=20&gt;(ฮาฮ่า เป็นมุกตลกน้อยๆให้นายนะ เจ้าบันทึก ไม่มีใครพูดอะไรแบบนั้นหรอก)&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>SignSomeday, I’ll have to study the mechanics of how time manages to slow to a syrupy crawl whenever I’m anticipating something. In the meantime, I’ve turned to Gabbro, our resident expert in leisurely whiling away the hours, who recommends the following:</key>
@@ -3527,7 +3527,7 @@
 	</entry>
 	<entry>
 		<key>SignGABBRO’S 3 FOOLPROOF STEPS FOR DOZING OFF\\n     1.     Light a nice, cozy campfire and get comfortable.\\n     2.     Gaze deeply into the serene warmth.\\n     3.     Let time begin to slip away as you allow the flames to lull you into a peaceful slumber.</key>
-		<value>3 ขั้นตอนสุดชิลให้หลับสบายฉบับแก็บโบร\\n     1.     ก่อกองให้ และทำตัวให้สบาย\\n     2.     จ้องมองเข้าไปในแสงอุ่นๆของเปลวไฟ\\n     3.     ปล่อยให้เวลาไหลไปอย่างช้าๆ ในขณะที่เปลวไฟกล่อมให้หลับอย่างสงบ</value>
+		<value>3 ขั้นตอนสุดชิลให้หลับสบายฉบับแก็บโบร\\n     1.     ก่อกองใฟ และทำตัวให้สบาย\\n     2.     จ้องมองเข้าไปในแสงอุ่นๆของเปลวไฟ\\n     3.     ปล่อยให้เวลาไหลไปอย่างช้าๆ ในขณะที่เปลวไฟกล่อมให้หลับอย่างสงบ</value>
 	</entry>
 	<entry>
 		<key>Sign(If Gabbro knew I’d taken notes, they’d probably think I’d finally cracked, but I refuse to accept sass from an astronaut who deliberately burns their marshmallows.)</key>
@@ -3539,7 +3539,7 @@
 	</entry>
 	<entry>
 		<key>Sign...Aaand we’re recording! Ahem. It’s been two days since the launch of the deep space satellite, and I’m about to view the first batch of photos. Let the record show that on this historic day, Outer Wilds Ventures has—</key>
-		<value>...เอาล่ะะะ กำลังบันทึกนะ! แฮ่ม! นี่ก็ผ่านมาได้สองวันแล้วหลังจากที่เราปล่อยดาวเทียม Deep Space ออกไป และฉันกำลังจะได้เห็นรูปถ่ายชุดแรก บันทึกไว้เลยว่า ณ วันแห่งประวัติศาสตร์นี้คณะสำรวจ Outer Wilds ได้-</value>
+		<value>...เอาล่ะะะ กำลังบันทึกนะ! แฮ่ม! นี่ก็ผ่านมาได้สองวันแล้วหลังจากที่เราปล่อยดวงเทียมอวกาศห้วงลึก ออกไป และฉันกำลังจะได้เห็นรูปถ่ายชุดแรก บันทึกไว้เลยว่า ณ วันแห่งประวัติศาสตร์นี้คณะสำรวจ Outer Wilds ได้-</value>
 	</entry>
 	<entry>
 		<key>SignAaaah! They’re printing, they’re printing! Here they come!</key>
@@ -3667,7 +3667,7 @@
 	</entry>
 	<entry>
 		<key>IPNotFoundThe radio tower on Timber Hearth was built to receive transmissions from our deep space satellite, and housed some of the last-ever photos taken of the entire solar system.</key>
-		<value>หอวิทยุบน Timber Hearth สร้างขึ้นมาเพื่อรับสัญญาณจากดาวเทียม Deep Space และเป็นที่เก็บรูปชุดสุดท้ายที่ถ่ายทั้งระบบสุริยะเอาไว้</value>
+		<value>หอวิทยุบน Timber Hearth สร้างขึ้นมาเพื่อรับสัญญาณจากดวงเทียมอวกาศห้วงลึก และเป็นที่เก็บรูปชุดสุดท้ายที่ถ่ายทั้งระบบสุริยะเอาไว้</value>
 	</entry>
 	<entry>
 		<key>IPNotFoundHornfels noticed a curious anomaly in one of the photos, but it ultimately went unexplained.</key>
@@ -3675,7 +3675,7 @@
 	</entry>
 	<entry>
 		<key>IPFoundThe radio tower on Timber Hearth was built to receive transmissions from our deep space satellite, and housed some of the last-ever photos taken of the entire solar system.</key>
-		<value>หอวิทยุบน Timber Hearth สร้างขึ้นมาเพื่อรับสัญญาณจากดาวเทียม Deep Space และเป็นที่เก็บรูปชุดสุดท้ายที่ถ่ายทั้งระบบสุริยะเอาไว้</value>
+		<value>หอวิทยุบน Timber Hearth สร้างขึ้นมาเพื่อรับสัญญาณจากดวงเทียมอวกาศห้วงลึก และเป็นที่เก็บรูปชุดสุดท้ายที่ถ่ายทั้งระบบสุริยะเอาไว้</value>
 	</entry>
 	<entry>
 		<key>IPFoundOne of these photos revealed the existence of an invisible ring world inhabited by a species whose presence in our solar system predated even the Nomai.</key>
@@ -3962,7 +3962,7 @@
 			MELORAE: Annona, Bur, I just observed the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; in orbit around &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;.
 		</key>
 		<value>
-			เมโลเรย์: อันโนนา เบอ ฉันเพิ่งสังเกตเห็น&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;โครจรอยู่รอบๆ &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;
+			เมโลเรย์: อันโนนา เบอ ฉันเพิ่งสังเกตเห็น&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;โคจรอยู่รอบๆ &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;
 		</value>
 	</entry>
 	<entry>
@@ -3986,7 +3986,7 @@
 			BUR: I thought the &lt;color=orange&gt;locator&lt;/color&gt; now accounted for all of the &lt;color=lightblue&gt;phantom moon&lt;/color&gt;’s locations, but sometimes the &lt;color=orange&gt;locator&lt;/color&gt; can’t tell where the moon is. Perhaps there’s a problem with the device?
 		</key>
 		<value>
-			เบอ: ฉันนึกว่า&lt;color=orange&gt;อุปกรณ์ตามหา&lt;/color&gt;ของเราครอบคลุมทุกตำแหน่งที่\\n&lt;color=lightblue&gt;ดวงจันทร์ผี&lt;/color&gt;นี่จะเคลื่อนไปได้แล้วซะอีก แต่บางที&lt;color=orange&gt;อุปกรณ์ตามหา&lt;/color&gt;ก็หาดวงจันทร์ไม่เจอ\\nหรือว่าอุปกรณ์นี่จะมีปัญหา?
+			เบอ: ฉันนึกว่า&lt;color=orange&gt;อุปกรณ์ตามหา&lt;/color&gt;ของเราครอบคลุมทุกตำแหน่งที่\\n&lt;color=lightblue&gt;ดวงจันทร์ปริศนา&lt;/color&gt;นี่จะเคลื่อนไปได้แล้วซะอีก แต่บางที&lt;color=orange&gt;อุปกรณ์ตามหา&lt;/color&gt;ก็หาดวงจันทร์ไม่เจอ\\nหรือว่าอุปกรณ์นี่จะมีปัญหา?
 		</value>
 	</entry>
 	<entry>
@@ -3994,7 +3994,7 @@
 			MELORAE: It’s also possible there exists a sixth place in this star system to which the &lt;color=lightblue&gt;phantom moon&lt;/color&gt; travels.
 		</key>
 		<value>
-			เมโลเรย์: มีความเป็นไปได้ที่จะมีตำแหน่งที่หกในระบบสุริยะนี้ที่&lt;color=lightblue&gt;ดวงจันทร์&lt;/color&gt;\\nนั้นจะเคลื่อนที่ไปโครจรรอบๆ
+			เมโลเรย์: มีความเป็นไปได้ที่จะมีตำแหน่งที่หกในระบบสุริยะนี้ที่&lt;color=lightblue&gt;ดวงจันทร์&lt;/color&gt;\\nนั้นจะเคลื่อนที่ไปโคจรรอบๆ
 		</value>
 	</entry>
 	<entry>
@@ -4079,11 +4079,11 @@
 	</entry>
 	<entry>
 		<key>POKE: Fear of failure is a poor reason not to try. I believe, if we’re cautious, the &lt;color=orange&gt;Sun Station&lt;/color&gt; will work. I believe in Pye.</key>
-		<value>โพเก้: ความกลัวที่จะล้มเหลวไม่ใช่เหตุผลที่เราจะไม่ลองดูก่อน ฉันเชื่อว่าถ้าพวกเราระมัดระวัง &lt;color=orange&gt;สถานีสุริยะ&lt;/color&gt;จะใช้งานได้ ฉันเชื่อในตัวไพร์</value>
+		<value>โพ้ค: ความกลัวที่จะล้มเหลวไม่ใช่เหตุผลที่เราจะไม่ลองดูก่อน ฉันเชื่อว่าถ้าพวกเราระมัดระวัง &lt;color=orange&gt;สถานีสุริยะ&lt;/color&gt;จะใช้งานได้ ฉันเชื่อในตัวไพร์</value>
 	</entry>
 	<entry>
 		<key>PYE: Poke, I’m deeply honored. Idaea, I comprehend your position; however, if we aren’t all but certain the &lt;color=orange&gt;Sun Station&lt;/color&gt; will not cause destruction once we’ve built it, then I won’t support the station’s use.</key>
-		<value>ไพร์: เป็นเกียรติอย่างยิ่งเลยโพเก้ ส่วน อเดยา ฉันเข้าใจที่นายพูดนะ แต่ฉันขอให้คำสัญญา \\n ถ้าพวกฉันมองว่า&lt;color=orange&gt;สถานีสุริยะ&lt;/color&gt;มีโอกาสที่จะก่อให้เกิดการทำลายล้างได้ เราจะไม่เปิดใช้งานมัน</value>
+		<value>ไพร์: เป็นเกียรติอย่างยิ่งเลยโพ้ค ส่วน อเดยา ฉันเข้าใจที่นายพูดนะ แต่ฉันขอให้คำสัญญา \\n ถ้าพวกฉันมองว่า&lt;color=orange&gt;สถานีสุริยะ&lt;/color&gt;มีโอกาสที่จะก่อให้เกิดการทำลายล้างได้ เราจะไม่เปิดใช้งานมัน</value>
 	</entry>
 	<entry>
 		<key>RAMIE: Note: This door will need to remain closed for some &lt;i&gt;time&lt;/i&gt;! Pye and I are running an experiment based on the extraordinary findings from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.</key>
@@ -4103,7 +4103,7 @@
 	</entry>
 	<entry>
 		<key>RAMIE: The &lt;color=orange&gt;Southern Observatory&lt;/color&gt; is asking if creating a 22 minute interval is possible (that is, to have something arrive 22 minutes before it is actually sent through the warp).</key>
-		<value>เรมี่: คนที่&lt;color=orange&gt;หอดูดาวทางใต้&lt;/color&gt;ถามว่าการสร้างให้มันเป็น 22 นาทีนั้นเป็นไปได้มั้ย (หมายถึง ทำให้บางสิ่งถูกวาร์ปมาถึงก่อนเวลาที่มันจะถูกส่งจริงๆ เป็นเวลา 22 นาที)</value>
+		<value>เรมี่: คนที่&lt;color=orange&gt;หอดูดาวทางใต้&lt;/color&gt;ถามว่าการสร้างให้มันเป็น 22 นาทีนั้นเป็นไปได้ไหม (หมายถึง ทำให้บางสิ่งถูกวาร์ปมาถึงก่อนเวลาที่มันจะถูกส่งจริงๆ เป็นเวลา 22 นาที)</value>
 	</entry>
 	<entry>
 		<key>RAMIE: We’ve learned the negative interval of time between departure and arrival can be increased by adding more energy to the warp core. Problematically, the energy required to extend the interval increases at an exponential rate.</key>
@@ -4202,7 +4202,7 @@
 			ESCALL: Secca, is the message finished? The &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is already growing fainter; it will be gone in a matter of hours. We need to leave here, quickly.
 		</key>
 		<value>
-			เอสคัล: เซคค่า บันทึกข้อความเสร็จหรือยัง? สัญญาณของ&lt;color=orange&gt;เวซเซล&lt;/color&gt;เริ่มจะเบาลง อีกไม่ถึงชั่วโมงมันก็จะหายไปแล้ว เราต้องรีบออกจากที่นี่ได้แล้ว
+			เอสคัล: เซคค่า บันทึกข้อความเสร็จหรือยัง? สัญญาณของ&lt;color=orange&gt;เวซเซล&lt;/color&gt;เริ่มจะเบาลงแล้ว มันจะหายไปในอีกไม่กี่ชั่วโมง เราต้องรีบออกจากที่นี่ได้แล้ว
 		</value>
 	</entry>
 	<entry>
@@ -4211,7 +4211,7 @@
 	</entry>
 	<entry>
 		<key>CANNA: It’s clear the universe is dying. There are fewer and fewer resources and safe places within space now, so my clan and I believe the best option is for all of our clans to stay together.</key>
-		<value>แคนนา: มันค่อนข้างจะชัดเจนว่าจักรวาลนี้กำลังตายลง ทรัพยากรและสถานที่ปลอดภัยเริ่มน้อยลงและน้อยลงทุกที เพราะฉะนั้นฉันและเผ่าของฉันเชื่อว่าทางเลือกที่ดีที่สุดคือพวกเราควรจะอยู่ด้วยกันไว้</value>
+		<value>แคนนา: มันค่อนข้างจะชัดเจนว่าจักรวาลนี้กำลังดับสูญ ทรัพยากรและสถานที่ปลอดภัยเริ่มน้อยลงและน้อยลงทุกที เพราะฉะนั้นฉันและเผ่าของฉันเชื่อว่าทางเลือกที่ดีที่สุดคือพวกเราควรจะอยู่ด้วยกันไว้</value>
 	</entry>
 	<entry>
 		<key>CANNA: If you can reach the Gloaming Galaxy, we’ve found that Blackrock’s suns are fairly stable, and life in this star system is (comparatively) thriving. We live in relative safety.</key>
@@ -4239,7 +4239,7 @@
 	</entry>
 	<entry>
 		<key>CLEM: I remember hearing that story as a child! One day, Escall’s &lt;color=orange&gt;Vessel&lt;/color&gt; simply stopped responding. The other clans searched and searched, but found no trace. It was as if their missing friends had warped out of existence.</key>
-		<value>เคล็ม: ฉันจำเรื่องนั้นได้! วันหนึ่ง&lt;color=orange&gt;เวซเซล&lt;/color&gt;ของเอสคัลก็ขาดการติดต่อไป เผ่าอื่นๆตามหาแล้วตามหาอีกก็ไม่เจอแม้แต่ร่องรอย เหมือนกับว่าเพื่อที่หายสาบสูญของเขาถูกวาร์ปออกไปความจริงซะแบบนั้น</value>
+		<value>เคล็ม: ฉันจำเรื่องนั้นได้! วันหนึ่ง&lt;color=orange&gt;เวซเซล&lt;/color&gt;ของเอสคัลก็ขาดการติดต่อไป เผ่าอื่นๆตามหาแล้วตามหาอีกก็ไม่เจอแม้แต่ร่องรอย เหมือนกับว่าเพื่อนที่หายสาบสูญของเขาถูกวาร์ปออกไปจากความเป็นจริงซะแบบนั้น</value>
 	</entry>
 	<entry>
 		<key>HYSSOP: That’s no myth, friends; Escall’s clan existed, and their story was real.</key>
@@ -4319,7 +4319,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: This is it: We’ve finished building the final &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; module and are ready to send it into orbit around &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; for assembly!</key>
-		<value>คัซซาวา: นี่แหละ! เราสร้างโมดูลสุดท้ายของ&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;เสร็จเรียบร้อย และพร้อมส่งขึ้นวงโครจรของ &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; เพื่อประกอบแล้ว!</value>
+		<value>คัซซาวา: นี่แหละ! เราสร้างโมดูลสุดท้ายของ&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;เสร็จเรียบร้อย และพร้อมส่งขึ้นวงโคจรของ &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; เพื่อประกอบแล้ว!</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: To all my friends here at the &lt;color=orange&gt;Construction Yard&lt;/color&gt;, my gratitude for your tireless work. I had given up hope, but I truly believe this cannon may actually succeed where many other attempts have not.</key>
@@ -4331,7 +4331,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: If I’m ever half as gooey as Mallow and Avens behave together, Daz, you may launch &lt;i&gt;me&lt;/i&gt; from the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;.</key>
-		<value>คัซซาวา: ถ้าฉันเริ่มอ่อนเหลวเหมือนที่มัลโลว์กับอเวนส์อยู่ด้วยกันล่ะก็ แดซ คุณส่ง&lt;i&gt;ผม&lt;/i&gt;ออกจาก&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;ได้เลย</value>
+		<value>คัซซาวา: ถ้าฉันเริ่มอ่อนเหลวเหมือนที่มัลโลวกับอเวนส์อยู่ด้วยกันล่ะก็ แดซ คุณส่ง&lt;i&gt;ผม&lt;/i&gt;ออกจาก&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;ได้เลย</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Our next step will be to send Privet up to the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; to install the probe tracking system.</key>
@@ -4443,7 +4443,7 @@
 	</entry>
 	<entry>
 		<key>PYE: Kindly refrain from going supernova on me before the &lt;color=lightblue&gt;sun&lt;/color&gt; does, Idaea.</key>
-		<value>ไพร์: กรุณาอย่าระเบิดซูเปอร์โนวาใส่ฉันก่อนที่&lt;color=lightblue&gt;พระอาทิตย์&lt;/color&gt;จะระเบิดนะ อเดยา</value>
+		<value>ไพร์: กรุณาอย่าระเบิดอารมณ์ใส่ฉันก่อนที่&lt;color=lightblue&gt;พระอาทิตย์&lt;/color&gt;จะระเบิดนะ อเดยา</value>
 	</entry>
 	<entry>
 		<key>THATCH: Where should this new, more sophisticated locator be built? It may need to be larger than this &lt;color=orange&gt;Eye signal locator&lt;/color&gt; is.</key>
@@ -4527,7 +4527,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: Fortunately, the &lt;color=lightblue&gt;Attlerock&lt;/color&gt;’s lack of atmosphere will make calibration simple. After all this time, I’m thrilled to finally resume our search!</key>
-		<value>ฟิลิกซ์: โชคดีที่ &lt;color=lightblue&gt;Attlerock&lt;/color&gt; ไม่มีชั้นบรรยากาศ เพราะงั้นการปรับเทียบก็เลยค่อนข้างง่าย หลังจากรอมานานแสนนานฉันตื่นเต้นเหลือเกินที่จะได้กลับมาค้นหาต่ออีกครั้ง!</value>
+		<value>ฟิลิกซ์: โชคดีที่ &lt;color=lightblue&gt;Attlerock&lt;/color&gt; ไม่มีชั้นบรรยากาศ เพราะงั้นการปรับเทียบก็เลยค่อนข้างง่าย หลังจากผ่านมานานขนาดนี้ ฉันตื่นเต้นเหลือเกินที่จะได้กลับมาค้นหามันต่ออีก!</value>
 	</entry>
 	<entry>
 		<key>Caution: You are about to access the core while the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is active.</key>
@@ -4563,7 +4563,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: Poke just sent the warp core for the final tower to us from the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;. Now &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; can be connected with &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;, where Cassava is working with Avens to craft the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;, and where Phlox is sculpting the memory statues.</key>
-		<value>ยาร์โรว: โพเก้พึ่งจะส่งแกนวาร์ปสำหรับหอคอยอันสุดท้ายมาให้เราจาก&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt; ตอนนี้ &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; สามารถเชื่อมต่อกับ &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; ซึ่งเป็นสถานที่ที่คัซซาวากับอเวนส์กำลังสร้าง&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;และที่ที่ฟล็อกกำลังปั้นรูปปั้นความทรงจำอยู่</value>
+		<value>ยาร์โรว: โพ้คพึ่งจะส่งแกนวาร์ปสำหรับหอคอยอันสุดท้ายมาให้เราจาก&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt; ตอนนี้ &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; สามารถเชื่อมต่อกับ &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; ซึ่งเป็นสถานที่ที่คัซซาวากับอเวนส์กำลังสร้าง&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;และที่ที่ฟล็อกกำลังปั้นรูปปั้นความทรงจำอยู่</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Hypothesis: It was not by accident the core of our warp tower was the last to be forged.</key>
@@ -4571,7 +4571,7 @@
 	</entry>
 	<entry>
 		<key>POKE: Hypothesis: The cores could have been forged faster if Cassava had interrupted my work less frequently to ask for updates.</key>
-		<value>โพเก้: สมมติฐาน: แกนวาร์ปน่าจะเสร็จสิ้นไวกว่านี้ถ้าคัซซาวาไม่มากวนฉันเพื่อถามความคืบหน้า</value>
+		<value>โพ้ค: สมมติฐาน: แกนวาร์ปน่าจะเสร็จสิ้นไวกว่านี้ถ้าคัซซาวาไม่มากวนฉันเพื่อถามความคืบหน้า</value>
 	</entry>
 	<entry>
 		<key>YARROW: The important point is we are all connected through &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; now, and also that I’m no longer needed for mediating your disagreements.</key>
@@ -4587,7 +4587,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: Would it help to remind Avens that Mallow (his love) will be one of the Nomai aboard the cannon, or is Mallow part of the problem?</key>
-		<value>ยาร์โรว: มันจะช่วยมั้ยถ้าเราเตือนอเวนส์ว่ามัลโลว(สุดที่รักของเขา) จะเป็นหนึ่งในโนไมที่อยู่ควบคุมเครื่องนั้น หรือตัวมัลโลวเองก็เป็นส่วนนึงของปัญหาเหมือนกัน?</value>
+		<value>ยาร์โรว: มันจะช่วยมั้ยถ้าเราเตือนอเวนส์ว่ามัลโลว (สุดที่รักของเขา) จะเป็นหนึ่งในโนไมที่อยู่ควบคุมเครื่องนั้น หรือตัวมัลโลวเองก็เป็นส่วนนึงของปัญหาเหมือนกัน?</value>
 	</entry>
 	<entry>
 		<key>YARROW: Pye and Idaea have worked hard on the &lt;color=orange&gt;Sun Station&lt;/color&gt;, and it at last is complete. If everything goes as planned, this structure will prompt the &lt;color=lightblue&gt;sun&lt;/color&gt;’s explosion, which will in turn supply the power the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires.</key>
@@ -4595,7 +4595,7 @@
 	</entry>
 	<entry>
 		<key>RAMIE: I’m impressed by their mental fortitude. This was the project’s most difficult task, in more ways than one.</key>
-		<value>เรมี่: ฉันชื่มชนความเข้มแข็งของพวกเขาเลย โปรเจกต์นี้หนักหนามาก ในหลายๆความหมาย</value>
+		<value>เรมี่: ฉันชื่นชมความเข้มแข็งของพวกเขาเลย โปรเจกต์นี้หนักหนามาก ในหลายๆความหมาย</value>
 	</entry>
 	<entry>
 		<key>YARROW: We’re nearly ready to activate the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;! Here is what will happen: First, the &lt;color=orange&gt;Sun Station&lt;/color&gt; will receive the order to fire at the &lt;color=lightblue&gt;sun&lt;/color&gt;, prompting it to explode.</key>
@@ -4603,7 +4603,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: Using the energy from the resulting supernova, the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; will send the order for the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; to fire back in time by 22 minutes.</key>
-		<value>ยาร์โรว: ใช้พลังงานที่ออกมาจากซูเปอร์โนวา &lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;จะส่งคำสั่งให้&lt;color=orange&gt;เครื่องยิงแรงโพรบอวกาศ&lt;/color&gt;ยิงออกไป ย้อนกลับไปในเวลา 22 นาทีก่อนหน้า</value>
+		<value>ยาร์โรว: ใช้พลังงานที่ออกมาจากซูเปอร์โนวา &lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;จะส่งคำสั่งให้&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;ยิงออกไป ย้อนกลับไปในเวลา 22 นาทีก่อนหน้า</value>
 	</entry>
 	<entry>
 		<key>YARROW: Exactly 22 minutes after these orders are received, the &lt;color=orange&gt;Sun Station&lt;/color&gt; will again trigger the supernova to send the probe data from this cannon launch back in time.</key>
@@ -4611,7 +4611,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: In total, each cycle created by the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; will last precisely 22 minutes. We can end this cycle at will.</key>
-		<value>ยาร์โรว: โดยรวม แต่ละวงจรที่เกิดจาก&lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;จะมีระยะเวลา 22 นาทีเป๊ะ เราสามารถหยุดวงจรนี้เมื่อไรก็ได้ที่เราต้องการ</value>
+		<value>ยาร์โรว: โดยรวม แต่ละวงจรที่เกิดจาก&lt;color=orange&gt;โปรเจกต์แอชทวิน&lt;/color&gt;จะมีระยะเวลา 22 นาทีพอดี เราสามารถหยุดวงจรนี้เมื่อไรก็ได้ที่เราต้องการ</value>
 	</entry>
 	<entry>
 		<key>YARROW: These words are difficult to write: The &lt;color=orange&gt;Sun Station&lt;/color&gt; did not work.</key>
@@ -4651,7 +4651,7 @@
 	</entry>
 	<entry>
 		<key>CONOY: I became lost on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; (my gratitude that Ramie found me!), but the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is the building with the large solar panels. I’m suprised I didn’t see it!</key>
-		<value>โคนอย: ฉันหลงบน &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; สักพักใหญ่ (ขอบคุณมากเรมี่ที่เจอฉัน!) แต่&lt;color=orange&gt;แล็บพลังงานสูง&lt;/color&gt; คือตึกใหญ่ๆที่มีแผงโซลาร์เซลล์ใหญ่ๆอยู่ด้านบนนะ ฉันแปลกใจทำไมฉันถึงไม่เห็นมันกัน!</value>
+		<value>โคนอย: ฉันหลงบน &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; สักพักใหญ่ (ขอบคุณมากเรมี่ที่เจอฉัน!) แต่&lt;color=orange&gt;แล็บพลังงานสูง&lt;/color&gt; คือตึกใหญ่ๆที่มีแผงโซลาร์เซลล์ใหญ่ๆอยู่ด้านบนนะ แปลกใจจริงที่ฉันไม่ยักกะเห็นมัน!</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I imagine our otherwise immensely clever Conoy would lose his own head if it weren’t anatomically impossible!</key>
@@ -4767,7 +4767,7 @@
 	</entry>
 	<entry>
 		<key>Solution 1: We could retrieve the warp core from the &lt;color=orange&gt;Vessel&lt;/color&gt;.</key>
-		<value>วิธีที่ 1: เรากลับไปเอาแกนวาร์ปจาก&lt;color=orange&gt;เวซเซล&lt;/color&gt;</value>
+		<value>วิธีที่ 1: เรากลับไปกู้คืนแกนวาร์ปจาก&lt;color=orange&gt;เวซเซล&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>RAMIE: The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core is broken, at best (recall those present when the &lt;color=orange&gt;Vessel&lt;/color&gt; crashed said it sustained lethal injuries). There is no guaranteed reward for this risk.</key>
@@ -4898,7 +4898,7 @@
 			ILEX: We might have to build a smaller Vessel for now, even though Vessels are normally large. But we could make it bigger later once we reach planets with more resources.
 		</key>
 		<value>
-			ไอเล็กซ์: เราอาจต้องสร้างยานเวซเซลขนาดเล็กขึ้นมาก่อน ถึงแม้ว่าเวซเซลปกติจะใหญ่พอสมควร แต่เราค่อยขยายมันทีหลังเมื่อเราพอเจอดาวที่มีทรัพยากรมากกว่านี้
+			ไอเล็กซ์: เราอาจต้องสร้างเวซเซลขนาดเล็กขึ้นมาก่อน ถึงแม้ว่าเวซเซลปกติจะใหญ่พอสมควร แต่เราค่อยขยายมันทีหลังเมื่อเราพอเจอดาวที่มีทรัพยากรมากกว่านี้
 		</value>
 	</entry>
 	<entry>
@@ -4914,7 +4914,7 @@
 			ILEX: We could even have a warp core for jumping long distances like Vessels have. Poke tells me she plans to make a very advanced warp core for a different project. I’m sure she could connect it to the Vessel for travel (because Poke is smart).
 		</key>
 		<value>
-			ไอเล็กซ์: เราสามารถมีแกนวาร์ปสำหรับการวาร์ประยะไกลเหมือนกับที่เวซเซลมีได้เหมือนกัน โพเก้บอกฉันว่าเธอวางแผนจะสร้างแกนวาร์ปขั้นสูงอีกหลายอันสำหรับโปรเจกต์อื่นๆ ฉันคิดว่าเธอน่าจะเชื่อมมันเข้ากับเวซเซลเพื่อใช้ในการเดินทางได้ (เพราะโพเก้น่ะฉลาด)
+			ไอเล็กซ์: เราสามารถมีแกนวาร์ปสำหรับการวาร์ประยะไกลเหมือนกับที่เวซเซลมีได้เหมือนกัน โพ้คบอกฉันว่าเธอวางแผนจะสร้างแกนวาร์ปขั้นสูงอีกหลายอันสำหรับโปรเจกต์อื่นๆ ฉันคิดว่าเธอน่าจะเชื่อมมันเข้ากับเวซเซลเพื่อใช้ในการเดินทางได้ (เพราะโพ้คน่ะฉลาด)
 		</value>
 	</entry>
 	<entry>
@@ -4999,7 +4999,7 @@
 	</entry>
 	<entry>
 		<key>MALLOW: Based on our knowledge of the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, we believe the &lt;color=lightblue&gt;Eye&lt;/color&gt; is in orbit around this star system’s &lt;color=lightblue&gt;sun&lt;/color&gt;. This would mean the &lt;color=lightblue&gt;Eye&lt;/color&gt; is located within a finite (albeit enormous) range.</key>
-		<value>มัลโลว: อิงจากความรู้ที่เรามีเกี่ยวกับ&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; เราเชื่อว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;นั้นอยู่ในวงโครจรรอบๆ&lt;color=lightblue&gt;ดวงอาทิตย์&lt;/color&gt;ของระบบสุริยะนี้ นี่หมายความว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;นั้นอยู่ในระยะที่จำกัด (ถึงแม้จะมหาศาล)</value>
+		<value>มัลโลว: จากความรู้ที่เรามีเกี่ยวกับ&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; เราเชื่อว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;นั้นอยู่ในวงโคจรรอบๆ&lt;color=lightblue&gt;ดวงอาทิตย์&lt;/color&gt;ของระบบสุริยะนี้ นี่หมายความว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;นั้นอยู่ในระยะที่จำกัด (ถึงแม้จะมหาศาล)</value>
 	</entry>
 	<entry>
 		<key>CONOY: How should our methods change as we continue our search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;?</key>
@@ -5011,7 +5011,7 @@
 	</entry>
 	<entry>
 		<key>MALLOW: We know what the &lt;color=lightblue&gt;Eye&lt;/color&gt; looks like thanks to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, so what if we try to find the &lt;color=lightblue&gt;Eye&lt;/color&gt; visually, instead? Let’s send out a probe!</key>
-		<value>มันโลว: เราพอจะรู้ว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;มีลักษณะอย่างไรการศึกษา&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; เพราะงั้นถ้าเราลองหา&lt;color=lightblue&gt; The Eye &lt;/color&gt;ด้วยการมองหาโดยตรงดูไหม? ลองส่งโพรบออกไปหากันเถอะ!</value>
+		<value>มัลโลว: เราพอจะรู้ว่า&lt;color=lightblue&gt; The Eye &lt;/color&gt;มีลักษณะอย่างไรการศึกษา&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt; เพราะงั้นถ้าเราลองหา&lt;color=lightblue&gt; The Eye &lt;/color&gt;ด้วยการมองหาโดยตรงดูไหม? ลองส่งโพรบออกไปหากันเถอะ!</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Mallow’s idea is clever, but we have no idea where the &lt;color=lightblue&gt;Eye&lt;/color&gt; is in relation to here. The probability of launching a probe in the correct direction would be absurdly small.</key>
@@ -5023,7 +5023,7 @@
 	</entry>
 	<entry>
 		<key>AVENS: We’d need to build a probe-launching mechanism to cover those long distances quickly. A cannon in orbit around a celestial body would circumvent the need to escape gravity’s pull.</key>
-		<value>อเวนส์: เราต้องสร้างกลไกยิงโพรบที่สามารถครอบคลุมระยะทางไกลๆได้ในเวลาอันสั้น เครื่องยิงที่โครจรรอบวัตถุดาราศาสตร์สักดวงจะช่วยให้ไม่ต้องห่วงเรื่องแรงหนีแรงโน้มถ่วงได้</value>
+		<value>อเวนส์: เราต้องสร้างกลไกยิงโพรบที่สามารถครอบคลุมระยะทางไกลๆได้ในเวลาอันสั้น เครื่องยิงที่โคจรรอบวัตถุดาราศาสตร์สักดวงจะช่วยให้ไม่ต้องห่วงเรื่องแรงหนีแรงโน้มถ่วงได้</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; would be a good choice. It’s furthest from the &lt;color=lightblue&gt;sun&lt;/color&gt;, so it would provide the best angles for launch. And it’s moonless (except when the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is visiting).</key>
@@ -5031,7 +5031,7 @@
 	</entry>
 	<entry>
 		<key>AVENS: Yes, let’s build the cannon in orbit around &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;!</key>
-		<value>อเวนส์: เอาสิ งั้นเราจะสร้างเครื่องยิงโพรบอวกาศให้โครจรรอบ &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; กัน!</value>
+		<value>อเวนส์: เอาสิ งั้นเราจะสร้างเครื่องยิงโพรบอวกาศให้โคจรรอบ &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; กัน!</value>
 	</entry>
 	<entry>
 		<key>PLUME: The pain of your absence is sharp and haunting, and I would give anything not to know it; anything but never knowing you at all (which would be worse).</key>
@@ -5051,11 +5051,11 @@
 	</entry>
 	<entry>
 		<key>PLUME: My brother wasn’t in &lt;color=orange&gt;Escape Pod 1&lt;/color&gt; with us. Was he in &lt;color=orange&gt;Pod 2&lt;/color&gt;, or &lt;color=orange&gt;Pod 3&lt;/color&gt;? Was he able to board an escape pod at all?</key>
-		<value>พลูม: น้องชายของฉันไม่ได้อยู่นี่&lt;color=orange&gt;ยานหนีภัยหมายเลข 1&lt;/color&gt;กับพวกเรา เขาอยู่ใน&lt;color=orange&gt;หมายเลข 2&lt;/color&gt;หรือ&lt;color=orange&gt;หมายเลข 3&lt;/color&gt;มั้ย? หรือเขาไม่ได้ขึ้นยานหนีภัยด้วยซ้ำ?</value>
+		<value>พลูม: น้องชายของฉันไม่ได้อยู่ใน&lt;color=orange&gt;ยานหนีภัยหมายเลข 1&lt;/color&gt;กับพวกเรา เขาอยู่ใน&lt;color=orange&gt;หมายเลข 2&lt;/color&gt;หรือ&lt;color=orange&gt;หมายเลข 3&lt;/color&gt;มั้ย? หรือเขาไม่ได้ขึ้นยานหนีภัยด้วยซ้ำ?</value>
 	</entry>
 	<entry>
 		<key>PLUME: We sacrificed too much arriving here. I cannot (&lt;i&gt;I will&lt;/i&gt; not) allow our clan’s greatest loss to be in vain.</key>
-		<value>พลูม: เราเสียสละไปมากในการที่จะมาถึงจุดนี้ ฉันไม่สามารถ(&lt;i&gt;ฉันจะ&lt;/i&gt;ไม่)ให้การสูญเสียครั้งใหญ่ที่สุดของเผ่าเราสูญเปล่า</value>
+		<value>พลูม: เราเสียสละไปมากในการที่จะมาถึงจุดนี้ ฉันไม่สามารถ (&lt;i&gt;ฉันจะ&lt;/i&gt;ไม่) ให้การสูญเสียครั้งใหญ่ที่สุดของเผ่าเราสูญเปล่า</value>
 	</entry>
 	<entry>
 		<key>THATCH: Is the hardest part of this tragedy not knowing who we may have lost? Or will the hardest part come later, when we learn? (Be well, Aunt Melorae...)</key>
@@ -5095,7 +5095,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: Has anyone observed the &lt;color=lightblue&gt;phantom moon&lt;/color&gt; that sometimes greets us in the night sky? Your thoughts interest me.</key>
-		<value>ฟิลิกซ์: มีใครได้สังเกต&lt;color=lightblue&gt;ดวงจันทร์ผี&lt;/color&gt;ที่มันชอบมาทักทายเราบางครั้งบนฟ้ายามค่ำคืนบ้างมั้ย? ฉันอยากรู้ว่าคิดยังไงกันน่ะ</value>
+		<value>ฟิลิกซ์: มีใครได้สังเกต&lt;color=lightblue&gt;ดวงจันทร์ปริศนา&lt;/color&gt;ที่มันชอบมาทักทายเราบางครั้งบนฟ้ายามค่ำคืนบ้างมั้ย? ฉันอยากรู้ว่าคิดยังไงกันน่ะ</value>
 	</entry>
 	<entry>
 		<key>THATCH: I compliment your eyes! How do you imagine it disappears? Hypothesis: Could it be a shift in the light spectrum?</key>
@@ -5131,7 +5131,7 @@
 	</entry>
 	<entry>
 		<key>PLUME: The nights the moon circles this planet appear random. It seems to travel as it likes.</key>
-		<value>พลูม: ดวงจันทร์นี้โครจรมาแค่บางคืนแบบสุ่ม มันดูเหมือนมันจะไปๆมาๆเฉพาะตอนที่มันอยาก</value>
+		<value>พลูม: ดวงจันทร์นี้โคจรมาแค่บางคืนแบบสุ่ม มันดูเหมือนมันจะไปๆมาๆเฉพาะตอนที่มันอยาก</value>
 	</entry>
 	<entry>
 		<key>
@@ -5396,7 +5396,7 @@
 			COLEUS: We both agree it’s unlikely this dry planet is this horror’s place of origin (especially considering what we observed during the &lt;color=orange&gt;Vessel&lt;/color&gt;’s evacuation).
 		</key>
 		<value>
-			โคเลียส: เราทั้งคู่เห็นพ้องกันว่าดาวเคราะห์แห้งดาวนี้ไม่น่าจะใช่แหล่งกำเนิดของเจ้าตัวสยองขวัญนี่ (โดยเฉพาะถ้าเราคิดถึงสิ่งที่เราสังเกตเห็นระหว่างการอพยพออกจาก&lt;color=orange&gt;เวซเซล&lt;/color&gt;)
+			โคเลียส: เราทั้งคู่เห็นพ้องกันว่าดาวเคราะห์แห้งแล้งดาวนี้ไม่น่าจะใช่แหล่งกำเนิดของเจ้าตัวสยองขวัญนี่ (โดยเฉพาะถ้าเราคิดถึงสิ่งที่เราสังเกตเห็นระหว่างการอพยพออกจาก&lt;color=orange&gt;เวซเซล&lt;/color&gt;)
 		</value>
 	</entry>
 	<entry>
@@ -5497,7 +5497,7 @@
 	</entry>
 	<entry>
 		<key>MELORAE: This planet sometimes (and only sometimes) has a &lt;color=lightblue&gt;moon&lt;/color&gt;! This is also of note: It disappears if no one is watching it! Isn’t that a &lt;i&gt;fascinating&lt;/i&gt; orbital characteristic?</key>
-		<value>เมโลเรย์: ดาวดวงนี้บางที (และบางทีเท่านั้น) จะมี&lt;color=lightblue&gt;ดวงจันทร์&lt;/color&gt;ด้วย! มีอีกอย่างที่ควรจะรู้: มันจะหายไปถ้าไม่มีใครมองมันอยู่! มันเป็นลักษณะการโครจรเฉพาะตัวที่&lt;i&gt;สุดยอด&lt;/i&gt;ไปเลยใช่มั้ยล่ะ?</value>
+		<value>เมโลเรย์: ดาวดวงนี้บางที (และบางทีเท่านั้น) จะมี&lt;color=lightblue&gt;ดวงจันทร์&lt;/color&gt;ด้วย! มีอีกอย่างที่ควรจะรู้: มันจะหายไปถ้าไม่มีใครมองมันอยู่! มันเป็นลักษณะการโคจรเฉพาะตัวที่&lt;i&gt;สุดยอด&lt;/i&gt;ไปเลยใช่มั้ยล่ะ?</value>
 	</entry>
 	<entry>
 		<key>BUR: I found your note, Melorae; kindly count me among this &lt;color=lightblue&gt;moon&lt;/color&gt;’s admirers! What is happening when it disappears (I doubt it ceases to exist)? Does it move to another location?</key>
@@ -5505,7 +5505,7 @@
 	</entry>
 	<entry>
 		<key>ANNONA: I believe so. Not only does the moon appear around &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;, I can confirm it sometimes orbits &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, as well.</key>
-		<value>อันโนนา: ฉันเชื่อว่าเป็นแบบนั้น นอกจากดวงจันทร์นี้จะไปโผล่รอบๆ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; เป็นครั้งคราวแล้ว ฉันยังสามารถยืนยันได้ว่ามันยังไปโครจร &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt; บางครั้งอีกด้วย</value>
+		<value>อันโนนา: ฉันเชื่อว่าเป็นแบบนั้น นอกจากดวงจันทร์นี้จะไปโผล่รอบๆ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; เป็นครั้งคราวแล้ว ฉันยังสามารถยืนยันได้ว่ามันยังไปโคจร &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt; บางครั้งอีกด้วย</value>
 	</entry>
 	<entry>
 		<key>MELORAE: This is my first time encountering a natural satellite with the ability to vanish when not being watched. We should study it! Or, even better, we should travel there!</key>
@@ -5513,7 +5513,7 @@
 	</entry>
 	<entry>
 		<key>BUR: I agree! Our first step would be determining a method to track this &lt;color=lightblue&gt;phantom moon&lt;/color&gt; so that we can always know where it is.</key>
-		<value>เบอ: ฉันเห็นด้วย! ขั้นแรกคือเราต้องหาวิธีในการติดตาม&lt;color=lightblue&gt;ดวงจันทร์ผี&lt;/color&gt;นี่ก่อน เราจะได้รู้เสมอว่ามันอยู่ที่ไหน</value>
+		<value>เบอ: ฉันเห็นด้วย! ขั้นแรกคือเราต้องหาวิธีในการติดตาม&lt;color=lightblue&gt;ดวงจันทร์ปริศนา&lt;/color&gt;นี่ก่อน เราจะได้รู้เสมอว่ามันอยู่ที่ไหน</value>
 	</entry>
 	<entry>
 		<key>ANNONA: Given its reluctance to move while consciously observed, it might be a form of macroscopic quantum mechanics.</key>
@@ -5755,7 +5755,7 @@
 			&lt;color=orange&gt;ORBITAL PROBE CANNON&lt;/color&gt; DAMAGE REPORT: Severe structural stress detected. Assessing damage to modules...
 		</key>
 		<value>
-			รายงานความเสียหาย&lt;color=orange&gt;เครื่องยิงแรงโพรบอวกาศ&lt;/color&gt;: ตรวจพบความเค้นรุนแรงในโครงสร้าง กำลังตรวจสอบระดับความเสียหายในโมดูล...
+			รายงานความเสียหาย&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;: ตรวจพบความเค้นรุนแรงในโครงสร้าง กำลังตรวจสอบระดับความเสียหายในโมดูล...
 		</value>
 	</entry>
 	<entry>
@@ -5840,7 +5840,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: I have bad news, Avens. Yarrow says there was a problem with the proposed power source, so the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; won’t be asked to fire.</key>
-		<value>คัซซาวา: ฉันมีข่าวร้ายน่ะ อเวนส์ ยาร์โรวบอกว่ามันมีปัญหาเกี่ยวกับแหล่งพลังงานที่พวกเขาจะใช้ เพราะงั้น&lt;color=orange&gt;เครื่องยิงแรงโพรบอวกาศ&lt;/color&gt;จะไม่ถูกใช้งาน</value>
+		<value>คัซซาวา: ฉันมีข่าวร้ายน่ะ อเวนส์ ยาร์โรวบอกว่ามันมีปัญหาเกี่ยวกับแหล่งพลังงานที่พวกเขาจะใช้ เพราะงั้น&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;จะไม่ถูกใช้งาน</value>
 	</entry>
 	<entry>
 		<key>AVENS: I hope you’re pulling my locomotive limb here, Cassava.</key>
@@ -5848,7 +5848,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: I wish I were, my friend, but no. They aren’t certain they can fix the problem, so the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; is on indefinite hiatus.</key>
-		<value>คัซซาวา: ฉันก็อยากให้มันเป็นล้อเล่นอยู่เหมือนกัน เพื่อนเอ๋ย แต่ไม่ พวกเขาไม่แน่ใจว่าพวกเขาจะแก้ปัญหานี้ได้มั้ย เพราะงั้น&lt;color=orange&gt;เครื่องยิงแรงโพรบอวกาศ&lt;/color&gt;จึงถูกพักโดยไม่มีกำหนด</value>
+		<value>คัซซาวา: ฉันก็อยากให้มันเป็นล้อเล่นอยู่เหมือนกัน เพื่อนเอ๋ย แต่ไม่ พวกเขาไม่แน่ใจว่าพวกเขาจะแก้ปัญหานี้ได้มั้ย เพราะงั้น&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;จึงถูกพักโดยไม่มีกำหนด</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Tell Privet and Mallow they should return from the &lt;color=orange&gt;cannon&lt;/color&gt;. My spouse and I will remain at the &lt;color=orange&gt;Construction Yard&lt;/color&gt;, for now.</key>
@@ -5868,11 +5868,11 @@
 	</entry>
 	<entry>
 		<key>PRIVET: You won’t ask the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; to use so much power that it breaks, will you?</key>
-		<value>พริเวต: นายจะไม่ปรับให้&lt;color=orange&gt;เครื่องยิงแรงโพรบอวกาศ&lt;/color&gt;ใช้พลังงานสูงจนมันพังใช่มั้ย?</value>
+		<value>พริเวต: นายจะไม่ปรับให้&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;ใช้พลังงานสูงจนมันพังใช่มั้ย?</value>
 	</entry>
 	<entry>
 		<key>MALLOW: Fret not, my nervous friend! We only need to fire the probe once, anyway, so who minds if it compromises the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;’s structural integrity slightly?</key>
-		<value>มัลโลว: ไม่ต้องเป็นห่วงไป เพื่อนผู้แสนวิตกของฉัน! เราแค่ต้องยิงโพรบรอบเดียวเท่านั้นอยู่แล้ว ใครจะไปสนว่า&lt;color=orange&gt;เครื่องยิงแรงโพรบอวกาศ&lt;/color&gt;จะเสียหายนิดๆหน่อยๆเองล่ะ?</value>
+		<value>มัลโลว: ไม่ต้องเป็นห่วงไป เพื่อนผู้แสนวิตกของฉัน! เราแค่ต้องยิงโพรบรอบเดียวเท่านั้นอยู่แล้ว ใครจะไปสนว่า&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;จะเสียหายนิดๆหน่อยๆเองล่ะ?</value>
 	</entry>
 	<entry>
 		<key>PRIVET: I would mind, Mallow! I would mind, because we won’t be capable of receiving our probe’s data if the &lt;color=orange&gt;Probe Tracking Module&lt;/color&gt; is destroyed!</key>
@@ -5900,7 +5900,7 @@
 	</entry>
 	<entry>
 		<key>AVENS: Giving the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; all the power it can structurally withstand creates the greatest chance of finding the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.</key>
-		<value>อเวนส์: ถ้าเราให้พลังงานมากที่สุดเท่าที่โครงสร้างของ&lt;color=orange&gt;เครื่องยิงโพรบอวกาศจะรับได้&lt;/color&gt;ละก็จะช่วยให้เรามีโอกาสหา&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt; ได้มากขึ้น</value>
+		<value>อเวนส์: ถ้าเราให้พลังงานมากที่สุดเท่าที่โครงสร้างของ&lt;color=orange&gt;เครื่องยิงโพรบอวกาศจะรับได้&lt;/color&gt;ละก็จะช่วยให้เรามีโอกาสหา&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;ได้มากขึ้น</value>
 	</entry>
 	<entry>
 		<key>MALLOW: Yes, the probe must travel as fast as it can, as far as it can. I’ll make some adjustments!</key>
@@ -5967,7 +5967,7 @@
 			Approximate time until &lt;color=orange&gt;Sun Station&lt;/color&gt; is destroyed by expanding star: &lt;RemainingMinutes&gt; MINUTES, &lt;RemainingSeconds&gt; SECONDS\\nApproximate time until star’s death: &lt;MinutesToRedGiant&gt; MINUTES, &lt;SecondsToRedGiant&gt; SECONDS
 		</key>
 		<value>
-			เวลาโดยประมาณก่อนที่&lt;color=orange&gt;สถานีสุริยะ&lt;/color&gt;จะถูกทำลายจากการขยายตัวของดาวฤกษ์: &lt;RemainingMinutes&gt; นาที &lt;RemainingSeconds&gt; วินาทีี\\nเวลาโดยประมาณก่อนที่ดาวฤกษ์จะสิ้นชีวิต: &lt;MinutesToRedGiant&gt; นาที &lt;SecondsToRedGiant&gt; วินาที
+			เวลาโดยประมาณก่อนที่&lt;color=orange&gt;สถานีสุริยะ&lt;/color&gt;จะถูกทำลายจากการขยายตัวของดาวฤกษ์: &lt;RemainingMinutes&gt; นาที &lt;RemainingSeconds&gt; วินาที\\nเวลาโดยประมาณก่อนที่ดาวฤกษ์จะสิ้นชีวิต: &lt;MinutesToRedGiant&gt; นาที &lt;SecondsToRedGiant&gt; วินาที
 		</value>
 	</entry>
 	<entry>
@@ -6007,7 +6007,7 @@
 			YARROW: I confess, I’m deeply curious about what you and Poke found on the &lt;color=orange&gt;White Hole Station&lt;/color&gt; that started this project. Could I visit sometime to learn more?
 		</key>
 		<value>
-			ยาร์โรว: ฉันขอสารภาพ ฉันสงสัยเกี่ยวกับสิ่งที่เธอกับโพเก้เจอใน&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;ที่เป็นจุดเริ่มต้นโปรเจกต์นี้มาก ฉันไปหาเธอเพื่อเรียนรู้เพิ่มเติมได้มั้ย?
+			ยาร์โรว: ฉันขอสารภาพ ฉันสงสัยเกี่ยวกับสิ่งที่เธอกับโพ้คเจอใน&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;ที่เป็นจุดเริ่มต้นโปรเจกต์นี้มาก ฉันไปหาเธอเพื่อเรียนรู้เพิ่มเติมได้มั้ย?
 		</value>
 	</entry>
 	<entry>
@@ -6039,7 +6039,7 @@
 			POKE: Yarrow, stop using this scroll wall to flirt with my sister (in romantic matters, her density rivals a neutron star’s) and go meet her on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.
 		</key>
 		<value>
-			โพเก้: ยาร์โรว หยุดใช้กระดานข้อความจีบน้องสาวฉันได้แล้ว(ในเรื่องรักๆใคร่ๆน่ะ เธอทึบยิ่งกว่าดาวนิวตรอนอีก) แล้วไปหาเธอที่&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;ซะ
+			โพ้ค: ยาร์โรว หยุดใช้กระดานข้อความจีบน้องสาวฉันได้แล้ว(ในเรื่องรักๆใคร่ๆน่ะ เธอทึบยิ่งกว่าดาวนิวตรอนอีก) แล้วไปหาเธอที่&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;ซะ
 		</value>
 	</entry>
 	<entry>
@@ -6052,26 +6052,26 @@
 	</entry>
 	<entry>
 		<key>POKE: I don’t know how close it is to Annona’s original design, but as long as what we’ve built works, then I’m delighted! I knew we could do it (Cassava, I hope you’re reading this)!</key>
-		<value>โพเก้: ฉันไม่รู้ว่ามันใกล้เคียงขนาดไหนกับดีไซน์ดั้งเดิมของอันโนนา แต่แค่มันใช้งานได้ฉันก็ดีใจแล้วล่ะ! ฉันรู้อยู่แล้วว่าพวกเราทำได้ (คัซซาวา ฉันหวังว่านายจะอ่านข้อความนี้อยู่นะ)!</value>
+		<value>โพ้ค: ฉันไม่รู้ว่ามันใกล้เคียงขนาดไหนกับดีไซน์ดั้งเดิมของอันโนนา แต่แค่มันใช้งานได้ฉันก็ดีใจแล้วล่ะ! ฉันรู้อยู่แล้วว่าพวกเราทำได้ (คัซซาวา ฉันหวังว่านายจะอ่านข้อความนี้อยู่นะ)!</value>
 	</entry>
 	<entry>
 		<key>POKE: Wait, this can’t be correct. Clary, have you seen these readings? If they were accurate, they would violate causality. There must be an equipment error somewhere.</key>
-		<value>โพเก้: เดี๋ยวนะ นี่มันไม่ถูกต้องแน่ๆ คลารี เธอเห็นค่าพวกนี้หรือยัง? ถ้าค่าพวกนี้ถูกต้องมันจะละเมิดกฎแห่งเหตุและผลไปหน่อยนะ มันต้องมีปัญหาที่อุปกรณ์อยู่สักที่แน่ๆ</value>
+		<value>โพ้ค: เดี๋ยวนะ นี่มันไม่ถูกต้องแน่ๆ คลารี เธอเห็นค่าพวกนี้หรือยัง? ถ้าค่าพวกนี้ถูกต้องมันจะละเมิดกฎแห่งเหตุและผลไปหน่อยนะ มันต้องมีปัญหาที่อุปกรณ์อยู่สักที่แน่ๆ</value>
 	</entry>
 	<entry>
 		<key>POKE: I’m returning to the &lt;color=orange&gt;White Hole Station&lt;/color&gt;. If you and Root meet me there, we can run a full diagnostic and hopefully locate the problem.</key>
-		<value>โพเก้: ฉันกำลังกลับไปที่&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt; ถ้าเธอกับรูทมาหาฉันที่นั่นได้เราจะตรวจสอบระบบทั้งหมดด้วยกัน และหวังว่าเราจะหาต้นตอของปัญหานี้ได้</value>
+		<value>โพ้ค: ฉันกำลังกลับไปที่&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt; ถ้าเธอกับรูทมาหาฉันที่นั่นได้เราจะตรวจสอบระบบทั้งหมดด้วยกัน และหวังว่าเราจะหาต้นตอของปัญหานี้ได้</value>
 	</entry>
 	<entry>
 		<key>POKE: (Don’t tell Cassava.)</key>
-		<value>โพเก้: (อย่าบอกคัซซาวาล่ะ)</value>
+		<value>โพ้ค: (อย่าบอกคัซซาวาล่ะ)</value>
 	</entry>
 	<entry>
 		<key>
 			PYE: Ramie and I reviewed the records you sent, Poke, and they appear to show Nomai are arriving at the warp receiver on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; slightly &lt;i&gt;before&lt;/i&gt; departing from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.
 		</key>
 		<value>
-			ไพร์: ฉันกับเรมี่ตรวจสอบบันทึกที่เธอส่งมาแล้วนะโพเก้ เหมือนว่าโนไมที่ออกจากตัวรับวาร์ปที่ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; จะออกมา&lt;i&gt;ก่อน&lt;/i&gt;ที่จะเข้าวาร์ปจาก&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;
+			ไพร์: ฉันกับเรมี่ตรวจสอบบันทึกที่เธอส่งมาแล้วนะโพ้ค เหมือนว่าโนไมที่ออกจากตัวรับวาร์ปที่ &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; จะออกมา&lt;i&gt;ก่อน&lt;/i&gt;ที่จะเข้าวาร์ปจาก&lt;color=orange&gt;สถานีหลุมขาว&lt;/color&gt;
 		</value>
 	</entry>
 	<entry>
@@ -6079,7 +6079,7 @@
 			POKE: I understand it’s exceedingly odd, but Clary and I have tested and retested the equipment, and the result is the same every time someone warps.
 		</key>
 		<value>
-			โพเก้: ฉันเข้าใจว่ามันแปลกมากๆ แต่คลารีกับฉันทดสอบอุปกรณ์แล้วทดสอบอีก แต่ค่าออกมาเหมือนเดิมทุกครั้งที่มีใครก็ตามวาร์ป
+			โพ้ค: ฉันเข้าใจว่ามันแปลกมากๆ แต่คลารีกับฉันทดสอบอุปกรณ์แล้วทดสอบอีก แต่ค่าออกมาเหมือนเดิมทุกครั้งที่มีใครก็ตามวาร์ป
 		</value>
 	</entry>
 	<entry>
@@ -6103,7 +6103,7 @@
 			POKE: I don’t disagree. It &lt;i&gt;would&lt;/i&gt; mean I’ve inadvertently broken several fundamental theories regarding this universe. We would have to reconsider all of our beliefs about the nature of time.
 		</key>
 		<value>
-			โพเก้: ฉันก็ว่าอย่างงั้น มัน&lt;i&gt;จะหมายความว่า&lt;/i&gt;เราได้แหกทฤษฎีพื้นฐานหลายทฤษฎีที่เราเข้าใจเกี่ยวกับจักรวาลนี้ เราต้องพิจารณาความเชื่อทั้งหมดเกี่ยวกับธรรมชาติของเวลาใหม่
+			โพ้ค: ฉันก็ว่าอย่างงั้น มัน&lt;i&gt;จะหมายความว่า&lt;/i&gt;เราได้แหกทฤษฎีพื้นฐานหลายทฤษฎีที่เราเข้าใจเกี่ยวกับจักรวาลนี้ เราต้องพิจารณาความเชื่อทั้งหมดเกี่ยวกับธรรมชาติของเวลาใหม่
 		</value>
 	</entry>
 	<entry>
@@ -6119,7 +6119,7 @@
 			RAMIE: Poke, as Pye is confident the reading is inaccurate, she’s kindly helping me attempt to recreate this phenomenon at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt;. We’re designing an experiment to take more data.
 		</key>
 		<value>
-			เรมี่: โพเก้ เพราะว่าไพร์มั่นใจว่าค่าที่อ่านออกมาได้มันไม่ถูกแน่ๆ ไพร์เลยจะมาช่วยฉันสร้างสถานการณ์แบบเดียวกันที่&lt;color=orange&gt;แล็บพลังงานสูง&lt;/color&gt; เรากำลังวางแผนการทดลองที่จะช่วยให้เรามีข้อมูลเยอะขึ้น
+			เรมี่: โพ้ค เพราะว่าไพร์มั่นใจว่าค่าที่อ่านออกมาได้มันไม่ถูกแน่ๆ ไพร์เลยจะมาช่วยฉันสร้างสถานการณ์แบบเดียวกันที่&lt;color=orange&gt;แล็บพลังงานสูง&lt;/color&gt; เรากำลังวางแผนการทดลองที่จะช่วยให้เรามีข้อมูลเยอะขึ้น
 		</value>
 	</entry>
 	<entry>
@@ -6127,7 +6127,7 @@
 			PYE: An update: Poke, the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is in the canyon on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;’s equator. &lt;i&gt;Come here at once&lt;/i&gt;. You need to see this.
 		</key>
 		<value>
-			ไพร์: อัพเดต: โพเก้ &lt;color=orange&gt;แล็บพลังงานสูง&lt;/color&gt;อยู่ในหุบเขาแถวๆเส้นศูนย์สูตรของ &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; &lt;i&gt;มาที่นี่เดี๋ยวนี้&lt;/i&gt; เธอต้องได้เห็นมันด้วยตา
+			ไพร์: อัพเดต: โพ้ค &lt;color=orange&gt;แล็บพลังงานสูง&lt;/color&gt;อยู่ในหุบเขาแถวๆเส้นศูนย์สูตรของ &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; &lt;i&gt;มาที่นี่เดี๋ยวนี้&lt;/i&gt; เธอต้องได้เห็นมันด้วยตา
 		</value>
 	</entry>
 	<entry>
@@ -6244,7 +6244,7 @@
 	</entry>
 	<entry>
 		<key>SignDANGER! Inside this fence is a pocket of &lt;color=orange&gt;ghost matter&lt;/color&gt; - a strange and dangerous substance that’s invisible to the naked eyes. The good news is that you can detect &lt;color=orange&gt;ghost matter&lt;/color&gt; with a camera.</key>
-		<value>อันตราย! ในรั้วนี้มี &lt;color=orange&gt;"โกสต์แมตเทอร์"&lt;/color&gt; - สารประหลาดอันตรายที่มองไม่เห็นด้วยตาเปล่า ข่าวดีก็คือคุณสามารถตรวจจับ&lt;color=orange&gt;โกสต์แทตเทอร์&lt;/color&gt;ได้ด้วยกล้อง</value>
+		<value>อันตราย! ในรั้วนี้มี &lt;color=orange&gt;"โกสต์แมตเทอร์"&lt;/color&gt; - สารประหลาดอันตรายที่มองไม่เห็นด้วยตาเปล่า ข่าวดีก็คือคุณสามารถตรวจจับ&lt;color=orange&gt;โกสต์แมตเทอร์&lt;/color&gt;ได้ด้วยกล้อง</value>
 	</entry>
 	<entry>
 		<key>SignMoving through &lt;color=orange&gt;ghost matter&lt;/color&gt; is uniquely painful and will probably kill you. Don’t complain to me if you hurt yourself fooling around.\\n- Hornfels</key>
@@ -6816,7 +6816,7 @@
 	</entry>
 	<entry>
 		<key>RiebecksJournalOkay, let’s see... I poked around a little, and there’s some sort of old Nomai path that starts across from my campsite, inside the ruined building with trees growing out of it.</key>
-		<value>โอเค ไหนดูสิ... ฉันลองดูรอบๆแล้ว เหมือนจะมีทางเดินโนไมเก่าที่เริ่มตรงข้ามแคมป์ของฉัน ในตึกเก่าที่มีต้นโม้โตมาจากด้านใน</value>
+		<value>โอเค ไหนดูสิ... ฉันลองดูรอบๆแล้ว เหมือนจะมีทางเดินโนไมเก่าที่เริ่มตรงข้ามแคมป์ของฉัน ในตึกเก่าที่มีต้นไม้โตมาจากด้านใน</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalDoesn’t look like anything horrible - just stairs leading down. I can handle stairs! After I get my supplies together, I’ll follow the path and see where it leads.</key>
@@ -7132,7 +7132,7 @@
 	</entry>
 	<entry>
 		<key>Intro1Me? I was using the old scout launcher and saw smoke in one of the photos, so I thought I’d come over here myself and take a look.</key>
-		<value>ฉันเหรอ? ฉันเห็นอะไรบางอย่างตกลงไปตรงจุดขอบฟ้าน่ะ ฉันก็ไม่ชอบภาพที่ลิตเติ้ลสเกาต์ของฉันส่งกลับมาก็เท่าไหร่ ฉันก็เลยคิดว่าจะออกมาดูด้วยตัวเองที่นี่เลย</value>
+		<value>ฉันเหรอ? ฉันเห็นอะไรบางอย่างตกลงมาแถวๆ นี้น่ะ ฉันก็ไม่ชอบภาพที่ลิตเติ้ลสเกาต์ของฉันส่งกลับมาก็เท่าไหร่ ฉันก็เลยคิดว่าจะออกมาดูด้วยตัวเองที่นี่เลย</value>
 	</entry>
 	<entry>
 		<key>TektiteIntro1So what crashed?</key>
@@ -8186,7 +8186,7 @@
 	</entry>
 	<entry>
 		<key>ROOT: I was hoping to deliver new ore data to Poke in her &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;, but the warp tower on the &lt;color=orange&gt;Twilight Twin&lt;/color&gt; sent me to the wrong part of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-		<value>รูท: ฉันหวังว่าจะส่งข้อมูลแร่ใหม่ไปให้โพเก้ที่&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt; แต่หอวาร์ปบน &lt;color=orange&gt;Twilight Twin&lt;/color&gt; ดันส่งฉันมาผิดที่บนดาว &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; ซะได้</value>
+		<value>รูท: ฉันหวังว่าจะส่งข้อมูลแร่ใหม่ไปให้โพ้คที่&lt;color=orange&gt;โรงหลอมพลังหลุมดำ&lt;/color&gt; แต่หอวาร์ปบน &lt;color=orange&gt;Twilight Twin&lt;/color&gt; ดันส่งฉันมาผิดที่บนดาว &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; ซะได้</value>
 	</entry>
 	<entry>
 		<key>ROOT: Could someone kindly remind me if there’s a way to warp directly to the forge or if I imagined this?</key>
@@ -8208,7 +8208,7 @@
 	</entry>
 	<entry>
 		<key>POKE: Clary and Root, kindly tune the alignments on each black hole core as I finish them. The schematic on the floor shows which warp tower aligns with which astral body.</key>
-		<value>โพเก้: คลารี รูท พวกเธอช่วยจูนแกนหลุมดำแต่ละอันตอนที่ฉันทำเสร็จทีนะ แผนผังบนพื้นจะบอกอยู่ว่าหอคอยวาร์ปอันไหนที่ตรงแนวกับวัตถุดาราศาสตร์อันไหน</value>
+		<value>โพ้ค: คลารี รูท พวกเธอช่วยจูนแกนหลุมดำแต่ละอันตอนที่ฉันทำเสร็จทีนะ แผนผังบนพื้นจะบอกอยู่ว่าหอคอยวาร์ปอันไหนที่ตรงแนวกับวัตถุดาราศาสตร์อันไหน</value>
 	</entry>
 	<entry>
 		<key>CLARY: To speed future deliveries to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, I’ve tuned the first black hole core to activate when its warp tower aligns with &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
@@ -8224,7 +8224,7 @@
 	</entry>
 	<entry>
 		<key>POKE: No, that’s correct. For these alignments we've decided to treat the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; as a single astral body.</key>
-		<value>โพเก้: ไม่ ถูกต้องแล้วล่ะ สำหรับแนวตำแหน่งพวกนี้ เราตัดสินใจที่จะนับ &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; เป็นวัตถุดาราศาสตร์ชิ้นเดียวกันไปเลย</value>
+		<value>โพ้ค: ไม่ ถูกต้องแล้วล่ะ สำหรับแนวตำแหน่งพวกนี้ เราตัดสินใจที่จะนับ &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; เป็นวัตถุดาราศาสตร์ชิ้นเดียวกันไปเลย</value>
 	</entry>
 	<entry>
 		<key>POKE: Have you seen Phlox’s tower designs in the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;? They clarify each tower’s warp destination.</key>
@@ -8232,7 +8232,7 @@
 	</entry>
 	<entry>
 		<key>POKE: If it helps, you can imagine the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; as aligning with themselves.</key>
-		<value>โพเก้: ถ้ามันช่วยได้ละก็ ให้จินตนาการว่า &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; มันเรียงตรงกับตัวมันเองก็ได้</value>
+		<value>โพ้ค: ถ้ามันช่วยได้ละก็ ให้จินตนาการว่า &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; มันเรียงตรงกับตัวมันเองก็ได้</value>
 	</entry>
 	<entry>
 		<key>THATCH: This knowledge is too dear to lose: Here is everything we can recall about the signal we encountered while aboard the &lt;color=orange&gt;Vessel&lt;/color&gt;.</key>
@@ -8260,7 +8260,7 @@
 	</entry>
 	<entry>
 		<key>
-			The &lt;color=orange&gt;Crossroads&lt;/color&gt;\\n(ตะวันตก 350m)
+			The &lt;color=orange&gt;Crossroads&lt;/color&gt;\\n(west 350m)
 		</key>
 		<value>
 			&lt;color=orange&gt;ทางแยก&lt;/color&gt;\\n(ตะวันตก 350m)
@@ -8271,7 +8271,7 @@
 			&lt;color=orange&gt;Southern Observatory&lt;/color&gt;\\n(south 550m)
 		</key>
 		<value>
-			The &lt;color=orange&gt;หอดูดาวทางใต้&lt;/color&gt;\\n(ใต้ 550m)
+			&lt;color=orange&gt;หอดูดาวทางใต้&lt;/color&gt;\\n(ใต้ 550m)
 		</value>
 	</entry>
 	<entry>
@@ -8295,7 +8295,7 @@
 			The &lt;color=orange&gt;Hanging City&lt;/color&gt;\\n(north 250m)
 		</key>
 		<value>
-			The &lt;color=orange&gt;เมืองห้อยหัว&lt;/color&gt;\\n(เหนือ 250m)
+			&lt;color=orange&gt;เมืองห้อยหัว&lt;/color&gt;\\n(เหนือ 250m)
 		</value>
 	</entry>
 	<entry>
@@ -8303,7 +8303,7 @@
 			The &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;\\n(west 190m)
 		</key>
 		<value>
-			The &lt;color=orange&gt;หอคอยแห่งปัญญาควอนตัม&lt;/color&gt;\\n(ตะวันตก 190m)
+			&lt;color=orange&gt;หอคอยแห่งปัญญาควอนตัม&lt;/color&gt;\\n(ตะวันตก 190m)
 		</value>
 	</entry>
 	<entry>
@@ -8319,7 +8319,7 @@
 			The &lt;color=orange&gt;Hanging City&lt;/color&gt;\\n(below 50m)
 		</key>
 		<value>
-			The &lt;color=orange&gt;เมืองห้อยหัว&lt;/color&gt;\\n(ล่าง 50m)
+			&lt;color=orange&gt;เมืองห้อยหัว&lt;/color&gt;\\n(ล่าง 50m)
 		</value>
 	</entry>
 	<entry>
@@ -8343,7 +8343,7 @@
 			The &lt;color=orange&gt;Crossroads&lt;/color&gt;\\n(east 190m)
 		</key>
 		<value>
-			The &lt;color=orange&gt;ทางแยก&lt;/color&gt;\\n(ตะวันออก 190m)
+			&lt;color=orange&gt;ทางแยก&lt;/color&gt;\\n(ตะวันออก 190m)
 		</value>
 	</entry>
 	<entry>
@@ -8378,7 +8378,7 @@
 	</entry>
 	<entry>
 		<key>PYE: It’s a purely theoretical exercise on my part, Yarrow. Who doesn’t love computing a good low stellar orbit shuttle trajectory!</key>
-		<value>ไพร์: มันเป็นแค่การฝึกเชิงทฤษฎีของฉันน่ะ ยาร์โรว ใครบ้างล่ะจะไม่ชอบคำนวณเส้นทางกระสวยไปยังวงโครจรดาวต่ำๆเล่นๆ</value>
+		<value>ไพร์: มันเป็นแค่การฝึกเชิงทฤษฎีของฉันน่ะ ยาร์โรว ใครบ้างล่ะจะไม่ชอบคำนวณเส้นทางกระสวยไปยังวงโคจรดาวต่ำๆเล่นๆ</value>
 	</entry>
 	<entry>
 		<key>IDAEA: Pye, I look forward to working with you, but I’m also relieved it will be easy to return to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; regularly.</key>
@@ -8630,7 +8630,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: I imagine you’ve noticed the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; changes in appearance depending on which location it is currently orbiting (for instance, the moon looks quite different when orbiting &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; than it does when orbiting the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;).</key>
-		<value>โซลานัม: ฉันคิดว่าเธอคงจะรู้แล้วว่ารูปลักษณ์&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;นั้นจะเปลี่ยนไปขึ้นอยู่กับว่ามันจะโครจรรอบสถานที่อะไรในตอนนั้น (ตัวอย่างเช่น ดวงจันทร์จะดูค่อนข้างแตกต่างเมื่อมันโครจรรอบ &lt;color=lightblue&gt;Giant's Deep&lt;/color&gt; เมื่อเทียบกับตอนที่มันโครจรรอบ &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;)</value>
+		<value>โซลานัม: ฉันคิดว่าเธอคงจะรู้แล้วว่ารูปลักษณ์&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;นั้นจะเปลี่ยนไปขึ้นอยู่กับว่ามันจะโคจรรอบสถานที่อะไรในตอนนั้น (ตัวอย่างเช่น ดวงจันทร์จะดูค่อนข้างแตกต่างเมื่อมันโคจรรอบ &lt;color=lightblue&gt;Giant's Deep&lt;/color&gt; เมื่อเทียบกับตอนที่มันโคจรรอบ &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;)</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Because the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; clearly changes in its different forms, the &lt;color=lightblue&gt;Eye&lt;/color&gt; (being this moon’s primary location) must be similarly malleable.</key>
@@ -8670,7 +8670,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: We are orbiting the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; now, although we cannot see it (only the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s reflection of it). The &lt;color=lightblue&gt;Eye&lt;/color&gt; is older than the universe itself, and my clan believes it dwells in an extremely distant orbit around this star system.</key>
-		<value>โซลานัม: เรากำลังโครจรรอบ&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;อยู่ตอนนี้ ถึงแม้ว่าเราจะมองไม่เห็นมัน (เห็นแค่ลักษณะสะท้อนออกจาก&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;) &lt;color=lightblue&gt; The Eye &lt;/color&gt;น่ะเก่าแก่กว่าตัวจักรวาลเองซะอีก และเผ่าของฉันเชื่อว่ามันอยู่ในวงโครจรที่ห่างไกลมากๆของระบบสุริยะนี้</value>
+		<value>โซลานัม: เรากำลังโคจรรอบ&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;อยู่ตอนนี้ ถึงแม้ว่าเราจะมองไม่เห็นมัน (เห็นแค่ลักษณะสะท้อนออกจาก&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;) &lt;color=lightblue&gt; The Eye &lt;/color&gt;น่ะเก่าแก่กว่าตัวจักรวาลเองซะอีก และเผ่าของฉันเชื่อว่ามันอยู่ในวงโคจรที่ห่างไกลมากๆของระบบสุริยะนี้</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I’ve never met one of your kind before. It’s an honor to speak with you! I particularly admire your four eyes.</key>
@@ -8686,11 +8686,11 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: Despite also orbiting other celestial bodies, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;’s moon.</key>
-		<value>โซลานัม: แม้ว่ามันจะโครจรรอบวัตถุดาราศาสตร์อื่นๆด้วย แต่&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;นั้นเป็นดวงจันทร์ของ&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;</value>
+		<value>โซลานัม: แม้ว่ามันจะโคจรรอบวัตถุดาราศาสตร์อื่นๆด้วย แต่&lt;color=lightblue&gt;ดวงจันทร์ควอนตัม&lt;/color&gt;นั้นเป็นดวงจันทร์ของ&lt;color=lightblue&gt; Eye of the universe &lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I am Solanum, a Nomai. My clan arrived in this star system before my birth, and we now call it home.</key>
-		<value>โซลานัม: ฉันชื่อว่าโซโลนัม ชาวโนไม เผ่าของฉันมาถึงระบบสุริยะนี้ก่อนที่ฉันจะเกิด และตอนนี้มันก็เป็นบ้านของพวกเรา</value>
+		<value>โซลานัม: ฉันชื่อว่าโซลานัม ชาวโนไม เผ่าของฉันมาถึงระบบสุริยะนี้ก่อนที่ฉันจะเกิด และตอนนี้มันก็เป็นบ้านของพวกเรา</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Is this your first time on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;? It’s my first time here.</key>
@@ -8990,7 +8990,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething1It’s true the sun has... &lt;i&gt;changed&lt;/i&gt;, lately, but I’ve not seen any evidence suggesting the approaching death of our sun! Stars above, no!</key>
-		<value>มันก็จริงที่ดวงอาทิตย์ดู... &lt;i&gt;เปลี่ยนไป&lt;/i&gt;ในช่วงนี้ แต่ฉันยังไม่เห็นหลักฐานอะไรที่บ่งชี้ว่าดวงอาทิตย์ของเราใกล้จะตายเลยนะ! โอ้ดวงดาว ไม่นะ!</value>
+		<value>มันก็จริงที่ดวงอาทิตย์ดู... &lt;i&gt;เปลี่ยนไป&lt;/i&gt;ในช่วงนี้ แต่ฉันยังไม่เห็นหลักฐานอะไรที่บ่งชี้ว่าดวงอาทิตย์ของเราใกล้จะตายเลยนะ! โอ้ดวงดาวช่วย ไม่นะ!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1I’ll tell you what, though - I’ll keep my eyes on the sun, and if I find any suggestion the its core is collapsing, you shall be the first to know.</key>
@@ -9174,7 +9174,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething1bIt’s true the sun has... &lt;i&gt;changed&lt;/i&gt;, lately, but I’ve not seen any evidence suggesting the approaching death of our sun! Stars above, no!</key>
-		<value>มันก็จริงที่ดวงอาทิตย์ดู... &lt;i&gt;เปลี่ยนไป&lt;/i&gt;ในช่วงนี้ แต่ฉันยังไม่เห็นหลักฐานอะไรที่บ่งชี้ว่าดวงอาทิตย์ของเราใกล้จะตายเลยนะ! โอ้ดวงดาว ไม่นะ!</value>
+		<value>มันก็จริงที่ดวงอาทิตย์ดู... &lt;i&gt;เปลี่ยนไป&lt;/i&gt;ในช่วงนี้ แต่ฉันยังไม่เห็นหลักฐานอะไรที่บ่งชี้ว่าดวงอาทิตย์ของเราใกล้จะตายเลยนะ! โอ้ดวงดาวช่วย ไม่นะ!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1bI’ll tell you what, though - I’ll keep my eyes on the sun, and if I find any suggestion the its core is collapsing, you shall be the first to know.</key>
@@ -9522,7 +9522,7 @@
 	</entry>
 	<entry>
 		<key>LonelyAnd when ground control forgets I’m up here &lt;size=20&gt;and they usually do&lt;/size&gt;, I launch my Little Scout at the village.</key>
-		<value>และเมื่อไหร่ที่ภาคพื้นดินลืมว่าฉันอยู่บนนี้ &lt;size=20&gt;ซึ่งพวกเขาก็มักจะเป็นอย่างนั้น&lt;/size&gt; ฉันก็จะยิงลิตเติ้ลสเกาต์ของฉันไปที่หมู่บ้าน</value>
+		<value>และเมื่อไหร่ที่ภาคพื้นดินลืมว่าฉันอยู่บนนี้ &lt;size=20&gt;ซึ่งพวกเขาก็มักจะลืมประจำ&lt;/size&gt; ฉันก็จะยิงลิตเติ้ลสเกาต์ของฉันไปที่หมู่บ้าน</value>
 	</entry>
 	<entry>
 		<key>EskerLonelyThey forget about you?</key>
@@ -9782,7 +9782,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExploreHere’s something you might like — I saw a bright flash in the sky not too long ago. Something must have happened up there in orbit around the planet.</key>
-		<value>แต่มีบางอย่างที่นายน่าจะชอบนะ - ตะกี้ฉันเห็นแสงวาบบนท้องฟ้าไปแว็บนึง มันต้องมีอะไรซักอย่างเกิดขึ้นแถวๆวงโครจรดาวนี้แน่ๆ</value>
+		<value>แต่มีบางอย่างที่นายน่าจะชอบนะ - ตะกี้ฉันเห็นแสงวาบบนท้องฟ้าไปแว็บนึง มันต้องมีอะไรซักอย่างเกิดขึ้นแถวๆวงโคจรดาวนี้แน่ๆ</value>
 	</entry>
 	<entry>
 		<key>WhereToExploreWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
@@ -10820,15 +10820,15 @@
 	</entry>
 	<entry>
 		<key>SignHere lies Isrever</key>
-		<value>ณ ที่นี้ เป็นที่หลับไหลตลอดกาลของ Isrever</value>
+		<value>ณ ที่นี้ เป็นที่หลับใหลตลอดกาลของ Isrever</value>
 	</entry>
 	<entry>
 		<key>SignHere lies BinarySemaphore</key>
-		<value>ณ ที่นี้ เป็นที่หลับไหลตลอดกาลของ BinarySemaphore</value>
+		<value>ณ ที่นี้ เป็นที่หลับใหลตลอดกาลของ BinarySemaphore</value>
 	</entry>
 	<entry>
 		<key>SignHere lies Sean 'Ariamaki' Riedinger</key>
-		<value>ณ ที่นี้ เป็นที่หลับไหลตลอดกาลของ Sean 'Ariamaki' Riedinger</value>
+		<value>ณ ที่นี้ เป็นที่หลับใหลตลอดกาลของ Sean 'Ariamaki' Riedinger</value>
 	</entry>
 	<entry>
 		<key>&lt;color=red&gt;ERROR: Unknown Language&lt;/color&gt;</key>
@@ -10941,7 +10941,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Radio TowerA radio tower designed to receive photos taken by the deep space satellite. There are several photos of the entire solar system hanging on the walls. Hornfels noticed something strange in one of the photos, but concluded equipment malfunction was the only sensible explanation.</key>
-			<value>หอวิทยุที่ออกแบบมาเพื่อรับภาพถ่ายที่ถ่ายโดยดาวเทียม Deep Space ; มีภาพถ่ายของทั้งระบบสุริยะหลายภาพแขวนอยู่บนผนัง ; ฮอร์นเฟลส์สังเกตเห็นบางอย่างแปลกๆ ในภาพถ่ายใบหนึ่ง แต่สรุปได้ว่าอุปกรณ์ขัดข้องเป็นคำอธิบายเดียวที่สมเหตุสมผล</value>
+			<value>หอวิทยุที่ออกแบบมาเพื่อรับภาพถ่ายที่ถ่ายโดยดวงเทียมอวกาศห้วงลึก ; มีภาพถ่ายของทั้งระบบสุริยะหลายภาพแขวนอยู่บนผนัง ; ฮอร์นเฟลส์สังเกตเห็นบางอย่างแปลกๆ ในภาพถ่ายใบหนึ่ง แต่สรุปได้ว่าอุปกรณ์ขัดข้องเป็นคำอธิบายเดียวที่สมเหตุสมผล</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s Camp</key>
@@ -11157,7 +11157,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA Nomai named Poke planned to create a new advanced warp core in the Black Hole Forge.</key>
-			<value>โนไมชื่อว่า โพเก้ วางแผนที่จะสร้างแกนวาร์ปขั้นสูงอันใหม่ขึ้นมาในโรงหลอมพลังหลุมดำ</value>
+			<value>โนไมชื่อว่า โพ้ค วางแผนที่จะสร้างแกนวาร์ปขั้นสูงอันใหม่ขึ้นมาในโรงหลอมพลังหลุมดำ</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Nomai crafted warp cores at the Black Hole Forge before delivering them to Ash Twin.</key>
@@ -11181,7 +11181,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA Nomai named Poke successfully forged an advanced warp core for the Ash Twin Project.</key>
-			<value>โนไมชื่อว่า โพเก้ สามารถหลอมแกนวาร์ปขั้นสูงสำหรับ โปรเจกต์แอชทวิน ได้สำเร็จ</value>
+			<value>โนไมชื่อว่า โพ้ค สามารถหลอมแกนวาร์ปขั้นสูงสำหรับ โปรเจกต์แอชทวิน ได้สำเร็จ</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle Diagram</key>
@@ -11293,7 +11293,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Jellyfish</key>
-			<value>แมงกะพรุนแช่เข็ง</value>
+			<value>แมงกะพรุนแช่แข็ง</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Hollow Vine</key>
@@ -11333,7 +11333,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3The survivors from Escape Pod 3 detected two distinct beacons from the Vessel, as if it was in two locations at once.</key>
-			<value>ผู้รอดชีวิตจาก ยานหนีภัยหมายเลข 3 ตรวจพบสัญญาณที่เหมือนกันกันสองสัญญาณจาก ยานเวซเซล ราวกับว่ามันอยู่ในสองสถานที่พร้อมกัน</value>
+			<value>ผู้รอดชีวิตจาก ยานหนีภัยหมายเลข 3 ตรวจพบสัญญาณที่เหมือนกันกันสองสัญญาณจาก เวซเซล ราวกับว่ามันอยู่ในสองสถานที่พร้อมกัน</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai Grave</key>
@@ -11373,7 +11373,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Nomai warped to this solar system in a spaceship called the Vessel. They were attempting to follow a signal from the Eye of the universe.</key>
-			<value>พวกโนไมวาร์ปมายังระบบสุริยะนี้ในยานอวกาศที่เรียกว่า ยานเวซเซล พวกเขากำลังพยายามติดตามสัญญาณจาก Eye of the universe </value>
+			<value>พวกโนไมวาร์ปมายังระบบสุริยะนี้ในยานอวกาศที่เรียกว่า เวซเซล พวกเขากำลังพยายามติดตามสัญญาณจาก Eye of the universe </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel crashed somewhere in Dark Bramble.</key>
@@ -11429,7 +11429,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Flash</key>
-			<value>แสงวาบบนวงโครจร</value>
+			<value>แสงวาบบนวงโคจร</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonGabbro sees a bright flash in the sky at the start of every loop. Something must be happening in orbit around Giant’s Deep.</key>
@@ -11785,7 +11785,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Submerged StructureAccording to a slide reel, a strange vault was encased in a large metal structure and lowered underwater.</key>
-			<value>ตามม้วนสไลด์ ห้องนิรภัยแปลกๆ ถูกห่อหุ้มสิ่งปลูกสร้างโลหะขนาดใหญ่และถูกหย่อนลงใต้น้ำ</value>
+			<value>ตามม้วนสไลด์ ห้องนิรภัยแปลกๆ ถูกห่อหุ้มด้วยสิ่งปลูกสร้างโลหะขนาดใหญ่และถูกหย่อนลงใต้น้ำ</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Hollow Structure</key>
@@ -12093,7 +12093,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2Chert saw a Nomai shipwreck shooting a beam of light into the sky somewhere on Ember Twin's southern hemisphere.</key>
-			<value>เชิร์ตเห็นซากยานโนไมยิงลำแสงขึ้นไปบนท้องฟ้าจากที่ไหนสักแห่งในซีกโลกใต้ของ Ember Twin</value>
+			<value>เชิร์ตเห็นซากยานโนไมส่องแสงขึ้นไปบนท้องฟ้าจากที่ไหนสักแห่งในซีกโลกใต้ของ Ember Twin</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2One of three Nomai escape pods that crashed in our solar system.</key>
@@ -12281,7 +12281,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleThe Nomai landed on the Interloper not long after its arrival in the solar system. The shuttle's equipment heard strange energy readings coming from somewhere beneath the surface.</key>
-			<value>โนไมลงจอดบน Interloper ไม่นานหลังจากที่มันมาถึงระบบสุริยะ อุปกรณ์ของกระสวยอ่านค่าพลังงานแปลกๆ ออกมาจากที่ไหนสักที่ใต้พื้นผิว</value>
+			<value>โนไมลงจอดบน Interloper ไม่นานหลังจากที่มันมาถึงระบบสุริยะ อุปกรณ์ของกระสวยอ่านค่าพลังงานแปลกๆ จากที่ไหนสักที่ใต้พื้นผิว</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleThere were three Nomai aboard the shuttle. One of them stayed behind to keep the shuttle warm while the other two explored the Interloper.</key>
@@ -12301,7 +12301,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreThe shuttle's equipment heard strange energy readings coming from somewhere beneath the surface.</key>
-			<value>อุปกรณ์ของกระสวยอ่านค่าพลังงานแปลกๆ ออกที่มาจากที่ไหนสักที่ใต้พื้นผิว</value>
+			<value>อุปกรณ์ของกระสวยอ่านค่าพลังงานแปลกๆ จากที่ไหนสักที่ใต้พื้นผิว</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreTwo of the Nomai located a fissure in the ice on the Interloper’s sunward side. They descended inside to investigate.</key>
@@ -12389,7 +12389,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardFor some reason, the Nomai put the Orbital Probe Cannon on indefinite hiatus. The cannon was not asked to fire.</key>
-			<value>ด้วยเหตุผลบางอย่าง เหล่าโนไมได้ระงับเครื่องยิงโพรบอวกาศไว้ชั่วคราว เครื่องยิงนี้ไม่ได้ถูกสั่งให้ยิง</value>
+			<value>ด้วยเหตุผลบางอย่าง เหล่าโนไมได้ระงับเครื่องยิงโพรบอวกาศไว้ชั่วคราว เครื่องยิงไม่ได้รับคำสั่งให้ยิง</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardAccording to a Nomai computer, a long-range probe was recently launched from the Orbital Probe Cannon.</key>
@@ -12485,7 +12485,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonThe Nomai on Brittle Hollow observed a phantom moon that would sometimes appear in the sky.</key>
-			<value>เหล่าโนไมบน Brittle Hollow สังเกตเห็นดวงจันทร์ผีที่บางครั้งก็ปรากฏขึ้นบนท้องฟ้า</value>
+			<value>เหล่าโนไมบน Brittle Hollow สังเกตเห็นดวงจันทร์ปริศนาที่บางครั้งก็ปรากฏขึ้นบนท้องฟ้า</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonThe Nomai on Ember Twin observed a moon that would disappear when no one was watching.</key>
@@ -13135,7 +13135,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>203</key>
-			<value>เปิดใช้งานออโตไพลอท</value>
+			<value>เปิดใช้งานออโตไพลอต</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>204</key>
@@ -13279,11 +13279,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>251</key>
-			<value>เปิดใช้งานออโตไพลอท</value>
+			<value>เปิดใช้งานออโตไพลอต</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>252</key>
-			<value>ยกเลิกออโตไพลอท</value>
+			<value>ยกเลิกออโตไพลอต</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>253</key>
@@ -13407,11 +13407,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>290</key>
-			<value>ใช้ชุดปฐมพยาบาลและเติมเชื้อเพล็งเจ็ตแพ็ก</value>
+			<value>ใช้ชุดปฐมพยาบาลและเติมเชื้อเพลิงเจ็ตแพ็ก</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>291</key>
-			<value>ใช้ชุดปฐมพยาบาล เติมเชื้อเพล็งเจ็ตแพ็กและเช็ดหน้ากาก</value>
+			<value>ใช้ชุดปฐมพยาบาล เติมเชื้อเพลิงเจ็ตแพ็กและเช็ดหน้ากาก</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>292</key>
@@ -13419,15 +13419,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>293</key>
-			<value>ใช้ชุดปฐมพยาบาลและเช็ดหน้าการ</value>
+			<value>ใช้ชุดปฐมพยาบาลและเช็ดหน้ากาก</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>294</key>
-			<value>เติมเชื้อเพล็งเจ็ตแพ็ก</value>
+			<value>เติมเชื้อเพลิงเจ็ตแพ็ก</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>295</key>
-			<value>เติมเชื้อเพล็งเจ็ตแพ็กและเช็ดหน้ากาก</value>
+			<value>เติมเชื้อเพลิงเจ็ตแพ็กและเช็ดหน้ากาก</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>296</key>
@@ -13435,7 +13435,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>297</key>
-			<value>เลือดและเชื้อเพลิงเจ็ตเพ็กเต็ม</value>
+			<value>เลือดและเชื้อเพลิงเจ็ตแพ็กเต็ม</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>298</key>
@@ -13699,7 +13699,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>402</key>
-			<value>% เชือเพลิงคงเหลืออยู่</value>
+			<value>% เชื้อเพลิงคงเหลืออยู่</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>403</key>
@@ -13795,7 +13795,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>443</key>
-			<value>ไม่สามารถเชื่อมก่อกับสเกาต์ได้</value>
+			<value>ไม่สามารถเชื่อมต่อกับสเกาต์ได้</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>444</key>
@@ -13947,7 +13947,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>506</key>
-			<value>รีเซ็ทกลับไปยังเวสเซลและออกไปหน้าจอหลัก</value>
+			<value>รีเซ็ทกลับไปยังเวซเซลและออกไปหน้าจอหลัก</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>510</key>
@@ -14443,11 +14443,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>738</key>
-			<value>โปสการ์ดจากวงโครจร</value>
+			<value>โปสการ์ดจากวงโคจร</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>739</key>
-			<value>โปรเจกเตอร์นี้เชื่อมต่อกับดาวเทียม "Sky Shutter" ซึ่งกำลังโครจรรอบ Timber Hearth ของเราอยู่</value>
+			<value>โปรเจกเตอร์นี้เชื่อมต่อกับดาวเทียม "Sky Shutter" ซึ่งกำลังโคจรรอบ Timber Hearth ของเราอยู่</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>740</key>
@@ -14775,7 +14775,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>971</key>
-			<value> จาก 3 ซ่อนแซมแล้ว</value>
+			<value> จาก 3 ซ่อมแซมแล้ว</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>972</key>
@@ -15171,7 +15171,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1123</key>
-			<value>Dithering ช่วยให้สีดูกลมกลืนมากขึ้น, แต่อาจทำให้วิดีโอของเกมดูแย่ลงเมื่อบีบอีด\\nค่าใช้จ่ายในการแสดงผล: ไม่มีผล</value>
+			<value>Dithering ช่วยให้สีดูกลมกลืนมากขึ้น, แต่อาจทำให้วิดีโอของเกมดูแย่ลงเมื่อบีบอัด\\nค่าใช้จ่ายในการแสดงผล: ไม่มีผล</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1124</key>
@@ -15355,7 +15355,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1173</key>
-			<value>สเกาต์: ถ่ายภาพด้านหน้า\\ซักนัลสโคป: เปลี่ยนโหมด\\nเครื่องแปลภาษา: แปล</value>
+			<value>สเกาต์: ถ่ายภาพด้านหน้า\\nซิกนัลสโคป: เปลี่ยนโหมด\\nเครื่องแปลภาษา: แปล</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1174</key>
@@ -15587,7 +15587,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1316</key>
-			<value>ตรวจพบอินพุตที่ไม่รู้จัด</value>
+			<value>ตรวจพบอินพุตที่ไม่รู้จัก</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1317</key>
@@ -15855,7 +15855,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1509</key>
-			<value>คุณภาพของการสะท้อนแวง</value>
+			<value>คุณภาพของการสะท้อนแสง</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1510</key>
@@ -15899,7 +15899,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1530</key>
-			<value>คลื่นวิทยุ Deep space</value>
+			<value>คลื่นวิทยุอวกาศห้วงลึก</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1531</key>
@@ -15907,7 +15907,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1532</key>
-			<value>ดาวเทียม Deep Space</value>
+			<value>ดวงเทียมอวกาศห้วงลึก</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1540</key>
@@ -15963,7 +15963,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1557</key>
-			<value>ตั้งค่าปุ่มตามรูปแบบคีย์บอร์ดที่เลือก (เปลี่ยนค่านี้จะทำให้ปุ่มของเมาส์และคีย์บอร์ดถูกรีเซ็ทเป็นค่าเริ่มต้ม)</value>
+			<value>ตั้งค่าปุ่มตามรูปแบบคีย์บอร์ดที่เลือก (เปลี่ยนค่านี้จะทำให้ปุ่มของเมาส์และคีย์บอร์ดถูกรีเซ็ทเป็นค่าเริ่มต้น)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1558</key>
@@ -16023,7 +16023,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1194</key>
-			<value>อัตโนมัติ: ขนาดจะถูกกำหนดโดยอัตมัติตามภาษาและแพลตฟอร์ม\\nปกติ/ใหญ่: ขนาดจะถูกล็อกเป็นขนาดที่เลือก</value>
+			<value>อัตโนมัติ: ขนาดจะถูกกำหนดโดยอัตโนมัติตามภาษาและแพลตฟอร์ม\\nปกติ/ใหญ่: ขนาดจะถูกล็อกเป็นขนาดที่เลือก</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1195</key>

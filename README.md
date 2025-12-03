@@ -1,4 +1,4 @@
-![logo](img/banner.png)
+![logo](img/banner_dlc.png)
 
  > For english see below!
 
@@ -24,6 +24,10 @@
 เปิด [Issue](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/issues) / [Pull Request](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/pulls) บน Github (ไฟล์ภาษาจะอยู่ที่ [assets/translation.xml](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/blob/main/ThaiTranslation/assets/Translation.xml) แต่บางอันจะเขียนทับลงไปใน[โค้ด](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/blob/main/ThaiTranslation/Patches/FontPatches.cs)เลย)  
 หรือติดต่อผมผ่าน Discord (thunninoi) หรือ Twitter (@thunninoi)  
 ถ้าผมแก้ได้จะแก้ให้นะครับ :D
+
+## ปัญหาที่พบแล้ว
+ - ข้อความบางทีจะตัดไปบรรทัดใหม่ก่อนจบคำ (อันนี้ผมแก้ไม่เป็น, Unity มันไม่ค่อยใจดีกับภาษไทยอยู่แล้วด้วย พอจะม็อดอีกมันเลยเละไปหมด)
+  - Easter Egg ลับๆเกี่ยวกับม้วนข้อความอันนึงจะแสดงผลไม่ถูกต้อง (อาจแก้ได้จากการใช้ฟอนต์ใหม่ที่แสดงรูป ASCII)
 
 
 ## ฟอนต์ที่ใช้
@@ -60,6 +64,11 @@ Your mod manager should look like this
 Please open [Issue](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/issues) / [Pull Request](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/pulls) on Github (Translation file is [assets/translation.xml](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/blob/main/ThaiTranslation/assets/Translation.xml) but some are hard-coded in [patches](https://github.com/thunni-noi/OuterWilds-ThaiTranslation/blob/main/ThaiTranslation/Patches/FontPatches.cs))  
 Or contact me via Discord (thunninoi) or Twitter (@thunninoi)  
 I'll fix it asap if i can! :D
+
+## Known Issues
+ - Sometimes the message will cut to new line before finish the word( I don't know how to fix this one, Unity already usually has saome problem with Thai language already and this is also a mod so it messed up a lot)
+  - Certain easter egg involving mysterious scroll will display incorrectly (Maybe fixable by using font that support ASCII art)
+
 
 ## Font used
  - Dialogue & UI - [KMITLGO](https://thaifaces.com/specimen/kmitl-go)        
