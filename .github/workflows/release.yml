@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 env:
-  PROJ_USERNAME: cutellurium
+  PROJ_USERNAME: thuninoi
   PROJ_NAME: ThaiTranslation
 
 jobs:
