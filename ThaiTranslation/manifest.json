@@ -1,9 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
   "filename": "ThaiTranslation.dll",
-  "author": "cutellurium",
+  "author": "thuninoi",
   "name": "ThaiTranslation",
-  "uniqueName": "cutellurium.ThaiTranslation",
+  "uniqueName": "thunninoi.ThaiTranslation",
   "version": "1.0.0",
   "owmlVersion": "2.15.1",
   "dependencies": [
