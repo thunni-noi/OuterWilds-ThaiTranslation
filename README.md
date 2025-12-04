@@ -86,7 +86,7 @@ I'll fix it asap if i can! :D
  - Mr.Somtoot for this mod's base 
   - My friend (BikiniGordon) that playtest the game for any bugs or any misleading translation (there was a lot!)
 
-# ตัวอย่างภาพหน้าจอ (ไม่สปอยล์) | Screenshots (No spoilers!) 
+# ตัวอย่างภาพหน้าจอ (ไม่สปอยล์) <br/> Screenshots (No spoilers!) 
 ![Titlescreen](img/screenshots/Titlescreen.jpg)
 ![Dialogue](img/screenshots/Dialogue.jpg)
 ![Translator](img/screenshots/Translator_0.jpg)
