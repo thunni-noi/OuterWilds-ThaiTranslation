@@ -6,13 +6,14 @@
     "owLogo": {
       "type": "toggle",
       "title": "Show Custom Logos",
-      "tooltip": "Change Outer Wild's logo to custom Thai logo (Need to reload to take effect)",
+      "tooltip": "Change Outer Wild's logo to custom Thai logo",
       "value": true
     },
     "dlcLogo": {
       "type": "toggle",
       "title": "Show Custom DLC Logos",
-      "tooltip": "Change Echoes of the Eyes's logo to custom Thai logo (Need to reload to take effect)",
+      "dlcOnly": true,
+      "tooltip": "Change Echoes of the Eyes's logo to custom Thai logo",
       "value": true
     }
 

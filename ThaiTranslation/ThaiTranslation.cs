@@ -1,19 +1,14 @@
 ﻿using HarmonyLib;
 using OWML.Common;
 using OWML.ModHelper;
-using OWML.ModHelper.Events;
-using OWML.Utils;
-using Steamworks;
 using System;
 using System.Collections;
 using System.IO;
 using System.Reflection;
-using System.Text;
-using ThaiTranslation.Patches;
 using UnityEngine;
-using UnityEngine.Assertions;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using System.Linq;
 using static TextTranslation;
 
 namespace ThaiTranslation
@@ -29,6 +24,9 @@ namespace ThaiTranslation
 
         public Sprite EoTElogo;
         public Sprite OWlogo;
+
+        public Sprite baseOWLogo;
+        public Sprite baseEoTElogo;
 
         public bool custom_dlc_logo;
         public bool custom_game_logo;
@@ -73,6 +71,7 @@ namespace ThaiTranslation
         {
             custom_game_logo = config.GetSettingsValue<bool>("owLogo");
             custom_dlc_logo = config.GetSettingsValue<bool>("dlcLogo");
+            StartCoroutine(AttemptChangeLogo());
         }
 
         private void Update()
@@ -103,6 +102,12 @@ namespace ThaiTranslation
             RsuFont = ab.LoadAsset<Font>("Assets/Fonts/RSU_BOLD.ttf");
             EoTElogo = ab.LoadAsset<Sprite>("Assets/Images/LogoEOTE.png");
             OWlogo = ab.LoadAsset<Sprite>("Assets/Images/LogoBase.png");
+
+            baseOWLogo = Resources.FindObjectsOfTypeAll<Sprite>().FirstOrDefault(s => s.name == "MENU_OuterWildsLogo_d");
+            baseEoTElogo = Resources.FindObjectsOfTypeAll<Sprite>().FirstOrDefault(s => s.name == "MENU_EchoesOfTheEyeLogo_d");
+
+            if (baseOWLogo == null) { ModHelper.Console.WriteLine("Cannot find default logo assets!", MessageType.Error); }
+            if (baseEoTElogo == null) { ModHelper.Console.WriteLine("Cannot find default DLC logo assets!", MessageType.Error); }
 
             ab.Unload(false);
         }
@@ -244,38 +249,45 @@ namespace ThaiTranslation
 
             // base replacement is in hook to game animation controller
 
-            GameObject baseLogo = null;
+            GameObject gameLogo = null;
             GameObject dlcLogo = null;
-            int timeout = 10;
+            int timeout = 20;
 
-            while ((baseLogo == null || dlcLogo == null) && timeout > 0)
+            while ((gameLogo == null || dlcLogo == null) && timeout > 0)
             {
-                if (baseLogo == null) { baseLogo = GameObject.Find("TitleMenu/TitleCanvas/TitleLayoutGroup/Logo");  }
+                if (gameLogo == null) { gameLogo = GameObject.Find("TitleMenu/TitleCanvas/TitleLayoutGroup/Logo");  }
                 if (dlcLogo == null) { dlcLogo = GameObject.Find("TitleMenu/TitleCanvas/TitleLayoutGroup/Logo_EchoesOfTheEye"); }
                 yield return new WaitForEndOfFrame();
                 timeout--;
             }
 
-            if (baseLogo == null) { ModHelper.Console.WriteLine("Cannot find base logo", MessageType.Error); }
-            if (dlcLogo == null) { ModHelper.Console.WriteLine("Cannot find dlc logo", MessageType.Error); }
+            if (gameLogo == null) { ModHelper.Console.WriteLine("Cannot find base logo", MessageType.Error); yield break; }
+            if (dlcLogo == null) { ModHelper.Console.WriteLine("Cannot find dlc logo", MessageType.Error); yield break; }
+            Image gameLogoImg = gameLogo.GetComponent<Image>();
+            Image dlcLogoImg = dlcLogo.GetComponent<Image>();   
 
+            GameObject logoHackOuter = GameObject.Find("TitleCanvasHack/TitleLayoutGroup/OW_Logo_Anim/OW_Logo_Anim/OUTER");
+            GameObject logoHackWilds = GameObject.Find("TitleCanvasHack/TitleLayoutGroup/OW_Logo_Anim/OW_Logo_Anim/WILDS");
             // base replacement
-            if (this.custom_game_logo && baseLogo != null)
+            if (this.custom_game_logo)
             {
-                GameObject.Find("TitleCanvasHack/TitleLayoutGroup/OW_Logo_Anim/OW_Logo_Anim/OUTER").transform.localScale = Vector3.zero;
-                GameObject.Find("TitleCanvasHack/TitleLayoutGroup/OW_Logo_Anim/OW_Logo_Anim/WILDS").transform.localScale = Vector3.zero;
-                var baseImg = baseLogo.GetComponent<Image>();
-                baseImg.sprite = this.OWlogo;
-                baseImg.transform.position = new Vector3(375f, 975f, 0f);
-                baseImg.transform.localScale = new Vector3(1.1f, 1.1f, 0f);
-                baseImg.color = Color.white;
+                logoHackOuter.transform.localScale = Vector3.zero;
+                logoHackWilds.transform.localScale = Vector3.zero;
+                gameLogoImg.sprite = this.OWlogo;
+                gameLogoImg.color = Color.white;
+                gameLogo.transform.localScale = new Vector3(1.05f, 1.05f, 1f);
+                //gameLogo.GetComponent<Layou>
+            }
+            else
+            {
+                logoHackOuter.transform.localScale = Vector3.one;
+                logoHackWilds.transform.localScale = Vector3.one;
+                gameLogoImg.color = new Color(0f, 0f, 0f, 0f);
+                gameLogo.transform.localScale = Vector3.one;
             }
 
-            // dlc replacement
-            if (this.custom_dlc_logo && dlcLogo != null)
-            {
-                dlcLogo.GetComponent<Image>().sprite = this.EoTElogo;
-            }
+            dlcLogoImg.sprite = this.custom_dlc_logo ? this.EoTElogo : this.baseEoTElogo;
+
 
         }
 

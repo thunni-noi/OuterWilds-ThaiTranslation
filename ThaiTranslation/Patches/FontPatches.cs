@@ -280,13 +280,6 @@ namespace ThaiTranslation
             VerticalLayoutGroup buttonLayout = mainMenuObj.GetComponent<VerticalLayoutGroup>();
             if (buttonLayout) { buttonLayout.spacing = 2; }
 
-            // move custom logo up a bit after finish animation
-            if (ThaiTranslation.Instance.custom_game_logo)
-            {
-                GameObject.Find("TitleMenu/TitleCanvas/TitleLayoutGroup/Logo").transform.Translate(0, 20, 0);
-            }
-
-           
         }
 
         // fix settings tooltip line space is too large

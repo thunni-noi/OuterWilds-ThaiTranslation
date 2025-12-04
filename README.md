@@ -1,6 +1,7 @@
 ![logo](img/banner_dlc.png)
 
- > For english see below!
+ > For english and screenshots see below! (no spoilers)  
+ > ตัวอย่างภาพหน้าจอ เลื่อนลงไปล่างสุด (ไม่มีสปอยล์)
 
 ม็อดแปลภาษาไทยสำหรับเกมส์ Outer Wilds  
 แปลเกมหลัก + DLC Echoes Of The Eyes  
@@ -37,7 +38,10 @@
  - โหมดเบาะแส - [RSU](https://thaifaces.com/specimen/rsu)
  - โลโก้ - [SOV_LaiKhnad](https://thaifaces.com/specimen/sov-laikhnad), [DM Twilight Reborn](https://thaifaces.com/specimen/dm-jomkwan)
  
-
+## ขอขอบคุณ
+ - [xen42](https://outerwildsmods.com/mods/interplanetarypolyglot/) สำหรับไลบรารี [Interplanetary Polyglot](https://outerwildsmods.com/mods/interplanetarypolyglot/) ที่ใช้ในการเพิ่มภาษาเข้าไปในเกม
+ - Mr.Somtoot สำหรับ base ของม็อดนี้
+  - เพื่อน (BikiniGordon) ที่ช่วยเล่นเกมส์เพื่อหาบัคและคำแปลที่ฟังดูแปลกๆ (แก้ไปเยอะแล้วแหละมั้ง)
 
  #
    
@@ -77,4 +81,16 @@ I'll fix it asap if i can! :D
  - Clue mode - [RSU](https://thaifaces.com/specimen/rsu)
  - Outer Wilds Logo - [SOV_LaiKhnad](https://thaifaces.com/specimen/sov-laikhnad), [DM Twilight Reborn](https://thaifaces.com/specimen/dm-jomkwan)
 
+## Special Thanks
+ - [xen42](https://outerwildsmods.com/mods/interplanetarypolyglot/) for library [Interplanetary Polyglot](https://outerwildsmods.com/mods/interplanetarypolyglot/) that's used for implementing new language into the game
+ - Mr.Somtoot for this mod's base 
+  - My friend (BikiniGordon) that playtest the game for any bugs or any misleading translation (there was a lot!)
 
+# ตัวอย่างภาพหน้าจอ (ไม่สปอยล์) | Screenshots (No spoilers!) 
+![Titlescreen](img/screenshots/Titlescreen.jpg)
+![Dialogue](img/screenshots/Dialogue.jpg)
+![Translator](img/screenshots/Translator_0.jpg)
+![Translator](img/screenshots/Translator_1.jpg)
+![Ship_UI](img/screenshots/Ship_Screen.jpg)
+![Shiplog_clue](img/screenshots/Shiplog_Clue.jpg)
+![Shiplog_map](img/screenshots/Shiplog_Map.jpg)
