@@ -1,4 +1,5 @@
 ![logo](img/banner_dlc.png)
+[![Install Outer Wilds Thai Translation](https://img.shields.io/endpoint?url=https%3A%2F%2Fouterwildsmods.com%2Fapi%2Fthunninoi.ThaiTranslation%2Fbadge.json)](https://outerwildsmods.com/mods/outerwildsthaitranslation/)
 
  > For english and screenshots see below! (no spoilers)  
  > ตัวอย่างภาพหน้าจอ เลื่อนลงไปล่างสุด (ไม่มีสปอยล์)
@@ -52,7 +53,7 @@ Translate full game + DLC Echoes Of The Eyes
 ## Read before install
 
 Mod is coded to adjust character size and spacing to be compatible with Thai's character  
-**Recommend to use Thai language only if this mod is installed**  
+**Recommend to only use Thai language if this mod is installed**  
 
 
 ## Installation
@@ -70,7 +71,7 @@ Or contact me via Discord (thunninoi) or Twitter (@thunninoi)
 I'll fix it asap if i can! :D
 
 ## Known Issues
- - Sometimes the message will cut to new line before finish the word( I don't know how to fix this one, Unity already usually has saome problem with Thai language already and this is also a mod so it messed up a lot)
+ - Sometimes the message will cut to new line before finish the word( I don't know how to fix this one, Unity already usually has some problem with Thai language already and this is also a game modification so it messed up a lot)
   - Certain easter egg involving mysterious scroll will display incorrectly (Maybe fixable by using font that support ASCII art)
 
 
