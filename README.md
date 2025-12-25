@@ -19,6 +19,7 @@
 - ติดตั้งม็อดตัวนี้ผ่านในโปรแกรม
 - เปิดใช้งานม็อดนี้และ Interplanetary Polyglot  
 ด้านใน Mod Manager ควรจะมีหน้าตาแบบนี้  
+หมายเหตุ: ม็อด Quantum Space Buddies ตั้งเป็น Dependencies ไว้เพื่อให้แน่ใจว่าม็อดนั้นจะโหลดเข้าเกมก่อนม็อดนี้ ไม่งั้นมันจะใช้การไม่ได้
 
 ![modmanager](img/ModManagerExample.png)
 
@@ -61,7 +62,8 @@ Mod is coded to adjust character size and spacing to be compatible with Thai's c
 - Install [Outer Wilds Mod Manager](https://outerwildsmods.com/mod-manager/)
 - Install this mod through mod manager
 - Set this mod and Interplanetary Polyglot as activated  
-Your mod manager should look like this
+Your mod manager should look like this  
+Note : Quantum Space Buddies (QSB) is listed as dependencies to ensure it loaded before this mod does else it will not work
 
 ![modmanager](img/ModManagerExample.png)
 
