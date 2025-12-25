@@ -31,6 +31,7 @@ namespace ThaiTranslation
         public bool custom_dlc_logo;
         public bool custom_game_logo;
 
+
         public void Awake()
         {
             Instance = this;
@@ -39,10 +40,16 @@ namespace ThaiTranslation
         public void Start()
         {
             LoadAssets();
-           
+
             // Starting here, you'll have access to OWML's mod helper.
+            var api = ModHelper.Interaction.TryGetModApi<ILocalizationAPI>("xen.LocalizationUtility");
+            api.RegisterLanguage(this, "ไทย", "assets/Translation.xml");
+
+
+            Harmony.CreateAndPatchAll(Assembly.GetExecutingAssembly());
+
+
             StartCoroutine(AttemptChangeLogo());
-            StartCoroutine(DelayedInitialization());
             LoadManager.OnCompleteSceneLoad += (scene, loadScene) =>
             {
                  if (loadScene == OWScene.SolarSystem)
@@ -72,17 +79,6 @@ namespace ThaiTranslation
 
         }
 
-        private IEnumerator DelayedInitialization()
-        {
-            // Delay initialize to not clash with other mod (Specifically QSB)
-            yield return new WaitForSeconds(2f);
-            var api = ModHelper.Interaction.TryGetModApi<ILocalizationAPI>("xen.LocalizationUtility");
-            api.RegisterLanguage(this, "ไทย", "assets/Translation.xml");
-            Harmony.CreateAndPatchAll(Assembly.GetExecutingAssembly());
-
-            ModHelper.Console.WriteLine("Thai translation initialized!", MessageType.Success);
-        }
-
         private void LoadAssets()
         {
             var bundlePath = Path.Combine(ModHelper.Manifest.ModFolderPath, "assets", "thai_assets");
@@ -93,8 +89,7 @@ namespace ThaiTranslation
                 return;
             }
 
-            //var ab = AssetBundle.LoadFromFile(bundlePath);
-            var ab = ModHelper.Assets.LoadBundle("assets/thai_assets");
+            var ab = AssetBundle.LoadFromFile(bundlePath);
             if (ab == null)
             {
                 ModHelper.Console.WriteLine("AssetBundle cannot be loaded!", MessageType.Error);
