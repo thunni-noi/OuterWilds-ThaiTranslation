@@ -875,7 +875,7 @@
 	</entry>
 	<entry>
 		<key>PYE: The more we know about this alien matter, the better our chances of survival. I will learn what I can here. Go, warn the others; maybe they can construct shelter somehow. ...&lt;i&gt;Now&lt;/i&gt;, Poke!</key>
-		<value>ไพร์: ยิ่งเรารู้ข้อมูลเกี่ยวกับสสารเอเลี่ยนนี้มากเท่าไหร่ เรายิ่งมีโอกาสรอดชีวิตมากขึ้นเท่านั้น ฉันจะพยายามเรียนรู้ให้มากที่สุดเท่าที่จะทำได้ ไป ไปบอกโนไมอื่น เผื่อพวกเขาจะสามารถสร้างที่หลบภัยได้ทัน... &lt;i&gt;ไปเร็ว&lt;/i&gt; โพ้ค!</value>
+		<value>ไพร์: ยิ่งเรารู้ข้อมูลเกี่ยวกับสสารเอเลี่ยนนี้มากเท่าไหร่ เรายิ่งมีโอกาสรอดชีวิตมากขึ้นเท่านั้น ฉันจะพยายามเรียนรู้ให้มากที่สุดเท่าที่จะทำได้ ไป ไปบอกโนไมคนอื่น! เผื่อพวกเขาจะสามารถสร้างที่หลบภัยได้ทัน... &lt;i&gt;ไปเร็ว&lt;/i&gt; โพ้ค!</value>
 	</entry>
 	<entry>
 		<key>
@@ -895,11 +895,11 @@
 	</entry>
 	<entry>
 		<key>CLARY: But... Pye and my sister have been gone for a long time now. They haven’t contacted me since descending below the surface, either.</key>
-		<value>คลารี: แต่ว่า... ไพร์กับพี่สาวของฉันหายไปสักพักใหญ่ๆแล้ว พวกเขาไม่ได้ติดต่อฉันเลยตั้งแต่ลงไปข้างใต้</value>
+		<value>คลารี: แต่ว่า... ไพร์กับพี่สาวของฉันหายไปสักพักใหญ่ๆแล้ว พวกเธอไม่ได้ติดต่อฉันเลยตั้งแต่ลงไปข้างใต้</value>
 	</entry>
 	<entry>
 		<key>CLARY: Should I leave the &lt;color=orange&gt;shuttle&lt;/color&gt; to look for them? I want to follow protocol, but I don’t know what I’ll do if they aren’t well...</key>
-		<value>คลารี: ฉันควรจะออกจาก&lt;color=orange&gt;กระสวย&lt;/color&gt;ไปตามหาพวกเขามั้ย? ฉันอยากจะทำตามโปรโตคอลนะ แต่ฉันไม่รู้จะทำยังไงดีถ้าเกิดอะไรขึ้นกับพวกเขา...</value>
+		<value>คลารี: ฉันควรจะออกจาก&lt;color=orange&gt;กระสวย&lt;/color&gt;ไปตามหาพวกเธอมั้ย? ฉันอยากจะทำตามโปรโตคอลนะ แต่ฉันไม่รู้จะทำยังไงดีถ้าเกิดอะไรขึ้นกับพวกเธอ...</value>
 	</entry>
 	<entry>
 		<key>CLARY: Poke... Pye... Come back to me safely, my friends.</key>
@@ -1811,7 +1811,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro3F_5Even if I tell Hornfels about the time loop, they never remember by the next one. They don’t realize anything’s different.</key>
-		<value>ต่อให้ฉันบอกฮอร์นเฟลส์เรื่องลูปเวลาพวกนี้ พอลูปต่อไปพวกเขาก็ลืมหมดอยู่ดี พวกเขาไม่รู้เลยว่ามีอะไรแตกต่างออกไป</value>
+		<value>ต่อให้ฉันบอกฮอร์นเฟลส์เรื่องลูปเวลาพวกนี้ พอลูปต่อไปเขาก็ลืมหมดอยู่ดี เขาไม่รู้เลยว่ามีอะไรเปลี่ยนไป</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_5And here’s another weird one for you - every time I die, all of my memories from that loop replay back to me. I’m pretty sure that’s related to this big stone Nomai statue I found on one of the other islands.</key>
@@ -2127,7 +2127,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething6Must have been from the time Hornfels sent me to check on the deep space satellite. They thought Ol’ Spacey might be malfunctioning, but I couldn’t find a single thing wrong with it.</key>
-		<value>น่าจะเป็นตอนที่ฮอร์นเฟลส์ส่งฉันไปตรวจสอบดวงเทียมอวกาศห้วงลึก แน่เลย พวกเขานึกว่า "ปู่ Spacey" อาจทำงานผิดปกติน่ะ แต่ฉันก็ไม่เห็นจะเจออะไรผิดปกติสักอย่างเลยนะ</value>
+		<value>น่าจะเป็นตอนที่ฮอร์นเฟลส์ส่งฉันไปตรวจสอบดวงเทียมอวกาศห้วงลึก แน่เลย เขานึกว่า "ปู่ Spacey" อาจทำงานผิดปกติน่ะ แต่ฉันก็ไม่เห็นจะเจออะไรผิดปกติสักอย่างเลยนะ</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6Which is probably how it got a shot of my beautiful be-helmeted face, come to think of it.</key>
@@ -2227,11 +2227,11 @@
 	</entry>
 	<entry>
 		<key>Gabbro3T_6So it looks like you and I are the only ones who know we’re in a time loop. And even if you tell them about it, no one remembers by the next loop. What’s with that?</key>
-		<value>ดูเหมือนว่าจะมีแค่นายกับฉันที่รู้ตัวว่าเราติดอยู่ในลูป และต่อให้เราบอกพวกเขา พอลูปหน้าพวกเขาก็ลืมหมดอยู่ดี มันคือยังไงกันแน่?</value>
+		<value>ดูเหมือนว่าจะมีแค่นายกับฉันที่รู้ตัวว่าเราติดอยู่ในลูป และต่อให้เราบอกเขา พอลูปหน้าเขาก็ลืมหมดอยู่ดี มันคือยังไงกันแน่?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6Maybe it’s because we both made some seriously intense eye contact with a Nomai statue?</key>
-		<value>บางทีอาจเป็นเพราะเราสองคนไปไปจ้องตาพวกรูปปั้นโนไมอย่างขมักเขม้นรึเปล่า?</value>
+		<value>บางทีอาจเป็นเพราะเราสองคนไปไปจ้องตาพวกรูปปั้นโนไมเขม็งเกินไปรึเปล่า?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6I’m seeing my memories replay each time I die, just like I did when the Nomai statue on the beach opened its eyes and looked at me. So maybe... no glowing statue, no time loop awareness?</key>
@@ -3823,7 +3823,7 @@
 	</entry>
 	<entry>
 		<key>StatueEyesOpenWe’re not sure &lt;i&gt;why&lt;/i&gt; they opened, since no one actually saw it happen, but this is huge news!</key>
-		<value>เราไม่แน่ใจว่า&lt;i&gt;ทำไม&lt;/i&gt;มันถึงลืมตา เพราะว่าไม่มีใครเห็นพวกตอนลืมตา แต่นี่เป็นข่าวใหญ่เลยนะ!</value>
+		<value>เราไม่แน่ใจว่า&lt;i&gt;ทำไม&lt;/i&gt;มันถึงลืมตา เพราะว่าไม่มีใครเห็นพวกเขาตอนลืมตา แต่นี่เป็นข่าวใหญ่เลยนะ!</value>
 	</entry>
 	<entry>
 		<key>StatueEyesOpenShould someone tell Gabbro? Or maybe Riebeck? Oh, stars, this is so exciting, it’s making my stomach hurt!</key>
@@ -5848,7 +5848,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: I wish I were, my friend, but no. They aren’t certain they can fix the problem, so the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; is on indefinite hiatus.</key>
-		<value>คัซซาวา: ฉันก็อยากให้มันเป็นล้อเล่นอยู่เหมือนกัน เพื่อนเอ๋ย แต่ไม่ พวกเขาไม่แน่ใจว่าพวกเขาจะแก้ปัญหานี้ได้มั้ย เพราะงั้น&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;จึงถูกพักโดยไม่มีกำหนด</value>
+		<value>คัซซาวา: ฉันก็อยากให้มันเป็นเรื่องล้อเล่นอยู่เหมือนกัน เพื่อนเอ๋ย แต่ไม่ พวกเขาไม่แน่ใจว่าพวกเขาจะแก้ปัญหานี้ได้มั้ย เพราะงั้น&lt;color=orange&gt;เครื่องยิงโพรบอวกาศ&lt;/color&gt;จึงถูกพักโดยไม่มีกำหนด</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Tell Privet and Mallow they should return from the &lt;color=orange&gt;cannon&lt;/color&gt;. My spouse and I will remain at the &lt;color=orange&gt;Construction Yard&lt;/color&gt;, for now.</key>
@@ -6184,7 +6184,7 @@
 	</entry>
 	<entry>
 		<key>SignDay 51: Listened to Chert play for a while today. Unrelated, someone should tell Porphy and Gossan their flirting is &lt;i&gt;not&lt;/i&gt; subtle from an aerial perspective.</key>
-		<value>วันที่ 51: วันนี้ฉันฟังเชิร์ตเล่นเพลงอยู่สักพักหนึ่ง เรื่องนี้ไม่เกี่ยวกันนะ แต่ใครซักคนควรจะไปบอกพอร์พีกับกอสซานหน่อยว่าการจีบของพวกเขา&lt;i&gt;ไม่&lt;/i&gt;แนบเนียนเลยถ้ามองจากบนฟ้าน่ะ</value>
+		<value>วันที่ 51: วันนี้ฉันฟังเชิร์ตเล่นเพลงอยู่สักพักหนึ่ง เรื่องนี้ไม่เกี่ยวกันนะ แต่ใครซักคนควรจะไปบอกพอร์พีกับกอสซานหน่อยว่าเรื่องที่พวกเขาแอบจีบกันน่ะ ต่อให้มองจากบนฟ้าก็&lt;i&gt;ไม่&lt;/i&gt;เนียนเลยน่ะ</value>
 	</entry>
 	<entry>
 		<key>SignDay 55: Banjo music coming in loud and clear today! Sounds like Riebeck’s doing okay. That oaf, I was worried!</key>
@@ -6536,7 +6536,7 @@
 	</entry>
 	<entry>
 		<key>Friend4For real, though, I’m glad you’re the one carrying it and not, like, Riebeck. They’d fall on it for sure.</key>
-		<value>แต่จริงๆนะ ฉันดีใจที่นายเป็นคนถือมัน ไม่ใช่แบบ รีเบกหรือคนอื่นๆ พวกเขาคงทำหล่นแน่ๆ</value>
+		<value>แต่จริงๆนะ ฉันดีใจที่เธอเป็นคนถือมัน ไม่ใช่แบบ รีเบกหรือคนอื่นๆ พวกเขาคงทำหล่นแน่ๆ</value>
 	</entry>
 	<entry>
 		<key>Friend4Say, if you want to do a short trip to just get your space legs under you, you could check out the ruins on the Attlerock! I’d love to learn what those are.</key>
@@ -7580,7 +7580,7 @@
 	</entry>
 	<entry>
 		<key>Arkose1You know the patch of ghost matter inside this fence? Gossan said it used to be bigger when they were a hatchling. ’Cause ghost matter evaporates.</key>
-		<value>นายเห็นหย่อยโกสต์แมตเทอร์ในรั้วนั่นมั้ย? กอสซานบอกฉันว่าตอนพวกเขายังเป็นแฮชท์ลิงมันเคยใหญ่กว่านี้น่ะ เขาบอกว่าโกสต์แมตเทอร์มันระเหยได้</value>
+		<value>นายเห็นก้อนโกสต์แมตเทอร์ในรั้วนั่นมั้ย? กอสซานบอกฉันว่าตอนเขายังเป็นแฮชท์ลิงมันเคยใหญ่กว่านี้น่ะ เขาบอกว่าโกสต์แมตเทอร์มันระเหยได้</value>
 	</entry>
 	<entry>
 		<key>Arkose1It just takes a su-&lt;Pause=1&gt;u-&lt;Pause=1&gt;u-&lt;Pause=1&gt;per long time to go away.</key>
@@ -7772,7 +7772,7 @@
 	</entry>
 	<entry>
 		<key>SignThe statue provides us with our most detailed look yet at the Nomai, who appear to have been covered with a layer of fur. Note the decorative jewelry that has been carved as part of the antlers.</key>
-		<value>รูปปั้นนี้ทำให้เราได้เห็นรายละเอียดของชาวโนไมที่ชัดเจนที่สุดเท่าที่เคยมีมา ดูเหมือนว่าพวกเขาจะมีชั้นขน และยังมีเครื่องประดับตกแต่งที่ถูกแกะสลักเป็นส่วนหนึ่งของเขาพวกเขาด้วย</value>
+		<value>รูปปั้นนี้ทำให้เราได้เห็นรายละเอียดของชาวโนไมที่ชัดเจนที่สุดเท่าที่เคยมีมา ดูเหมือนว่าพวกเขาจะมีขน และยังมีเครื่องประดับตกแต่งที่ถูกแกะสลักเป็นส่วนหนึ่งของเขาพวกเขาด้วย</value>
 	</entry>
 	<entry>
 		<key>SignAlthough their artifacts and structures have been found on almost every planet in this solar system, we still have no idea where this species came from or what happened to them.</key>
@@ -8118,7 +8118,7 @@
 	</entry>
 	<entry>
 		<key>SignWhat you see here are parts of the Nomai skeleton. We can tell from their skulls that they possessed antlers and, quite unusually, only three eyes.</key>
-		<value>สิ่งที่คุณเห็นอยู่นี้คือชิ้นส่วนโครงกระดูกของชาวโนไม เราบอกได้จากกะโหลกของพวกเขาว่าพวกเขามีเขา และที่แปลกมากๆคือพวกเขามี The Eye เพียงแค่สามดวง</value>
+		<value>สิ่งที่คุณเห็นอยู่นี้คือชิ้นส่วนโครงกระดูกของชาวโนไม เราบอกได้จากกะโหลกของพวกเขาว่าพวกเขามีเขา และที่แปลกมากๆคือพวกเขามีดวงตาพียงแค่สามดวง</value>
 	</entry>
 	<entry>
 		<key>SignThe Nomai body was most likely adapted for living exclusively on land. The differences in the Nomai’s anatomy, such as their shockingly fragile bone structure, show us that Hearthians couldn’t have descended from Nomaian ancestors.</key>
@@ -8134,7 +8134,7 @@
 	</entry>
 	<entry>
 		<key>SignThey perished when the Interloper arrived, bringing with it the deadly substance we called ghost matter that flooded the entire solar system almost instantly and without warning.</key>
-		<value>พวกเขามอดม้วยลงเมื่อดาวหาง The Interloper มาถึง โดยนำมาซึ่งสสารมรณะที่เราเรียกว่า โกสต์แมตเทอร์ ซึ่งเข้าท่วมท้นทั่วทั้งระบบสุริยะแทบจะในทันทีและไม่มีสัญญาณเตือน</value>
+		<value>พวกเขามอดม้วยลงเมื่อดาวหาง The Interloper มาถึง โดยนำมาซึ่งสสารมรณะที่เราเรียกว่า โกสต์แมตเทอร์ ซึ่งเข้าท่วมท้นทั่วทั้งระบบสุริยะแทบจะในทันทีและไม่มีสัญญาณเตือนล่วงหน้า</value>
 	</entry>
 	<entry>
 		<key>SignWe never figured out how they died.</key>
@@ -8894,7 +8894,7 @@
 	</entry>
 	<entry>
 		<key>Chert1Right now I’m documenting stars. Hornfels noticed our star charts are out of date, so they asked me to update them.</key>
-		<value>ตอนนี้ฉันกำลังจดบันทึกดวงดาวอยู่น่ะ ฮอร์นเฟลส์ สังเกตเห็นว่าแผนที่ดาวของเรามันเก่าแล้ว พวกเขาเลยขอให้ฉันมาอัปเดตให้</value>
+		<value>ตอนนี้ฉันกำลังจดบันทึกดวงดาวอยู่น่ะ ฮอร์นเฟลส์ สังเกตเห็นว่าแผนที่ดาวของเรามันเก่าแล้ว เขาเลยขอให้ฉันมาอัปเดตให้</value>
 	</entry>
 	<entry>
 		<key>Chert1Please don’t tell the others I said this, but sometimes I think I’m the only traveler out here interested in doing any science at all.</key>
@@ -8902,7 +8902,7 @@
 	</entry>
 	<entry>
 		<key>Chert1...Er, maybe don’t tell Hornfels, either. I think they’re pretty deep in denial.</key>
-		<value>...เอ่อ อย่าไปบอกฮอร์นเฟลส์ด้วยละกันนะ ฉันว่าพวกเขาก็คงไม่อยากยอมรับความจริงเท่าไหร่</value>
+		<value>...เอ่อ อย่าไปบอกฮอร์นเฟลส์ด้วยละกันนะ ฉันว่าเขาก็คงไม่อยากยอมรับความจริงเท่าไหร่</value>
 	</entry>
 	<entry>
 		<key>Chert2To be honest, I haven’t left this lakebed. I don’t mean to brag, but I’m really quite good with the Little Scout, so I’ve been taking pictures of everything from right here in my campsite.</key>
@@ -9462,7 +9462,7 @@
 	</entry>
 	<entry>
 		<key>EskerEsker1Was that you whistling?</key>
-		<value>นั่นนายเป็นคนผิวปากรึเปล่า?</value>
+		<value>นั่นเสียงคุณผิวปากเหรอ?</value>
 	</entry>
 	<entry>
 		<key>EskerEsker1Seems lonely up here.</key>
@@ -9494,7 +9494,7 @@
 	</entry>
 	<entry>
 		<key>EskerEsker2Was that you whistling?</key>
-		<value>นั่นนายเป็นคนผิวปากรึเปล่า?</value>
+		<value>นั่นเสียงคุณผิวปากเหรอ?</value>
 	</entry>
 	<entry>
 		<key>EskerEsker2What is this place?</key>
@@ -9518,27 +9518,27 @@
 	</entry>
 	<entry>
 		<key>LonelyA little. I’m in touch with ground control – Hornfels and Gossan, mostly – and they radio up to chat now and then.</key>
-		<value>นิดหน่อยน่ะ ฉันติดต่อกับภาคพื้นดินอยู่ - ส่วนใหญ่ก็ ฮอร์นเฟลส์ กับ กอสซาน - แล้วพวกเขาก็จะวิทยุมาคุยบ้างเป็นครั้งคราว</value>
+		<value>นิดหน่อยน่ะ ฉันติดต่อกับภาคพื้นดินอยู่ - ส่วนใหญ่ก็ ฮอร์นเฟลส์กับกอสซาน - พวกเขาก็จะวิทยุมาคุยบ้างเป็นครั้งคราว</value>
 	</entry>
 	<entry>
 		<key>LonelyAnd when ground control forgets I’m up here &lt;size=20&gt;and they usually do&lt;/size&gt;, I launch my Little Scout at the village.</key>
-		<value>และเมื่อไหร่ที่ภาคพื้นดินลืมว่าฉันอยู่บนนี้ &lt;size=20&gt;ซึ่งพวกเขาก็มักจะลืมประจำ&lt;/size&gt; ฉันก็จะยิงลิตเติ้ลสเกาต์ของฉันไปที่หมู่บ้าน</value>
+		<value>และเมื่อไหร่ที่ภาคพื้นดินลืมว่าฉันอยู่บนนี้ &lt;size=20&gt;ซึ่งพวกเขาก็ลืมตลอด&lt;/size&gt; ฉันก็จะยิงลิตเติ้ลสเกาต์ของฉันไปที่หมู่บ้าน</value>
 	</entry>
 	<entry>
 		<key>EskerLonelyThey forget about you?</key>
-		<value>พวกเขาลืมนายงั้นเหรอ?</value>
+		<value>พวกเขาลืมคุณงั้นเหรอ?</value>
 	</entry>
 	<entry>
 		<key>EskerLonelyYou &lt;i&gt;spy&lt;/i&gt; on us?</key>
-		<value>นาย&lt;i&gt;แอบดู&lt;/i&gt;พวกเราเหรอ?</value>
+		<value>คุณ&lt;i&gt;แอบดู&lt;/i&gt;พวกเราเหรอ?</value>
 	</entry>
 	<entry>
 		<key>ForgetI don’t blame them. For one, I don’t check in as often as the other travelers, since I’m always in one place.</key>
-		<value>ฉันไม่โทษพวกเขาหรอก อย่างแรกเลย ฉันไม่ได้เช็คอินบ่อยเท่านักเดินทางคนอื่น เพราะฉันอยู่ที่เดียวตลอดเวลา</value>
+		<value>ฉันไม่โทษพวกเขาหรอก อย่างแรกเลย ฉันไม่ได้เช็คอินบ่อยเท่านักเดินทางคนอื่น เพราะฉันอยู่ที่นี่ตลอดไม่ได้ไปไหน</value>
 	</entry>
 	<entry>
 		<key>ForgetAnd it’s not so bad up here, really. At least it’s peaceful and quiet. You don’t always get that in our solar system.</key>
-		<value>และมันก็ไม่ได้แย่ขนาดนั้นหรอกนะบนนี้ จริงๆนะ อย่างน้อยมันก็สงบและเงียบดี เธอหาแบบนี้ไม่ได้เสมไปหรอกในระบบสุริยะของเรา</value>
+		<value>และมันก็ไม่ได้แย่ขนาดนั้นหรอกนะบนนี้ จริงๆนะ อย่างน้อยมันก็สงบและเงียบดี เธอหาแบบนี้ไม่ได้เสมอไปหรอกในระบบสุริยะของเรา</value>
 	</entry>
 	<entry>
 		<key>ForgetLet alone in our village.</key>
@@ -9554,7 +9554,7 @@
 	</entry>
 	<entry>
 		<key>MusicProbably. Or actually, definitely. The other travelers carry instruments, so they don’t bother whistling.</key>
-		<value>น่าจะใช่นะ จริงๆแล้วก็ใช่แน่นอนแหละ นักเดินทางคนอื่นเขาพกเครื่องดนตรีกันหมด เลยไม่มามัวผิวปากหรอก</value>
+		<value>ก็น่าจะใช่นะ เอาจริงๆแล้วก็ใช่แหละ นักเดินทางคนอื่นเขาพกเครื่องดนตรีกันหมด เลยไม่มามัวผิวปากหรอก</value>
 	</entry>
 	<entry>
 		<key>MusicYou can pick up their music with a signalscope, you know. Best spot for that is the &lt;color=orange&gt;north pole&lt;/color&gt;. Great reception.</key>
@@ -9570,7 +9570,7 @@
 	</entry>
 	<entry>
 		<key>Place&lt;color=grey&gt;Sigh...&lt;/color&gt;&lt;Pause/&gt;Welcome to the Lunar Outpost, which apparently the space program doesn’t bother to teach anyone anymore.</key>
-		<value>&lt;color=grey&gt;เฮ้อ...&lt;/color&gt;&lt;Pause/&gt;ยินดีต้อนรับสู่สถานีดวงจันทร์ ซึ่งดูเหมือนว่าโครงการอวกาศจะไม่ใส่ใจสอนใครเกี่ยวกับมันอีกต่อไปแล้ว</value>
+		<value>&lt;color=grey&gt;เฮ้อ...&lt;/color&gt;&lt;Pause/&gt;ยินดีต้อนรับสู่สถานีดวงจันทร์ ซึ่งก็ดูเหมือนว่าโครงการอวกาศจะไม่ใส่ใจสอนใครเกี่ยวกับที่นี่ในชั้นเรียนอีกต่อไปแล้ว</value>
 	</entry>
 	<entry>
 		<key>PlaceWhen we first started Outer Wilds, travelers used to bring their ships here all the time for repairs. Our spacefaring technology has improved loads since then, but the older ships tended to, uh, fall apart a lot. Like, more than they do now.</key>
@@ -9582,11 +9582,11 @@
 	</entry>
 	<entry>
 		<key>MarlHeh, Marl is probably the only one who remembers I’m up here. I should go see the big lug soon.</key>
-		<value>เหอะ มาร์ล คงเป็นคนเดียวที่จำได้ว่าฉันอยู่บนนี้ ฉันควรจะไปหาเจ้ายักษ์นั่นเร็วๆนี้แล้วล่ะ</value>
+		<value>เหอะ มาร์ล คงเป็นคนเดียวที่จำได้ว่าฉันอยู่บนนี้ ฉันควรจะกลับไปหาเจ้ายักษ์นั่นเร็วๆซักหน่อยแล้วล่ะ</value>
 	</entry>
 	<entry>
 		<key>MarlDon’t tell them about this, but sometimes I throw my Little Scout down to make sure Marl isn’t doing anything stupid. I worry that big tree in the village wouldn’t stand a chance otherwise.</key>
-		<value>อย่าไปบอกพวกเขาเรื่องนี้นะ แต่บางครั้งฉันก็โยนลิตเติ้ลสเกาต์ของฉันลงไปเพื่อดูให้แน่ใจว่า มาร์ล ไม่ได้ทำอะไรโง่ๆ ฉันกังวลว่าต้นไม้ใหญ่ในหมู่บ้านคงไม่มีทางรอดแน่</value>
+		<value>อย่าไปบอกพวกเขาเรื่องนี้นะ แต่บางครั้งฉันก็โยนลิตเติ้ลสเกาต์ของฉันลงไปเพื่อดูให้แน่ใจว่า มาร์ล ไม่ได้ทำอะไรโง่ๆ ฉันกังวลว่าต้นไม้ใหญ่ในหมู่บ้านคงไม่มีทางรอดเงื้อมมือเขาแน่</value>
 	</entry>
 	<entry>
 		<key>SecondaryHi again. Can’t get enough of the moon? ...I’m kidding.</key>
@@ -9746,7 +9746,7 @@
 	</entry>
 	<entry>
 		<key>ExplanationMergeI tried radioing Hornfels and asking them about it, but they told me I must have just nodded off out here and gotten confused.</key>
-		<value>ฉันลองวิทยุไปหาฮอร์นเฟลส์แล้วถามเขาเกี่ยวกับเรื่องนี้ แต่พวกเขาบอกฉันว่าฉันคงเผลอสัปหงกไปแถวนี้แล้วก็สับสนอะไรซักอย่าง</value>
+		<value>ฉันลองวิทยุไปหาฮอร์นเฟลส์แล้วถามเขาเกี่ยวกับเรื่องนี้ แต่เขาบอกฉันว่าฉันคงเผลอสัปหงกไปแถวนี้แล้วก็สับสนอะไรซักอย่าง</value>
 	</entry>
 	<entry>
 		<key>ExplanationMergeThen we talked about dreams until Hornfels told me to go refill my oxygen tank before I talked myself to death.</key>
@@ -9938,7 +9938,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro2T_1I radioed Hornfels at the observatory to ask them about it, but they’re convinced I fell asleep out here and had a nightmare something.</key>
-		<value>ฉันวิทยุไปหาฮอร์นเฟลส์ที่หอดูดาวเพื่อถามเขาเกี่ยวกับเรื่องนี้ แต่พวกเขาเชื่อว่าฉันเผลอหลับไปแถวนี้แล้วก็ฝันร้ายหรืออะไรสักอย่าง</value>
+		<value>ฉันวิทยุไปหาฮอร์นเฟลส์ที่หอดูดาวเพื่อถามเขาเกี่ยวกับเรื่องนี้ แต่เขาเชื่อว่าฉันเผลอหลับไปแถวนี้แล้วก็ฝันร้ายหรืออะไรสักอย่าง</value>
 	</entry>
 	<entry>
 		<key>Gabbro2T_1Do you remember, y’know, dying a few minutes ago? Maybe?</key>
@@ -10195,7 +10195,7 @@
 	</entry>
 	<entry>
 		<key>Curator6If you need help getting started, you could go visit Esker on the moon. They’re alone on the Attlerock most of the time, so I’m sure they’d appreciate it.</key>
-		<value>ถ้าเธอต้องการความช่วยเหลือในการเริ่มต้นล่ะก็ เธอไปเยี่ยมเอสเกอร์บนดวงจันทร์ก็ได้นะ พวกเขาอยู่คนเดียวบน Attlerock เกือบตลอดเวลา ฉันแน่ใจว่าพวกเขาจะดีใจมากถ้าเธอไปหา</value>
+		<value>ถ้าเธอต้องการความช่วยเหลือในการเริ่มต้นล่ะก็ เธอไปเยี่ยมเอสเกอร์บนดวงจันทร์ก็ได้นะ เขาอยู่คนเดียวบน Attlerock เกือบตลอดเวลา ฉันแน่ใจว่าเขาจะดีใจมากถ้าเธอไปหา</value>
 	</entry>
 	<entry>
 		<key>Curator6Plus, we don’t know what the ancient Nomai ruins on the moon are, or why they were built. You could put your new translator tool through its paces!</key>
@@ -10295,19 +10295,19 @@
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparAs ground control and later the museum curator, I didn’t work with Feldspar as closely as Slate and Gossan did. I &lt;i&gt;can&lt;/i&gt; tell you Feldspar was absolutely fearless, though. Nothing scared them.</key>
-		<value>ในฐานะหน่วยควบคุมภาคพื้นดินและภัณฑารักษ์พิพิธภัณฑ์ ฉันไม่ได้ทำงานใกล้ชิดกับเฟลด์สปาร์มากเท่าสเลธและกอสซานหรอกนะ แต่ฉัน&lt;i&gt;บอก&lt;/i&gt;เธอได้เลยว่า เฟลด์สปาร์เป็นคนที่กล้าหาญชาญชัยสุดๆ ไม่มีอะไรทำให้พวกเขาหวาดกลัวได้เลย</value>
+		<value>ในฐานะหน่วยควบคุมภาคพื้นดินและภัณฑารักษ์พิพิธภัณฑ์ ฉันไม่ได้ทำงานใกล้ชิดกับเฟลด์สปาร์มากเท่าสเลธและกอสซานหรอกนะ แต่ฉัน&lt;i&gt;บอก&lt;/i&gt;เธอได้เลยว่า เฟลด์สปาร์เป็นคนที่กล้าหาญชาญชัยสุดๆ ไม่มีอะไรทำให้เขาหวาดกลัวได้เลย</value>
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparTest-piloted everything Slate ever built! It’s a wonder Feldspar lived to see space, frankly, but they did. Flew all sorts of dangerous stunts and explored everything they could find.</key>
-		<value>เขาเป็นนักบินที่ทดสอบทุกอย่างที่สเลธสร้างขึ้นมา! พูดตามตรงนะ มันน่าอัศจรรย์มากที่เฟลด์สปาร์มีชีวิตรอดมาเห็นอวกาศได้ แต่เขาก็ทำได้แล้ว บินผาดโผนอันตรายทุกรูปแบบและสำรวจทุกอย่างที่พวกเขาหาเจอ</value>
+		<value>เขาเป็นนักบินที่ทดสอบทุกอย่างที่สเลธสร้างขึ้นมา! พูดตามตรงนะ มันน่าอัศจรรย์มากที่เฟลด์สปาร์มีชีวิตรอดมาเห็นอวกาศได้ แต่เขาก็ทำได้แล้ว บินผาดโผนอันตรายทุกรูปแบบและสำรวจทุกอย่างที่เขาหาเจอ</value>
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparAnd then one day, they just... didn’t come back. We don’t know what happened, or where Feldspar went, or even whether they’re still alive.</key>
-		<value>แล้ววันหนึ่ง เขาก็... ไม่กลับมาอีกเลย เราไม่รู้ว่าเกิดอะไรขึ้นกับเฟลด์สปาร์ เขาไปที่ไหน หรือแม้แต่ว่าพวกเขายังมีชีวิตอยู่รึเปล่าด้วยซ้ำ</value>
+		<value>แล้ววันหนึ่ง เขาก็... ไม่กลับมาอีกเลย เราไม่รู้ว่าเกิดอะไรขึ้นกับเฟลด์สปาร์ เขาไปที่ไหน หรือแม้แต่ว่าเขายังมีชีวิตอยู่รึเปล่าด้วยซ้ำ</value>
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparIt’s been a long time since they left.</key>
-		<value>มันนานมากแล้วตั้งแต่ที่พวกเขาหายไป</value>
+		<value>มันนานมากแล้วตั้งแต่ที่เขาหายไป</value>
 	</entry>
 	<entry>
 		<key>CuratorEyesOpenWhat? You say the statue opened its eyes and looked at you?!</key>
@@ -10331,7 +10331,7 @@
 	</entry>
 	<entry>
 		<key>CuratorFeldsparFoundYou found Feldspar?! And they’re in Dark Bramble?! Stars above, this is wonderful news! Thank you! Thank you for finding them!</key>
-		<value>เธอเจอเฟลด์สปาร์แล้วเหรอ?! และพวกเขาอยู่ใน Dark Bramble งั้นเหรอ?! โอ้พระเจ้า นี่มันข่าวดีสุดๆ! ขอบคุณนะ! ขอบคุณที่ตามหาพวกเขาเจอ!</value>
+		<value>เธอเจอเฟลด์สปาร์แล้วเหรอ?! และเขาอยู่ใน Dark Bramble งั้นเหรอ?! โอ้พระเจ้า นี่มันข่าวดีสุดๆ! ขอบคุณนะ! ขอบคุณที่ตามหาเขาเจอ!</value>
 	</entry>
 	<entry>
 		<key>CuratorFeldsparFoundThat Feldspar didn’t immediately join you on your ship and return here is incredibly Feldspar of them. We were never entirely sure what Feldspar was thinking back then, either.</key>
@@ -10339,11 +10339,11 @@
 	</entry>
 	<entry>
 		<key>CuratorFeldsparFoundStill, we ought to fish them out of that dreadful place with all haste! I’ll radio Gossan and have them prepare a ship. It really should be Gossan who brings Feldspar home.</key>
-		<value>ถึงอย่างนั้น เราก็ควรจะรีบไปลากเขาออกมาจากที่สยดสยองนั่นโดยเร็วที่สุด! ฉันจะวิทยุไปหากอสซานและให้พวกเขาเตรียมยาน มันควรจะเป็นกอสซานนั่นแหละที่พาเฟลด์สปาร์กลับบ้าน</value>
+		<value>ถึงอย่างนั้น เราก็ควรจะรีบไปลากเขาออกมาจากที่สยดสยองนั่นโดยเร็วที่สุด! ฉันจะวิทยุไปหากอสซานและให้เขาเตรียมยาน มันควรจะเป็นกอสซานนั่นแหละที่พาเฟลด์สปาร์กลับบ้าน</value>
 	</entry>
 	<entry>
 		<key>CuratorFeldsparFoundAgain, thank you. You can hardly imagine how profoundly happy I am to hear they’re alive and unharmed.</key>
-		<value>ขอบคุณอีกครั้งนะ เธอจินตนาการไม่ออกหรอกว่าฉันมีความสุขแค่ไหนที่ได้ยินว่าพวกเขายังมีชีวิตอยู่และบาดเจ็บอะไรสาหัส</value>
+		<value>ขอบคุณอีกครั้งนะ เธอจินตนาการไม่ออกหรอกว่าฉันมีความสุขแค่ไหนที่ได้ยินว่าเขายังมีชีวิตอยู่และปลอดภัยดี</value>
 	</entry>
 	<entry>
 		<key>Curator14Take care!</key>
@@ -10961,7 +10961,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck discovered an old Nomai path near their campsite on the equator. The path starts inside the ruined building with trees growing out of it.</key>
-			<value>รีเบกค้นพบเส้นทางเก่าแก่ของโนไมใกล้กับที่ตั้งแคมป์ของพวกเขาบนเส้นศูนย์สูตร เส้นทางเริ่มต้นจากด้านในอาคารปรักหักพังที่มีต้นไม้โผล่ขึ้นมา</value>
+			<value>รีเบกค้นพบเส้นทางเก่าแก่ของโนไมใกล้กับที่ตั้งแคมป์ของเขาบนเส้นศูนย์สูตร เส้นทางเริ่มต้นจากด้านในอาคารปรักหักพังที่มีต้นไม้โผล่ขึ้นมา</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck reached the Crossroads and continued downward in search of oxygen.</key>
@@ -10969,7 +10969,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck has set up camp at the bottom of the Crossroads. Their excitement at being surrounded by so much Nomai history is matched only by their terror of the black hole.</key>
-			<value>รีเบกตั้งแคมป์อยู่ที่ด้านล่างสุดของ ทางแยก ความตื่นเต้นของพวกเขาที่ได้อยู่ท่ามกลางประวัติศาสตร์ของโนไมมากมายนั้น มีเพียงความหวาดกลัวต่อหลุมดำของเขาเท่านั้นที่จะเทียบได้</value>
+			<value>รีเบกตั้งแคมป์อยู่ที่ด้านล่างสุดของ ทางแยก ความตื่นเต้นของเขาที่ได้อยู่ท่ามกลางประวัติศาสตร์ของโนไมมากมายนั้น มีเพียงความหวาดกลัวต่อหลุมดำของเขาเท่านั้นที่จะเทียบได้</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck is Timber Hearth's only archaeologist. They overcame their fear of space to explore Brittle Hollow's treasure trove of Nomai culture.</key>
@@ -11217,7 +11217,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryRiebeck says you can't get into the observatory from the surface (they tried), but there's probably a path to it beneath the crust somewhere.</key>
-			<value>รีเบก บอกว่าฉันไม่สามารถเข้าไปในหอดูดาวจากพื้นดาวได้ (พวกเขาพยายามแล้ว) แต่น่าจะมีเส้นทางไปยังที่นั่นใต้เปลือกดาวที่ไหนสักที่</value>
+			<value>รีเบก บอกว่าฉันไม่สามารถเข้าไปในหอดูดาวจากพื้นดาวได้ (เขาพยายามแล้ว) แต่น่าจะมีเส้นทางไปยังที่นั่นใต้เปลือกดาวที่ไหนสักที่</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThere's a door to the observatory on the surface, but it's broken.</key>
@@ -11285,11 +11285,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar doesn't think my scout tracker is wrong when it says my scout is in two places at once. They have a theory that space doesn’t work the same inside Dark Bramble.</key>
-			<value>เฟลด์สปาร์ ไม่คิดว่าระบบติดตามสเกาต์ของฉันทำงานผิดพลาดเมื่อมันบอกว่าสเกาต์ของฉันอยู่ในสองสถานที่พร้อมกัน พวกเขามีทฤษฎีว่าอวกาศทำงานไม่เหมือนกันภายใน Dark Bramble</value>
+			<value>เฟลด์สปาร์ ไม่คิดว่าระบบติดตามสเกาต์ของฉันทำงานผิดพลาดเมื่อมันบอกว่าสเกาต์ของฉันอยู่ในสองสถานที่พร้อมกัน เขามีทฤษฎีว่าอวกาศทำงานไม่เหมือนกันภายใน Dark Bramble</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar doesn't sound overly eager to return to civilization. They've been enjoying the (relative) peace and quiet.</key>
-			<value>เฟลด์สปาร์ ดูไม่กระตือรือร้นที่จะกลับไปสู่อารยธรรมเท่าไหร่ พวกเขากำลังเพลิดเพลินกับบรรยากาศ (ที่ค่อนข้าง) เงียบสงบ</value>
+			<value>เฟลด์สปาร์ ดูไม่กระตือรือร้นที่จะกลับไปสู่อารยธรรมเท่าไหร่ เขากำลังเพลิดเพลินกับบรรยากาศ (ที่ค่อนข้าง) เงียบสงบ</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Jellyfish</key>
@@ -11301,11 +11301,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar hinted that a secret to reaching the core of Giant's Deep lies at the end of the hollow vine they crashed their ship into. To find Feldspar's ship, I'll want to go to the tail end of the anglerfish skeleton and look for a flickering light in the fog.</key>
-			<value>เฟลด์สปาร์ ใบ้ว่าความลับในการไปถึงแกนกลางของ Giant's Deep นั้นอยู่ที่ปลายเถาวัลย์กลวงที่ยากของพวกเขาชนใส่ หากต้องการหายานของเฟลด์สปาร์ ฉันจะต้องไปที่ส่วนหางของโครงกระดูกปลาแองเกลอร์และมองหาแสงไฟกระพริบในหมอก</value>
+			<value>เฟลด์สปาร์ ใบ้ว่าความลับในการไปถึงแกนกลางของ Giant's Deep นั้นอยู่ที่ปลายเถาวัลย์กลวงที่ยากของเขาชนใส่ หากต้องการหายานของเฟลด์สปาร์ ฉันจะต้องไปที่ส่วนหางของโครงกระดูกปลาแองเกลอร์และมองหาแสงไฟกระพริบในหมอก</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar documented their attempts to eat this enormous jellyfish frozen in the ice. The outside was all rubbery and tough, possibly because it insulates the jellyfish’s insides from getting zapped by electricity.</key>
-			<value>เฟลด์สปาร์ บันทึกความพยายามของพวกเขาที่จะกินแมงกะพรุนยักษ์ที่แช่แข็งอยู่ในน้ำแข็ง ภายนอกทั้งหมดเป็นยางและเหนียว อาจเป็นเพราะมันเป็นฉนวนไฟฟ้าที่ป้องกันอวัยวะภายในของแมงกะพรุนจากการถูกไฟฟ้าช็อต</value>
+			<value>เฟลด์สปาร์ บันทึกความพยายามของเขาที่จะกินแมงกะพรุนยักษ์ที่แช่แข็งอยู่ในน้ำแข็ง ภายนอกทั้งหมดเป็นยางและเหนียว อาจเป็นเพราะมันเป็นฉนวนไฟฟ้าที่ป้องกันอวัยวะภายในของแมงกะพรุนจากการถูกไฟฟ้าช็อต</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar decided to venture into the jellyfish’s interior cavity to see if it tasted any better on the inside.</key>
@@ -12625,7 +12625,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Esker’s CampEsker is growing a crop of trees at their camp. They seemed to be doing ok, but they’ve probably been alone on the moon for too long.</key>
-			<value>เอสเกอร์ กำลังปลูกต้นไม้ที่แคมป์ของพวกเขาอยู่ ดูเหมือนเขาจะสบายดี แต่ก็คงอยู่คนเดียวบนดวงจันทร์นานเกินไปแล้ว</value>
+			<value>เอสเกอร์ กำลังปลูกต้นไม้ที่แคมป์ของเขาอยู่ ดูเหมือนเขาจะสบายดี แต่ก็คงอยู่คนเดียวบนดวงจันทร์นานเกินไปแล้ว</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lunar Lookout</key>
@@ -12637,7 +12637,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lunar LookoutA lookout platform with a spectacular view of the solar system. Esker uses their signalscope here to keep tabs on the other travelers.</key>
-			<value>แท่นสังเกตการณ์พร้อมทิวทัศน์อันงดงามของระบบสุริยะ เอสเกอร์ ใช้ซิกนัลสโคปของพวกเขาที่นี่เพื่อคอยติดตามนักเดินทางคนอื่นๆ</value>
+			<value>แท่นสังเกตการณ์พร้อมทิวทัศน์อันงดงามของระบบสุริยะ เอสเกอร์ ใช้ซิกนัลสโคปของเขาที่นี่เพื่อคอยติดตามนักเดินทางคนอื่นๆ</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Eye Signal Locator</key>
